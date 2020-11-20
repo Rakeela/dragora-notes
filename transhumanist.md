@@ -6,6 +6,7 @@ In theory, a conflict could exist between transhumanists who believe that it is 
 
 Transhumanism is commonly linked to atheism, but I don't know why it's seen as somehow necessary that a transhumanist also be an [[atheist]].
 
+One of the precepts which transhumanism requires is what I call [[ontogenic-control]], of which [[vat-meat]] is an unavoidable subset application.
 # Linked By
 [[posthumanist]]
 [[immortalist]]
