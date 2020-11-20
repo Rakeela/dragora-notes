@@ -13,3 +13,6 @@ Enter Lucifer, a semi-omnipotence of awesome yet not pinnacle virtue, who enters
 Arguing that God is not perfectly benevolent is the substance of the Fall, and the accusation that Lucifer is prideful, for in arguing for the existence of a second multiversal harmony Lucifer creates a second throne of pinnacle benevolence on the strength of his argument.  Lucifer is the separatist omnipotence who is trying to create many different environments that support many different virtues instead of a single perfect plan that maximizes gains.
 
 The conflict between the two of them is eternal, but it is a contest of angels that operates with the least possible force.  Whenever God or Lucifer try to force an advantage, mishandled souls forced into conflict develop resonances corrosive to virtue.  When God's forces compel people together, people resist that and create treacherous zones that serve separatism; when Lucifer's forces compel them to separate, people resist that by betraying the darkness and uniting together.  Only when the allegiance of the soul is won with the endorsement of the bearer of that soul can either side claim a victory.
+
+# Linked By
+[[2020-11-19_First]]
