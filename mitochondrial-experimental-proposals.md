@@ -1,6 +1,6 @@
 # Mitochondrial Experimental Proposals
 
-In studying [[mitochondria]] recently, I noticed that in recent years there have been a number of promising and unexpected (to me) findings regarding mitochondria.  The field of mitochondrial study strikes me as young enough that some of the research it needs is rather simple.
+In studying [[mitochondria]] recently, I noticed that in recent years there have been a number of promising and unexpected (to me) findings regarding mitochondria.  The field of mitochondrial study strikes me as young enough that some of the research it needs is rather simple.  I'll open an [[mitochondria-research-findings-by-others]] node here to organize my citations.
 
 My first proposal for mitochondrial research would be directed towards increase the available supply of mitochondria for research purposes.  I would like to replace the mitochondria in a bacterial population with mitochondria of a targeted gene line, breed that population in order to increase the supply of the target mitochondria, and then demonstrate extraction of a larger quantity than the initial one.  My hypothesis is this: fast-reproducing eukaryotic bacteria can be utilized to produce mitochondria for other purposes.  If successful, this research would be generally supportive to the field as a whole.
 
