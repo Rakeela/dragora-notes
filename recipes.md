@@ -1,0 +1,11 @@
+#Recipes
+
+Here's a note that feels harmlessly deviant to include.  What does food matter, anyways?  Is this a big effort in life?  ...well, yes, it is.  Quite technically.
+
+In an instant nod to [[imagine-a-brain-implant]], I want gluttony algorithms the way other people want narcoalgorithms.  Someday I want to have an infinite candybowl at my virtual workstation, having all of the sensations and none of the associated entropy.  Peanut butter and mint might become moodstates for me if I can ever so draw out the harmless sensory potential of food, since I love both flavors in a non-overlapping way, and the potential to have on-theme sweets could entice me to make my virtual abodes considerably more seasonally festive with the turning of the calendar.
+
+It's a [[hedonology]] thing, too.  Food is one of the motivators.  If it can be made harmless and appealing, people will feel more general motivation.  Even if the reward is 'free' and comes 'from nothing', it won't motivate *doing* nothing.  As food gets safer and easier, it will increase enthusiasm for life.  To live is to change, and to change is to act.  To live enthusiastically is to change towards greater energy, and to change towards greater energy is to act *more*.
+
+I'm no great chef.  I'm too ashamed to record recipes with my current skill.  I made a very nice cream of mushroom soup with sausage tonight... using no mushrooms.  I mistreated onions so entirely that they became as bland as mushrooms.  It was okay, in a weird "why does this taste like it was made with different ingredients" way.  I also made a very strange condiment from some of this soup, by mixing into a portion of it some chocolate seasoning with hot spices.  The result was a spicy chocolate sauce that I think would taste pretty good if a small quantity were placed upon a hot bunned sausage; unfortunately, I was trying to make another soup variant, and it certainly wasn't something that I wanted to drink a bowl of.
+
+My shame at being too ashamed to record recipes is only compounded by my awareness that making the attempt would be one of the only ways to improve.  Yet I am left with an interesting thought...  Do cooking classes that include recipe authoring make people into better lab technicians?
