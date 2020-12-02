@@ -15,7 +15,7 @@ Although this is generically about mitochondria, I currently intend to link this
 (Describes a method for extracting "approximately 2 x 10^10 viable and respiration competent mitochondria from 0.18 ± 0.04 g (wet weight) tissue sample"; hopefully can be adapted to yeast extractions, or point me towards something that can?)
 
 5.  "Transfer of Xenomitochondria Containing the Entire Mouse Mitochondrial Genome into a Genetically Modified Yeast Expressing Mitochondrial Transcription Factor A"  https://europepmc.org/article/med/32627757
-(This is the same basic experiment I want to perform!  I want to take it farther and refine the process, but this is very suggestive of the viability of my idea.  It does mean that the most basic and easily performed procedures will only amount to replicating the research of others, but that's okay.)
+(This is very similar research to what I want to perform!  I want to do it with human mitochondria, and I want to take it farther seeking refinements to the process, but this is very suggestive of the viability of my idea.  It does mean that the more basic and easily performed procedures can only amount to replicating the research of others, but that's okay.  It's not exactly ancient research taken for granted.)
 
 6. "Intramitochondrial transfer and engineering of mammalian mitochondrial genomes in yeast" https://pubmed.ncbi.nlm.nih.gov/30980913/
 (Stored for my records.  This was cited in #5, and if I end up using information from this research in constructing further experiments, I should have it on file.)
