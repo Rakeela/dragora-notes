@@ -14,6 +14,7 @@ Can a transport serum be devised to move mitochondria around outside of the body
 Can the preferred operating temperatures of multicellular organisms be adjusted through adjusting their mitochondrial population?  This may have applications to cryonics.  Probably a foolish thought...
 Can cells in the body be engineered into new specialized mitochondrial factory cells whose function is to maintain within themselves ideal conditions for mitochondrial replication, with the resulting mitochondria then distributed to other cells?  Reading about yeast without mitochondria made me wonder if it would be possible to engineer cells the other way, so that they are only about mitochondria, which seems to me a valid support function for multicellular life forms that evolution hasn't made for us.
 Are intrinsic mitochondria actually the best for every species?  Are there any species with endemic deficits in their mitochondrial DNA quality relative to a hypothetical optimum if they had the best mitochondria in nature, for their specific application?
-Does specific mitochondrial DNA alter disease susceptibility through altering the protein dynamics of the host cell?
-
+Does specific mitochondrial DNA alter disease susceptibility through altering the protein dynamics of the host cell?  Can mitochondria-targeting therapies alter the expression of other diseases?
+If transfusable mitochondria could be produced in very large numbers, could repeated treatment with exogenous mitochondria treat diseases based on mitochondrial malfunction, such as Parkinson's Disease?  I'm imagining a process analagous to dialysis to try to diffuse the supply far enough through the body, though this is a non-technical imagination, as I remain unfamiliar with the actual methods associated with examining these very preliminary contemplations.
+Do mitochondria affect allergy susceptibility?  This one is a blind-thrown dart.
 
