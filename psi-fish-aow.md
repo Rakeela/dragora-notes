@@ -1,0 +1,8 @@
+# Psi Fish AOW
+
+One of the themes of the psi-fish seems to be that they're kind of sensitive about the intrinsic parasitism of their life cycle, and they're really quite willing to forego parasitism if you can give them the tools to function without it.  It's like they become more empathetic over time as they explore and then begin refusing to use their horrific psychic powers.
+
+To speak of civilizational conjectures, I've been drawn towards regarding the psi-fish as something beautiful, strange, and dangerous, which persists in society if its dangers are mitigated.  I think the lynchpin of this interpretation of the psi-fish is the Siren's Canticle.  If you fight the psi-fish, they remain horrific forever.  If you develop a decent relationship with the Psi-Fish, they become capable of making people happier.  Even though the first move towards helping them seems like it should expose your society to awful dangers (the unit descriptions alude to this well enough), if you persist, the eventual result on the far side of that suffering bridge seems to be a society where psi-fish are not dangerous at all.
+
+Quest notes;
+1. Ethereal Education - The psi-fish gain information by a horrific method, but it's important to note that information is an actual biological need.  Or rather psuedobiological, as the case is this time!  The point is, their need for the information is existential.  Their need for the horrific method is not.  Science points spent here are spent harm-neutralizing the information-gathering activities of psi-fish.
