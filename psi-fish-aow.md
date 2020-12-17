@@ -6,3 +6,4 @@ To speak of civilizational conjectures, I've been drawn towards regarding the ps
 
 Quest notes;
 1. Ethereal Education - The psi-fish gain information by a horrific method, but it's important to note that information is an actual biological need.  Or rather psuedobiological, as the case is this time!  The point is, their need for the information is existential.  Their need for the horrific method is not.  Science points spent here are spent harm-neutralizing the information-gathering activities of psi-fish.
+2. Artificial Propagation - Right on theme.  They need to replicate like others need to eat, they say.  They're ethereal constructs from beyond the void, so what does psi-fish replication even mean?  There's no sign of expontentially increasing psi-fish populations in the game.  Whatever they mean by this, it's something else that can be done with mechanical aids rather than sapient victims.
