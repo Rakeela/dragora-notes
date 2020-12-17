@@ -22,4 +22,4 @@ Could engineered avian mitochondria be used to accelerate aerobic metabolism in 
 Could enthusiastically high-rate mitochondria from other lifeforms be back-ported to bioreactor yeast strains in order to increase the replicative productivity of the bioreactor yeast in the presence of oxygenated media and glucose, thereby increasing the productivity of production systems reliant on such yeast populations?  This could lower the price of insulin, at the least!  Relatedly, could this be done to algae in order to increase its growth rate?  Could it be done to plants?
 Would adjusting plants to have accelerated cellular respiration increase or decrease their ability to pull carbon from the atmosphere?
 Can the competitive advantage of different mtDNA structures within the cellular environment be manipulated in order to cause different mtDNA to survive within a cell?  Competitively replicating mitochondria should be easier to transfuse, reducing the need for exotic preparation and potential cellular injury to make transfusion successful.
-
+Do blood transfusions already transfer mitochondria from donor to recipient?
