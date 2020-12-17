@@ -23,3 +23,4 @@ Could enthusiastically high-rate mitochondria from other lifeforms be back-porte
 Would adjusting plants to have accelerated cellular respiration increase or decrease their ability to pull carbon from the atmosphere?
 Can the competitive advantage of different mtDNA structures within the cellular environment be manipulated in order to cause different mtDNA to survive within a cell?  Competitively replicating mitochondria should be easier to transfuse, reducing the need for exotic preparation and potential cellular injury to make transfusion successful.
 Do blood transfusions already transfer mitochondria from donor to recipient?
+Does senescence change the selective pressures applied to mitochondria within cells, thereby adjusting mitochondrial DNA across the course of a lifetime?
