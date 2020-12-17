@@ -29,3 +29,7 @@ An incomplete list of ways of measuring mitochondrial activity:
 1) Temperature of culture
 2) Oxygen consumption of culture
 3) Fluorescent dye staining of mitochondria
+4) Protein assays of culture at time interval
+5) Glucose depletion of cellular media
+
+All of these would need to be observed relative to other measurements to be meaningful.  Experimental populations should show different performance dynamics to control populations.
