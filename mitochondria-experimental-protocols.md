@@ -2,6 +2,8 @@
 
 Sharing a cluster with [[necessary-experimental-tools]] and extending from the base node [[mitochondrial-experimental-proposals]], this node is for accumulating information about specific protocols.  I don't know what I'm doing, mind you, but...
 
+---
+
 Meta-note to myself: This QtA structure may have other applications.
 
 Question to answer:  How to kill the basal mitochondria in the experimental bacterial population, guaranteeing purity for the novel mitochondrial descent line
@@ -21,5 +23,9 @@ Concern:  I'm concerned that fractionated centrifugation will destroy the mitoch
 Question to answer:  Storage medium for mitochondria
 Note:  Copying this here.  I mentioned this concern in more detail in the exogenous mitochondria node.
 
+---
 
-
+An incomplete list of ways of measuring mitochondrial activity:
+1) Temperature of culture
+2) Oxygen consumption of culture
+3) Fluorescent dye staining of mitochondria
