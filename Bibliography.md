@@ -27,6 +27,8 @@ Sections;
    1) [[Beggars-and-Choosers]]
    2) [[Traitors-Thieves-and-Liars]]
    3) [[Neverwhere]]
+   4) [[Brave-New-World]]
+   5) [[1984]]
 
 3) Pairs (Fiction) (These are not series; they are one book and a sequel!  Always listed together)
    1) [[Waiting-for-the-Galactic-Bus]] (1)
@@ -49,10 +51,58 @@ Sections;
    1) [[Slightly-Damned]]
    2) 
 
-7) RPG Sourcebooks
+7) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]
    2) [[Nobilis-Second-Edition]]
-   3) 
+   3) [[Gamma-World-Player's-Handbook]]
+   4) [[Rifts-Roleplaying-Game]]
+   5) [[Rifts-Gamemaster's-Guide]]
+   6) [[Rifts-Conversion-Book-One]]
+   7) [[Rifts-Dimension-Book-One-Wormwood]]
+   8) [[Rifts-World-Book-Six-South-America]]
+   9) [[Rifts-South-America-2]]
+   10) [[Rifts-Vampires-Sourcebook]]
+   11) [[Rifts-Black-Market-Sourcebook]]
+   12) [[Dimension-Book-7-Megaverse-Builder]] (Rifts)
+   13) [[Rifts-Bionics-Sourcebook]]
+   14) [[Numenera-Player's-Guide]]
+   15) [[The-Saurians]] (1979)
+   16) [[Fireborn-Player's-Handbook]]
+   17) [[Fireborn-Game-Master's-Guide]]
+   18) [[The-Strange]]
+   19) [[Shadowrun-Third-Edition]]
+   20) [[GURPS-Basic-Set]]
+   21) [[GURPS-Basic-Set-Characters]]
+   22) [[GURPS-Basic-Set-Campaigns]]
+   23) [[GURPS-Martial-Arts]]
+   24) [[GURPS-Thaumatology]]
+   25) [[GURPS-Fantasy]]
+   26) [[GURPS-Biotech]]
+   27) [[GURPS-Powers]]
+   28) [[GURPS-Space]]
+   29) [[GURPS-High-Tech]]
+   30) [[GURPS-Mysteries]]
+   31) [[GURPS-Uplift]]
+   32) [[GURPS-Ultratech]]
+   33) [[GURPS-Psionic-Powers]]
+   34) [[Unknown-Armies]]
+   35) [[Exalted]]
+   36) [[Exalted-Alchemicals]]
+   37) [[Mage-The-Ascension]]
+   38) [[Ars-Magica-Fifth-Edition]]
+   39) [[Mutants-and-Masterminds-RPG]]
+   40) [[Ironclaw]]
+   41) [[Legends-&-Lairs-Portals-&-Planes]]
+   42) [[Pathfinder-Core-Rulebook]]
+   43) [[Pathfinder-GameMastery-Guide]]
+   44) [[Pathfinder-Advanced-Player's-Guide]]
+   45) [[Pathfinder-Advanced-Race-Guide]]
+   46) [[Pathfinder-Mythic-Adventures]]
+   47) [[Pathfinder-Campaign-Setting-Dragons-Unleashed]]
+   48) [[Ponyfinder]]
+   49) [[Ponyfinder-Griffons-of-Everglow]]
+   50) [[Ponyfinder-Campaign-Setting]]
+   51) [[Jeremiah-the-Roleplaying-Game]]
 
 
 
