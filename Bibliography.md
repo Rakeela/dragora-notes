@@ -32,6 +32,7 @@ Sections;
    3) [[Neverwhere]]
    4) [[Brave-New-World]]
    5) [[1984]]
+   6) [[A-Million-Little-Pieces]]
 
 3) Pairs (Fiction) (These are not series; they are one book and a sequel!  Always listed together)
    1) [[Waiting-for-the-Galactic-Bus]] (1)
