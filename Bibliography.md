@@ -8,8 +8,10 @@ This might be kind of barren for a while, though.  I'm not sure how badly I'll a
 
 There is presently no specific organization to the numbering on this list, but rather the items in it are listed in the order that I thought of them or noticed them on the shelf.
 
+People think they own their books of paper, ink, and thread, but the only books they truly own are the ones that they have read.
+
 Sections;
-1) Series (Fiction)
+1) Series (Fiction) (I haven't necessarily read every book in every listed series; I'll have to fill in the sub-pages for these to be fully informative)
    1) [[Wings-of-Fire]]
    2) [[Harry-Potter]]
    3) [[Animorphs]]
@@ -22,11 +24,15 @@ Sections;
    10) [[Dragon-Knight-by-Gordon-Dickson]]
    11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]]
    12) [[Well-of-Souls]]
+   13) [[Redwall]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
    2) [[Traitors-Thieves-and-Liars]]
    3) [[Neverwhere]]
+   4) [[Brave-New-World]]
+   5) [[1984]]
+   6) [[A-Million-Little-Pieces]]
 
 3) Pairs (Fiction) (These are not series; they are one book and a sequel!  Always listed together)
    1) [[Waiting-for-the-Galactic-Bus]] (1)
@@ -35,7 +41,8 @@ Sections;
 4) Nonfiction
    1) [[Gold-Mining-in-Washington-State-Yesterday-and-Today]]
    2) [[A-Brief-History-of-Time]]
-   3) 
+   3) [[Essentials-of-Organizational-Behavior-Fourteenth-Edition]]
+   4) 
 
 
 5) "Comedy" (I am not the biggest fan)
@@ -49,10 +56,58 @@ Sections;
    1) [[Slightly-Damned]]
    2) 
 
-7) RPG Sourcebooks
+7) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]
    2) [[Nobilis-Second-Edition]]
-   3) 
+   3) [[Gamma-World-Player's-Handbook]]
+   4) [[Rifts-Roleplaying-Game]]
+   5) [[Rifts-Gamemaster's-Guide]]
+   6) [[Rifts-Conversion-Book-One]]
+   7) [[Rifts-Dimension-Book-One-Wormwood]]
+   8) [[Rifts-World-Book-Six-South-America]]
+   9) [[Rifts-South-America-2]]
+   10) [[Rifts-Vampires-Sourcebook]]
+   11) [[Rifts-Black-Market-Sourcebook]]
+   12) [[Dimension-Book-7-Megaverse-Builder]] (Rifts)
+   13) [[Rifts-Bionics-Sourcebook]]
+   14) [[Numenera-Player's-Guide]]
+   15) [[The-Saurians]] (1979)
+   16) [[Fireborn-Player's-Handbook]]
+   17) [[Fireborn-Game-Master's-Guide]]
+   18) [[The-Strange]]
+   19) [[Shadowrun-Third-Edition]]
+   20) [[GURPS-Basic-Set]]
+   21) [[GURPS-Basic-Set-Characters]]
+   22) [[GURPS-Basic-Set-Campaigns]]
+   23) [[GURPS-Martial-Arts]]
+   24) [[GURPS-Thaumatology]]
+   25) [[GURPS-Fantasy]]
+   26) [[GURPS-Biotech]]
+   27) [[GURPS-Powers]]
+   28) [[GURPS-Space]]
+   29) [[GURPS-High-Tech]]
+   30) [[GURPS-Mysteries]]
+   31) [[GURPS-Uplift]]
+   32) [[GURPS-Ultratech]]
+   33) [[GURPS-Psionic-Powers]]
+   34) [[Unknown-Armies]]
+   35) [[Exalted]]
+   36) [[Exalted-Alchemicals]]
+   37) [[Mage-The-Ascension]]
+   38) [[Ars-Magica-Fifth-Edition]]
+   39) [[Mutants-and-Masterminds-RPG]]
+   40) [[Ironclaw]]
+   41) [[Legends-&-Lairs-Portals-&-Planes]]
+   42) [[Pathfinder-Core-Rulebook]]
+   43) [[Pathfinder-GameMastery-Guide]]
+   44) [[Pathfinder-Advanced-Player's-Guide]]
+   45) [[Pathfinder-Advanced-Race-Guide]]
+   46) [[Pathfinder-Mythic-Adventures]]
+   47) [[Pathfinder-Campaign-Setting-Dragons-Unleashed]]
+   48) [[Ponyfinder]]
+   49) [[Ponyfinder-Griffons-of-Everglow]]
+   50) [[Ponyfinder-Campaign-Setting]]
+   51) [[Jeremiah-the-Roleplaying-Game]]
 
 
 
