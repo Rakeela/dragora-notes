@@ -8,6 +8,8 @@ This might be kind of barren for a while, though.  I'm not sure how badly I'll a
 
 There is presently no specific organization to the numbering on this list, but rather the items in it are listed in the order that I thought of them or noticed them on the shelf.
 
+People think they own their books of paper, ink, and thread, but the only books they truly own are the ones that they have read.
+
 Sections;
 1) Series (Fiction) (I haven't necessarily read every book in every listed series; I'll have to fill in the sub-pages for these to be fully informative)
    1) [[Wings-of-Fire]]
