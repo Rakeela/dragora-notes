@@ -9,7 +9,7 @@ This might be kind of barren for a while, though.  I'm not sure how badly I'll a
 There is presently no specific organization to the numbering on this list, but rather the items in it are listed in the order that I thought of them or noticed them on the shelf.
 
 Sections;
-1) Series (Fiction)
+1) Series (Fiction) (I haven't necessarily read every book in every listed series; I'll have to fill in the sub-pages for these to be fully informative)
    1) [[Wings-of-Fire]]
    2) [[Harry-Potter]]
    3) [[Animorphs]]
@@ -22,6 +22,7 @@ Sections;
    10) [[Dragon-Knight-by-Gordon-Dickson]]
    11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]]
    12) [[Well-of-Souls]]
+   13) [[Redwall]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -37,7 +38,8 @@ Sections;
 4) Nonfiction
    1) [[Gold-Mining-in-Washington-State-Yesterday-and-Today]]
    2) [[A-Brief-History-of-Time]]
-   3) 
+   3) [[Essentials-of-Organizational-Behavior-Fourteenth-Edition]]
+   4) 
 
 
 5) "Comedy" (I am not the biggest fan)
