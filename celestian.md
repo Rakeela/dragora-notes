@@ -2,7 +2,7 @@
 
 The Celestians are presented as purity and light, but what do their low-level soldiers use?  Their fists.  What do their high-level soldiers use?  Madness and mind control.  What is their landscape disaster?  The Veil of Tranquility, which makes people "happier", while inflicting a 20% penalty to research and making everyone more vulnerable to celestians.  Five veils of tranquility will paralyze the research output of a colony in exchange for +30 happiness per turn.  The Veil of Tranquility appears to be a miles-high flaming beacon above a large meteor impact crater.  The Celestian Doomsday device is described as controlling the entire planet with psionically-enforced Truth.
 
-I think the Celestians
+I think the Celestians aren't quite as purely good as they're supposed to be, and I think the Psynumbra (their opposing number) aren't quite as purely evil as they're supposed to be... although I do think the celestians are better than the psynumbra, heh.  The psynumbra in one of their quests call the celestians narcissists, and it strikes me as fair.  Yet I also get a forlorn sense from the Celestians, like "in this universe, under these rules, we are the best that can be done."
 
 # Linked By
 [[age-of-wonders-planetfall]]
