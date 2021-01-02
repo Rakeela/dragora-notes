@@ -6,19 +6,19 @@ Karacal the Burning Fool:
 Shakarn Celestian
 Sand-colored scales, curving horns fringed in orange, black patches around eyes.  Minimized armor, no ornamentation, known to levitate.
 "This IS paradise!"
-Mostly harmless; likes fire.
+Heroic and egalitarian; masochistic and pyromaniacal.
 
 Mirigill the Blind Advocate:
 Amazon Psynumbra
 Wearing a mask, a helmet, and a blindfold.  Not an inch of skin is showing past armor, nor eyes.
 "Nothing can exist without having merit.  Push into every pattern; there is ALWAYS something to find."
-Scavenging the abyss.
+Scavenging the abyss; searching for the soul in darkness.
 
 Gredikine the Utopian:
 Shakarn Heritor
 Blue tortoise with a red mohawk and a blocky scanner module grafted to his face instead of eyes.
-"We will never see every beauty, even in our own society, but must trust that it is worth defending."
-A reliable lieutenant.
+"We will never see every beauty, even in our own society, but always we must trust that what we have not seen is worth defending."
+Reliable lieutenant; proud of his faith.
 
 Grigori-65:
 Assembly Celestian
@@ -30,16 +30,22 @@ Morvant the Scribe Infernal
 Oathbound Psynumbra
 Golden armor, golden halo, golden sensor headset.  
 "It behooves us to acknowledge just how near the Abyss we are proposing to protect people."
-Still golden hearted?
+Aware of the fall; still golden hearted?
 
 Kevinsky the Literalist
 Shakarn Promethean
 Smiling red lizard loves his flamethrower.  Green-fringed earfins, bright red eyes.
 "If it's not actually happening, I can't tell!  I have to judge it first-person!  I live here!"
-Master of the burning nope.
+Master of the burning nope; willing to reject the inexorable.
 
 Viridian Mistwalker
 Shakarn Xenoplague
 Drab grey lizard hiding in sealed green hazard armor.
 "We must flinch from no healing potential.  The virtue of technologies is always up to us to decide."
-Fanatical biologist.
+A fanatic for medicine; disappointed in himself.
+
+Razzatzo the Dredgekine
+Shakarn Heritor
+Fish-faced blue lizard with a blocky scanner module and gold regalia.
+"If we are at all capable of understanding a technology, it is our duty as Shakarn to see a fraction of our people committed to its mastery."
+Shapeshifting traditionalist seeks novelty in broad semistatic development; a lover of the inherent contradiction in society.
