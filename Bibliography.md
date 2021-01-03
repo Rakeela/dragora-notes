@@ -111,4 +111,6 @@ Sections;
 
 
 
-I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.
+I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.  My favorite videogame manual is the game manual for Sierra's Arcanum: of Steamworks and Magick Obscurum.
+
+Book currently in progress:  [[The-Ethical-Slut]]
