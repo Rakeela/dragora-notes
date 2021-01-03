@@ -39,12 +39,12 @@ Part Three: Navigating Challenges
     17. Making Agreements 172
     18. Opening an Existing Relationship 186
 Part Four: Sluts in love
-    19. 201
-    20. 210
-    21. 224
-    22. 235
-    23. 243
-    24. 270
+    19. Making Connections 201
+    20. Couples and Groups 210
+    21. The Single Slut 224
+    22. The Ebb and Flow of Relationships 235
+    23. Sex and Pleasure 243
+    24. Public Sex, Group Sex, and Orgies 270
 Conclusion: A Slut Utopia 292
 A Slut Glossary 296
 About the Authors 305
