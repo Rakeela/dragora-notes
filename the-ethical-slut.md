@@ -50,7 +50,9 @@ A Slut Glossary 296
 About the Authors 305
 Index 306
 
-There's a lot of relationship advice in the book.  It's about the skills needed to manage engagement with a swathe of society that people resist talking about or helping anyone with.  I feel like if more people read this book, Earth would have fewer suffering lonely people disconnected from society.
+There's a lot of relationship advice in the book.  It's about the skills needed to manage engagement with a mode of social engagement that people often resist talking about or helping anyone with.  I feel like if more people read this book, Earth would have fewer suffering lonely people disconnected from society.  It even talks about how to flirt, and how to do so without disrespecting anyone involved; that definitely seems like a topic where bad advice seems often to outweigh good advice.  Something I love about the book is that it's fundamentally polite.  It's all about getting along *without* disrespecting others or hurting their feelings.  There's a lot about emotional management, too.  Contrary to the conservative stereotype of disconnected sexuality (where do they suffer so much of that?), the book portrays a world of good emotional connections.
+
+One sample piece of advice from where I currently am in the book (page 182) is about managing disagreements, and it notes something that I think people often miss: disagreements predate their point of discovery.  All two people disagree on something, and yet people often live and work together for years before discovering disagreements.  If a relationship - be it friendly, romantic, or professional - was previously functional when two people didn't know they disagreed about something, why is the emotional response to discovering disagreement as urgent as it is?  Obviously, this doesn't negate the urgency when the need to resolve disagreements is *practical*, but a lot of the things people disagree with each other about exist in the nebulous conceptual realm rather than the realm of the quotidian.
 
 
 Historical trivia:
