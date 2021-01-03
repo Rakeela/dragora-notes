@@ -14,7 +14,7 @@ I don't think The Ethical Slut would've helped me complain.  I do wonder if I co
 
 I hardly knew about that historic hostility, growing up.  It's weird.  In some ways this world doesn't look like the Earth I grew up on, and I'm too uncomfortable to talk about that right now.
 
-Anyway...  All this is why the book is hard to read.  I'll talk more about its actual contents below this line, I promise.  I'm on page 182 as of writing this.
+Anyway...  Most of what I've written so far is about why this book is hard for me to read.  I'll talk more about its actual contents below this line, I promise.  I'm on page 182 as of writing this.
 
 The section and chapter titles are pretty accurate so far.  Here's the table of contents transcribed.
 Part One: Welcome
