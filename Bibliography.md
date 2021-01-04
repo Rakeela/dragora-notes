@@ -25,6 +25,8 @@ Sections;
    11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]]
    12) [[Well-of-Souls]]
    13) [[Redwall]]
+   14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]]
+   15) [[Artemis-Fowl]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -63,7 +65,7 @@ Sections;
    2) [[Miss-Kobayashi's-Dragon-Maid]]
    3) [[Black Butler]] (only volume 1)
    4) [[Interspecies-Reviewers]] (only volume 1) (content advisory)
-   5) 
+   5) [[A-Centaur's-Life]] (only volume 1) (I have volumes 1 and 3, but I failed several times while attempting to acquire a copy of volume 2, and then gave up!  Adding it to the list here reminded me of it, and I've ordered another one.  Should arrive without incident this time.)
 
 7) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]
