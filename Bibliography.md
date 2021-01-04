@@ -50,7 +50,6 @@ Sections;
    4) [[The-Invention-and-Discovery-of-the-'God-Particle'-Higgs]]
    5) 
 
-
 5) "Comedy" (I am not the biggest fan)
 (I've certainly read some of these, but I'm in no hurry to list them.)
 
@@ -124,7 +123,7 @@ Sections;
 
 
 
-I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.  My favorite videogame manual is the game manual for Sierra's Arcanum: of Steamworks and Magick Obscurum.
+I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.  My favorite videogame manual is the game manual for Sierra's Arcanum: of Steamworks and Magick Obscurum.  I would probably add in video game strategy guides in the same section; the strategy guide for the game Outpost is more of a work of art than the buggy, incomplete game itself.  I wish the game Outpost had been successfully completed!
 
 Book currently in progress:  [[The-Ethical-Slut]]
 
