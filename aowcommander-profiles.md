@@ -49,3 +49,9 @@ Shakarn Heritor
 Fish-faced blue lizard with a blocky scanner module and gold regalia.
 "If we are at all capable of understanding a technology, it is our duty as Shakarn to see a fraction of our people committed to its mastery."
 Shapeshifting traditionalist seeks novelty in broad semistatic development; a lover of the inherent contradiction in society.
+
+Clayton the Antigambler
+Oathbound Voidtech
+A thin crown woven through straight black hair, on a man with blue eyes and a worried brow.
+"Unfair outcomes are symptomatic of inadequate probability control.  If we can fix that, we should."
+An expensive intolerance for uncertainty; needs enforce no taboo to banish gambling from his presence.
