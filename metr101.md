@@ -5,6 +5,7 @@ To-Do (Keep this at the top of the file.)
    - Extra credit.
  - Complete Concepts and Tools #1 (due Jan 7)
    - Subtask: Locate Concepts and Tools #1
+   - Concepts and Tools #1 is located in Module 1.
  - Discussion #1 - Initial Impressions of Weather and Climate (first post due Jan 7; second post due Jan 10)
    - I'll enjoy my classes more if I prioritize these.
 
@@ -33,6 +34,14 @@ Discussion #8 - Most Memorable Weather Event - Due Mar 7
 Discussion #9 - Weather in Media and History - Due Mar 7
 Discussion #10 -  ??? - Due ???
 Discussion #11 - Climate Change - Due Mar 14
+
+This course gives weekly objective targets.  Those could be good notes to transcribe, themselves.
+**Differentiate** between weather and climate
+**Explain** the role of gases and pollutants in Earth's atmosphere
+**Discuss** the atmospheric greenhouse effect and assess its impact on climate
+**Illustrate** how Earth's seasons are affected by the Earth's proximity to the Sun, the Earth's tilt, and the number of daylight hours 
+
+
 
 Back to [[college-notes]]
 

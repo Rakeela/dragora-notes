@@ -1,11 +1,10 @@
 # ENVS&100
 
 To-Do (Keep this at the top of the file.)
- - Complete Syllabus Quiz (due Jan 6)
-   - Mandatory.
  - Send an email to the professor (due Jan 6)
    - Mandatory; send by 4PM, reply by 12 PM.
    - Since this has a mandatory back-and-forth, it's best to send the email tomorrow (Jan 5 as of this writing)
+   - First email sent, awaiting reply.
  - Draft week 2 discussion post
    - I'll enjoy my classes more if I prioritize these.
 
