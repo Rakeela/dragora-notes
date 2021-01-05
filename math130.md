@@ -2,6 +2,7 @@
 
 To-Do (Keep this at the top of the file.)
  - Fill out college notes page to match the other two.
+ - Attend 5:30 PM Zoom class
  - HW 1-Chapter 1 Homework (Due Jan 12)
 
 Course Outcomes:
