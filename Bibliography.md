@@ -21,12 +21,13 @@ Sections;
    7) [[Mallorean]]
    8) [[Winterlands-by-Barbara-Hambly]] (Sorry; "Winterlands" is too generic a series title to give it a title space, I may want that link elsewhere!)
    9) [[Middle-Earth]]
-   10) [[Dragon-Knight-by-Gordon-Dickson]]
-   11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]]
+   10) [[Dragon-Knight-by-Gordon-Dickson]] (genericity)
+   11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]] (genericity)
    12) [[Well-of-Souls]]
    13) [[Redwall]]
-   14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]]
+   14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]] (genericity)
    15) [[Artemis-Fowl]]
+   16) [[Dune]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -38,6 +39,7 @@ Sections;
    7) [[The-Wonderland-Gambit]]
    8) [[Balshazar's-Serpent]]
    9) [[Virtual-Mode-by-Piers-Anthony]] (As a title, Virtual Mode has a genericity issue.)
+   10) [[Glory-Lane-by-Piers-Anthony]] (genericity)
 
 3) Pairs (Fiction) (These are one book and a sequel!  Always listed together) (I think I haven't actually read a lot of paired books.)
    1) [[Waiting-for-the-Galactic-Bus]] (1)
@@ -48,7 +50,8 @@ Sections;
    2) [[A-Brief-History-of-Time]]
    3) [[Essentials-of-Organizational-Behavior-Fourteenth-Edition]]
    4) [[The-Invention-and-Discovery-of-the-'God-Particle'-Higgs]]
-   5) 
+   5) [[No-Plot-No-Problem]]
+   6) 
 
 5) "Comedy" (I am not the biggest fan)
 (I've certainly read some of these, but I'm in no hurry to list them.)
