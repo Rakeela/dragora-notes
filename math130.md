@@ -15,7 +15,9 @@ If weekly discussions are intended to be part of the class' structure, none have
 
 The first classroom session coursework appears to be starting with teaching how to navigate the class website, which is good.  I'm having a little trouble understanding the teacher's accent, and I'm still trying to figure out how to parallelize notetaking with paying attention to a real-time class session.  Looking at the first homework assignment (which I'm not currently doing), it looks like there'll be a substantial self-direction factor in resolving these problems in a timely manner.  I'm going to have to study the textbook on my own.
 
-I'm glad to see something is different this semester from my prior semesters.  I don't remember seeing fully filled-out class schedules in prior semesters, yet these classes have posted a great deal of work ahead.
+I'm glad to see a positive difference in this semester vs my prior semesters with this college.  I don't remember seeing fully filled-out class schedules in prior semesters, yet these classes have posted a great deal of work ahead.  I think this may be frictional, and the quality of online education has likely been rising lately.
+
+One factor that's stressful about this semester is that two of my three classes have given me the impression that they'll be on strict deadlines only.  That shouldn't ordinarily be a problem, but my schedule still breaks down occasionally despite medical assistance.  I can only hope my health will let me complete my coursework.  It would have been a foolish gamble a few years ago (when my schedule was 2/3rds wrong), but it's worth trying now (when my schedule is more like 13/100ths wrong).
 
 Back to [[college-notes]]
 
