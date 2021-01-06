@@ -42,9 +42,33 @@ This course gives weekly objective targets.  Those could be good notes to transc
 **Illustrate** how Earth's seasons are affected by the Earth's proximity to the Sun, the Earth's tilt, and the number of daylight hours 
 
 Station Model
-A method of displaying wind stats?  It looks like the wind measured from a point, with a line drawn towards the direction it is coming from and a system of barbs to label its speed.  One short line is 5 knots, one longer line from the tip is 10 knots, a long line and a short line is 15 knots, two long lines is twenty knots, a triangle is fifty knots.  A triangle, a long line, and a short line adds up to 65 knots, suggesting that the station model can be extended arbitrarily in this way.
+Station Models are a method of demonstrating weather observations.  It looks like the wind measured from a point, with a line drawn towards the direction it is coming from and a system of barbs to label its speed.  One short line is 5 knots, one longer line from the tip is 10 knots, a long line and a short line is 15 knots, two long lines is twenty knots, a triangle is fifty knots.  A triangle, a long line, and a short line adds up to 65 knots, suggesting that the station model can be extended arbitrarily in this way.
 There's a whole table of current weather symbols as well.  Every station model should have a current weather symbol next to it.  Dots indicate rain, with heavier rainfalls indicated by more dots.  Asterisks represent snow, with heavier snowfalls indicated by more asterisks.  Drizzle is represented by a quotation mark (what is drizzle, meteorologically?), while falling ice pellets (sleet) are represented by a dot in a triangle.  Freezing rain is a dot in a sideways S, while freezing drizzle (?) is an apostraphe in a sideways S.  A rain shower is a dot above an inverted triangle, while a snow shower is an asterisk above an inverted triangle.  Two triangles one atop the other indicate hail.  Two arrows across each other indicate that blowing snow (but not fresh snowfall) is the predominant weather condition, while a dust-torm is an arrow across an S.  Two horizontal lines is fog, while an infinity symbol means haze (what is haze, meteorologically?).  Smoke is a vertical line topped by a wavy line, while a thunderstorm is a vertical line that turns horizontal and then jags downwards with an arrow.  A hurricane is represented by a solid little vortex.
 At the center of the station model is a circle.  This represents cloud-cover.  A circle unfilled is a clear sky.  A circle with a line through it is one tenth or less cloudcover.  A quarter-filled circle is 2-3 tenths; a quarter-filled circle with a line through it is four-tenths.  A half-filled circle is five tenths, while a half-filled circle with a line through it is six-tenths.  A three quarters filled circle is 7-8 tenths.  A full circle with a white line through it is nine tenths, while an unmarked full circle is a completely overcast sky.  Finally, an X in the circle indicates that the station model was filled out without the ability to observe the sky.
+Finally, a number is shown above the current weather symbol.  That's the temperature.
+Station models are used on weather maps.  They may be used in whole or in part.  Cumulative observation is used to infer weather systems.
+
+The "apple peel" of the Earth
+The atmosphere is like the peel of an apple.  The apple peel is less than 0.75% of the apple's radius.  The thickness of our atmosphere is 0.8% of the radius of the Earth.
+The teacher marked this for note-inclusion.  -_-
+
+The composition of the atmosphere
+The atmosphere is a thin, gaseous envelope around the planet.  Slightly less than 99% of its particles are within 30km of the Earth's surface.  There is no definite upper limit, but it becomes thinner and thinner away from the surface.  It is predominantly composed of a nitrogen/oxygen mixture, with small amounts of other gasses.
+The early atmosphere was mostly composed of hydrogen and helium, which escaped into space over 50 million years.  After that, the atmosphere was mostly composed of CO2 and H2O.  Water trapped in molten rocks was being released through steam vents across millions of years to create this second atmosphere.  Excess water vapor in the atmosphere formed into clouds and rained down, forming the oceans.  The oceans absorbed massive amounts of carbon dioxide from the atmosphere.  These processes cleared CO2 and H2O from the atmosphere, leaving behind the prevalence of inert nitrogen, while oxygen was added by lifeforms.
+The three most prevalent atmospheric gasses are Nitrogen at 78.08% prevalence, Oxygen at 20.95% prevalence, and Argon, at 0.93% prevalence.  CO2 is 0.035% of the atmosphere, Neon is 0.0018%, Helium is 0.00052%, Methane is 0.00014%, Krypton is 0.00010%, Nitrous Oxide (N2O) and Hydrogen are at 0.00005% prevalence, while Ozone (03) as a fraction of the whole atmosphere is 0.000007%.
+
+Variable gasses
+When exact gas levels matter, gasses are measured in "Parts Per Million", or ppm.  For every one million particles of a gaseous mixture, how many of them are of particular gasses?  If 0.0405% of a gaseous mixture is CO2, there are 405 particles of CO2 for every one million particles of that gaseous mixture.  PPM is the percentage expressed to five significant figures.
+
+Keeling Curve
+The Keeling Curve shows the amount of CO2 in the atmmosphere as measured in ppm.  It is assessed at Mauna Loa?  I may have misunderstood that bit.  In addition to the smoothed yearly average, there's also a regular sawtooth pattern in the CO2 readings, as winter die-offs and dormancy of flora reduce photosynthetic removal of CO2 from the atmosphere.  (Looking at how sharp the declines are when the graph is declining, I wonder if we could improve CO2 extraction by expanding year-round biomes!)
+Beyond its modern measurement history, the Keeling Curve has been extended into the past by boring out ice cores from Antarctica and Greenland.  The ice bubbles in the ice cores can be used for atmospheric sampling of past environments.
+
+Ozone (O3)
+Low level:  Hazardous; ground-level ozone is the primary ingredient of smog, and a major contributor to respiratory health issues.
+High level:  97% of O3 is upper-atmosphere ozone that blocks UV light.
+
+My first impression now that I'm getting into the lecture files is that, while I love these pieces of information, I'm not sure how much I have to learn from this course.  It's kind of just a low-value credential.  The fraction of this information which I do not know is wholly comprised of information for which I either have no clear need, or which I could easily look up were it relevant.
 
 Back to [[college-notes]]
 
