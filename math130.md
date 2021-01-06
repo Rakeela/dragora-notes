@@ -33,6 +33,9 @@ Ah, now the lecture has spoken of categorical and quantitative data, and it is g
 ---
 
 Doing some of the stats homework.  First assignment is pretty simple so far, I don't feel like I need the book.  I've made one mistake due to lacking alertness, and one mistake because the book has a mandatory bad read on one of its graphs...  A segment of the graph that's almost level with the segments next to it does not have a value of "twice" "any other group".  Ah, there we go; I've messed something up because I didn't know something the book would tell me.  It only took getting a few questions in.  I'll put this down for now pending further study.
+---
+
+The teacher tried to help me with my difficulties in following the lecture, and she... succeeded, eventually.  I had that uncomfortable sense of having to help someone else to help me.  I've been treated all my life as lacking social skills, and it's not quite true... though the social skills I've had to develop are unconventional.  Something is just very different about how I think.  Maybe it's because I spent so much time reading "with deranged obsession" in an otherwise bad childhood with few human attachments.
 
 
 Back to [[college-notes]]
