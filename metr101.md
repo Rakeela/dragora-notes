@@ -41,7 +41,8 @@ This course gives weekly objective targets.  Those could be good notes to transc
 **Discuss** the atmospheric greenhouse effect and assess its impact on climate
 **Illustrate** how Earth's seasons are affected by the Earth's proximity to the Sun, the Earth's tilt, and the number of daylight hours 
 
-
+Station Model
+A method of displaying wind stats?  It looks like the wind measured from a point, with a line drawn towards the direction it is coming from and a system of barbs to label its speed.  One short line is 5 knots, one longer line from the tip is 10 knots, a long line and a short line is 15 knots, two long lines is twenty knots, a triangle is fifty knots.  A triangle, a long line, and a short line adds up to 65 knots, suggesting that the station model can be extended arbitrarily in this way.
 
 Back to [[college-notes]]
 
