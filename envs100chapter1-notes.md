@@ -16,3 +16,8 @@ Upon completing this chapter, you will be able to:
 • Identify major pressures on the global environment
 
 • Discuss the concept of sustainability, and describe sustainable solutions being pursued on campuses and in the wider world
+
+---
+Hm, I started reading, and I forgot I was filling this out.  I'm not accustomed to taking notes yet.  There's an actual skill I don't have here, isn't there?
+---
+
