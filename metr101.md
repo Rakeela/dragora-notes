@@ -68,7 +68,12 @@ Ozone (O3)
 Low level:  Hazardous; ground-level ozone is the primary ingredient of smog, and a major contributor to respiratory health issues.
 High level:  97% of O3 is upper-atmosphere ozone that blocks UV light.
 
+---
 My first impression now that I'm getting into the lecture files is that, while I love these pieces of information, I'm not sure how much I have to learn from this course.  It's kind of just a low-value credential.  The fraction of this information which I do not know is wholly comprised of information for which I either have no clear need, or which I could easily look up were it relevant.
+It's a little hard to focus on the material.  It seems very high school science.  I'm already familiar with most of this stuff.  The station model was new to me, at least.  I kind of wonder about what creates the 'pause' between each layer of the atmosphere.  What is the tropopause, that causes clouds to stop growing when they meet it?  Why does each pause cause a temperature inversion?
+---
+
+Clouds intercept radiation during the day, and re-emit it during the night, resulting in warmer night-time temperatures and cooler day-time temperatures.  I'm noting that because it sounds like what deserts need!  I'm not...  really likely to forget much of this stuff.  I wonder if I can blitz through the homework doing it well in advance.
 
 Back to [[college-notes]]
 
