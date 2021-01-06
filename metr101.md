@@ -88,7 +88,7 @@ Given that atmospheric absorption is credited with 19% absorption and cloud refl
 
 Energy absorption by latitude
 Low latitudes absorb more solar radiation than they shed.  High latitudes shed more solar radiation than they absorb.
-Does this drive hot weather systems from the tropics?
+Does this drive hot weather systems from the tropics?  The lecture cites currents as also being a method by which heat is transferred from the tropics.
 
 
 Back to [[college-notes]]
