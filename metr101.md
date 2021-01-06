@@ -74,6 +74,10 @@ It's a little hard to focus on the material.  It seems very high school science.
 ---
 
 Clouds intercept radiation during the day, and re-emit it during the night, resulting in warmer night-time temperatures and cooler day-time temperatures.  I'm noting that because it sounds like what deserts need!  I'm not...  really likely to forget much of this stuff.  I wonder if I can blitz through the homework doing it well in advance.
+---
+
+Energy budgets
+The lecture relates the Earth's energy budget to expense tracking, describing the "currency" of meteorology as heat energy.  The concept of reducing meteorological predictions to heat energy transfers is actually rather intriguing.
 
 Back to [[college-notes]]
 
