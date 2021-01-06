@@ -1,9 +1,10 @@
 # MATH130
 
 To-Do (Keep this at the top of the file.)
- - Fill out college notes page to match the other two.
  - Attend 5:30 PM Zoom class
+   - Ongoing
  - HW 1-Chapter 1 Homework (Due Jan 12)
+   - Available via online tools.
 
 Course Outcomes:
 (No course outcomes supplied; syllabus provides only a busted link.)
@@ -11,6 +12,8 @@ Course Outcomes:
 I'm concerned that this class shows very poor configuration of its tools.  It's difficult and confusing to navigate the course page.  I'm left worried that I've missed things.
 
 If weekly discussions are intended to be part of the class' structure, none have been uploaded yet.
+
+The first classroom session coursework appears to be starting with teaching how to navigate the class website, which is good.  I'm having a little trouble understanding the teacher's accent, and I'm still trying to figure out how to parallelize notetaking with paying attention to a real-time class session.  Looking at the first homework assignment (which I'm not currently doing), it looks like there'll be a substantial self-direction factor in resolving these problems in a timely manner.  I'm going to have to study the textbook on my own.
 
 Back to [[college-notes]]
 
