@@ -45,3 +45,42 @@ The democratic ethic in coal extraction issue is a little bit uncomfortable for 
 Mention of Navajo uranium miners not being warned of radiation is kind of a lot more straightforward as an environmental justice issue.  I would expect that affected population resents that way more personally than outside populations resent it.  There isn't really a question over the popularity of bringing regulatory actions against a uranium mining operation that is operating on deception.  Knowing about material extraction risks and not warning your workers is purely appalling conduct.
 
 There are some calculations marked in the book to be performed based on the ecological footprint.  I'm reluctant.  The whole ecological footprint concept feels inappropriately fatalistic.  I can calculate how much over its area the United States is, but I don't think I'd be learning something critical by doing that.  I believe that we need those advanced nations with their big ecological footprints to produce the equipment that is necessary to increasing the carrying capacity of the Earth.  My fantasies about mitochondrial engineering are all about exactly that.  All of my thoughts are more probable because I live in a rich nation that is over its "share" of the burden.  Nor am I alone in this, as environmentalism is broadly more popular in developed rather than developing regions, and so for that matter are scientific endeavors.  Where people have dealt with the immediate concerns of life more comprehensively, they turn their attention towards longer-term investments and the pursuit of more fundamental questions, which is a virtuous process necessary to environmentalism that I think the ecological footprint measure gives the wrong impression about.
+
+Sustainability is certainly a real issue.  Again, as an [[immortalist]] I would rather not live through centuries of environmental privation consequent to some kind of biotech-over-environmentalism strategy... well, actually I would go through that willingly if the way I found myself subject to such environmental privation was by moving to Mars, haha!  Yet if I have to do my work on Earth (I would rather not), I look to the ecology from the [[immortalist]] perspective, and I don't see unsustainable gains as something I can count on indefinitely.
+
+I don't know how much I'm really learning, but I enjoy thinking about this stuff.  Hm, self-test section at the end!  I'll copy that in and try it.
+
+**Testing Your Comprehension**
+*How and why did the agricultural revolution affect human population size? How and why did the industrial revolution affect human population size? Explain what benefits and what environmental impacts have resulted.*
+The agricultural revolution greatly increased the carrying capacity of human settlements, leading to stable advances in population commensurate with the available nutrient budget.  (The idea of a society expanding until starvation limits it is horrifying...)  The industrial revolution massively increased productivity in all domains and lead to much cleaner cities with much larger structures, leading to ongoing advances in population due to still-ongoing declines in the occurrence of sickness and privation.
+
+*What is an ecological footprint? Explain what is meant by the term overshoot.*
+An ecological footprint is the average amount of resources needed to sustain each person in a society, calculated as a land area.  An overshoot is the degree to which a society is pulling on resources in excess of its size.  Ecologists believe that the entire planet has currently overshot its carrying capacity.
+
+*What is environmental science? Name several disciplines that environmental science draws upon.*
+Environmental science is an interdisciplinary pursuit pulling together information from other scientific disciplines in order to assemble a fuller picture of the Earth's ecologies and correct management practices applying thereunto.  ...the only disciplines that occur to me right now are geology, chemistry, and meteorology.  I didn't look too closely at the chart, which just seemed to be pulling in everything that occurred to the authors to list.  *reviewing it now*  Are geography and political science actually scientific disciplines?  The full list given is ecology, biology, chemistry, atmospheric science (isn't that meteorology?), oceanography, geology, geography, archaeology, anthropology, history, political science, engineering, economics, and ethics.
+
+*Compare and contrast the two meanings of the term science. Name three applications of science.*
+Descriptive science is about cataloguing data and measuring phenomenon.  Hypothesis-driven science attempts to discover causal linkages by testing proposed hypothetical causalities.  I feel inexplicably insulted by being asked to name three applications of science.  I can't fathom why, but I'm just going to skip ahead.
+
+*Describe the scientific method. What is its typical sequence of steps? What needs to occur before a researcher’s results are published? Why is this process important?*
+1.  Observe a phenomenon; identify a research target
+2.  Ask questions; define information sought
+3.  Develop a hypothesis; define a hypothetical answer that would resolve the question in a way fitting the observation
+4.  Make predictions; use the hypothetical answer to predict attributes that would then be true about the research target
+5.  Test the predictions; define an experiment that observes the predicted attribute of the research target, which can confirm or disprove the hypothesis.
+6.  Analyze and interpret results; 
+
+*Compare and contrast anthropocentrism, biocentrism, and ecocentrism. Explain how individuals with each perspective might evaluate the development of a shopping mall atop a wetland in your town or city.*
+
+Differentiate the preservation ethic from the conservation ethic. Explain the contributions of John Muir and Gifford Pinchot in the history of environmental ethics.
+
+Describe Aldo Leopold’s land ethic. How did Leopold define the “community” to which ethical standards should be applied?
+
+Explain the concept of environmental justice. Give an example of an inequity relevant to environmental justice that you believe exists in your city, state, or country.
+
+Describe in your own words what you think is meant by the term sustainability. Name three ways that students, faculty, or administrators are seeking to make their campuses more sustainable.
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[immortalist]: immortalist "Immortalist"
+[//end]: # "Autogenerated link references"
