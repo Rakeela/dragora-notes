@@ -1,0 +1,3 @@
+# the-most-unethical-possible-act
+
+Forcible upload for the purpose of imprisonment in a virtual space is the evillest possible act.  It can have no justification and no ethic ought to tolerate it.  Virtual imprisonment permits arbitrary generation of negative utility.  To yield this totality of control cannot be consented to, for it removes the capacity of consent as such, and therefore all cases of virtual imprisonment must be treated as violations of consent.
