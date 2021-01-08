@@ -36,7 +36,11 @@ Doing some of the stats homework.  First assignment is pretty simple so far, I d
 ---
 
 The teacher tried to help me with my difficulties in following the lecture, and she... succeeded, eventually.  I had that uncomfortable sense of having to help someone else to help me.  I've been treated all my life as lacking social skills, and it's not quite true... though the social skills I've had to develop are unconventional.  Something is just very different about how I think.  Maybe it's because I spent so much time reading "with deranged obsession" in an otherwise bad childhood with few human attachments.
+---
 
+I"m attending another of the lectures, though I'm even more tired this time.  I've already finished the initial work for the course.  I think that means I'm ahead of the lecture material, which contributes to the uncertainty here.  It adds to the sense of futility and stress.  I would rather be complaining online about the corrupted psuedolibertarians who abused my civil rights without a figleaf of reciprocity instead of attending a two hour lecture.  I would rather be reading a book than attending this lecture.  I would also rather be sleeping, which at this point may happen independently of my volition.
+
+The teacher is giving reassurances and clarifications at the opening of the lecture that I can hear are answers to the uncertainties that I had.  I'm still having trouble parsing her accent.  It doesn't look like the material is new to me.  It's just data about histograms.  The slides on file don't suggest there's anything novel coming up.  I'm bowing out to go to bed.
 
 Back to [[college-notes]]
 
