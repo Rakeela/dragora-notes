@@ -2,7 +2,7 @@
 
 One of my characters in one of my stories is named 'Warlock', apostrophes included.  She's a fire elemental mink described as having flames seething through her fur.  Her fur is very warm to the touch, though not actively burning.
 
-More important creatively than her otherworldly appearance is that she's also a deranged seer with strange non-local perceptions.  It's probably impossible to keep secrets from her, but she isn't necessarily willing or able to expose them to others.  She talks in a very distinctive way that I can't write without inspiration, but inspiration doesn't always happen on schedule.  To make writing 'Warlock''s dialogue possible, I gather these up when I find them, rather than only while writing her.  Some of her dialogue is nonsense, some of it is meaningful.
+More important creatively than her otherworldly appearance is that she's also a deranged seer with strange non-local perceptions.  It's probably impossible to keep secrets from her, but she isn't necessarily willing or able to expose them to others.  She talks in a very distinctive way that I can't write without inspiration, but inspiration doesn't always happen on schedule.  To make writing 'Warlock''s dialogue possible, I gather these up when I find them, rather than only while writing her.  Some of her dialogue is nonsense, some of it is meaningful.  I try not to put anything in the mouth of 'Warlock' if it isn't suitably strange.
 
 'Warlock' is not violent, but she is prone to accelerating without warning, and she is very, very fast.  She can be startling company.
 
