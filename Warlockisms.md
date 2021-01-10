@@ -24,3 +24,4 @@ Potential:
 "There to him is a number that is not."
 "The larger is the target, the smaller is the weapon."
 "I am a fire burning upon the root of the tree.  Another world wished for me, and now I am here."
+"People escape through narrow gates, and are pursued through broad ones."
