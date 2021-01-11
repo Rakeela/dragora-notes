@@ -59,4 +59,8 @@ New Concept:  Geo-engineering.  I'll have to dig for a 2020 news article about g
 Suggested source link:  https://www.advancedsciencenews.com/reflecting-sunlight-to-cool-the-planet-could-cause-other-unintended-global-changes/
 This also covers one of my two necessary citations for the essay.  For the other one, I need a better, more research-oriented source.  Something about microclimates which would be suggestive of possible future research.  I wonder if I can really excite the professor.
 It's proving kind of difficult to find relevant data on microclimates.  I'm getting the impression that more studies have been done on urban albedo's influence on microclimate than rural or (especially) wilderness albedo's influence on microclimate.  Have studies not tracked the implications of albedo?  That's kind of surprising in an era with environmental observation satellites overhead.
+Thought debris: if buildings could change color, they could be programmed to retune their solar absorption profile according to HVAC requirements.
+Microclimate may also be the wrong word.  I'm looking for something on the scale of an airshed.
 ---
+Potential second link: https://www.britannica.com/science/climate-meteorology/Climate-and-changes-in-the-albedo-of-the-surface
+This talks about how increasing albedo lowers rainfall.  It should give me enough to talk about, though no firm conclusion.
