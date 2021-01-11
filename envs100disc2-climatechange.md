@@ -56,3 +56,5 @@ Can I make an essay titled, "I'm not qualified to direct the media"?
 ---
 
 New Concept:  Geo-engineering.  I'll have to dig for a 2020 news article about geo-engineering and say that's what caught my attention most, but that shouldn't be too hard.  I can use the essay to ask about the local weather implications of oceanic mirror fleets, and whether attempting to use them to bias regional weather systems in economically productive ways has been attempted.
+Suggested source link:  https://www.advancedsciencenews.com/reflecting-sunlight-to-cool-the-planet-could-cause-other-unintended-global-changes/
+This also covers one of my two necessary citations for the essay.  For the other one, I need a better, more research-oriented source.  Something about microclimates which would be suggestive of possible future research.  I wonder if I can really excite the professor.
