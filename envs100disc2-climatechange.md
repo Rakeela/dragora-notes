@@ -63,4 +63,4 @@ Thought debris: if buildings could change color, they could be programmed to ret
 Microclimate may also be the wrong word.  I'm looking for something on the scale of an airshed.
 ---
 Potential second link: https://www.britannica.com/science/climate-meteorology/Climate-and-changes-in-the-albedo-of-the-surface
-This talks about how increasing albedo lowers rainfall.  It should give me enough to talk about, though no firm conclusion.
+This talks about how increasing albedo lowers rainfall.  It should give me enough to talk about, though no firm conclusion.  It's not ideal, because it doesn't give me much insight into how the nautical side of this would influence rainfall.  On the other hand, it may be excellent for setting up the question and, in essence, proposing the experiment.  A mirror-fleet of sufficient size should be capable of creating observable fluctuations in precipitation patterns, and the sufficient size in question (to create an experimentally observable event) falls well short of the amount of investment likely to stress the global economy and/or existing compensatory mechanisms in climate.
