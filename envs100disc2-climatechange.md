@@ -53,3 +53,6 @@ I mean, I know why I care about the environment seventy years from now.  As an i
 ---
 
 Can I make an essay titled, "I'm not qualified to direct the media"?
+---
+
+New Concept:  Geo-engineering.  I'll have to dig for a 2020 news article about geo-engineering and say that's what caught my attention most, but that shouldn't be too hard.  I can use the essay to ask about the local weather implications of oceanic mirror fleets, and whether attempting to use them to bias regional weather systems in economically productive ways has been attempted.
