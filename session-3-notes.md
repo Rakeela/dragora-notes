@@ -164,3 +164,19 @@ Quartiles = ???
 {Five number summary = 11, 22, 26.5, 33, 40}
 
 {The next exercise appears to be 'calculating the same thing with a calculator'.  This is new to me.  Unfortunately, the calculator I had on hand was the wrong one, and I fell behind on the lesson.  I don't see how to catch up, though I'm not too worried.  It looks like a more fundamental issue than falling behind the instruction is that her graphing calculators have a slightly different interface vs mine, and I'll have to learn to do this somewhere else.  The important thing for me to record here at this point is that TI-83 and TI-84 calculators can output five number summaries based on lists input into them.  This might make some questions easier once I translate the instructions.}
+
+{Something about drawing box plots...  I'm just gonna watch this while fiddling with my calculator.}
+
+{Currently, the whole content of the lesson is being swiftly reviewed as the teacher tabs through the slides at a regular pace.  I've figured out how to tell my graphing calculator to output five number summaries, but I still don't know how to tell it to output box plots, something the teacher intended to teach the automation of during this lesson.}
+
+{Mildest trivia:  When I started using the right program in my calculator to output five number summaries, I smelled ozone in the air.  The calculator creaked in my hands several times, timed with sparks of that scent.}
+
+{Slide transcription}
+2.14 Cesium-137 is a waste product of nuclear reactors. A study examined the cesium-137 tissue concentration of a random sample of 15 Pacific bluefin tuna, Thunnus orientalis, captured off the coast of California four months after the Fukushima (Japan) nuclear reactor meltdown of 2011.  Here are the findings, in becquerels per kilogram of dry tissue:
+4.8,7,6.2,7.3,6.0,7.3,3.7,9.4,8.4,6.0,5.0,5.1,6.0,7.3,4.7
+What is the mean of these data? {6.2, truncated to 2 sig figs.}
+2.15 What is the median of the data in exercise 2.14? {6}
+{Q1 5, Q3 = 7.3}
+{I got it all on my calculator.  The box plot though, would be a hand-drawn effort...  I'm not presently doing that.}
+
+{Judging by the pace of the course so far, it doesn't look like the homework is going to be too hard.  Nice change from the math classes of my childhood, that... though having access to supplemental potassium would've been a real life-saver then, had I knew I could benefit from it.}
