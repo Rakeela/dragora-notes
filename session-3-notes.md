@@ -133,3 +133,7 @@ The median is a measure of center that is resistant to skew and outliers.  The m
 {graph with identical mean and median} Mean and median for a symmetric distribution
 {graph with mean less than median and long tail on left} {graph with mean greater than median and long tail on right} Mean and median for skewed distributions
 
+{Slide with a big pink line at the top and a thin blue line across the middle} {?}
+{Teacher draws a red line in the middle of the thin blue line, talking about splitting it into two equal parts, and then labels the red line as the Median.}
+{I'm feeling self-conscious about grasping for things to take notes on.  I feel like I understand this subject.}
+{A description has been given about how the median divides the set into two equal parts, and then the two equal parts into two further equal parts.  She's working up towards presenting quartiles, isn't she?  Haven't I seen this exercise before... in kindergarden?}
