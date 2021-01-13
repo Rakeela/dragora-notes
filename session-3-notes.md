@@ -180,3 +180,6 @@ What is the mean of these data? {6.2, truncated to 2 sig figs.}
 {I got it all on my calculator.  The box plot though, would be a hand-drawn effort...  I'm not presently doing that.}
 
 {Judging by the pace of the course so far, it doesn't look like the homework is going to be too hard.  Nice change from the math classes of my childhood, that... though having access to supplemental potassium would've been a real life-saver then, had I knew I could benefit from it.}
+
+---
+{One more update, added well after the class lesson.  I managed to get box plot drawing working on my graphing calculator. <3}
