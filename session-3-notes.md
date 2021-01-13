@@ -148,3 +148,19 @@ Column 1: {As column 1 before.}
 Column 2: {As column 2 before, but now the sixth and seventh variables are highlighted as Q1 = first quartile = 2.2, whereas the 19th and 20th variables are labeled Q3 = third quartile = 4.35}
 
 {The teacher has further annotated the columns, labeling the 1st value as the minimum, and the 25th value as the maximum.}
+
+{Slide transcription}
+Example--quartiles
+How fast do skin wounds heal?
+Here are the skin healing rate data from 18 newts measured in micrometers per hour:
+28 12 23 14 40 18 22 33 26 27 29 11 35 30 34 22 23 35
+Sorted data:
+11 12 14 18 22 22 23 23 26 27 28 29 30 33 34 35 35 40
+Median = ???
+Quartiles = ???
+
+{Median = 26.5, and I got it ahead this time.}
+{Quartiles; 1st = 22, 3rd = 33; Minimum = 11, Maximum = 40}
+{Five number summary = 11, 22, 26.5, 33, 40}
+
+{The next exercise appears to be 'calculating the same thing with a calculator'.  This is new to me.  Unfortunately, the calculator I had on hand was the wrong one, and I fell behind on the lesson.  I don't see how to catch up, though I'm not too worried.  It looks like a more fundamental issue than falling behind the instruction is that her graphing calculators have a slightly different interface vs mine, and I'll have to learn to do this somewhere else.}
