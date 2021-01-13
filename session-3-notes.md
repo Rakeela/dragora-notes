@@ -124,3 +124,12 @@ Median: 3
 {She's describing something about mean and medians in a skewed curve.  Note to self: The thin side is the way the curve is "skewed to".  So a curve that is thin on the right side is skewed to the right.  The teacher describes this as a property of the mean and median.  The mean is higher than the median in a curve skewed to the right, and lower than the median in a curve skewed to the left.}
 
 {Now she's describing five thousand as an outlier.  Example four, she has described as "a symmetric curve with an outlier".}
+
+{There was some stuff I might've missed while working with merge conflicts on my notes, but it sounds like she's talking about the same stuff repetitively...}
+
+[Slide transcription]
+Comparing the mean and the median
+The median is a measure of center that is resistant to skew and outliers.  The mean is not.
+{graph with identical mean and median} Mean and median for a symmetric distribution
+{graph with mean less than median and long tail on left} {graph with mean greater than median and long tail on right} Mean and median for skewed distributions
+
