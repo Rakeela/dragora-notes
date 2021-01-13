@@ -136,4 +136,15 @@ The median is a measure of center that is resistant to skew and outliers.  The m
 {Slide with a big pink line at the top and a thin blue line across the middle} {?}
 {Teacher draws a red line in the middle of the thin blue line, talking about splitting it into two equal parts, and then labels the red line as the Median.}
 {I'm feeling self-conscious about grasping for things to take notes on.  I feel like I understand this subject.}
-{A description has been given about how the median divides the set into two equal parts, and then the two equal parts into two further equal parts.  She's working up towards presenting quartiles, isn't she?  Haven't I seen this exercise before... in kindergarden?}
+{A description has been given about how the median divides the set into two equal parts, and then the two equal parts into two further equal parts.  She's working up towards presenting quartiles, isn't she?  Haven't I seen this exercise before... in kindergarden?  This is the most basic explanation of dividing in fourths.}
+{Q1, Median, Q3 are the three quartiles...  I suppose this is at least a little difference from dividing in fourths.  It's referring to the medians of the halves, so it produces three quartiles.}
+
+{Slide transcription}
+Measure of spread:
+quartiles
+The first quartile, Q1
+The third quartile, Q3
+Column 1: {As column 1 before.}
+Column 2: {As column 2 before, but now the sixth and seventh variables are highlighted as Q1 = first quartile = 2.2, whereas the 19th and 20th variables are labeled Q3 = third quartile = 4.35}
+
+{The teacher has further annotated the columns, labeling the 1st value as the minimum, and the 25th value as the maximum.}
