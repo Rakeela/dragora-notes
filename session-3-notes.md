@@ -122,3 +122,5 @@ Median: 3
 {The teacher is describing a property of symmetric curves.  I think she just said that in a symmetrical distribution, the mean and median are the same.}
 
 {She's describing something about mean and medians in a skewed curve.  Note to self: The thin side is the way the curve is "skewed to".  So a curve that is thin on the right side is skewed to the right.  The teacher describes this as a property of the mean and median.  The mean is higher than the median in a curve skewed to the right, and lower than the median in a curve skewed to the left.}
+
+{Now she's describing five thousand as an outlier.  Example four, she has described as "a symmetric curve with an outlier".}
