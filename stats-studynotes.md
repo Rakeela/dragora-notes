@@ -14,4 +14,7 @@ The variance s^2 of a sample set of observations is an average of the squares of
 A sample's standard deviation is the square root of the sample's variance.
 {If you calculate the variance as above, then squoot it, you get the width of the standard deviations in the sample set.}
 
-{There's something here about an n-1 calculation that I don't quite understand.  Still thinking about it.  Something to do with x-with-a-line-over-it?}
+{There's something here about an n-1 calculation that I don't quite understand.  Still thinking about it.  Something to do with x-with-a-line-atop-it?}
+{Transcribed from Textbook}
+Only n-1 of the squared deviations in a sample can vary freely once we know x-with-a-line-atop-it, and we find their average by dividing the total by n-1.  This adjustment is necessary to give the sample variance important mathematical properties that will be addressed in later chapters on statistical inference.
+{x-with-a-line-atop-it, to refresh, is another way to say the mathematical mean.  So this says, "Only n-1 of the squared deviations in a sample can vary freely once we know their mathematical mean," and I can't say I understand that.  Is it because the central deviation is always centered on the mean?}
