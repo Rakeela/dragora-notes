@@ -14,4 +14,4 @@ The variance s^2 of a sample set of observations is an average of the squares of
 A sample's standard deviation is the square root of the sample's variance.
 {If you calculate the variance as above, then squoot it, you get the width of the standard deviations in the sample set.}
 
-{There's something here about an n-1 calculation that I don't quite understand.  Still thinking about it.}
+{There's something here about an n-1 calculation that I don't quite understand.  Still thinking about it.  Something to do with x-with-a-line-over-it?}
