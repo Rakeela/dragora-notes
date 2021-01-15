@@ -8,3 +8,6 @@ This task seems complex enough to need to record further information about, part
 
 ---
 Observing the sky outside, it's just pure white across the sky.  I'm not sure what to report, or what distinguishable features might be perceived in that.
+---
+
+I did this assignment in a fairly desultory way.  I need to go back and make a second discussion comment somewhere in the thread by Sunday.  I'm not sure there's much to discuss.  It's a rather simple assignment using publicly available information and it's not that thought-provoking IMO.

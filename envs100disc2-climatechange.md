@@ -87,3 +87,7 @@ Author unknown. Date of publication unknown. Climate and changes in the albedo o
 ---
 Reflections on the draft:
 I have worked on this long enough and I am just going to submit it at this point.  I can still edit it online.
+
+---
+Further thought about the experiment this proposes:
+This experiment requires a meaningful though not horrific amount of industrial investment.  It requires the dedication of engineer-hours and several months.  The total investment should be kept down as the intention of the experiment is 'proof of concept' for something that could be horrifically chaotic if implemented at a larger scale before the concept has been fully evaluated.  I don't know how to use energy budget calculations in meteorology, but it should be possible to use energy budget calculations to estimate the minimum observable effect sizes and therefore determine the minimum investment on the experiment.  Minimum investment targeting is correct for all initial operations of this kind due to the uncertainty in weather manipulation.
