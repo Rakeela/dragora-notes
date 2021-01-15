@@ -28,3 +28,15 @@
 (b) the mean and the standard deviation.
 (c) the five-number summary.
 {The answer is C.}
+
+{I've kept the video off.  The class doesn't need to see my Princess Celestia t-shirt.}
+
+{Transcribed from Slide.}
+IQR - Inter Quartile Range     for finding the outliers
+* Find Q1 and Q3
+* IQR = Q3 - Q1
+* 1.5 IQR
+* Q3 + 1.5 IQR
+* Q1 - 1.5 IQR
+
+{Outliers are items that are more than 1.5 IQR over Q3, or more than 1.5 IQR under Q1.}
