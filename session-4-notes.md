@@ -52,5 +52,5 @@ Find the standard deviation and variance of the following using TI calculator
 3 
 4
 5
-
 {The pace is kind of slow here...  Waiting for more to do.  This looks like a 1-5 range demonstration of a kind this teacher has done before.  It is a highly legible method.}
+{Mean is 3 on a list like this.  Standard deviation is...  1.581?  Nothing is an outlier.  Variance is 2.500}
