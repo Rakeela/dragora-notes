@@ -40,3 +40,17 @@ IQR - Inter Quartile Range     for finding the outliers
 * Q1 - 1.5 IQR
 
 {Outliers are items that are more than 1.5 IQR over Q3, or more than 1.5 IQR under Q1.}
+
+{...}
+{Doing other stuff while waiting for new content...}
+{Ah, here we go.  A new automation task.}
+
+{Transcribed from Slide.}
+Find the standard deviation and variance of the following using TI calculator
+1 
+2 
+3 
+4
+5
+
+{The pace is kind of slow here...  Waiting for more to do.  This looks like a 1-5 range demonstration of a kind this teacher has done before.  It is a highly legible method.}
