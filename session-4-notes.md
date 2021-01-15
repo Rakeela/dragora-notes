@@ -8,3 +8,23 @@
 {Can't hear the teacher at all...  I need to get my better headphones for this.}
 {There.  Better headphones.  Now I can hear the teacher.  She's got another slide up on screen.  It's number of pets vs number of students.  I don't feel like I would gain much from transcribing this slide, but apparently there are 2 students who don't have pets, 7 students who have 1 pet, 3 students who have 2 pets, 1 student who has 3 pets, and 2 students who have 4 pets.}
 {This currently appears to be getting used for five number summary generation.  The teacher is just presenting another of the data representations used in the homework.  I get the impression from this class that I can learn enough to do the homework by attending all of the classes.}
+
+{Questions presented}
+{Transcribed from Slide.}
+2.17 If a distribution is clearly skewed to the right,
+(a) the mean is less than the median.
+(b) the mean and the median are equal.
+(c) the mean is greater than the median.
+{The answer is C.}
+{Transcribed from Slide.}
+2.18 What percent of the observations in a distribution lie between the first quartile and the third quartile?
+(a) 25%
+(b) 50%
+(c) 75%
+{The answer is B.}
+{Transcribed from Slide.}
+2.19 To make a boxplot of a distribution, you must know
+(a) all the individual observations.
+(b) the mean and the standard deviation.
+(c) the five-number summary.
+{The answer is C.}
