@@ -1,10 +1,8 @@
 # MATH130
 
 To-Do (Keep this at the top of the file.)
- - Attend 5:30 PM Zoom class
-   - Ongoing
- - HW 1-Chapter 1 Homework (Due Jan 12)
-   - Available via online tools.
+ - Chapter 2 homework (Due Jan 21 by Midnight)
+ - Chapter 3 homework (Due Jan 28 by 6 PM)
 
 Course Outcomes:
 (No course outcomes supplied; syllabus provides only a busted link.)
@@ -41,6 +39,9 @@ The teacher tried to help me with my difficulties in following the lecture, and 
 I"m attending another of the lectures, though I'm even more tired this time.  I've already finished the initial work for the course.  I think that means I'm ahead of the lecture material, which contributes to the uncertainty here.  It adds to the sense of futility and stress.  I would rather be complaining online about the corrupted psuedolibertarians who abused my civil rights without a figleaf of reciprocity instead of attending a two hour lecture.  I would rather be reading a book than attending this lecture.  I would also rather be sleeping, which at this point may happen independently of my volition.
 
 The teacher is giving reassurances and clarifications at the opening of the lecture that I can hear are answers to the uncertainties that I had.  I'm still having trouble parsing her accent.  It doesn't look like the material is new to me.  It's just data about histograms.  The slides on file don't suggest there's anything novel coming up.  I'm bowing out to go to bed.
+---
+
+This class is going to be a source of unconventional difficulty.  The mathematical operations are all tediously familiar, but some of the automation tools are new to me.  This class is about learning to use necessary tools more than it is about learning to perform necessary operations.  Is it easier or harder for people who are familiar with neither the operations nor the tools?
 
 [[session-3-notes]]
 [[session-4-notes]]

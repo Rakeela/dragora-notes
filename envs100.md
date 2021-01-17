@@ -1,12 +1,12 @@
 # ENVS&100
 
 To-Do (Keep this at the top of the file.)
- - Send an email to the professor (due Jan 6)
-   - Mandatory; send by 4PM, reply by 12 PM.
-   - Since this has a mandatory back-and-forth, it's best to send the email tomorrow (Jan 5 as of this writing)
-   - First email sent, awaiting reply.
- - Draft week 2 discussion post
-   - I'll enjoy my classes more if I prioritize these.
+ - Perform house assessment (Due Jan 20)
+   - Evaluate ecological footprint
+   - Blather about how to use 26% less electricity
+ - Draft week three discussion post (Due Jan 21)
+ - Reply to two week three discussion posts (Due Jan 22)
+ - Chapter 16 quiz (Due Jan 24)
 
 Course Outcomes:
 · Demonstrate the importance of using critical thinking and the scientific method to understand how human activities affect the limited resources of our planet.

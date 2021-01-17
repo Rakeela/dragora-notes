@@ -1,13 +1,10 @@
 # METR101
 
 To-Do (Keep this at the top of the file.)
- - Take syllabus quiz (due Jan 7)
-   - Extra credit.
- - Complete Concepts and Tools #1 (due Jan 7)
-   - Subtask: Locate Concepts and Tools #1
-   - Concepts and Tools #1 is located in Module 1.
- - Discussion #1 - Initial Impressions of Weather and Climate (first post due Jan 7; second post due Jan 10)
-   - I'll enjoy my classes more if I prioritize these.
+ - Draft week three discussion post ("Can we make it rain?") (Due Jan 21)
+   - This one should be fun.  It's what I fixate on.  I think the answer is or will be yes!
+ - Homework quiz #3 (Due Jan 24)
+ - Concepts and Tools #3 (Due Jan 24)
 
 "Course Outcomes"
 **Diagram** the vertical structure of the Earth's atmosphere and explain the concepts of density, pressure, and temperature, and how each varies vertically in the atmosphere.
