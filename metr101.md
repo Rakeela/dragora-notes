@@ -6,6 +6,8 @@ To-Do (Keep this at the top of the file.)
  - Homework quiz #3 (Due Jan 24)
  - Concepts and Tools #3 (Due Jan 24)
  - First Test (January 24th, 25th, or 26th)
+ - Extra credit survey 1 (Due Jan 21)
+ - Extra credit survey 2 (Due Jan 31)
 
 "Course Outcomes"
 **Diagram** the vertical structure of the Earth's atmosphere and explain the concepts of density, pressure, and temperature, and how each varies vertically in the atmosphere.

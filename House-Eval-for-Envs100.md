@@ -8,7 +8,7 @@ Household automotive gasoline consumption:  (N/A)
 2:
 Earth overshoot day: 28 April
 3.1 Earths
-I really hate this model.  It makes environmentalism look primitive, miserable, and authoritarian.  Carrying capacity can and should be increased.  BTW, given the changeover to renewable energy that we did in #3 here, a recalculated footprint reports 2.0 Earths, suggesting my house is way ahead of America's usual weight.  
+I really hate this model.  It makes environmentalism look primitive, miserable, and authoritarian.  Carrying capacity can and should be increased.  BTW, given the changeover to renewable energy that we did in #3 here, a recalculated footprint reports 2.0 Earths, suggesting my house is way ahead of America's usual weight.
 3:
 We’re switching our contract with the energy utility to 100% renewable mixture, which covers an adequate carbon reduction.
 Reducing energy consumption is more difficult.  We could replace the refrigerator unit with a more efficient unit.  Our current refrigerator is an older model with a less than ideal model that came with the house.  A new model could significantly increase energy efficiency.  We may actually do that; the financial eval yields a savings over the lifetime of a new fridge.  This is the biggest gain apparent, but doesn’t achieve a 26% reduction on its own.
