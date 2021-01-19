@@ -14,3 +14,7 @@
 
 
 Disclaimer:  I may refile this if I come up with more general botany experiments.  Also, none of this accounts for the peroxide content of Martian soils, nor any other feature of it.  These experiments would be more likely to yield results applicable to Earth than results applicable to Mars.
+---
+
+I'm not fascinated by plants.  I just think humanity is undervaluing synthetic biology in a way that is creating and will create market opportunities.  I think there are still huge gaps in human agricultural productivity, and while I'm not enthused to feed the world, agriculture is a basic ubiquitous way to increase our energy extraction rate.  Biofuels are the pure expression of that, though I personally have a great appreciation that many useful chemicals are harvested from agriculture.  Farms are for more than just producing food.  As well, there's so much land we need for so many projects.  If we could feed the world from fewer croplands, we could more easily leave land to the forests.
+I'm aware of it as a potential off-world specialty, too.  I still want to get away from Earth.  Ideally, all of my life plans end up off-world one way or another, through one necessary skill or another.~~~~
