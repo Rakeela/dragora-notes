@@ -8,7 +8,7 @@ Household automotive gasoline consumption:  (N/A)
 2:
 Earth overshoot day: 28 April
 3.1 Earths
-I really hate this model.  It makes environmentalism look primitive, miserable, and authoritarian.  Carrying capacity can and should be increased.  BTW, given the changeover to renewable energy that we did in #3 here, a recalculated footprint reports 2.0 Earths, suggesting my house is way ahead of America's usual weight.
+I really detest this model.  It makes environmentalism look like it has a miserable reliance on primitive living conditions that society should be forced back to.  I understand that's not an accurate impression, but that's what I think of every time I see ecological footprint scores suggesting that the poorer countries of the world are easier on the ecology than the wealthier countries.  Carrying capacity can and should be increased; furthermore, environmentalim is more stably popular in wealthier nations.  BTW, given the changeover to renewable energy that we did in #3 here, a recalculated footprint reports 2.0 Earths, suggesting my house is way ahead of America's usual weight.
 3:
 We’re switching our contract with the energy utility to 100% renewable mixture, which covers an adequate carbon reduction.
 Reducing energy consumption is more difficult.  We could replace the refrigerator unit with a more efficient unit.  Our current refrigerator is an older model with a less than ideal model that came with the house.  A new model could significantly increase energy efficiency.  We may actually do that; the financial eval yields a savings over the lifetime of a new fridge.  This is the biggest gain apparent, but doesn’t achieve a 26% reduction on its own.
@@ -17,3 +17,4 @@ We have two incandescent lights left in the house, having mostly already replace
 It’s really hard to get this down farther.  We’re already using LEDs, our laundry machines are already new, efficient models, and we don’t run a pool or even hair dryers.  We just recently replaced several electric water heating devices in the kitchen with on-demand models that use far less power, and that itself makes this assignment harder.  From here, to further try for a 26% improvement yet again?  I guess we could get rid of the sound bar on our TV?  I’d be willing to do that, though my husband isn’t.  We can (and will) at least set the sound bar to start shut itself off, as it’s a surprisingly inefficient device which runs more actively than necessary.  We may replace the sound bar outright.
 4.
 Bibliography: (Why do I have to do a bibliography for this?)
+(EPA energy efficiency guidelines to cite the gain in refrigerator efficiency?)
