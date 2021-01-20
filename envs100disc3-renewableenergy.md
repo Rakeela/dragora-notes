@@ -32,6 +32,9 @@ I'm really very satisfied with the verbiage above.  I've modified it slightly in
 Minor note: I wish I could give this project to central America, instead.  It could help develop them by providing energy resources and prosperous jobs to impoverished communities, which in turn would reduce one of the more unpleasant social pressures on American policy as well as a contagion risk.  (Illegal immigration is considerably less hygienic than legal immigration!)  Yet those regions are so violent that the very problems which make them sympathetic also make solving their issues harder.  I suspect the project would have to pay off a crime lord to complete.  Since they would have to hide that payoff, the costs would be inflated, and the project would look globally uneconomical.  The economic costs of crime get concealed.  Organized crime exists in Italy as well, but the Italian government is more competent to resist it, especially on a project of international prestige.  Not even in perennially unstable African nations is organized crime as extreme as it is in South and Central America.
 
 ---
+Can tidal power operate in the vicinity of Italy?  Does the Mediterranean have a sufficient tidal range?  If so, should I add a mention to the essay about the concurrent value of a sufficient tidal range in the sheltered Mediterranean?  This may justify a redraft.
+
+---
 Bibliography:
 [1] tidal energy citation
 [2] hydrogen fuel citation
