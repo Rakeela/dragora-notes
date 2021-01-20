@@ -90,6 +90,8 @@ Now, the problem is the payback period, as I mentioned.  Oil tankers cost millio
 
 I mean, it's not like we'll stop using hydrogen at any particular point in the future, so a centennial hydrogen fuel plant is not a crazy risk, but cost projections made that far in advance need risk-padding that makes them take even longer to run in the black.  Argh.  I spent all day on this, didn't find the numbers I needed, and cast serious doubt on the concept by the numbers I did find!
 
+Surely I must have made many mistakes.  Real utility installations are expensive projects with long pay-off periods, but not like THIS.  Did I make enough mistakes to scavenge the concept?
+
 ---
 Bibliography:
 [1] tidal energy citation
