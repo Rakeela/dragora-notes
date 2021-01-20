@@ -37,6 +37,9 @@ Can tidal power operate in the vicinity of Italy?  Does the Mediterranean have a
 A related note for my own files: could spiky sound baffles installed underwater be used to break up unwanted marine vibrations?  I've no interest in inflicting incidental suffering on marine life.  Marine ecologies are sparse enough as it is given the energy and oxygen shortages of marine environments.  The baffles would probably be colonized by reef-organisms, but that may not impair their intended functioning; if they still work as sound baffles, increasing the local marine ecology's surface area can be classified as a benefit.
 
 ---
+Is marine wind more advantageous than marine solar?  I like using solar for this, because I suspect that marine solar will interfere less with my quixotic idea of nucleating seasteading communities off of this...  Hm, I just talked myself into keeping it at solar, though off-shore wind-farming is definitely a thing.
+
+---
 Bibliography:
 [1] tidal energy citation
 [2] hydrogen fuel citation
