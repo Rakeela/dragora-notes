@@ -26,3 +26,16 @@ Targeting the south Italian coastline for the first construction of a solar/tida
 
 ---
 As with other discussion posts this semester, this will need at least two citations.  I think I can do better than that... though I don't think I can do as well as the concept deserves, given that providing a full cost accounting and reassurance of a profitable outcome is beyond my skills.  As before, I'm modifying the above draft with [] wherever I think I can cite something.
+I'm really very satisfied with the verbiage above.  I've modified it slightly in place, but I don't foresee a need for a complete second draft to change the writing unless the citations I dig up conflict with the basic thrust of the essay.  
+
+---
+Bibliography:
+[1] tidal energy citation
+[2] hydrogen fuel citation
+[3] southern Italian communities are expensive and stagnant citation
+[4] hydrogen fuel economy citation
+[5] hydrogen power plant citation
+[6] hydrogen fuel in transport citation
+[7] northern Italy resents subsidizing southern Italy citation
+[8] transition stresses are a big deal citation
+[9] seasteading citation
