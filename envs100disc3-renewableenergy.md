@@ -90,7 +90,9 @@ Now, the problem is the payback period, as I mentioned.  Oil tankers cost millio
 
 I mean, it's not like we'll stop using hydrogen at any particular point in the future, so a centennial hydrogen fuel plant is not a crazy risk, but cost projections made that far in advance need risk-padding that makes them take even longer to run in the black.  Argh.  I spent all day on this, didn't find the numbers I needed, and cast serious doubt on the concept by the numbers I did find!
 
-Surely I must have made many mistakes.  Real utility installations are expensive projects with long pay-off periods, but not like THIS.  Did I make enough mistakes to scavenge the concept?
+Surely I must have made many mistakes.  Real utility installations are expensive projects with long pay-off periods (and tidal power stations DO last a long time), but not like THIS.  Did I make enough mistakes to scavenge the concept?  Let's look at other tidal power stations.  The Sihwa tidal power station is the largest and most expensive tidal installation in the world, with a capacity of 254 mW and construction costs of $298 million.  It is located in a region with a tidal range of 5.6 meters...  Aha, tidal range is what this direct meters value is.  So the tidal range off the coast of Cosenza is 4.1 meters?  Which suggests 9 meters for Sardinia..?  Cripes, I wish I knew what my numbers meant.  A different map I've found suggests that the tidal range in the vicinity of Cosenza is a deeply unsatisfying 0.4 meters (and 0.3 near Sardinia), while affirming a 9 meter tidal range for Sihwa.  That suggests tidal power would not be feasible for Italy.
+
+Reviewing other research on tidal energy in the Mediterranean, I'm finding commentary about local low energy levels hindering output, but also local mild conditions favoring long-term low-risk ventures.  AKA the equipment will last for many decades, but it will also underperform.  That's potentially okay, depending on the extent of the underperformance.
 
 ---
 Bibliography:
