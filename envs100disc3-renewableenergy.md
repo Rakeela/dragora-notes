@@ -55,6 +55,19 @@ I wonder if an electromagnetic linkage would have any advantage in capturing the
 If only I could tow a rare earth asteroid to Earth, hah.  People talk about how the value of particular metals would crash if asteroids rich in those metals were towed into Earth orbit, but as a fan of long-term economic growth, my answer to that is, "Bring it on!"  Fundamental cost reductions in raw material inputs spur wonderful advances in economic growth.
 
 ---
+I wonder if I could argue that low-power wave extraction makes sense to reduce mechanical stresses on the unproven wave generator technologies.  Putting these things we don't know how to make very well only into the most turbulent waters sounds like ideal energy extraction policy, but I wonder if that practice is impairing our ability to learn how to make them!
+
+---
+I can't use it in this essay, but I found a link on sciencedirect.com arguing that Saudi Arabia should build wave-powered desalination systems.  Maybe the Saudis should build an offshore reactor complex such as I propose for the purpose of creating potable water instead of hydrogen fuel!  Link here: https://www.sciencedirect.com/topics/earth-and-planetary-sciences/wave-energy
+
+---
+Finally!  I found something I can use.  This is a link which talks about energy calculations about Sibolga-Tapanuli Tengah (a location in Indonesia with more conventionally favorable wave power potential): https://ieeexplore.ieee.org/document/8226713
+
+I was looking for this, because it exposes numbers that I can use to calculate wave power potentials at a location with a lower potential.  I've written elsewhere in my notes that the fundamental popularity of environmentalism is due to its roots in causality.  Just so, I think the most stoutly persuasive arguments are based on numerical literacy.
+
+This talks about three different systems for wave power extraction: tapered channels, power buoys, and oscillating water colum (sic).  It names tapered channel systems as having the strongest energy output.  Tapered channel systems work by narrowing, causing waves to increase in height and fill an elevated basin.  Water flowing back to the ocean by gravity then powers a standard hydroelectric turbine.  This is very different from the sheathed buoy construct that I had imagined, which presumably would be the kind of construct that a power buoy system entails.  If there are concerns about saltwater corrosion of the hydroelectric turbine, power buoys may still be desirable for their superior saltwater isolation profile (the saltwater doesn't have to contact anything corrodable for the power buoy to function).  Power buoys would also have the advantage of never accidentally feeding a fish into a turbine...  Buoys have gentler spirits, and you can hug them without getting hurt.
+
+---
 Bibliography:
 [1] tidal energy citation
 [2] hydrogen fuel citation
