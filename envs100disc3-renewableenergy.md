@@ -6,3 +6,7 @@
    - 2nd paragraph: Further justification of the three chosen sources.
    - 3rd paragraph: How do you convince the public that these are the right three sources?
    - The per-paragraph specification on this essay makes it a little less fun and may increase the challenge.
+
+---
+I think I should write favoring hydrogen power storage.  I suspect that hydrogen fuel as a store of power for intermittent power systems is one of the most underutilized potentials on Earth.  I'm comfortable slotting that in as though it were one of the three sources that the essay is focusing on.
+Intuitively therefore, the other two sources would be 'wind' and 'solar', the highly intermittent options.  I should spare a moment to look up renewables to make sure that's optimal.
