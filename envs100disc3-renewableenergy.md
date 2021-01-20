@@ -34,6 +34,8 @@ Minor note: I wish I could give this project to central America, instead.  It co
 ---
 Can tidal power operate in the vicinity of Italy?  Does the Mediterranean have a sufficient tidal range?  If so, should I add a mention to the essay about the concurrent value of a sufficient tidal range in the sheltered Mediterranean?  This may justify a redraft.
 
+A related note for my own files: could spiky sound baffles installed underwater be used to break up unwanted marine vibrations?  I've no interest in inflicting incidental suffering on marine life.  Marine ecologies are sparse enough as it is given the energy and oxygen shortages of marine environments.  The baffles would probably be colonized by reef-organisms, but that may not impair their intended functioning; if they still work as sound baffles, increasing the local marine ecology's surface area can be classified as a benefit.
+
 ---
 Bibliography:
 [1] tidal energy citation
