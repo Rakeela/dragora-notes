@@ -42,10 +42,15 @@ Is marine wind more advantageous than marine solar?  I like using solar for this
 ---
 I've dug up some wave energy maps for the Italian coastline.  Italy isn't ideal for wave power, because the wave energy is marginal unless building off of the coast of Sardinia to attain 9 kW/m, a level conventionally considered suitable for wave power.  The second-best location is however more politically advantageous, which would be to build instead off the coast of Cosenza.  The wave energy level there is 4 kW/m, which is below the 5 kW/m threshold generally considered for wave energy.  If 4 kW/m wave energies were considered suitable for wave energy power plants, the amount of viable coastline globally goes up sharply.
 
+This is just wool-gathering rather than something I would reference in the essay here, but I wonder why electromagnetic linkages aren't used to achieve frictionless energy transfers between kinetic harvesting equipments and the turbines that those equipments are powering.  But then, field effect technologies are one of my old fantasies.  Reducing energy loss to friction is one way to expand the range of economical power extraction sites, and an electromagnetic linkage has the advantage that it doesn't directly expose conductive (and corrodable) components to seawater.  Of course, a design like that would have the downside of intensifying humanity's draw on limited rare earth metals, and it would STILL be most valuable in sites of high wave potential.
+
+I wonder if an electromagnetic linkage would have any advantage in capturing the chaotic all-angles energy inputs from wave energy, but that's the wooliest thing in this file.  I've no idea.  I'm imagining this as a ceramic buoy with a partial ceramic sheath, with the two connecting via electromagnets inside behind electroceramic disks.  The whole buoy doesn't need to be made of electroceramics.  Extracting energy from the primary up-and-down motion of the buoy should be straightforward, but the buoy would also have side-to-side and forward-and-back motions.  Is there any way to also extract the energy that pushes against the sheath?
+
+---
+If only I could tow a rare earth asteroid to Earth, hah.  People talk about how the value of particular metals would crash if asteroids rich in those metals were towed into Earth orbit, but as a fan of long-term economic growth, my answer to that is, "Bring it on!"  Fundamental cost reductions in raw material inputs spur wonderful advances in economic growth.
+
 ---
 If corrosion is an issue in producing tidal wave generators, why don't engineers use ceramic components?  I didn't have to search hard to find a marine ceramics supplier marketing its ceramic components for saltwater-exposed environments.  Sometimes humanity uses metal when it should be using metal-doped clay.
-
-In related wool-gathering, I wonder why electromagnetic linkages aren't used to achieve frictionless energy transfer between kinetic harvesting equipment and the turbines that it is powering.  But then, field effect technologies are one of my old fantasies.  I know why I'm thinking about this; it's because I want to gather energy from more marginal sites to expand the range of viable projects.
 
 ---
 Bibliography:
