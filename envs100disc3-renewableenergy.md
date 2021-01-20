@@ -10,3 +10,6 @@
 ---
 I think I should write favoring hydrogen power storage.  I suspect that hydrogen fuel as a store of power for intermittent power systems is one of the most underutilized potentials on Earth.  I'm comfortable slotting that in as though it were one of the three sources that the essay is focusing on.
 Intuitively therefore, the other two sources would be 'wind' and 'solar', the highly intermittent options.  I should spare a moment to look up renewables to make sure that's optimal.
+
+---
+Towards the target of focusing on new potentials...  Ooh.  Tidal, solar, and hydrogen would be a wonderful energy structure for a 'seastead' colony.  Starting out by building a reactor complex at sea that initially exports power (in the form of hydrogen fuel) would provide a rational/economical nucleation point for the seastead community to accrete around.  This could expand humanity's interception of solar energy across wholly new territories without displacing any current land use patterns.
