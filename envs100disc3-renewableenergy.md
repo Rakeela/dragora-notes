@@ -97,8 +97,11 @@ Reviewing other research on tidal energy in the Mediterranean, I'm finding comme
 What I really need to find in order to understand the viability of this technology is straightforward information regarding the potential convertibility of oceanic energy inputs to mechanical energy which we can use to make electricity.  On the basis of today's research, I think it's probable that deployment of oceanic energy technologies has been greatly slowed by a lack of clear and publicly available information regarding the conditions under which oceanic energy technologies can be deployed and for what yields.  The information that is available to me is not greatly inferior to the information that would be available to an aide researching on behalf of a municipality considering the implementation of potential local solutions to its power needs.
 
 ---
+I'm tempted to keep the essay for 'blue sky' reasons... and because it's 'just' a discussion board post.  I should have no trouble filling my marked citation slots and I do not need full rigor for this application.  I've already done well more than I can rationally expect to benefit from.  As a post full of blue sky optimism, I can blather about a concept that won't work at all without concern.  Maybe it'll get someone thinking.  I entirely expect to be the only person posting anything about hydrogen, but hydrogen is an important and underutilized remedy for intermittent power supplies from renewables.  Hydrogen fuel generated with surplus power during periods of high wind or bright sunshine is a storable resource that can be kept until it is needed, and a potential reward for regions that overprovision their energy needs, be it the result of dedication to renewables, questionable civilian planning, or a preparative effort to support long-term development in their area.
+
+---
 Bibliography:
-[1] tidal energy citation
+[1] Pisacane, Giovanna. Sannino, Gianmaria. Carillo, Adriana. Struglia, M.V. Bastianoni, Simone. "Marine Energy Exploitation in the Mediterranean Region: Steps Forward and Challenges" Frontiers in Energy Research, October 18 2018, retrieved January 20 2021 from https://www.frontiersin.org/articles/10.3389/fenrg.2018.00109/full
 [2] hydrogen fuel citation
 [3] southern Italian communities are expensive and stagnant citation
 [4] hydrogen fuel economy citation
@@ -107,3 +110,4 @@ Bibliography:
 [7] northern Italy resents subsidizing southern Italy citation
 [8] transition stresses are a big deal citation
 [9] seasteading citation
+
