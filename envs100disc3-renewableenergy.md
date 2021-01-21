@@ -118,3 +118,7 @@ Bibliography:
 [10] Seasteading Institute About Page. (n.d.) The Seasteading Institute.  Retrieved January 20 2021 from https://www.seasteading.org/about/
 
 Postscript.  I know that the scientific quality of these sources varies widely, but this is not a scientific paper.  These 'civilian' sources are included for the cause of familiarity and concept introduction.
+
+---
+Citing the essay didn't convince me to retract its claims, but my goodness does it build up to a strange impression of southern Italy.  It is the impression which I actually have.  Am I proposing that they be given extremely valuable new resources while also unfairly disrespecting them?  Or am I pointing out real issues while proposing a new source of employment and change in their region that they properly need?  Am I saying something quite polite or quite rude?  I'm not sure.
+Seasteads.  I think people caught in that society might want somewhere they can move out of it without fleeing the country or earning the enmity of their relatives.  Something that keeps them in the region and yet positions them somewhere that the world considers exciting and new.  That's what a seastead founded in southern Italy around a solar/tidal hydrogen supply reactor could be.
