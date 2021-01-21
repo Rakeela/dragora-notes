@@ -113,7 +113,7 @@ Bibliography:
 [5] Fuel Cells.  (n.d.) Office of Energy Efficiency and Renewable Energy.  Retrieved January 20 2021 from https://www.energy.gov/eere/fuelcells/fuel-cells
 [6] Musolino, Dario. (2018) THE NORTH-SOUTH DIVIDE IN ITALY: REALITY OR PERCEPTION? European Spatial Policy and Research. Retreived January 20 2021 from https://core.ac.uk/download/pdf/159384045.pdf https://jewishcurrents.org/italys-green-fascists/
 [7] Eisen, E.X. (September 18, 2019) "Italy's Green Fascists", Jewish Currents.  Retrieved January 20 2021 from  
-[8] Quinson, Tim. (January 20, 2021) "Big Oil Takes Unsteady Steps to Cut Transition Risk", BNN Bloomberg.  Retrieved January 20, 2021
+[8] Quinson, Tim. (January 20, 2021) "Big Oil Takes Unsteady Steps to Cut Transition Risk", BNN Bloomberg.  Retrieved January 20, 2021 from https://www.bnnbloomberg.ca/big-oil-takes-unsteady-steps-to-cut-transition-risk-1.1551111
 [9] Seasteading Institute About Page. (n.d.) The Seasteading Institute.  Retrieved January 20 2021 from https://www.seasteading.org/about/
 
 Postscript.  I know that the scientific quality of these sources varies widely, but this is not a scientific paper.  These 'civilian' sources are included for the cause of familiarity and concept introduction.  The specific sources of public relations advantage cited may also offer some insight into potential causes for Italy's recent decades of economic woe.
