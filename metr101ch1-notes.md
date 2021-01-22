@@ -24,3 +24,6 @@ The thought of engineering hypoxic plantlife seemed worth preserving as a terraf
 
 ---
 
+This says 50 times the atmosphere's CO2 content is locked up in the ocean.  I immediately wonder if engineering a super-heavy form of fast-replicating microbial sea life could be utilized to create a lifeform that would suck up carbon, replicate, get too dense, and fall out of the water column.  Probably a foolish thought, though algae are good experimental subjects in general for transgenic engineering at Earth's current tech level.  They're fast-growing, amenable to laboratory environments, and quite safe.
+
+When I think about enjoying writing down my thoughts, I start thinking about this kind of stuff.
