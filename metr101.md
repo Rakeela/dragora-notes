@@ -92,6 +92,7 @@ Low latitudes absorb more solar radiation than they shed.  High latitudes shed m
 Does this drive hot weather systems from the tropics?  The lecture cites currents as also being a method by which heat is transferred from the tropics.
 
 [[metr101Ch3-notes]]
+[[metr101Ch5-notes]]
 
 Back to [[college-notes]]
 
