@@ -23,3 +23,6 @@ If you pumped coolant through the roof of an indoor pig farm, the area of effect
 Beware: this will concentrate local pollutants in the vicinity implementing it, as well as leading to erosively damp local conditions.  Implementing other pollution control measures to filter air in the vicinity may be unusually high-impact, such as by installing utility mosswall cultivations outside the cooled polluting facility.  Moss loves the damp and will filter pollutants from the air.
 
 ---
+If a region had a prevailing wind current with a strong tendency to push air masses out over a particular large body of water, and this was stronger than the push-and-pull wind mediation effects of aquatic thermal mass, an opportunity would exist to accelerate the water cycle by building up a large earthwall - an artificial mountain range - upon the coast.  The air would dump its precipitation on the landward side, and then form a rain shadow over the water.  The warmer, dryer air over the water would then tend to accelerate evaporation in that water body.
+
+Weather control is made of edge cases, but not impossible or incomprehensible.
