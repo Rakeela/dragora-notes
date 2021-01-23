@@ -8,6 +8,8 @@ To-Do (Keep this at the top of the file.)
  - First Test (January 24th, 25th, or 26th)
  - Extra credit survey 1 (Due Jan 21)
  - Extra credit survey 2 (Due Jan 31)
+ - Reorganize notes
+ - Update to-do list
 
 "Course Outcomes"
 **Diagram** the vertical structure of the Earth's atmosphere and explain the concepts of density, pressure, and temperature, and how each varies vertically in the atmosphere.
