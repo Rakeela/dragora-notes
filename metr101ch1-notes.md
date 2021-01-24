@@ -32,3 +32,4 @@ This technique doesn't seem like it actually needs transgenic engineering, think
 
 This doesn't require the invention of new microbes, though it would require the completion of oceanographic surveys and prototype experiments to implement, with either an additional investment in automation or accounting for the wages of a manual laborer to operate the station.  It's a kind of wild algae farming for ecological purposes.  If doing it would be valuable, which is not to be considered proven, this could be done with labor, automation, or microbial engineering, in ascending order of both efficiency and task difficulty.
 
+...this is why I support hedonism.  I enjoy thinking about this stuff.
