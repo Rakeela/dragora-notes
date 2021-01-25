@@ -15,3 +15,6 @@ In Nationstates, one of the lines hostile to religion (though presented as a sou
 If every private area were tapped, he would've been caught spreading teachings outside of the faith.  I faced a lot of violence growing up, and my dad faced some, too.  In that community, would encouraging philosophy and a deep respect for others actually have been a permitted reason to diverge from theological adherence?  When do religions ever willingly permit theological divergence?
 
 Well, courtesy of that pastor, I know of one modern religion that would permit theological divergence under comprehensible yet never obligatory terms.  The motto of that faith sounds like this, "Go in peace, serve the Lord."
+---
+
+I think about environmentalism often, but I have a lot of sympathy for non-environmentalists.  I outright value industrialism.  I see eco-industrialism as humanity's necessary challenge.  I don't despair of China's industrial might, I despair of China's mighty industrial smog.
