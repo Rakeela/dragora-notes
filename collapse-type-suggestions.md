@@ -36,7 +36,8 @@ Haunted by Beyonders
 A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of temporal poisoning in this region that the Commonwealth needs to prove it can clean.
 Challenges:
 Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been found breaking good plans and exalting bad ones.  Investment return penalty.)
-(8 Unset)
+Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)
+(7 Unset)
 Special features:
 Sector always contains an artificial dreamtime and at least one jaunting grid, and has no imperial projects among its protected initial projects.
 

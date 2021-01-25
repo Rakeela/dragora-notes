@@ -1,18 +1,7 @@
 # ENVS&100
 
 To-Do (Keep this at the top of the file.)
- - Perform house assessment (Due Jan 20)
-   - Evaluate ecological footprint
-   - Blather about how to use 26% less electricity
- - Draft week three discussion post (Due Jan 21)
-   - Topic: Renewable Energy
-   - Instructions specify picking three sources of renewable energy and a country, then writing up (in three paragraphs) a plan to transition to those sources.
-   - 1st paragraph: Name the country, name the three sources, and justify them.
-   - 2nd paragraph: Further justification of the three chosen sources.
-   - 3rd paragraph: How do you convince the public that these are the right three sources?
-   - The per-paragraph specification on this essay makes it a little less fun and may increase the challenge.
- - Reply to two week three discussion posts (Due Jan 22)
- - Chapter 16 quiz (Due Jan 24)
+ - Draft week four discussion post (Due Jan 28)
 
 Course Outcomes:
 · Demonstrate the importance of using critical thinking and the scientific method to understand how human activities affect the limited resources of our planet.
@@ -28,7 +17,7 @@ The discussions are posted in advance.
 Discussion #1 - Introduction - Open Jan 4 - Due Jan 7 - I've posted here already, which I believe meets minimum engagement, though I should look again if I have any spare moments. - Link: [[Envs&100Disc1-Introduction]]
 Discussion #2 - Climate Change - Open Jan 7 - Due Jan 14 - I drafted something, but my search for citations suggests that I'll need to amend it before I can consider it a finished essay. - Link: [[Envs100Disc2-ClimateChange]]
 Discussion #3 - Renewable Energy - Open Jan 14 - Due Jan 21 - Note that the teacher has requested that this essay be specifically structured. - Link: [[Envs100disc3-RenewableEnergy]]
-Discussion #4 - Pandemic Blues and Silver Linings - Open Jan 21 - Due Jan 28
+Discussion #4 - Pandemic Blues and Silver Linings - Open Jan 21 - Due Jan 28 - Thank goodness, less mandatory structure this time.  Kind of personal, more low-key, but still requiring citations?  Teacher misspelled pre-pandemic. - Link: [[Envs100disc4-PandemicBlues]]
 Discussion #5 - Northwest Ecology - Open Jan 28 - Due Feb 4 - This is elsewhere in the course listed as "endangered speicies" (sic) so I'm uncertain of the actual subject.
 Discussion #6 - ???- Open ??? - Due ???
 Discussion #7 - Food vs Climate - Open Feb 4 - Due Feb 18
@@ -50,6 +39,7 @@ Back to [[college-notes]]
 [Envs&100Disc1-Introduction]: envs100disc1-introduction "Envs&100Disc1 Introduction"
 [Envs100Disc2-ClimateChange]: envs100disc2-climatechange "Envs&100Disc2 ClimateChange"
 [Envs100disc3-RenewableEnergy]: envs100disc3-renewableenergy "Envs100disc3 RenewableEnergy"
+[Envs100disc4-PandemicBlues]: envs100disc4-pandemicblues "Envs100disc4 PandemicBlues"
 [envs100Chapter1-Notes]: envs100chapter1-notes "Envs100Chapter1 Notes"
 [envs100chapter14-Notes]: envs100chapter14-notes "Envs100chapter14 Notes"
 [college-notes]: college-notes "college notes"

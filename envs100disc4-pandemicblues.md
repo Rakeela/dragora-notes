@@ -2,4 +2,6 @@
 
 This one's a potential personal challenge.  I've always had trouble accounting for myself, and in this case I've got an unusual narrative in the wrong direction.
 
-The pandemic was a pure improvement to my quality of life.
+The pandemic was a pure improvement to my quality of life.  I'm not about to object to moving out, but I've been living on the silver cloud.  We're fixing up RNA Vaccination technologies!  That's the tech to do a bunch of really cool stuff that we couldn't do yet because RNA vaccines self-limit as the immune system responds to them.  Now we're trying out new prototype RNA vaccination technologies in massive scale trials which should cure COVID-19 whether or not they fix the weaknesses with our previous generation of RNA vaccination technologies.  If that self-limiting factor in RNA vaccination does get fixed by the current research push, we can start rolling out allergy vaccinations to the public to fix a myriad of petty quality of life issues which afflict them.
+
+The improved sense of health from that should be universally available as well as providing a nice little karmic boost for removing allergies as a topic that can divide people in misery.  Freed of the weight of allergens, some of the people who are presently of marginal productivity will become more competent in their lives without need for the application of psychological change pressures.  People are both happier and more productive when they aren't suffering allergy symptoms.
