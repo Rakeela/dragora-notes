@@ -94,6 +94,7 @@ Suggested sources:
 https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
 https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
 https://www.frontiersin.org/articles/10.3389/fimmu.2019.00594/full
+https://www.phgfoundation.org/blog/rethinking-vaccination-with-RNA-vaccines
 Conclusion pro tempore:
 https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
 Concluding commentary:
@@ -105,8 +106,9 @@ is stalled behind a major barrier, which is that human immune systems learn resi
 Initial commentary:
 1.  This seems like information that may become hard to find at future points as people take inventions for granted, so I'm glad to be adding it to my records.
 2.  It's possible that I'm severely in error here, yet I would swear I've read about this before.  I understand that necessity was pushed very hard here, yet it seems like information inconvenient to 'necessary' courses of action tends to fall out of visibility to a disproportionate extent...
+3.  Persuasion is more competent if it includes evidence of hazards.  This is a general advice whose truth value increases in technical environments such as academia.
 Suggested sources:
-To-do
+https://www.mdpi.com/1422-0067/21/18/6582
 Conclusion pro tempore:
 To-do
 Concluding commentary:
