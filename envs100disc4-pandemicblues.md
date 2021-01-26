@@ -95,6 +95,8 @@ https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
 https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
 https://www.frontiersin.org/articles/10.3389/fimmu.2019.00594/full
 https://www.phgfoundation.org/blog/rethinking-vaccination-with-RNA-vaccines
+https://www.the-scientist.com/news-opinion/the-promise-of-mrna-vaccines-68202
+https://www.nature.com/articles/d41586-021-00019-w
 Conclusion pro tempore:
 https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
 Concluding commentary:
