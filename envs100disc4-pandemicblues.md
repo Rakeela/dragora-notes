@@ -80,7 +80,7 @@ Looking forward to changing technology is a little like looking at the bright si
 Draft one, paragraph two:
 I tell you, there is good news to be found in this global nightmare.  Far from the world of political stresses, humanity's brightest minds have been hard at work fixing up RNA Vaccination technologies![]  That's the tech to do a bunch of really cool stuff previously impossible for humanity due to self-limiting factors in human immunoresponse to RNA vaccinations[].  Now we're trying out new prototype RNA vaccination technologies[] in massive scale trials which should cure COVID-19 whether or not they fix the weaknesses with our previous generation of RNA vaccination technologies.  If that self-limiting factor in RNA vaccination does get fixed by the efforts of scientists involved in the current research push, we can do more than just cure COVID-19.  We can also start rolling out allergy vaccinations[] to the public to fix a myriad of petty quality of life issues which afflict them.
 Draft two, paragraph two:
-Far from the world of political stresses, humanity's brightest minds have been hard at work fixing up RNA Vaccination technologies!  Presently, this technology of RNA vaccination[] is stalled behind a major barrier, which is that human immune systems learn resistance against currently known RNA vaccines[].  Now we're trying out new prototype RNA vaccination technologies[] in massive scale trials which should cure COVID-19 whether or not they fix the weaknesses with our previous generation of RNA vaccination technologies.  If that self-limiting factor in RNA vaccination does get fixed by the efforts of scientists involved in the current research push, we can do more than just cure COVID-19.  We'll be able to cure a host of pathogenic ailments presently unsuited for vaccine targeting[].  This extends even to some unusually defined pathogens, such as allergens.  With RNA vaccinations, we can even start rolling out allergy vaccinations[] to the public to fix some of the myriad petty quality of life issues which afflict a great many people.
+Far from the world of political stresses, humanity's brightest minds have been hard at work fixing up RNA Vaccination technologies!  Presently, this technology of RNA vaccination[] is stalled behind a major barrier, which is that human immune systems learn resistance against currently known RNA vaccines[].  Now we're trying out new prototype RNA vaccination technologies[] in massive scale trials[] which should cure COVID-19 whether or not they fix the weaknesses with our previous generation of RNA vaccination technologies.  If that self-limiting factor in RNA vaccination does get fixed by the efforts of scientists involved in the current research push, we can do more than just cure COVID-19.  We'll be able to cure a host of pathogenic ailments presently unsuited for vaccine targeting[].  This extends even to some unusually defined pathogens, such as allergens.  With RNA vaccinations, we can even start rolling out allergy vaccinations[] to the public to fix some of the myriad petty quality of life issues which afflict a great many people.
 Redraft commentary:
 This doesn't fix more than is presently known obligatory to fix, risking the potential necessity of a draft three.  It's still very exciting, and now it arranges the flow of information more coherently.
 
@@ -104,11 +104,37 @@ Citation needed:
 is stalled behind a major barrier, which is that human immune systems learn resistance against currently known RNA vaccines[].
 Initial commentary:
 1.  This seems like information that may become hard to find at future points as people take inventions for granted, so I'm glad to be adding it to my records.
+2.  It's possible that I'm severely in error here, yet I would swear I've read about this before.  I understand that necessity was pushed very hard here, yet it seems like information inconvenient to 'necessary' courses of action tends to fall out of visibility to a disproportionate extent...
 Suggested sources:
-
+To-do
 Conclusion pro tempore:
-
+To-do
 Concluding commentary:
+To-do
+
+Citation needed:
+ Now we're trying out new prototype RNA vaccination technologies[]
+ Initial commentary:
+ 1.  This is actually kind of uncomfortable.  The RNA vaccines are novel.
+ 2.  This citation needs to establish the novelty of the vaccines.
+Suggested sources:
+To-do
+Conclusion pro tempore:
+To-do
+Concluding commentary:
+To-do
+
+Citation needed:
+in massive scale trials[]
+Initial commentary:
+1.  This is also kind of uncomfortable.  I'm referring to accelerated public deployment of prototype vaccine technologies.  Medical science doesn't like to do these things, but a global recession created by widespread quarantining in response to a pandemic brings a lot of necessity pressure to bear.
+2.  This citation needs to establish the acceleration of the work on the vaccine.
+Suggested sources:
+To-do
+Conclusion pro tempore:
+To-do
+Concluding commentary:
+To-do
 
 ---
 Blue sky foolishness:  "While performing the research that went into this essay, I compiled a procedural report describing the steps that physicians would need to perform in order to perform allergen vaccination treatments."
