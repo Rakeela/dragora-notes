@@ -7,3 +7,8 @@ Thoughts about media, perhaps.  Thoughts about science.  I don't think those sep
 I think about books, videogames, futurism, science projects, classwork, climate, geo-engineering...  Aha.  That's a conflict.  Is geo-engineering of the category science projects, climate, or futurism?  What is the hierarchy between those four topics?  What happens when the per-semester topic shifts of schooling mean that any kind of material can potentially be class-work, as geo-engineering thoughts are currently surfacing in my classwork?  This messes with my usage ideal.  If all the category labels can just co-apply, I haven't created a top-down structure of rising specificity.  I've only pushed the wiki-chaos to a higher level of abstraction.
 
 I don't know how to categorize my output.
+
+---
+I often enjoy reading science journalism.  I've occasionally appreciated pop sci publications.  It occurred to me this morning that the flow of science journalism is an actual indicator of the progress of various fields, and if I gathered up the links I found interesting, I'd be extending an archive of the status quo over time with a particular interest in my own subjects of interest.  It would increase my ability to refer my attention to the information content available over time.  Building this reference archive might help me make better choices in biotech markets; if it didn't help me, it would make my errors easier to analyze.
+
+I'm not committing to uploading a bunch of science news links yet, but I'm thinking about it.
