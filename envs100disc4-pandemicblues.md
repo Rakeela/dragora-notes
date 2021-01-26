@@ -110,10 +110,12 @@ Initial commentary:
 4.  I should take some notes about my own understanding here, as well; in searching for further information, I have to refine my mental model to seek after new search targets.  In this case, it appears that the effect which I am searching for (immune system deactivation of RNA vaccines) may be caused by the self-adjuvanting function of RNA vaccines.  Although this function is basically desirable in vaccines, which must stimulate immunoresponse in order to be competent as vaccines, among the behaviors that the immune system stimulates in response to this provocation is the production of Type 1 IFN and other interferons.  By inhibiting RNA transcription, they can prevent the basic function by which the RNA vaccine confers immunity.
 5.  It appears that dsRNA pollutants may decrease the efficacy of RNA vaccines by signalling the immune system to produce more RNA transcription inhibitor molecules.  This suggests that current reductions in inappropriate targeting by the immune system of the RNA vaccine compound may be due to increases in the precision with which RNA vaccines are purified.
 6.  There is some trait 'Cap0', 'Cap1', or 'uncapped' which may apply to RNA or not.  Whether 'capped' or 'uncapped', free RNA in cells is targeted for immunoresponse.  RNA with Cap1 caps are still translated after being targeted for immunoresponse, whereas Cap0 and uncapped RNA are not.  Thus, efficacy in RNA vaccines could be increased by using Cap1-capped RNA molecules.
+7.  The materials that I'm currently reading claim that the real problem interfering with RNA vaccination was intracellular delivery.  Hm...  I wonder if this is going to end up inciting a redraft.  I'm going to update my conclusion pro tempore.  I hate to give up on something obscure that I recall which would be very rhetorically useful if I could find it again in the research, but I'd rather have technical accuracy as verifiable rather than publishing something bizarrely impossible to substantiate.
 Suggested sources:
 https://www.mdpi.com/1422-0067/21/18/6582 <-- Potential use conflict, see other citations.
+redraft
 Conclusion pro tempore:
-To-do
+redraft
 Concluding commentary:
 To-do
 
