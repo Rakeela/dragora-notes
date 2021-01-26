@@ -111,7 +111,7 @@ Initial commentary:
 5.  It appears that dsRNA pollutants may decrease the efficacy of RNA vaccines by signalling the immune system to produce more RNA transcription inhibitor molecules.  This suggests that current reductions in inappropriate targeting by the immune system of the RNA vaccine compound may be due to increases in the precision with which RNA vaccines are purified.
 6.  There is some trait 'Cap0', 'Cap1', or 'uncapped' which may apply to RNA or not.  Whether 'capped' or 'uncapped', free RNA in cells is targeted for immunoresponse.  RNA with Cap1 caps are still translated after being targeted for immunoresponse, whereas Cap0 and uncapped RNA are not.  Thus, efficacy in RNA vaccines could be increased by using Cap1-capped RNA molecules.
 Suggested sources:
-https://www.mdpi.com/1422-0067/21/18/6582
+https://www.mdpi.com/1422-0067/21/18/6582 <-- Potential use conflict, see other citations.
 Conclusion pro tempore:
 To-do
 Concluding commentary:
@@ -140,6 +140,18 @@ Conclusion pro tempore:
 To-do
 Concluding commentary:
 To-do
+
+Citation needed:
+We'll be able to cure a host of pathogenic ailments presently unsuited for vaccine targeting[].
+Initial commentary:
+1.  I added this line to compensate for the risk of seeming trivial created by my focus on allergens.  I do think that in terms of, shall we say 'public aura', that allergies are among the highest priority cure targets.  Fixing allergens will do more to make people love each other than fixing influenza.  Yet fixing influenza has more gravitas.
+2.  I was worried this would be hard, but I stumbled across a useful source while examining the question of immunoresponse limitation on RNA vaccines.
+Suggested sources:
+https://www.mdpi.com/1422-0067/21/18/6582  <--->  Potential use conflict, see other citations.
+Conclusion pro tempore:
+https://www.mdpi.com/1422-0067/21/18/6582  <--->  Potential use conflict, see other citations.
+Concluding commentary:
+1.  I think I already have what I'm after, so I'll mark this in the other position as already used.
 
 ---
 Blue sky foolishness:  "While performing the research that went into this essay, I compiled a procedural report describing the steps that physicians would need to perform in order to perform allergen vaccination treatments."
