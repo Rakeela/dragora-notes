@@ -37,6 +37,7 @@ A combination of twisted hyperspatial geography and a too-fervent rejection of i
 Challenges:
 Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Investment return penalty.)  1
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  2
+Hyperspace Parasites (Stock.  Reproduction penalty.)  3
 (7 Unset)
 Special features:
 Sector always contains an artificial dreamtime and at least one jaunting grid, and has no imperial projects among its protected initial projects.
