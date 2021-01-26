@@ -2,14 +2,18 @@
 
 One of my characters in one of my stories is named 'Warlock', apostrophes included.  She's a fire elemental mink described as having flames seething through her fur.  Her fur is very warm to the touch, though not actively burning.  'Warlock' is not violent, but she is prone to accelerating without warning, and she is very, very fast.  She can be startling company.
 
-More important creatively than her otherworldly appearance is that she's also a deranged seer with strange non-local perceptions.  It's probably impossible to keep secrets from her, but she isn't necessarily willing or able to expose them to others.  She talks in a very distinctive way that I can't write without inspiration, but inspiration doesn't always happen on schedule.  To make writing 'Warlock''s dialogue possible, I gather these up when I find them, rather than only while writing her.  Some of her dialogue is nonsense, some of it is meaningful, and the balance of the two is up to the reader to interpret.  I try not to put anything in the mouth of 'Warlock' if it isn't suitably strange.
+More important creatively than her otherworldly appearance is that she's also a deranged seer with strange non-local perceptions.  It's probably impossible to keep secrets from her, but she isn't necessarily willing or able to expose them to others.  She talks in a very distinctive way that I can't write without inspiration, but inspiration doesn't always happen on schedule.  To make writing dialogue for 'Warlock' possible, I gather these up when I find them, rather than only while writing her.  Some of her dialogue is nonsense, some of it is meaningful, and the balance of the two is up to the reader to interpret.  I try not to put anything in the mouth of 'Warlock' if it isn't suitably strange.
 
-Asking 'Warlock' who she is gets particularly sterling nonsense from her.  She refuses to answer the question straightforwardly.  I'll mark these as ('Who are you?') in the used section.  In her setting, she's a government advisor in an underground city.  Her advice is well-informed and freely given, but frequently incomprehensible; she's also occasionally speaking in service to her own interests rather than the city's.  She resembles a kind of summoned creature in that setting, but her presence is voluntary.  She takes no orders and is not capable of fear.
+In her setting, she's a government advisor in an underground city.  She's recognized to have some kind of unusual perceptual advantage over most of the other people in the setting.  Her advice is well-informed and freely given, but frequently incomprehensible; she's also occasionally speaking in service to her own interests rather than the city's.  She resembles a kind of summoned creature in her setting, but her presence is voluntary.  She takes no orders and is not capable of fear.
+
+Asking 'Warlock' who she is gets particularly sterling nonsense from her.  She refuses to answer the question straightforwardly, and knowing that she's named 'Warlock' may be significant in some arcane way.  It's notable that her name is something which can only be learned from others who have worked with her.  I'll mark these as ('Who are you?') in the used section.
+
+I was tempted to write affect onto these, but Warlock actually has an ugly voice.  She can shout or whisper, but nothing sounds quite sweet from her.  Her looks are otherwise favorable, if you're interested in fireweasels.
 
 Previously used:
 "I am the other side of the tapestry, opposite the door you entered through."  ('Who are you?')
 "You've come by it honestly. So, King Gregory was a fool. You favor simplicity over him."
-"My name is burning! The only path is through!"
+"My name is burning! The only path is through!"  ('Who are you?')
 "Look at me.  I am not so large, but see how I flow? I burn, and I do not melt nor drip nor stick."
 "The constellations move so slowly."
 "You still swim in the well of your year."
