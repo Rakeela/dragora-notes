@@ -157,6 +157,17 @@ https://www.mdpi.com/1422-0067/21/18/6582  <--->  Potential use conflict, see ot
 Concluding commentary:
 1.  I think I already have what I'm after, so I'll mark this in the other position as already used.
 
+Citation needed:
+With RNA vaccinations, we can even start rolling out allergy vaccinations[]
+Initial commentary:
+1.  This is what I'm working for!  This potential can make people love each other more.  It gets rid of something that divides people, something that people resent about each other, one of the unmentionable hidden psychic injuries in humanity...  Allergies are just sniffling misery in the sinuses and malodorous misery in the gut.
+Suggested sources:
+https://pubmed.ncbi.nlm.nih.gov/30063806/
+Conclusion pro tempore:
+https://pubmed.ncbi.nlm.nih.gov/30063806/
+Concluding commentary:
+1.  From source 30063806, "The subtle priming of T helper 1 immunity induced by this vaccine type closely resembles responses of non-allergic individuals and-by boosting via natural allergen exposure-could suffice for long-term protection from type I allergy."  This is such a good line.
+
 ---
 Blue sky foolishness:  "While performing the research that went into this essay, I compiled a procedural report describing the steps that physicians would need to perform in order to perform allergen vaccination treatments."
 
