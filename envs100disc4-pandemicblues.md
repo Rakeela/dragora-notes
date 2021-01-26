@@ -13,3 +13,8 @@ Looking forward to changing technology is a little like looking at the bright si
 Whew.  This is going to be hard to author citations for.  I know where to find the research that I'm drawing from, but my citodensity is going to score another high as I try to bring people with technical minds into my excitement.  I'm starting to think I love the university environment.
 
 Conceivably, it might be possible to cite that psychological change pressures make people unhappy.  I think I can probably cite something suggesting the unproductive are disliked.  Substantiating the claim that malorodousness impairs social standing would be straightforward and favorable although it is also fairly obvious, and I'm unsure where to find that information; I should also try to substantiate the technical claim that allergies can increase malodorousness.  The citation about unavoidable foods should be about substantiating a link between grain allergies and malodorousness, not about establishing the existence of grain allergies.
+
+---
+I feel emotionally overwhelmed by this assignment.  "I've always had trouble accounting for myself," is no idle statement.  Trying to describe my life in public school essays was nothing short of traumatic; it was a good way to make me cry an awful lot.
+
+...I slept on it, and I still feel this way.  I'm not sure how to proceed with this draft.  The task of digging up the citations is mechanically straightforward.  If someone else had written this with the same citation gaps, I could easily look them up, fill them in, and consider it good work.  Yet it's my own, and that hurts.
