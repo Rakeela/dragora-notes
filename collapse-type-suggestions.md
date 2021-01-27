@@ -31,23 +31,28 @@ Replicating Minefield (Stock.  Trade penalty.)  2
 Special features:
 Sector retains some Commonwealth projects, most commonly patriotic indoctrination.
 
-Third suggestion:  (Incomplete)
+Third suggestion:  (Complete?)
 Haunted by Beyonders
-A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of temporal poisoning in this region that the Commonwealth needs to prove it can clean.
+A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of hyperspatial poisoning in this region that the Commonwealth needs to prove it can clean.
 Challenges:
 Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Investment return penalty.)  1
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  2
-Hyperspace Parasites (Stock.  Reproduction penalty.)  3
-(7 Unset)
+Hyperspace Infections (Stock.  Reproduction penalty.)  3
+Climactic Disruption (Stock.  Biological specialist penalty.)  4
+Paranoid Culture (Stock.  Cultural specialist penalty.)  5
+Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.) 6
+Anti-Beyonder Investors (The financial establishment in this district is convinced that Beyonder financial advise is wholly dedicated to the long-term ruin of the market.  This is rarely if ever true.  Morever, local efforts to defy or manipulate Beyonder financial strategies amount to sacred incompetence.  Investment return penalty.)  7
+Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  8
+Market Collapse (Stock.  Investment return penalty.)
 Special features:
-Sector always contains an artificial dreamtime and at least one jaunting grid, and has no imperial projects among its protected initial projects.
+Sector always contains an artificial dreamtime and at least one jaunting grid, having otherwise no imperial projects among its protected initial projects.
 
 Fourth suggestion: (Incomplete)
 Hyper-Isolated Development
 A recent campaign of long-term redevelopment in this region fell apart due to accidents of geography and poor space utilization strategies.  The region is suffering from de facto long-term isolation despite the attempts of the Commonwealth to attend to it, and a corrective Viceregal administration has been authorized.
 Challenges:
-Isolated Geography (Stock.  Trade penalty.)  1
-Orbital Debris (Stock.  Trade penalty.)  2
+Poor Local Logistics (Stock.  Trade penalty.)  1
+Debris Ring (Stock.  Trade penalty.)  2
 (7 Unset)
 Special features:
 (Unset)
