@@ -163,10 +163,12 @@ Initial commentary:
 1.  This is what I'm working for!  This potential can make people love each other more.  It gets rid of something that divides people, something that people resent about each other, one of the unmentionable hidden psychic injuries in humanity...  Allergies are just sniffling misery in the sinuses and malodorous misery in the gut.
 Suggested sources:
 https://pubmed.ncbi.nlm.nih.gov/30063806/
+https://pubmed.ncbi.nlm.nih.gov/20856111/
 Conclusion pro tempore:
 https://pubmed.ncbi.nlm.nih.gov/30063806/
 Concluding commentary:
-1.  From source 30063806, "The subtle priming of T helper 1 immunity induced by this vaccine type closely resembles responses of non-allergic individuals and-by boosting via natural allergen exposure-could suffice for long-term protection from type I allergy."  This is such a good line.
+1.  From source 30063806, "The subtle priming of T helper 1 immunity induced by this vaccine type closely resembles responses of non-allergic individuals and-by boosting via natural allergen exposure-could suffice for long-term protection from type I allergy."  This is such a good line.  Likewise from 20856111, "Preliminary data raise the question whether TH1 immune deviation induced by mRNA vaccination resembles the natural phenotype of a certain proportion of nonatopic individuals."
+2.  I'm still looking for the downside information that I thought I recalled!
 
 ---
 Blue sky foolishness:  "While performing the research that went into this essay, I compiled a procedural report describing the steps that physicians would need to perform in order to perform allergen vaccination treatments."
