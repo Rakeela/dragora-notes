@@ -189,6 +189,10 @@ I've found references to TLRs (Toll-Like Receptors) and PRRs (Pattern Recognitio
 
 I've found some research that suggests actively provoking the immune system's intracellular pathogen response systems in order to create local competency against infections which natively evade or underactivate cellular countermeasures, and I've found plenty that talks about the self-adjuvanting properties of RNA vaccines, but I haven't found mention of adverse immune system learning.
 
+More jargon for potential recognizers:  Some PRRs recognize RNA viral infections including toll-like receptors 3 and 8 (TLRs), NOD-like receptors NLRP6 and 9 (NLRs), certain DDX/DHX helicases, and RLRs (retinoic acid inducible gene 1 (RIG-I) and melanoma differentiation associated protein 5 (MDA5).  Copied from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019452/
+
+It looks like this really digs hard into the biochemical dynamics of the system at its smallest scale.  I guess I shouldn't be surprised.  The microRNA molecules are only about 22 nucleotides, and if I understand the concept correctly, a nucleotide is only about 22 atoms in size.  22^2 is not a large molecule in biochemical terms.
+
 ---
 Goofy thought preserved for bio-weirdness reasons:  Can we program cellular machinery that emulates the DNA transcription targets of viruses with shim consequences, inducing viral DNA transcription without functional impact?  New designer immune system tool if so...
 
