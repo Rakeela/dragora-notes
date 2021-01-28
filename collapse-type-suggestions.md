@@ -49,7 +49,7 @@ Sector always contains an artificial dreamtime and at least one jaunting grid, h
 
 Fourth suggestion: (Incomplete)
 Hyper-Isolated Development
-A recent campaign of long-term redevelopment in this region fell apart due to accidents of geography and poor space utilization strategies.  The region is suffering from de facto long-term isolation despite the attempts of the Commonwealth to attend to it, and a corrective Viceregal administration has been authorized.
+A recent campaign of long-term redevelopment in this region fell apart due to accidents of bad planetary geography and space utilization.  The region is suffering from de facto long-term isolation despite the attempts of the Commonwealth to attend to it, and a corrective Viceregal administration has been authorized.
 Challenges:
 Poor Local Logistics (Stock.  Trade penalty.)  1
 Debris Ring (Stock.  Trade penalty.)  2
