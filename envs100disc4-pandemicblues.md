@@ -341,7 +341,7 @@ https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/study-a
 Concluding commentary:
 1.  I wonder if there's a career in writing this kind of stuff.  I think I'm doing it better than most people would, and I'm not at my limit; with more time and better objectives, I could produce higher quality output than this.
 
-Citation needed:7
+Citation needed: 7
 There is interest in using this technique to produce new, more general vaccines for influenza[]
 Initial commentary:
 1.  The better the research, the better the citation.  Still, I only have to establish interest, so even a low quality citation suffices here.
@@ -357,7 +357,7 @@ Concluding commentary:
 5.  This source also affirms the coronavirus spike protein focus, and could theoretically have been used there as well.
 6.  The possibility of using RNA vaccines against bacterial pathogens is mentioned, but I would interpret this material as mentioning it as something which has been under-explored.
 
-Citation needed:  8
+Citation needed:  7
 some researchers believe RNA vaccination will make an HIV vaccine[]
 Initial commentary:
 1.  This is clearly best answered by citing the same thing I just cited for influenza.  A general review document was a great find here.  I can just put the same citation number on both claims.
@@ -368,7 +368,7 @@ https://www.phgfoundation.org/briefing/rna-vaccines
 Concluding commentary:
 1.  Easy!
 
-Citation needed:  9
+Citation needed:  8
 Yet the possibility that most excites me is something of a trivial edge-case which previous vaccine technologies could never accomplish: allergy vaccines[]
 Initial commentary:
 1.  I only have to establish interest in the concept for this... but it's still kind of hard to choose which source I think is most important.
@@ -381,7 +381,7 @@ Concluding commentary:
 1.  I'm leaving in the "javascript_support=no" line.  It amuses me to do so.
 2.  This is a mouse medicine review, but it does everything this point needs.  It talks about mRNA vaccines in a context that takes them implicitly seriously and straightforwardly applies them in experimental procedure.  The data here could be trash and this report would still do what I needed it to do as long as someone was actually out there injecting those poor defenseless meese with biological substances... which is kind of strange to say for more than just the odd verbiage I gave it.  An evaluation like that makes me feel like a less mathematical class of scientist, and how is that even possible?  I can strip my necessity back to establishing that the technology is believed to exist by people who can be expected to only believe in it if it's true.  That necessity is met by the existence of the report and its author's performance of its described operations, even if the entire quantitative content of the report is invalid.  Does logic exist separately from mathematics?
 
-Citation needed:
+Citation needed: 9
 People are both happier and more productive when they aren't suffering allergy symptoms[]
 Initial commentary:
 1.  Sweet finally, I am in the next section of citations.  New work with new challenges!
@@ -393,7 +393,7 @@ https://pubmed.ncbi.nlm.nih.gov/10977437/
 Concluding commentary:
 1.  This was the first hit for a search of "allergies have productivity costs" (exactly save without quotation marks) on Google.  "The cost of productivity losses associated with allergic rhinitis," by Crystal-Peters, J., Crown, W., H., Goetzel R. Z., and Schutt D., C.  It suffices.
 
-Citation needed:
+Citation needed:  null
 How many people in this world are hated because they are "doing nothing"[]?
 Initial commentary:
 1.  The citation mark is cheeky.  It implies that I have an answer to the question of "how many".  I don't, and I don't actually have to meet that standard.  I just need to find something in social science substantiating the basically obvious idea that people who are less economically successful in adult life are less popular.
@@ -406,7 +406,7 @@ Petty redraft
 Concluding commentary:
 1.  Don't redraft the whole thing, just make it say "Knowing that allergies impair productivity, how many people in this world are unpopular because of impairments to their productivity?"  That's enough.
 
-Citation needed:
+Citation needed:  10
 Are any of those people unproductive because their life forces them into frequent exposures to allergens[]?
 Initial commentary:
 1.  I wanted to find good data correlating the presence of allergies with different life outcomes in monetary or otherwise readily quantified form.  I found an obscure data review I can't get access to and a source complaining that more studies of this kind haven't been done.  Since I'm citing a question, I feel comfortable leaving the citation in and linking the complainant review.
@@ -421,7 +421,7 @@ Concluding commentary:
 1.  I can't use the paper linked at S104727970000079X as a source because, although it is more up to date and appears potentially relevant, I do not have full access to it with which to verify its salience, and I cannot comfortably confirm its salience from the abstract alone.
 2.  This is a choice of disappointing quality, but I have to keep moving on this task.
 
-Citation needed:
+Citation needed:  11
 How often are people harder to tolerate due to a flaw as politely unmentionable and ethically irrelevant as a bad personal odor[]?
 Initial commentary:
 1.  I don't need to cite this one, but it's good-humored.  It points to data that people might chase in amusement.
@@ -432,7 +432,7 @@ https://link.springer.com/chapter/10.1007/978-3-319-26932-0_50
 Concluding commentary:
 1.  I found three potential sources and this was the best.  It establishes that variation exists.  This isn't important enough to spend more time on.  Moving right along...
 
-Citation needed:
+Citation needed:  12
 undiscovered food allergies[]
 Initial commentary:
 1.  Ideally, I want to find evidence for the presence of undiscovered food allergies.
@@ -445,7 +445,7 @@ https://seattleallergynaturalsolutions.com/are-you-the-victim-of-hidden-allergie
 Concluding commentary:
 1.  Non-academic source.  It raises the question.  Beyond that, I'm praying for the quality of a random dot-com website to not embarrass me.  I don't have time for deep review.
 
-Citation needed:
+Citation needed:  13
 allergic responses to nearly-unavoidable foods like grain[]
 Initial commentary:
 1.  This is actually an important point.  If I can substantiate flatulence from celiac's, that helps my argument that allergy vaccinations should be pursued.
@@ -469,10 +469,10 @@ Citations
 [2]  Rishi.  (2020, November 23)  HOW MRNA VACCINES WORK - GENE TRANSCRIPTION AND TRANSLATION.  RK.md  Retrieved January 28, 2021 from https://rk.md/2020/how-mrna-vaccines-work-gene-transcription-and-translation/
 [3]  Shi-Hua, L.  Xiao-Feng, L.  Hui, Z.  Yong-Qiang, D.  Xue-Dong, Y.  Shun-Ya, Z.  Tao, J.  Qing, Y.  E-De, Q.  Cheng-Feng, Q.  (2013)  Development and characterization of the replicon system of Japanese encephalitis live vaccine virus SA14-14-2.  Virology Journal.  Retrieved January 28, 2021 from https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-10-64#:~:text=A%20viral%20replicon%20is%20a,or%20replaced%20by%20foreign%20genes
 [4]  Caddy, S.L.  (2020, December 20)  COVID-19 vaccines focus on the spike protein, but there's another target.  ASBMBTODAY.  Retrieved January 28, 2021 from https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
-[5]    Retrieved January 28, 2021 from https://pubmed.ncbi.nlm.nih.gov/19439480/
+[5]  Madu, I.G.  Roth, S.L.  Belouzard, S.  Whittaker, G.R.  (2009, August) Characterization of a highly conserved domain within the severe acute respiratory syndrome coronavirus spike protein S2 domain with characteristics of a viral fusion peptide.  J Virol.  Retrieved January 28, 2021 from https://pubmed.ncbi.nlm.nih.gov/19439480/
 [6]  Ravichandran, S.  Coyle, E.M.  Klenow, L.  Juanjie,  T. Grubbs, G.  Shufeng, L.  Wang, T.  Golding, H.  Khurana, S.   Retrieved January 28, 2021 from https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/study-antibody-response-sars-cov-2-spike-proteins-could-help-inform-vaccine-design
-[7]  Retrieved January 28, 2021 from
-
+[7]  Blackburn, L.  (2018, October)  RNA vaccines: an introduction.  phg foundation.  Retrieved January 28, 2021 from https://www.phgfoundation.org/briefing/rna-vaccines
+[8]  
 
 
 
