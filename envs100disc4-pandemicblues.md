@@ -472,7 +472,12 @@ Citations
 [5]  Madu, I.G.  Roth, S.L.  Belouzard, S.  Whittaker, G.R.  (2009, August) Characterization of a highly conserved domain within the severe acute respiratory syndrome coronavirus spike protein S2 domain with characteristics of a viral fusion peptide.  J Virol.  Retrieved January 28, 2021 from https://pubmed.ncbi.nlm.nih.gov/19439480/
 [6]  Ravichandran, S.  Coyle, E.M.  Klenow, L.  Juanjie,  T. Grubbs, G.  Shufeng, L.  Wang, T.  Golding, H.  Khurana, S.   Retrieved January 28, 2021 from https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/study-antibody-response-sars-cov-2-spike-proteins-could-help-inform-vaccine-design
 [7]  Blackburn, L.  (2018, October)  RNA vaccines: an introduction.  phg foundation.  Retrieved January 28, 2021 from https://www.phgfoundation.org/briefing/rna-vaccines
-[8]  
+[8]    Retrieved January 28, 2021 from
+[9]    Retrieved January 28, 2021 from
+[10]    Retrieved January 28, 2021 from
+[11]    Retrieved January 28, 2021 from
+[12]    Retrieved January 28, 2021 from
+[13]    Retrieved January 28, 2021 from
 
 
 
