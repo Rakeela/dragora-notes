@@ -9,7 +9,7 @@ Rogue AI Rebellion (Complete & Submitted)
 This sector has been destroyed by crazy artificial intelligences whose psychology went completely outside of normal operating parameters. The commonwealth needs this set straight so that it stops impairing public faith in the galaxy’s advanced AI technologies.
 Challenges:
 Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.) 1
-Obsessive Symmetry (This planet’s ruling AIs refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industry specialty penalty.) 2
+Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industry specialty penalty.) 2
 Rampant Wardrones (The sectors of this planet are controlled by and/or dedicated to fighting against control by AI wardrones, and the galaxy is horrified. Influence penalty.). 3
 Biological Embargo (Stock. Biological specialty penalty.) 4
 Determinist Culture (Stock. Happiness penalty.) 5
@@ -56,3 +56,16 @@ Debris Ring (Stock.  Trade penalty.)  2
 (7 Unset)
 Special features:
 (Unset)
+
+Fifth suggestion: (Incomplete)
+Stasis Collapse
+The love of immortality and long-term planning set in so completely in this region that its economy locked up with inactivity and became actively unsustainable.  The Panarchy has withdrawn immortality from the region and authorized a viceregal administration to reactivate the stalled economy.
+Challenges:
+Zero Birth Culture (Stock.  Reproduction penalty.)  1
+Eternal Philosophers  (Stock.  Bureaucratic penalty.)  2
+Extreme Family Planning  (The people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  3
+Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  4
+Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.)  5
+(4 Unset)
+Special features:
+(unset)

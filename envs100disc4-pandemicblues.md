@@ -249,9 +249,9 @@ This essay has been a personal challenge to write.  I've always had trouble acco
 
 Far from the world of political stresses, humanity's brightest minds have been hard at work fixing up RNA vaccination technologies[].  While studying the available research in order to write this essay, I wasn't able to discern why this technology wasn't deployed more swiftly and for a wider variety of applications, because RNA vaccination appears to be wholly advantageous and much more diversely applicable than modern DNA vaccination technology.  RNA vaccines give to cells instructions[] which they utilize to produce noninfectious psuedoviral particles known as replicons[].  Each replicon is a tiny lipid vesicle which expresses basic viral replication abilities plus a harm-reduced subset of viral features that we want the immune system to learn from.  COVID-19 replicons prominently express the infamous spike protein[] that COVID-19 uses to enter cells.  It is a distinctive feature not found in tissues we want to preserve which is highly conserved across strains of COVID-19[], and immune cells which react aggressively to it are expected to be highly effective against COVID-19 viral particles[].  Where the COVID-19 viral particles have a lot of viral machinery with which to attack the body and spread themselves, my understanding is that COVID-19 vax-replicons are basically little lipid blobs with intrusion spikes on them that won't damage the body enough to stop the immune system from learning how to attack that spike.
 
-This technique of teaching cells to make noninfectious lipid blobs that express pathogen associated chemistries that we want to train the immune system against is applicable to far more than just COVID-19, and indeed to more pathogens than medicine currently has effective countermeasures against.  RNA vaccines let us customize the immunoresponse pattern by choosing which pathogen associated molecular patterns (PAMPs) we teach the body to present to the immune system, which allows for vaccines to be deployed targeting specific highly conserved components of difficult-to-target viruses, thereby producing more general (less strain-specific) vaccinations which viruses will be less capable of mutating to evade.  There is interest in using this technique to produce new, more general vaccines for influenza[], and some researchers believe RNA vaccination will make an HIV vaccine[] possible as well.  Yet the possibility that most excites me is something of a trivial edge-case which DNA vaccines can never accomplish: allergy vaccines[].
+This technique of teaching cells to make noninfectious lipid blobs that express pathogen associated chemistries that we want to train the immune system against is applicable to far more than just COVID-19, and indeed to more pathogens than medicine currently has effective countermeasures against.  RNA vaccines let us customize the immunoresponse pattern by choosing which pathogen associated molecular patterns (PAMPs) we teach the body to present to the immune system, which allows for vaccines to be deployed targeting specific highly conserved components of difficult-to-target viruses, thereby producing more general (less strain-specific) vaccinations which viruses will be less capable of mutating to evade.  There is interest in using this technique to produce new, more general vaccines for influenza[], and some researchers believe RNA vaccination will make an HIV vaccine[] possible as well.  Yet the possibility that most excites me is something of a trivial edge-case which previous vaccine technologies could never accomplish: allergy vaccines[].
 
-Allergies risk sounding like a petty focus in this context, but I think it's a very important aspect of humanity's medical potential.  The improved sense of health from curative allergy treatments would be universally available as well as providing a nice little karmic boost for removing allergies as a topic that can divide people in misery.  Freed of the weight of allergens, some of the people who are presently of marginal productivity will become more competent in their lives without need for the application of psychological change pressures[].  People are both happier and more productive when they aren't suffering allergy symptoms[].  Even some of the interpersonal hatred that comes between people can be resolved by interventions like this.  How many people in this world are hated because they are "doing nothing"[]?  Are any of those people unproductive because their life forces them into frequent exposures to allergens[]?  A medical system that can fix allergies can make those individuals productive without handing a moral victory to people who were unduly pressuring them.  How often are people harder to tolerate due to a flaw as politely unmentionable and ethically irrelevant as a bad personal odor[]?  Are any of the malodorous people stuck in that state due to undiscovered food allergies[], or allergic responses to nearly-unavoidable foods like grain[]?  A medical system that can fix allergies can help those people achieve the social respect they deserve.
+Allergies risk sounding like a petty focus in this context, but I think it's a very important aspect of humanity's medical potential.  The improved sense of health from curative allergy treatments would be universally available as well as providing a nice little karmic boost for removing allergies as a topic that can divide people in misery.  Freed of the weight of allergens, some of the people who are presently of marginal productivity will become more competent in their lives without need for the application of psychological change pressures.  People are both happier and more productive when they aren't suffering allergy symptoms[].  Even some of the interpersonal hatred that comes between people can be resolved by interventions like this.  How many people in this world are hated because they are "doing nothing"[]?  Are any of those people unproductive because their life forces them into frequent exposures to allergens[]?  A medical system that can fix allergies can make those individuals productive without handing a moral victory to people who were unduly pressuring them.  How often are people harder to tolerate due to a flaw as politely unmentionable and ethically irrelevant as a bad personal odor[]?  Are any of the malodorous people stuck in that state due to undiscovered food allergies[], or allergic responses to nearly-unavoidable foods like grain[]?  A medical system that can fix allergies can help those people achieve the social respect they deserve.
 
 Looking forward to changing technology is a little like looking at the bright side of all things, and thanks to my interest in biotechnology, I can't say I've been suffering terribly under pandemic blues.  It is horrible that people suffer of disease, but on the other hand every advance in our biotechnical capabilities can bring forth wonders.  Our society has more to gain in cohesion and beauty within the next few years for that the work being done to cure this plague is being done today.  We are increasing our ability to target the molecular machinery of pathogens, and in that process we are gaining permanent advantage in all contest against disease, which force cannot forever survive against the might of human medical capabilities.  We need only ensure that a sufficient force is brought to bear against it.  Every barrier in this world formed of faulty medical conditions can in time be dissolved should we but have the will to reach for their dissolution.
 
@@ -309,6 +309,7 @@ Initial commentary:
 2.  I'm not sure that the COVID-19 replicons being used for vaccination actually express the spike protein.  There's definitely a ton of research being done on them...
 Suggested sources:
 https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
+https://www.phgfoundation.org/briefing/rna-vaccines
 Conclusion pro tempore:
 https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
 Concluding commentary:
@@ -341,6 +342,50 @@ Concluding commentary:
 1.  I wonder if there's a career in writing this kind of stuff.  I think I'm doing it better than most people would, and I'm not at my limit; with more time and better objectives, I could produce higher quality output than this.
 
 Citation needed:
+There is interest in using this technique to produce new, more general vaccines for influenza[]
+Initial commentary:
+1.  The better the research, the better the citation.  Still, I only have to establish interest, so even a low quality citation suffices here.
+Suggested sources:
+https://www.phgfoundation.org/briefing/rna-vaccines
+Conclusion pro tempore:
+https://www.phgfoundation.org/briefing/rna-vaccines
+Concluding commentary:
+1.  This is a PDF... and it has a grammatical error on page 13.
+2.  I'm grateful for my fast reading speed.
+3.  This is actually a pretty good source!  I think I can twice-link it to establish interest in an HIV RNA vaccine as well, since it mentions that research possibility on page 15, where it also discusses focusing on highly conserved regions of influenza in order to provide pan-influenza immunity.
+4.  I'm really excited by reductions in disease rates.  Societies have historically grown more liberal and tolerant of one other as they've conquered disease risks AFAIK.  I think some of humanity's historic xenophobia was because traders in primitive societies were such horrific disease vectors that societies which heeded crazy hostile people initially prospered ahead of those who tried to work with each other across wide geographic distances.  One of the early human cultures was especially peaceful and cooperative, and well positioned to really get ahead of the curve... until a plague spreading along the tool-and-pottery trade routes totally wiped it out.  Yuck.  The survivors in the region were all from isolated hateful communities that had violently rejected merchants and interacted with the trade routes only by occasionally predating on them, so guess what human society was like in that region for thousands of years afterwards?  Modern societies are already clean enough to ensure that will never happen again, and RNA vaccines are an advance towards eliminating even the medical barriers that remain.
+5.  This source also affirms the coronavirus spike protein focus, and could theoretically have been used there as well.
+6.  The possibility of using RNA vaccines against bacterial pathogens is mentioned, but I would interpret this material as mentioning it as something which has been under-explored.
+
+Citation needed:
+some researchers believe RNA vaccination will make an HIV vaccine[]
+Initial commentary:
+1.  This is clearly best answered by citing the same thing I just cited for influenza.  A general review document was a great find here.  I can just put the same citation number on both claims.
+Suggested sources:
+https://www.phgfoundation.org/briefing/rna-vaccines
+Conclusion pro tempore:
+https://www.phgfoundation.org/briefing/rna-vaccines
+Concluding commentary:
+1.  Easy!
+
+Citation needed:
+Yet the possibility that most excites me is something of a trivial edge-case which previous vaccine technologies could never accomplish: allergy vaccines[]
+Initial commentary:
+1.  I only have to establish interest in the concept for this... but it's still kind of hard to choose which source I think is most important.
+2.  I want to indicate something other than child-focused or prophylactic interest.  I think that forever focusing on children misses out on the pacifism-promoting advantages of vaccinations, which are even the best in terms of their implications on child welfare...  Children are much better treated in those tolerant, cooperative merchant cultures than they are in the xenophobic, exploitative bandit cultures, and the ratio between the two shifts based on adult healthcare, not based on child healthcare.  Actually, I'm kind of frustrated long-term by how many human social processes get a bit deranged when they fixate too exactly on children.  Child welfare is not always best served by child welfare advocates, many of whom are just natalists and prey to natalistic biases.
+Suggested sources:
+https://europepmc.org/article/PMC/4628660?javascript_support=no
+Conclusion pro tempore:
+https://europepmc.org/article/PMC/4628660?javascript_support=no
+Concluding commentary:
+1.  I'm leaving in the "javascript_support=no" line.  It amuses me to do so.
+2.  This is a mouse medicine review, but it does everything this point needs.  It talks about mRNA vaccines in a context that takes them implicitly seriously and straightforwardly applies them in experimental procedure.  The data here could be trash and this report would still do what I needed it to do as long as someone was actually out there injecting those poor defenseless meese with biological substances... which is kind of strange to say for more than just the odd verbiage I gave it.  An evaluation like that makes me feel like a less mathematical class of scientist, and how is that even possible?  I can strip my necessity back to establishing that the technology is believed to exist by people who can be expected to only believe in it if it's true.  That necessity is met by the existence of the report and its author's performance of its described operations, even if the entire quantitative content of the report is invalid.  Does logic exist separately from mathematics?
+
+Citation needed:
+People are both happier and more productive when they aren't suffering allergy symptoms[]
+Initial commentary:
+1.  Sweet finally, I am in the next section of citations.  New work with new challenges!
+2.  This is productivity data.  Citing both claims would be nice, but citing the productive data is more important.  I think the fact that people are happier when they aren't suffering allergy symptoms is sufficiently subjectively uncontroversial that there's no need of a citation there.
 
 
 
