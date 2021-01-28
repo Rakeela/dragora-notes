@@ -391,7 +391,78 @@ https://pubmed.ncbi.nlm.nih.gov/10977437/
 Conclusion pro tempore:
 https://pubmed.ncbi.nlm.nih.gov/10977437/
 Concluding commentary:
-1.  This was the first hit for a search of "allergies have productivity costs" (exactly save without quotation marks) on Google.  "The cost of productivity losses associated with allergic rhinitis," by Crystal-Peters, J., Crown, W., H., Goetzel R. Z., and Schutt D., C.  It 
+1.  This was the first hit for a search of "allergies have productivity costs" (exactly save without quotation marks) on Google.  "The cost of productivity losses associated with allergic rhinitis," by Crystal-Peters, J., Crown, W., H., Goetzel R. Z., and Schutt D., C.  It suffices.
+
+Citation needed:
+How many people in this world are hated because they are "doing nothing"[]?
+Initial commentary:
+1.  The citation mark is cheeky.  It implies that I have an answer to the question of "how many".  I don't, and I don't actually have to meet that standard.  I just need to find something in social science substantiating the basically obvious idea that people who are less economically successful in adult life are less popular.
+2.  My initial websearch indicates a potential source of primary difficulty.  This concept is so obvious that it's getting used in a broad and unsubstantiated implicit-use form which is academically inconvenient because of the way it clogs the search engine results with things that upon the concept without so much as saying it.  Yeesh.  It's not quite that obvious to me.
+3.  Hm.  Actually, if I minorly redraft it (such as by adding a clarifying parenthetical), I think I can take it to a status that will no longer seem necessary for me to provide a citation.  Which, being as I am pressed for time, is what I am going to do.
+Suggested sources:
+Petty redraft
+Conclusion pro tempore:
+Petty redraft
+Concluding commentary:
+1.  Don't redraft the whole thing, just make it say "Knowing that allergies impair productivity, how many people in this world are unpopular because of impairments to their productivity?"  That's enough.
+
+Citation needed:
+Are any of those people unproductive because their life forces them into frequent exposures to allergens[]?
+Initial commentary:
+1.  I wanted to find good data correlating the presence of allergies with different life outcomes in monetary or otherwise readily quantified form.  I found an obscure data review I can't get access to and a source complaining that more studies of this kind haven't been done.  Since I'm citing a question, I feel comfortable leaving the citation in and linking the complainant review.
+2.  I'm kind of amused that a researcher successfully published a paper complaining about the lack of this data.  Mystery is not merely a cultural fuel of science.  Formally establishing what is not known is part of science, too!
+3.  On the other hand, it's from 1979, which makes me feel pretty bad.  There should be more since then, if I had more time to scour the research archives.
+Suggested sources:
+https://www.sciencedirect.com/science/article/abs/pii/S104727970000079X
+https://www.sciencedirect.com/science/article/abs/pii/0271712379900828
+Conclusion pro tempore:
+https://www.sciencedirect.com/science/article/abs/pii/0271712379900828
+Concluding commentary:
+1.  I can't use the paper linked at S104727970000079X as a source because, although it is more up to date and appears potentially relevant, I do not have full access to it with which to verify its salience, and I cannot comfortably confirm its salience from the abstract alone.
+2.  This is a choice of disappointing quality, but I have to keep moving on this task.
+
+Citation needed:
+How often are people harder to tolerate due to a flaw as politely unmentionable and ethically irrelevant as a bad personal odor[]?
+Initial commentary:
+1.  I don't need to cite this one, but it's good-humored.  It points to data that people might chase in amusement.
+Suggested sources:
+https://link.springer.com/chapter/10.1007/978-3-319-26932-0_50
+Conclusion pro tempore:
+https://link.springer.com/chapter/10.1007/978-3-319-26932-0_50
+Concluding commentary:
+1.  I found three potential sources and this was the best.  It establishes that variation exists.  This isn't important enough to spend more time on.  Moving right along...
+
+Citation needed:
+undiscovered food allergies[]
+Initial commentary:
+1.  Ideally, I want to find evidence for the presence of undiscovered food allergies.
+2.  If I don't find it quickly, I'm going to strip the citation.
+Suggested sources:
+Strip the citation
+https://seattleallergynaturalsolutions.com/are-you-the-victim-of-hidden-allergies/
+Conclusion pro tempore:
+https://seattleallergynaturalsolutions.com/are-you-the-victim-of-hidden-allergies/
+Concluding commentary:
+1.  Non-academic source.  It raises the question.  Beyond that, I'm praying for the quality of a random dot-com website to not embarrass me.  I don't have time for deep review.
+
+Citation needed:
+allergic responses to nearly-unavoidable foods like grain[]
+Initial commentary:
+1.  This is actually an important point.  If I can substantiate flatulence from celiac's, that helps my argument that allergy vaccinations should be pursued.
+Suggested sources:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4954875/
+Conclusion pro tempore:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4954875/
+Concluding ccommentary:
+1.  Fortunately, this one is easy to source!
+
+**Citation project iteration 3 concluded**
+Output state: Implement all pro tempore conclusions in current project state.
+
+---
+Final Draft
+
+
 
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
