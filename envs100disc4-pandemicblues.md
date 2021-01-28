@@ -170,8 +170,13 @@ Concluding commentary:
 1.  From source 30063806, "The subtle priming of T helper 1 immunity induced by this vaccine type closely resembles responses of non-allergic individuals and-by boosting via natural allergen exposure-could suffice for long-term protection from type I allergy."  This is such a good line.  Likewise from 20856111, "Preliminary data raise the question whether TH1 immune deviation induced by mRNA vaccination resembles the natural phenotype of a certain proportion of nonatopic individuals."
 2.  I'm still looking for the downside information that I thought I recalled!
 
+**Citation project iteration 2 concluded**
+Output state: redraft necessary on paragraph two
+
 ---
 Blue sky foolishness:  "While performing the research that went into this essay, I compiled a procedural report describing the steps that physicians would need to perform in order to perform allergen vaccination treatments."
+
+I'm not actually intending to do this, but I think I could do it if I were asked to.
 
 ---
 I'm too caught up in this work.  Seriously redrafting to eliminate the unsupported claim may require a fresh mindset.  I have a math lecture in an hour - they're soul-killing, because I have to watch the class struggle with the concepts - and I'm going to refresh my thoughts by playing [[The-Viceroy]] for an hour.
@@ -208,7 +213,91 @@ I wonder what the intracellular reaction rate of a ring-shaped molecule whose in
 ---
 I'm trying to figure out how heavily the RNA vaccination process can be safely used.  If it's really such an excellent, diversely applicable tool opening so many new potentials, can we use it to its extreme or would something go wrong?  Is there a stronger rate-limiter involved than the public's resistance to being stabbed with needles?  I think vaccines struggle with an excess of positivity; they don't seem to have downsides, and rhetorically that's difficult to work with.  In most human endeavors, the perfect all-positive stuff is just false and exploitative.
 
-I keep wondering if there's some downside to causing cells to produce a bunch of replicons.  When they cram the intercellular space with little psuedoviral particles, are they bringing down some future chaos on the person in whose body this process is proceeding?
+I keep wondering if there's some downside to causing cells to produce a bunch of replicons.  When they cram the intercellular space with little psuedoviral particles, are they bringing down some future chaos on the person in whose body this process is proceeding?  Will cells intended to learn PAMPs learn bad patterns which are adjacent to the replicon patterns?  Will they decide the wrong bit of the psuedoviral particles are pathogenic and start attacking very wrong tissues?
+
+How does this stuff work?  How do I make myself feel comfortable writing pure boosterism?  I know I did talk about living on the silver lining, but...  I don't like putting forward a pure silver perspective.  I don't think I have any other option, though I worry that there should be more negative information than has been made available.  I wonder if that is possibly itself the basic general disbelief which impairs biological transformation research... or, to confess an esoteric thought, I wonder if I drifted from one universe (where RNA vaccines are a self-limiting technology that scientists are struggling to make work) to another universe (where RNA vaccines are a reliable technology which has merely been held back due to concerns about potential unknown long-term side effects).  I'm not at all interested in holding back medical interventions for potential unknown long-term side effects.  I want to shapeshift!  I want to replace EVERYTHING in my body.  I'm not afraid of a few years miserable in the wrong morph.  Been there, done that, story of my LIFE.  The technological arc that could put me through that is the same arc that could put me out of being in that state NOW.
+
+...anyways.  I have to follow where the available data points, and that means I have to write a happier draft three.  Dang this reality, pushing me to be optimistic.
+
+---
+I am kind of concerned that if we teach the cells of the body to make a whole bunch of replicon lipid vesicles, we may end up overfeeding the macrophage population.  Are we going to give people incurable hypermacrophagia if they take too many RNA vaccinations?  What happens to people who have that problem?
+
+---
+
+Third draft:
+This essay has been a personal challenge to write.  I've always had trouble accounting for myself, and in this case I've got an unusual narrative in the wrong direction.  Y'see, the pandemic was a pure improvement to my quality of advice.  I'm not about to object to moving out, but I've been living on silver.  I hope I can find tolerance enough to say that there is good news to be found in this global nightmare.
+
+Far from the world of political stresses, humanity's brightest minds have been hard at work fixing up RNA vaccination technologies[].  While studying the available research in order to write this essay, I wasn't able to discern why this technology wasn't deployed more swiftly and for a wider variety of applications, because RNA vaccination appears to be wholly advantageous and much more diversely applicable than modern DNA vaccination technology.  RNA vaccines give to cells instructions[] which they utilize to produce noninfectious psuedoviral particles known as replicons[].  Each replicon is a tiny lipid vesicle which expresses basic viral replication abilities plus a harm-reduced subset of viral features that we want the immune system to learn from.  COVID-19 replicons prominently express the infamous spike protein[] that COVID-19 uses to enter cells.  It is a distinctive feature not found in tissues we want to preserve which is highly conserved across strains of COVID-19[], and immune cells which react aggressively to it are expected to be highly effective against COVID-19 viral particles[].  Where the COVID-19 viral particles have a lot of viral machinery with which to attack the body and spread themselves, my understanding is that COVID-19 vax-replicons are basically little lipid blobs with intrusion spikes on them that won't damage the body enough to stop the immune system from learning how to attack that spike.
+
+This technique of teaching cells to make noninfectious lipid blobs that express pathogen associated chemistries that we want to train the immune system against is applicable to far more than just COVID-19, and indeed to more pathogens than medicine currently has effective countermeasures against.  RNA vaccines let us customize the immunoresponse pattern by choosing which pathogen associated molecular patterns (PAMPs) we teach it to present to itself, which may allow deploying vaccines against highly conserved components of difficult-to-target viruses, producing more general (less strain-specific) vaccinations which viruses will be less likely to mutate defenses against.  There is interest in using this technique to produce new, more general vaccines for influenza[], and some researchers believe RNA vaccination will make an HIV vaccine[] possible as well.  Yet the possibility that most excites me is something of a trivial edge-case which DNA vaccines can never accomplish: allergy vaccines[].
+
+Allergies risk sounding like a petty focus in this context, but I think it's a very important aspect of humanity's medical potential.  The improved sense of health from curative allergy treatments would be universally available as well as providing a nice little karmic boost for removing allergies as a topic that can divide people in misery.  Freed of the weight of allergens, some of the people who are presently of marginal productivity will become more competent in their lives without need for the application of psychological change pressures[].  People are both happier and more productive when they aren't suffering allergy symptoms[].  Even some of the interpersonal hatred that comes between people can be resolved by interventions like this.  How many people in this world are hated because they are "doing nothing"[]?  Are any of those people unproductive because their life forces them into frequent exposures to allergens[]?  A medical system that can fix allergies can make those individuals productive without handing a moral victory to people who were unduly pressuring them.  How often are people harder to tolerate due to a flaw as politely unmentionable and ethically irrelevant as a bad personal odor[]?  Are any of the malodorous people stuck in that state due to undiscovered food allergies[], or allergic responses to nearly-unavoidable foods like grain[]?  A medical system that can fix allergies can help those people achieve the social respect they deserve.
+
+Looking forward to changing technology is a little like looking at the bright side of all things, and thanks to my interest in biotechnology, I can't say I've been suffering terribly under pandemic blues.  It is horrible that people suffer of disease, but on the other hand every advance in our biotechnical capabilities can bring forth wonders.  Our society has more to gain in cohesion and beauty within the next few years for that the work being done to cure this plague is being done today.  We are increasing our ability to target the molecular machinery of pathogens, and in that process we are gaining permanent advantage in all contest against disease, which force cannot forever survive against the might of human medical capabilities.  We need only ensure that a sufficient force is brought to bear against it.  Every barrier in this world formed of faulty medical conditions can in time be dissolved should we but have the will to reach for their dissolution.
+
+---
+New draft complete.  This should be the final draft, but I still need to complete the citations.
+
+---
+**Draft citation project iteration 3**
+
+Citation needed:
+humanity's brightest minds have been hard at work fixing up RNA vaccination technologies[]
+Initial commentary:
+1.  This is still a lede, but now 'fixing' has been reduced to a genericism, and citing the lede is feasible.
+2.  This citation needs to conceptually introduce the technology to the audience.
+Suggested sources:
+https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/mrna.html
+https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
+https://www.frontiersin.org/articles/10.3389/fimmu.2019.00594/full
+https://www.phgfoundation.org/blog/rethinking-vaccination-with-RNA-vaccines
+https://www.the-scientist.com/news-opinion/the-promise-of-mrna-vaccines-68202
+https://www.nature.com/articles/d41586-021-00019-w
+Conclusion pro tempore:
+https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
+Concluding commentary:
+1.  Correctly structured citations may offer an overlapping information structure creating multiple possible citation sources at many junctures.
+2.  I may come back to add more suggested sources at each point, and should remind myself not to feel self-conscious about using the first fit source at many points.  This is already more effort than the assignment requires to complete at full acknowledged result quality.
+
+Citation needed:
+RNA vaccines give to cells instructions[]
+Initial commentary:
+1.  This needs to establish the RNA transcription process.
+Suggested sources:
+https://rk.md/2020/how-mrna-vaccines-work-gene-transcription-and-translation/
+Conclusion pro tempore:
+https://rk.md/2020/how-mrna-vaccines-work-gene-transcription-and-translation/
+Concluding commentary:
+1.  I'm trying to work quickly, because I have multiple assignments due today.  Today's math homework is worth a deceptively small 5 points, but the course has a very small number of points.
+
+Citation needed:
+noninfectious psuedoviral particles known as replicons[]
+Initial commentary:
+1.  This needs to establish what replicons are.  I had to dig for this and I'm not totally sure of my own understanding, so I want it linked.
+2.  I've immediately found a source with an excellent explanation, but a non-indicative title...
+Suggested sources:
+https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-10-64#:~:text=A%20viral%20replicon%20is%20a,or%20replaced%20by%20foreign%20genes (Non indicative title?)
+Conclusion pro tempore:
+https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-10-64#:~:text=A%20viral%20replicon%20is%20a,or%20replaced%20by%20foreign%20genes
+Concluding commentary:
+1.  If I include the string at the end so that it provides the jump and highlight behavior, it should still work to use this source.
+
+Citation needed:
+COVID-19 replicons prominently express the infamous spike protein[]
+Initial commentary:
+1.  I really wish I'd built up a better understanding of how viral replicons work, though I do believe I've learned enough to complete this assignment.  Uncertainties and errors left in at this juncture are dreadfully sincere.
+2.  I'm not sure that the COVID-19 replicons being used for vaccination actually express the spike protein.  There's definitely a ton of research being done on them...
+Suggested sources:
+https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
+Conclusion pro tempore:
+https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
+Concluding commentary:
+1.  If I had more days to spend on this or less other work I need to be doing, I wouldn't really be satisfied with this source, but...
+2.  It says what I need it to say with the semblance of medical authority behind it.  >_>
+3.  This is an important lesson in how bad information spreads sometimes, but hopefully in this case I'm lucky enough to get good information with a bad method.
+
+Citation needed:
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [The-Personality-Scavenge-Service]: The-Personality-Scavenge-Service "The Personality Scavenge Service"
