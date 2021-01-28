@@ -261,7 +261,7 @@ New draft complete.  This should be the final draft, but I still need to complet
 ---
 **Draft citation project iteration 3**
 
-Citation needed:
+Citation needed: 1
 humanity's brightest minds have been hard at work fixing up RNA vaccination technologies[]
 Initial commentary:
 1.  This is still a lede, but now 'fixing' has been reduced to a genericism, and citing the lede is feasible.
@@ -279,7 +279,7 @@ Concluding commentary:
 1.  Correctly structured citations may offer an overlapping information structure creating multiple possible citation sources at many junctures.
 2.  I may come back to add more suggested sources at each point, and should remind myself not to feel self-conscious about using the first fit source at many points.  This is already more effort than the assignment requires to complete at full acknowledged result quality.
 
-Citation needed:
+Citation needed: 2
 RNA vaccines give to cells instructions[]
 Initial commentary:
 1.  This needs to establish the RNA transcription process.
@@ -290,7 +290,7 @@ https://rk.md/2020/how-mrna-vaccines-work-gene-transcription-and-translation/
 Concluding commentary:
 1.  I'm trying to work quickly, because I have multiple assignments due today.  Today's math homework is worth a deceptively small 5 points, but the course has a very small number of points.
 
-Citation needed:
+Citation needed: 3
 noninfectious psuedoviral particles known as replicons[]
 Initial commentary:
 1.  This needs to establish what replicons are.  I had to dig for this and I'm not totally sure of my own understanding, so I want it linked.
@@ -302,7 +302,7 @@ https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-10-64#:~:text=A%2
 Concluding commentary:
 1.  If I include the string at the end so that it provides the jump and highlight behavior, it should still work to use this source.
 
-Citation needed:
+Citation needed: 4
 COVID-19 replicons prominently express the infamous spike protein[]
 Initial commentary:
 1.  I really wish I'd built up a better understanding of how viral replicons work, though I do believe I've learned enough to complete this assignment.  Uncertainties and errors left in at this juncture are dreadfully sincere.
@@ -317,7 +317,7 @@ Concluding commentary:
 2.  It says what I need it to say with the semblance of medical authority behind it.  >_>
 3.  This is an important lesson in how bad information spreads sometimes, but hopefully in this case I'm lucky enough to get good information with a bad method.
 
-Citation needed:
+Citation needed: 5
 which is highly conserved across strains of COVID-19[]
 Initial commentary:
 1.  I don't strictly need to cite that the spike protein is highly conserved across strains of COVID-19, but I think it's good practice.
@@ -329,7 +329,7 @@ Concluding commentary:
 1.  Actually, this source asserts that the spike protein is highly conserved across all coronaviridae, which is a stronger and more interesting claim.  Does that mean that antibodies to the spike protein produced by covid-19 vaccination will also incidentally improve vaccine recipients immunocompetency across all coronaviridae through promoting the formation of spike protein antibodies?
 2.  This source is a little hard to read.  It's less than ideal.  I feel like I'm going to be thought to have keyed vapidly on the phrase "highly conserved domain" in the title... which is technically true, because that's exactly how I found it, though I did verify that the material also asserts the salient conservation.
 
-Citation needed:
+Citation needed: 6
 immune cells which react aggressively to it are expected to be highly effective against COVID-19 viral particles[]
 Initial commentary:
 1.  I wonder if overfixation on the spike protein is going to have some kind of downside.  I know membrane proteins are stereotypically mutagenic, but is there any random bit of the membrane that has a local chaos-resistant nexus?  Some incidentally patterned bit that has trouble mutating to new forms?  For all my complaints about present vaccines being presented in too univalently positive a fashion, I I feel like future vaccines are going to be even better, because they're going to benefit from greater quantities and qualities of low-level biochemical simulation in finding target sites.
@@ -341,7 +341,7 @@ https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/study-a
 Concluding commentary:
 1.  I wonder if there's a career in writing this kind of stuff.  I think I'm doing it better than most people would, and I'm not at my limit; with more time and better objectives, I could produce higher quality output than this.
 
-Citation needed:
+Citation needed:7
 There is interest in using this technique to produce new, more general vaccines for influenza[]
 Initial commentary:
 1.  The better the research, the better the citation.  Still, I only have to establish interest, so even a low quality citation suffices here.
@@ -357,7 +357,7 @@ Concluding commentary:
 5.  This source also affirms the coronavirus spike protein focus, and could theoretically have been used there as well.
 6.  The possibility of using RNA vaccines against bacterial pathogens is mentioned, but I would interpret this material as mentioning it as something which has been under-explored.
 
-Citation needed:
+Citation needed:  8
 some researchers believe RNA vaccination will make an HIV vaccine[]
 Initial commentary:
 1.  This is clearly best answered by citing the same thing I just cited for influenza.  A general review document was a great find here.  I can just put the same citation number on both claims.
@@ -368,7 +368,7 @@ https://www.phgfoundation.org/briefing/rna-vaccines
 Concluding commentary:
 1.  Easy!
 
-Citation needed:
+Citation needed:  9
 Yet the possibility that most excites me is something of a trivial edge-case which previous vaccine technologies could never accomplish: allergy vaccines[]
 Initial commentary:
 1.  I only have to establish interest in the concept for this... but it's still kind of hard to choose which source I think is most important.
@@ -468,7 +468,14 @@ Citations
 [1]  Komaroff, A. (2020, December 10)  Why are mRNA vaccines so exciting?  Harvard Health Blog.  Retrieved January 28, 2021 from https://www.health.harvard.edu/blog/why-are-mrna-vaccines-so-exciting-2020121021599
 [2]  Rishi.  (2020, November 23)  HOW MRNA VACCINES WORK - GENE TRANSCRIPTION AND TRANSLATION.  RK.md  Retrieved January 28, 2021 from https://rk.md/2020/how-mrna-vaccines-work-gene-transcription-and-translation/
 [3]  Shi-Hua, L.  Xiao-Feng, L.  Hui, Z.  Yong-Qiang, D.  Xue-Dong, Y.  Shun-Ya, Z.  Tao, J.  Qing, Y.  E-De, Q.  Cheng-Feng, Q.  (2013)  Development and characterization of the replicon system of Japanese encephalitis live vaccine virus SA14-14-2.  Virology Journal.  Retrieved January 28, 2021 from https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-10-64#:~:text=A%20viral%20replicon%20is%20a,or%20replaced%20by%20foreign%20genes
-[4]  
+[4]  Caddy, S.L.  (2020, December 20)  COVID-19 vaccines focus on the spike protein, but there's another target.  ASBMBTODAY.  Retrieved January 28, 2021 from https://www.asbmb.org/asbmb-today/science/122020/covid-19-vaccines-focus-on-the-spike-protein-but-t
+[5]    Retrieved January 28, 2021 from https://pubmed.ncbi.nlm.nih.gov/19439480/
+[6]  Ravichandran, S.  Coyle, E.M.  Klenow, L.  Juanjie,  T. Grubbs, G.  Shufeng, L.  Wang, T.  Golding, H.  Khurana, S.   Retrieved January 28, 2021 from https://www.fda.gov/vaccines-blood-biologics/biologics-research-projects/study-antibody-response-sars-cov-2-spike-proteins-could-help-inform-vaccine-design
+[7]  Retrieved January 28, 2021 from
+
+
+
+
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [The-Personality-Scavenge-Service]: The-Personality-Scavenge-Service "The Personality Scavenge Service"
