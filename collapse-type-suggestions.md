@@ -59,14 +59,18 @@ Special features:
 
 Fifth suggestion: (Incomplete)
 Stasis Collapse
-The love of immortality and long-term planning set in so completely in this region that its economy locked up with inactivity and became actively unsustainable.  The Panarchy has withdrawn immortality from the region and authorized a viceregal administration to reactivate the stalled economy.
+The love of immortality and long-term planning set in so completely in this region that its economy locked up with inactivity, became actively unsustainable, and started shedding advancements that had been upholding the public's quality of life.  The Panarchy has temporarily withdrawn immortality from the region and authorized a viceregal administration to reactivate the stalled economy.
 Challenges:
 Zero Birth Culture (Stock.  Reproduction penalty.)  1
 Eternal Philosophers  (Stock.  Bureaucratic penalty.)  2
-Extreme Family Planning  (The people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  3
+Extreme Family Planning  (Many of the people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  3
 Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  4
 Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.)  5
 Drinkers of Nepenthe (Unlearning medications aka 'Nepenthe' are common in advanced societies, because they are necessary for accelerated skill redevelopment and the indefinite maintenance of psychological health.  Some individuals become drawn to the drugs recreationally, and have trouble learning anything beyond the most basic skills.  This planet's ability to contribute to advanced technological development is crippled by just how much of the public is wallowing in Nepenthe.  Science penalty.)  6
-(3 Unset)
+Perfectionist Infosec (This society's unwillingness to use computer hardware and software that it hasn't exhaustively verified has resulted in an IT industry dominated by obsessively perfecting and renewing millenia old technical solutions.  Computational systems, calculation-intensive operations, and all IT development timelines are considerably slowed throughout the system.  Science penalty.)  7
+(2 Unset)
 Special features:
 (unset)
+
+b=r(Sy/Sx)
+a=y-line-b*x-line
