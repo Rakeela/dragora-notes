@@ -1,15 +1,10 @@
 # METR101
 
 To-Do (Keep this at the top of the file.)
- - Draft week three discussion post ("Can we make it rain?") (Due Jan 21)
-   - This one should be fun.  It's what I fixate on.  I think the answer is or will be yes!
- - Homework quiz #3 (Due Jan 24)
- - Concepts and Tools #3 (Due Jan 24)
- - First Test (January 24th, 25th, or 26th)
- - Extra credit survey 1 (Due Jan 21)
- - Extra credit survey 2 (Due Jan 31)
+ - Draft week four discussion post (Water Draining In Opposite Directions - Discussion #4) (Due Jan 28)
+   - This is demeaning.  I'm sure I could do it fast enough.  I'm seriously considering not doing it at all.
+ - Concepts and Tools #4 (Due Jan 28)
  - Reorganize notes
- - Update to-do list
 
 "Course Outcomes"
 **Diagram** the vertical structure of the Earth's atmosphere and explain the concepts of density, pressure, and temperature, and how each varies vertically in the atmosphere.
