@@ -66,6 +66,7 @@ Eternal Philosophers  (Stock.  Bureaucratic penalty.)  2
 Extreme Family Planning  (The people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  3
 Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  4
 Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.)  5
-(4 Unset)
+Drinkers of Nepenthe (Unlearning medications aka 'Nepenthe' are common in advanced societies, because they are necessary for accelerated skill redevelopment and the indefinite maintenance of psychological health.  Some individuals become drawn to the drugs recreationally, and have trouble learning anything beyond the most basic skills.  This planet's ability to contribute to advanced technological development is crippled by just how much of the public is wallowing in Nepenthe.  Science penalty.)  6
+(3 Unset)
 Special features:
 (unset)
