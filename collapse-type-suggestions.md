@@ -27,7 +27,9 @@ Although less devastated than many of the sectors which come to attention of the
 Challenges:
 Paranoid Culture (Stock. Cultural specialty penalty.)  1
 Replicating Minefield (Stock.  Trade penalty.)  2
-(8 Unset)
+Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  3
+Perfectionist Infosec (This society's unwillingness to use computer hardware and software that it hasn't exhaustively verified has resulted in an IT industry dominated by obsessively perfecting and renewing millenia old technical solutions.  Computational systems, calculation-intensive operations, and all IT development timelines are considerably slowed throughout the system.  Science penalty.)  4
+(6 Unset)
 Special features:
 Sector retains some Commonwealth projects, most commonly patriotic indoctrination.
 
@@ -53,7 +55,8 @@ A recent campaign of long-term redevelopment in this region fell apart due to ac
 Challenges:
 Poor Local Logistics (Stock.  Trade penalty.)  1
 Debris Ring (Stock.  Trade penalty.)  2
-(7 Unset)
+Mansion Fixation  (The people of this district are keen and competitive property-owners who all want to have as much real estate for their own use as possible.  High land values are a fact of life here and the public is hypersensitized to crowding.  Crowding limit penalty.)  3
+(6 Unset)
 Special features:
 (Unset)
 
