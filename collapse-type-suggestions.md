@@ -29,7 +29,8 @@ Paranoid Culture (Stock. Cultural specialty penalty.)  1
 Replicating Minefield (Stock.  Trade penalty.)  2
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  3
 Perfectionist Infosec (This society's unwillingness to use computer hardware and software that it hasn't exhaustively verified has resulted in an IT industry dominated by obsessively perfecting and renewing millenia old technical solutions.  Computational systems, calculation-intensive operations, and all IT development timelines are considerably slowed throughout the system.  Science penalty.)  4
-(6 Unset)
+Cultural Embargo (Stock.  Cultural specialty penalty.) 5
+(4 Unset)
 Special features:
 Sector retains some Commonwealth projects, most commonly patriotic indoctrination.
 
