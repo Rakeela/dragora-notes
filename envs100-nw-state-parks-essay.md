@@ -13,7 +13,15 @@ To what extent are they still worked for resources?  Does natural resources have
 
 Finding uncertainty in the task description like this is uncomfortable, though as I am starting this in the middle of a sleepless night, it will be some hours before I can reasonably question the teacher.  Answering this could be important for determining the economic benefit of the park, as well.
 
+---
+I think the block of questions that I wrote is very remarkable as a well of essay potential.  If I push through with the potential misunderstanding of the state park system as a free-growing museum of natural resources that we need only protect, I suspect I could put together something *very* charismatic.  Who would tell me such a concept was wrong?  I would be praising the beauty of the very stones in those places!
 
+I'm still uncertain.  I put a search for Natural Resources across the internet, and found the Washington State Parks page on Natural Resources, found here:  https://parks.state.wa.us/358/Natural-Resources
+
+"The Natural Resources Program's primary goal is to restore and protect the agency's natural resources, while providing safe and aesthetic environments in which the public can recreate. Current efforts include addressing sensitive species conservation, forest health conditions, controlling invasive species, and collecting resource inventories while supporting applied research and strategic planning. To advance this work, natural resource scientists and managers work directly with park staff, sister agencies, non-profit conservation organizations, and volunteers."
+(Above quotation retrieved Jan 31, 2021)
+
+This doesn't answer my uncertainty.  Are sensitive species considered natural resources?  Is forest health a natural resource?  Are invasive species nega-resources?  What goes into a resource inventory?  What do natural resource scientists research?  I have more questions now, but I also have more search direction.
 
 ---
 Back to [[ENVS&100]]
