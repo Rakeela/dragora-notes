@@ -1,7 +1,12 @@
 # ENVS&100
 
 To-Do (Keep this at the top of the file.)
- - Draft week four discussion post (Due Jan 28)
+ - Write a two page paper on one of the State or Federal parks in Washington State.  (Due Feb 3)
+   - Describe the diversity of organisms, the natural resources, and the ecosystem services it provides.
+   - Describe what if any economic benefit the park provides.
+   - Double spaced, 1 inch margins, at most 12 point font.
+   - Bibliography on page three, APA format.
+ - Draft week five discussion post - Endangered speicies (sic) - (Due Feb 4)
 
 Course Outcomes:
 · Demonstrate the importance of using critical thinking and the scientific method to understand how human activities affect the limited resources of our planet.

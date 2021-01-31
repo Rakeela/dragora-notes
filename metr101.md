@@ -1,9 +1,10 @@
 # METR101
 
 To-Do (Keep this at the top of the file.)
- - Draft week four discussion post (Water Draining In Opposite Directions - Discussion #4) (Due Jan 28)
-   - This is demeaning.  I'm sure I could do it fast enough.  I'm seriously considering not doing it at all.
- - Concepts and Tools #4 (Due Jan 28)
+ - Homework Quiz #44 (Due Jan 31)
+ - Post-Test Reflection (Due Feb 1)
+   - Optional.  I may skip it.
+ - Concepts and Tools #5 (Due Feb 4)
  - Reorganize notes
 
 "Course Outcomes"
