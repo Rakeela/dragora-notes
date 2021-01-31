@@ -10,3 +10,6 @@ There's some talk of anatomy in this piece.  It's interesting.  It encouraged th
 
 ---
 Also on the thought of organization, one of my topics is clearly 'per date' posts.  I should tie all these up and link them into a shared structure.  I'm not going to commit to the task, but I doubt this is the last time I'll think it would be useful to have such a navigable structure.
+
+---
+I wonder if studying wind patterns could be utilized to create a resort that is favored to receive warm winds.  I don't know why, but that thought strikes me as somehow romantic.  A wind you don't want to hide from, a more uplifting kind of breeze... as long as it isn't just pouring off a baking desert, I suppose.  Hm.  It'd be difficult.  I love the sound of the phrase "katabatic wind", but unfortunately it means a downslope wind, which is usually cold.  Running across that phrase while studying lead me to wonder if a reliable upslope wind would be typically warm.  Of course, if it was also tending to be moist, rising up the slope would precipitate it; you would get a mountain prone to rain and fog.  As a fan of rain, maybe someday I should see if there are conditions where the math indicates pleasant environs.
