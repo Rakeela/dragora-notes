@@ -21,7 +21,9 @@ I'm still uncertain.  I put a search for Natural Resources across the internet, 
 "The Natural Resources Program's primary goal is to restore and protect the agency's natural resources, while providing safe and aesthetic environments in which the public can recreate. Current efforts include addressing sensitive species conservation, forest health conditions, controlling invasive species, and collecting resource inventories while supporting applied research and strategic planning. To advance this work, natural resource scientists and managers work directly with park staff, sister agencies, non-profit conservation organizations, and volunteers."
 (Above quotation retrieved Jan 31, 2021)
 
-This doesn't answer my uncertainty.  Are sensitive species considered natural resources?  Is forest health a natural resource?  Are invasive species nega-resources?  What goes into a resource inventory?  What do natural resource scientists research?  I have more questions now, but I also have more search direction.
+This doesn't answer my uncertainty.  Are sensitive species considered natural resources?  Is forest health a natural resource?  Are invasive species nega-resources?  What goes into a resource inventory?  What do natural resource scientists research?  I have more questions now, but I also have more search direction.  As well, the page discusses salmon recovery efforts quite prominently, and this suggests that salmon and everything salmon require may be considered as natural resources.
+
+I'm actually really unimpressed with the amount of insight this page offers into what the Washington State Parks National Resources Program is actually doing.  What's the program for?  What's a resource inventory?  This could be so much more informative in a public services sense.  Surely I'm not to believe that salmon are the only resource in the national parks.
 
 ---
 Back to [[ENVS&100]]
