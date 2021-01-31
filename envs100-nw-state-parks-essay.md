@@ -30,6 +30,15 @@ Searching for "natural resource scientists" lead me to this:  http://www.resourc
 
 This was the top hit.  They're water specialists.  This talks about "resource management and restoration plans", "biological resource projects", "habitat restoration measures involving large-scale monitoring projects", and "natural resource mitigation and enhancement programs".  Client states are listed as California, Oregon, Washington, Hawaii, Nevada, Wyoming, North Dakota, South Dakota, Ohio, Michigan, New Jersey, and "along the gulf of Mexico".  I'm still a little unclear what natural resources are in context, but this looks very proximate to salmon.  They're really focused on waterways.  Is the WSP National Resources Program all about fish?
 
+I also found something interesting at the Department of the Interior website, here:  https://www.doi.gov/careers/occupational-series/natural-resources-management-and-biological-sciences
+
+"Natural resource specialists study sensitive habitats, develop natural resources regulations and guidance, help protect lives, property, and resources from fires, inventory and monitor wildlife or vegetation, analyze and mitigate environmental impacts, and restore and protect threatened animals and plants. The duties performed by DOI natural resource specialists vary greatly by location, bureau, and position."
+(Above quotation retrieved Jan 31, 2021)
+
+This is about natural resource specialists, not natural resource scientists.  Still, it's getting closer to telling me what natural resources are.  I'm getting the impression that "natural resources" in the environmental context amounts to "anything conceivably valuable in nature".  It's all the stuff humanity wants to protect in wilderness areas.  Maybe I can still throw a sentence in about geology, but it doesn't look like preserving stones for the future is very high on the agenda.
+
+This is kind of fascinating.  "What if any" was how the teacher presented the subject matter's economic importance as well.  I get the sense that I'm supposed to scavenge for a belief in economic gains here, but I'm not sure they're here to be found.  I see a lot of unclear language.  Despite this, I do believe very strongly in environmental protection as a pillar of long-term economic advantage.  I believe in ecosystem services.  I see this concern as being of a kind with, though differing in scale from, my thoughts on geo-engineering.  
+
 ---
 Back to [[ENVS&100]]
 

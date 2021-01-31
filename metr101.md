@@ -95,6 +95,10 @@ Note to self: reorganize notes.  Or archive them messy.  This was from the first
 ---
 I was surprised to see this on a practice test (and I got it wrong), so I am informed that: The Earth emits LONGER wavelenths than the sun.
 
+---
+I am a little miffed at spelling errors this term.  Being told by a piece of course software that one of my vocabulary terms for the chapter was "mircoscale" was unpleasant.
+
+
 [[metr101Ch1-notes]]
 [[metr101Ch3-notes]]
 [[metr101Ch5-notes]]
