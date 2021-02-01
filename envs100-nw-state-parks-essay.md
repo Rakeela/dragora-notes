@@ -75,7 +75,7 @@ There's an interesting categorical described on page 9:
   3.  Parks that focus on protecting shorelines and bodies of water."
 (Above quote retrieved 2021-2-1)
 
-
+The focus of the Washington State Parks material that I dug up indicates that Washington State operates parks only for category 3, else they would have included information about more than just salmon protection on their sites.  I knew there was something fishy about that material.  Overall, I'm getting the impression that Washington State's park services are managed in an opaque and potentially unprofessional way.  I'd say it most reminds me of a local corruption scandal that once happened in this area.
 
 Back to [[ENVS&100]]
 
