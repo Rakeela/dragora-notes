@@ -82,18 +82,24 @@ Drinkers of Nepenthe (Unlearning medications aka 'Nepenthe' are common in advanc
 Perfectionist Infosec (This society's unwillingness to use computer hardware and software that it hasn't exhaustively verified has resulted in an IT industry dominated by obsessively perfecting and renewing millenia old technical solutions.  Computational systems, calculation-intensive operations, and all IT development timelines are considerably slowed throughout the system.  Science penalty.)  7
 (2 Unset)
 Special features:
-(unset)
+(Unset)
 
 Sixth suggestion: (Incomplete)
 Agri-Nanite Apocalypse
 A very advanced society developed here seeking to feed the galaxy with extraordinary amounts of food exports.  It worked really well for a while, but their auto-optimizing nanotechnological agricultural system has become difficult to understand and difficult to trade with.  Commonwealth negotiators have achieved consent from the swarm hive for a recolonization mission, and are dispatching a viceroy.
 Challenges:
-
+(9 Unset)
+Special features:
+(Unset)
 
 Seventh suggestion: (Incomplete)
 Grey Goo
 This formerly panarchic region recklessly maximized its deployment of machine intelligence and accidentally created a system far less discriminate than intended.  Commonwealth military forces have established beachheads in suitable district capitol sites, and our diplomats have established formal economic contact with the 'native population' of swarm hive intelligences.  A minority of the swarm hive has continued military opposition in some distracts and appears to be hyperspace capable.
-Challenges
+Challenges:
+Rebel Faction (Stock.  Influence penalty.)  1
+(8 Unset)
+Special features:
+(Unset)
 
 
 ---
