@@ -8,15 +8,15 @@ The complete and partial suggestions thus far formed are as follows.
 Rogue AI Rebellion (Complete & Submitted)
 This sector has been destroyed by crazy artificial intelligences whose psychology went completely outside of normal operating parameters. The commonwealth needs this set straight so that it stops impairing public faith in the galaxy’s advanced AI technologies.
 Challenges:
-Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.) 1
-Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industry specialty penalty.) 2
-Rampant Wardrones (The sectors of this planet are controlled by and/or dedicated to fighting against control by AI wardrones, and the galaxy is horrified. Influence penalty.). 3
-Biological Embargo (Stock. Biological specialty penalty.) 4
-Determinist Culture (Stock. Happiness penalty.) 5
-Hollowed System (Stock. Base industry penalty.) 6
-Replicating Minefield (Stock. Trade penalty.) 7
-Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.) 8
-Tyrannical Omniscience (This system is suffering close governance by an AI overlord intolerant of biological variation and only grudgingly working towards the public service obligations it was installed to serve. Happiness penalty.) 9
+Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.)  1
+Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industry specialty penalty.)  2
+Rampant Wardrones (The sectors of this planet are controlled by and/or dedicated to fighting against control by AI wardrones, and the galaxy is horrified. Influence penalty.)  3
+Biological Embargo (Stock. Biological specialty penalty.)  4
+Determinist Culture (Stock. Happiness penalty.)  5
+Hollowed System (Stock. Base industry penalty.)  6
+Replicating Minefield (Stock. Trade penalty.)  7
+Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.)  8
+Tyrannical Omniscience (This system is suffering close governance by an AI overlord intolerant of biological variation and only grudgingly working towards the public service obligations it was installed to serve. Happiness penalty.)  9
 Special features:
 Every system comes pre-installed with at least one Panarchic 'Overseer' technology.
 
@@ -46,10 +46,10 @@ Psychosocial Turbine (Recurrent cultural and ideological conflicts in this distr
 Hyperspace Infections (Stock.  Reproduction penalty.)  3
 Climactic Disruption (Stock.  Biological specialist penalty.)  4
 Paranoid Culture (Stock.  Cultural specialist penalty.)  5
-Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.) 6
+Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.)  6
 Anti-Beyonder Investors (The financial establishment in this district is convinced that Beyonder financial advice is wholly dedicated to the long-term ruin of the market.  This is rarely if ever true.  Morever, local efforts to defy or manipulate Beyonder financial strategies amount to sacred incompetence.  Investment return penalty.)  7
 Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  8
-Market Collapse (Stock.  Investment return penalty.)
+Market Collapse (Stock.  Investment return penalty.)  9
 Special features:
 Sector always contains an artificial dreamtime and at least one jaunting grid, having otherwise no imperial projects among its protected initial projects.
 
