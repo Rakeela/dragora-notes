@@ -46,7 +46,7 @@ Psychosocial Turbine (Recurrent cultural and ideological conflicts in this distr
 Hyperspace Infections (Stock.  Reproduction penalty.)  3
 Climactic Disruption (Stock.  Biological specialist penalty.)  4
 Paranoid Culture (Stock.  Cultural specialist penalty.)  5
-Malignant xHyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.) 6
+Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.) 6
 Anti-Beyonder Investors (The financial establishment in this district is convinced that Beyonder financial advice is wholly dedicated to the long-term ruin of the market.  This is rarely if ever true.  Morever, local efforts to defy or manipulate Beyonder financial strategies amount to sacred incompetence.  Investment return penalty.)  7
 Hyperspace Stunning (The people in this system are prone to poorly-timed moments of mathematical fugue.  While the result has been in many ways a remarkable society, the rate of lethal accidents has increased, and esoteric mathematical fixations have partially displaced the public's reproductive drive.  Reproduction penalty.)  8
 Market Collapse (Stock.  Investment return penalty.)
