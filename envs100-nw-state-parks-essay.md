@@ -52,7 +52,7 @@ This feels like writing porn for online "friends" did.  Like something appalling
 ---
 I usually write essays by writing out my thoughts and then refining them.  If I don't have pre-existing thoughts on a subject, I read for a bit, and then I do.  Except I don't voluntarily think about national parks.  My usual thoughts about this subject are essentially, "Hey, you know what'd be great about Mars?  We wouldn't need to build any national parks."  I like national parks in Civ 6 more than I like them IRL.
 
-I'm trying to read Mountains without Handrails in the hopes of finding thoughts that I can use as a draft seed.  It isn't working, so factor.html
+I'm trying to read Mountains without Handrails in the hopes of finding thoughts that I can use as a draft seed.  It isn't working, so far.
 
 ---
 Back to [[ENVS&100]]
