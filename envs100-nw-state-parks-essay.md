@@ -57,8 +57,15 @@ I'm trying to read Mountains without Handrails in the hopes of finding thoughts 
 ---
 Do national parks at least support environmentalism?  My attitude about environmentalism being an appalling, unpleasant necessity does at least make me happy to see environmentalism more widely supported...
 
-I know ecotourism can be classified as an economic value.  There's no real question to me that ecotourism is really important to many economies.  Is it important to any economies in Washington State?  Maybe I would feel better in this assignment if I knew which park in my state was most economically vital to its surrounding area.
+I know ecotourism can be classified as an economic value.  There's no real question to me that ecotourism is really important to many economies.  Is it important to any economies in Washington State?  Maybe I would feel better in this assignment if I knew which park in my state was most economically vital to its surrounding area.  I'm not sure how to find that, but looking up general economic value research would be reassuring as well.
 
+I've found this at once:  https://www.nps.gov/subjects/socialscience/tev.htm
+
+"Total Economic Value of the National Park Service
+A study by Colorado State University and Harvard Kennedy School of Government"
+(Above quote retrieved 2021-2-1)
+
+This may qualify as a scientific source for the purpose of the essay.  If it does not, it may help me find what should.  This lacks ideal specificity; it is about the park as a whole.  I would want more local data for an ideal source, as ideally it would relate to the economic value of any specific state park in Washington.
 
 Back to [[ENVS&100]]
 
