@@ -1,0 +1,37 @@
+# 2021-2-1-Twentieth
+
+Today's pretty miserable.  I haven't been able to make progress in the essay that I'm trying to write for class.  Everything that's wrong here is a morale issue.  I can tell.  If I were happy, I'd write something acceptable and booster-tastic about how wonderful national parks were.  I want to say, "if I were happy about the subject," but as much as I can generate qualms about it, I don't think the subject itself is so intrinsically immiserating that I couldn't handle it in an all-positive mood if I were starting from one.
+
+Of course, I thought the same way about the writing obligations that I had for years.  I wrote text-based porn.  It felt like the only way I could get engagement from people and prove that I was loyal to them.  To prove that I was of the (secular) faithful, and not fascistic.  I didn't want to be doing it, but I couldn't find anybody who would take an interest in my writing if I didn't.
+
+When I was eventually clear to myself that I wasn't going to get over the depression that kept me from being productive at the task I was supposed to be doing, I made myself unsexy by every means I could.  In private, I focused on the least sexy things I could interest myself in.  I didn't focus on *revolting* things, I focused on *boring* things.  Premature ejaculation appears to be the ultimate anti-fetish, on that note.  It is *really* just disappointing, hehe.
+
+Thinking about this stuff when I'm feeling down tends to be regenerative.  I haven't found it helpful to lean away from these thoughts.
+
+Publicly, I focused on expressing thoughts that I hadn't been allowed to think and on protecting people that I wasn't supposed to protect.  This was motivated by a rebellious sense of principle.  I see in hindsight it had a tactical value as well: it was a sufficient public pretense for politically aware people with specific loyalties to outcast me.  I don't know for sure if that was part of what motivated my public engagement at the time.  It wasn't consciously my motive, but it fit with my conscious motives such that I would still have done that if I had thought to think of it that way.  If I'd thought of it as manipulating loyalties for a clear and coherent objective, that would've made it easier for me to really feel the separation that I was at that time trying to achieve, and I would've been less stressed out.
+
+I wrote more with less concern for whether I had an audience for what I wrote.  I'd given myself permission to be uninteresting; I'd found reason to long for being uninteresting.  So I wrote and published a long strand of rebellion in hidden places online.  I still do.  I don't consider it fundamentally secretive behavior.  It's almost like a taunt; people who treated me as a lying slut also went to a great deal of effort to pretend they weren't watching me, and when you do enough that isn't secretive, you can start to make an absurdity of *that stance itself*.  Those who react to invisible people become ridiculous - in culture as it is in mental health.  Well, I did enough that wasn't secretive.  The result of writing without concern for my audience was that I realized that my unconstrained behavior was not only more visible than people were willing to admit, said behavior was also more charismatic than it was supposed to be.
+
+This archive is kind of the culmination of that.  I'm not writing in a repressed fashion in this archive.  When I tell the world how I really feel about things, the result is kind of promising!  When I focus on the stuff I really feel good about, the audience gets [[collapse-type-suggestions]] and my [[character-gallery]].  The audience gets my [[college-notes]] and my [[news-archive]].  The bleak personal history is all still there, but now my love of biotechnology is also expressed.  I've never had an environment where people understood keeping misery in context and maintaining resilience through balance; I've felt like mandatory pure misery attitudes have actually punished that, as though I were always in danger of being rejected for being inadequately pure in my miseries, and at the same time obligated to be grateful for the sympathy of people who continually made me feel worse the more they labored to "help" me.  That can't happen here.  Here nobody can stop me from building up that mixed context which expresses bad events and good hopes.  The balance of bad and good shows up all throughout markdown file after markdown file.
+
+Putting this archive together helped my own planning and desire to pull together.  Now, if only it would help more with [[envs100-nw-state-parks-essay]]...
+
+---
+The ultimate test of etiquette is not whether people follow the forms of address.  It is whether they intend to value or demean others.   The development of skill is subsequent to the development of intention, and people usually gain skill at what they are intending to do.  Those who are intending to value others will not always be polite, but they will tend to gain politeness over time.  Those who are intending to demean others will not always be rude, but they will tend to lose politeness over time.
+
+Those who are intending to demean others, who are aware of this *as* a skill, will always try to gain skill at demeaning others politely.  Yet they will always be seeking the edge of politeness.  They will ideally position themselves as the rudest polite conduct.  This is a conflict against the development of the skill of those who are intending to respect others, who will never ideally position themselves as the rudest polite conduct.  It is never guaranteed that one can only hit the hostile, but tightening standards of conduct generally favor the people who really wanted to do the right thing.  The edge of politeness cuts those who wield it sometimes more than those they tried to wield it against.
+
+I have been treated as very rude, by people who were very desperate to demean me.  Yet my unrestrained writing enjoys the subject that their unrestrained writing does not, and my central fixation is [[immortalist]] research.  I want everyone to live forever.  I want all people to value and be valued by others.  I have no edge case on this where regards people who've mistreated me.  The fact that I can say that is part of why the unrestrained attitude is so regenerative for me.  This is why it's freeing to stop worrying about what my hypothetical audience will think.
+
+Can I try to tie [[envs100-nw-state-parks-essay]] with an immortalist attitude?  It's still my fixation today, my emotional center...  As it needs to be, and likely will still need to be tomorrow in order for me to complete the task.  The obvious answer for how to bond these things is to focus on the anti-toxicity that ecological services provide.  Cleaner air and cleaner water are good for longevity.  Yet I've also always been frustrated by their inadequacy to the task.  Were there a conflict between the possibility of acquiring more of one or more of the other, we would have more need of medichines than clean air.  
+
+---
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[collapse-type-suggestions]: collapse-type-suggestions "Collapse Type Suggestions"
+[character-gallery]: character-gallery "character-gallery"
+[college-notes]: college-notes "college notes"
+[news-archive]: news-archive "News Archive"
+[envs100-nw-state-parks-essay]: envs100-nw-state-parks-essay "ENVS100 NW State Parks Essay"
+[immortalist]: immortalist "Immortalist"
+[//end]: # "Autogenerated link references"
