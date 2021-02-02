@@ -75,7 +75,22 @@ There's an interesting categorical described on page 9:
   3.  Parks that focus on protecting shorelines and bodies of water."
 (Above quote retrieved 2021-2-1)
 
-The focus of the Washington State Parks material that I dug up indicates that Washington State operates parks only for category 3, else they would have included information about more than just salmon protection on their sites.  I knew there was something fishy about that material.  Overall, I'm getting the impression that Washington State's park services are managed in an opaque and potentially unprofessional way.  I'd say it most reminds me of a local corruption scandal that once happened in this area.
+The focus of the Washington State Parks material that I dug up indicates that Washington State operates parks only for category 3, else they would have included information about more than just salmon protection on their sites.  I knew there was something fishy about that material.  Overall, I'm getting the impression that Washington State's park services are managed in an opaque and potentially unprofessional way.  I'm kind of reminded of a local corruption scandal.
+
+https://www.king5.com/article/news/investigations/renton-contractor-pleads-guilty-in-king-county-drainage-district-corruption-case/281-aa1bb369-3857-4cac-b03b-3dd22bba2028
+(Content refers to information retrieved 2021-2-1)
+
+King County Drainage Ditch 5 turned out to be nothing but a moneybleed worth hundreds of thousands of dollars to its operator.  Catching the commissioner took 35 years.  For the record, I think it'd be better to eliminate environmental protections than tolerate corruption, although I know I 'technically' shouldn't be thinking about that.  This is just me being unimpressed with my area.  I've no evidence of anything but poor copy-editing and an obtrusively incomplete internet presence.
+
+I think that's part of the problem with things that get too popular.  They end up infested with corrupted loyalists who are using popularity to cover something intrinsically unpopular.  That might be what's wrong with environmentalism globally; I've wondered about it before.  In terms of sheer weather control, the problem is fundamentally technological.  Yet what happened when environmentalism and industry touched?  The connection corrupted.  Instead of neo-industrial fervor for new methods of energy exploitation as humanity reacted with in an earlier era, we got greenwashing status quo maintenance and conspicuous nondisruption.  Whenever people are invoking existential risk, we need neo-industrial fervor.  The global medical system has done better at ramping up to meet the challenge of COVID-19 and more than comparable environmentalist projects have been able to put together.
+
+We need experiments at scale.  I believe a mirror-drone fleet to tamper with a regional precipitation pattern would be a smaller investment than a hydroelectric dam.  It couldn't make the rain fall on schedule, but it could dampen fluctuations.  To move beyond what is strictly self-interested (at least in an "I had this idea" sense), if we're really facing down a permanent disruption we need to be embracing the risk of creating moonscapes somewhere if doing so is truly vital to saving everywhere.  I'm referring to rare earth extraction with that line; I fully support green electronics programs as a prescient policy, but I think it should occur /with/ rare earth extraction programs.  We can't refabricate civilization's entire energy extraction and distribution infrastructure plus swathes of its industrial and transit infrastructure without building an awful lot of factories churning out an awful lot of goods.
+
+...but I'm supposed to be thinking about national parks, eh.
+
+What's wrong with the environment is logistics!  It's about how we're distributing resources.  What do national parks even have to do with that?
+
+
 
 Back to [[ENVS&100]]
 
