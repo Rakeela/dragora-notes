@@ -1,0 +1,20 @@
+# After the Empire
+
+To-do: (In order!)
+1.  The Truth Unveiled  (Done.)
+2.  Days of Oily Teeth
+3.  Ascending the Void
+4.  The Will of the Worlds
+5.  The Machist State
+6.  For Every Machine, a Rank
+7.  Gilded Folk, Gilded Faith
+8.  Reflections Upon Ignorance
+9.  The Twofold Path
+10. The Towers of Heaven
+11. United by the Mystery
+12. The Answers in their Souls
+13. And We Shall All Be Redeemed
+14. Under the Banners of Reason
+15. The Paradise at Hand
+16. The Dominion of Nature
+17. The Happy Road Home
