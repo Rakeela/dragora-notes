@@ -95,6 +95,8 @@ Well, I suppose I've managed to assemble the material for a hellfire draft if I 
 
 Yet I do approximately trust in the value of ecosystem services.  I wouldn't try to replace all trees with artificial air filters, though I might build a few more moss-filter installations than nature herself would construct.  I mean, I wouldn't trust a swamp to filter drinking water, but they're... essential somehow, right?  To exactly that task, right?  Wetlands keep the watershed clean... somehow.  There's a faith involved in accepting all this stuff, and I'm not sure about my relationship with faith.  It really seems to me that we need clean industry more than we need clean parklands.
 
+---
+Clearly, I need to study ecosystem services more.
 
 Back to [[ENVS&100]]
 
