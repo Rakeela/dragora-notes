@@ -5,6 +5,12 @@ This is for unsorted links to science news with headlines, potentially also with
 https://phys.org/news/2021-01-biodegradable.html - Researchers develop biodegradable printed display - Retrieved January 27, 2021
 Commentary:  Increasing hygienic sensor use without increasing e-waste sounds favorable given my longing for a shapeshifting future.
 
+https://researchfeatures.com/magnebotix-ag-mfg-100-magnetic-field-generator-mechanobiology/ - Innovations to bring the MFG-100 Magnetic Field Generator to the Mechanobiology market - Retrieved February 2, 2021
+Commentary:  Is this research or advertising?  It's pretty cool to see anything about medichine research.
+
+---
+This list may contain research links.
+
 ---
 Back to [[News Archive]]
 
