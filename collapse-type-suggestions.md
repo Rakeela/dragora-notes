@@ -67,7 +67,7 @@ Political Oversight (Stock.  Bureaucratic penalty.)  7
 Entrenched Monopolies  (Stock.  Industrial specialty penalty.)  8
 Civil Unrest  (Stock.  Base culture penalty.)  9
 Special features:
-(Unset)
+(None?)  (Sector favors industrial production?)
 
 Fifth suggestion: (Incomplete)
 Stasis Collapse
