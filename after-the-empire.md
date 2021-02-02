@@ -15,6 +15,6 @@ To-do: (In order!)
 12. The Answers in their Souls
 13. And We Shall All Be Redeemed
 14. Under the Banners of Reason
-15. The Paradise at Hand
-16. The Dominion of Nature
-17. The Happy Road Home
+15. The Dominion of Nature
+16. The Happy Road Home
+17. The Paradise at Hand
