@@ -137,7 +137,10 @@ I think my father and his father leaned on the dust bowl story a great deal, too
 ---
 I don't know if this link works, but I want to share it:  https://www.google.com/maps/@47.0381636,-117.296312,3a,75y,1.5h,91.3t/data=!3m6!1e1!3m4!1sjjT57MOhsFL8QR_xrP-orA!2e0!7i13312!8i6656
 
-...it looks like the link works.  Good.  I referred to this in my essay.  I think once I've posted it to class, I'll post it here as well.
+...it looks like the link works.  Good.  I referred to this image in my essay.  I think once I've posted it to class, I'll post it here as well.
+
+---
+I wonder what global dust regulation does to the earth's energy absorption.
 
 ---
 Back to [[ENVS&100]]
