@@ -124,6 +124,7 @@ Sections;
    51) [[Jeremiah-the-Roleplaying-Game]]
    52) [[Starfinders-Alien-Archive]]
    53) [[Starfinders-Alien-Archive-2]]
+   54) [[Earthdawn-Second-Edition]]
 
 8) Writing Advice
    1) [[No-Plot-No-Problem]]
