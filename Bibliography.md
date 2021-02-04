@@ -124,8 +124,11 @@ Sections;
    51) [[Jeremiah-the-Roleplaying-Game]]
    52) [[Starfinders-Alien-Archive]]
    53) [[Starfinders-Alien-Archive-2]]
+   54) [[Earthdawn-Second-Edition]]
 
-
+8) Writing Advice
+   1) [[No-Plot-No-Problem]]
+   2) [[From-Sanctity-to-Sorcery-An-Author's-Guide-to-Building-Belief-Structures-and-Magic-Systems]]
 
 I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.  My favorite videogame manual is the game manual for Sierra's Arcanum: of Steamworks and Magick Obscurum.  I would probably add in video game strategy guides in the same section; the strategy guide for the game Outpost is more of a work of art than the buggy, incomplete game itself.  I wish the game Outpost had been successfully completed!
 
