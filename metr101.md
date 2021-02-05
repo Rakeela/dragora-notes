@@ -1,10 +1,8 @@
 # METR101
 
 To-Do (Keep this at the top of the file.)
- - Homework Quiz #44 (Due Jan 31)
- - Post-Test Reflection (Due Feb 1)
-   - Optional.  I may skip it.
- - Concepts and Tools #5 (Due Feb 4)
+ - Draft Discussion #5 (Due Feb 4)
+   - Yes, I'm already late on this.  I don't know how I was to know which group I was in, so I couldn't contribute before today.  This assignment can be done late for partial credit.
  - Reorganize notes
 
 "Course Outcomes"
