@@ -29,7 +29,10 @@ Chasing this lead with a search for "was there a coral reef die-off in 1998" (sa
 I'm really feeling that coral symbiont idea here.  I think I've found my subject of discussion - I can probably only slot a sentence for a blue sky coral symbiont proposal, but just focusing on coral is likely to be unusual.  It might get people to fear a coming El Niño oscillation, heh.  In the nearer term than coral symbionts, I wonder if we could spread reflective tarping over sensitive coral during hot days.
 
 ---
-I wish I weren't in pain.  I already took naproxen, and it's still distracting me from my studies.
+I wish I weren't in pain.  I already took naproxen, and pain is still distracting me from my studies.
+
+---
+I haven't come up with a way that predicting ENSO events might be important.  I could continue focusing on coral.  I think that coral-coral-coral attitude is pretty good here, because I think that specializing the essay is more likely to produce novel thought than drifting back generalist on the last question.  If society does come up with some kind of protection program for coral, knowing the likelihood of an ENSO oscillation could make sure that protection system is ready in the right places at the right times.
 
 ---
 back to [[metr101]]
