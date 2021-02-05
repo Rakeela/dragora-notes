@@ -4,6 +4,7 @@ This is the subcategory for creative notes about no particular setting.
 
 [[potential-magic-systems]]
 [[twice-trapped-hellscape]]
+[[city-quirks]]
 
 Back to [[Author's Fiction]]
 
