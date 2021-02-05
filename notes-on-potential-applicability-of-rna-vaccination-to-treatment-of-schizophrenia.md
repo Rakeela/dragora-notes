@@ -5,7 +5,20 @@ While researching RNA vaccination for authoring [[envs100disc4-pandemicblues]], 
 ---
 Looking at this proposal to use RNA manipulation to vaccinate against collagen autoimmunity, it talks about knocking down CD40, CD80, and CD86.  CD40 is Cluster of Differentiation 40, a costimulatory protein found on antigen-presenting cells.  The clusters of differentiation are designated cell surface molecules providing targets for immunophenotyping cells.  Immunophenotyping is a technique used to study the protein expressed by cells.  It involves using fluorophore-conjugated antibodies to probe and stain target cells, thereby phenotyping the different cells in a heterogenous sample.  I am not sure what was meant by "knocking down" those three target clusters of differentiation.
 
-Fortunately, Unpaywall to the rescue...  voila.  I have research I wouldn't ordinarily be able to access, and I can see what might be hiding behind the verbiage of the abstract.  Admittedly, it's getting late.  I could spend hours reading about clusters of differentiation, but I need to both exercise and shower this evening.  I'll pick this up tomorrow and edit out this bit of temporality when I do.
+Fortunately, Unpaywall to the rescue...  voila.  I have research I wouldn't ordinarily be able to access, and I can see what might be hiding behind the verbiage of the abstract.
+
+It looks like "knocking down" a cluster of differentiation is a common term found in many papers which refers to inhibiting its expression on the surface of cells.  This ranges from full inhibition (knocked down CD no longer found on cells) to partial inhibition (incidence rate of knocked down CD reduced).  I'm very concerned that knocking down autoantigen reactive sites might also result in disease susceptibility through lost reactivity with actual pathogens, but that concern doesn't have to stop me from assembling relevant research information to establish the potential feasibility of a new treatment method.
+
+---
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539405/ (Dalmau, J.  Geis, C.  Graus, F.  (2017, Mar 15)  Audoantibodies to Synaptic Receptors and Neuronal Cell Surface proteins in Autoimmune Diseases of the Central Nervous System.  *Physiology Review*.  Retrieved 2021-2-4.)
+
+This is interesting as a general review of the concept of autoantibodies to synaptic receptors as a cause of autoimmune diseases of the central nervous system.  It doesn't help me attest to schizophrenia as having a fundamentally autoimmune-mediated cause, which is a current research objective of mine for this essay.  I would like to be able to state directly in my draft why that is or is not the case, with at least one nice little [] by it to indicate my sincerity with a strong relevant link.
+
+---
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097895/ (Severance, EG.  Dickerson, FB.  Yolken, RH.  (2018, Sep)  Autoimmune phenotypes in schizophrenia reveal novel treatment targets.  *Pharmacology and Therapeutics.*  Retrieved 2021-2-4.)
+
+This looks like someone thinking in a similar vein to what I was thinking, without having access to prospective new technologies for attacking this novel treatment target.  This is the kind of thing I was looking for.
+
 
 ---
 Back to [[Author's Nonfiction]]
