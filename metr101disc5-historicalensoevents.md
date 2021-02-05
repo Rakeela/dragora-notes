@@ -35,7 +35,7 @@ I wish I weren't in pain.  I already took naproxen, and pain is still distractin
 I haven't come up with a way that predicting ENSO events might be important.  I could continue focusing on coral.  I think that coral-coral-coral attitude is pretty good here, because I think that specializing the essay is more likely to produce novel thought than drifting back generalist on the last question.  If society does come up with some kind of protection program for coral, knowing the likelihood of an ENSO oscillation could make sure that protection system is ready in the right places at the right times.
 
 
-...I think I'll go with that.  I have sufficient sourcing for it already.  My next segment will be the draft space, but although I do intend to finish this today, for some reason I'm nervous about my next quiz in this class.  I want to take a break from this task to spend a while studying.
+...I think I'll go with that.  I have sufficient sourcing for it already.  My next segment will be the draft space, but although I do intend to finish this today, for some reason I'm nervous about my next quiz in environmental science  I want to take a break from this task to spend a while studying.
 
 ---
 
