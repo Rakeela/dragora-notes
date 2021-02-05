@@ -23,3 +23,8 @@ People who rely on deceitful separation find me as their antithesis, as I leave 
 I have been a wrongthinker by default for most of my history, which is absurd, as I have also been obedient in ways most people would not.  It is a paradox of noncompliant compliance.  I have pushed people who rely on their status as defenders of the noncompliant to curse me for my noncompliance to *their* wishes.  And so I found "liberals" who were not... and I have found people who believed they supported transhumanism, confronted with *their own* sins against it, labeled as my sins.  Well, I wish only apologies and separations, though I will never let go of my history.
 
 The people I call stalkertrash need to mature enough that they stop splintering their minds with conducts that they can't admit to.  If they do that, they can be more like me, and like me they can become people whose known state cannot be revoked.  I don't believe that this is a method only available to me, and I think that sexual ethics on Earth would improve if more people were willing and able to do what I do in that respect.  I made enemies who rely on concealment, who tried and failed to fabricate concealment around me so that they could present me as relying upon concealment!  I am not a safe and healthy prey for that tactic, as I do not rely upon concealment at all.
+
+---
+What is okay to do to a crow species that is going extinct is a very severe consent violation to do to humans, analogous to rape in its disrespect for their rights.
+
+This is a thought brought up by looking at how conservation efforts aimed at Mariana Crows have proceeded.
