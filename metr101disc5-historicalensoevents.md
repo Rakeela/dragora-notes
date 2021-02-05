@@ -21,6 +21,13 @@ Source policy does not require full academic citations for this, but does requir
 ---
 I picked the '07-'98 El Niño event.  The 1998 DJF value was 2.2, suggesting strong warming.  The oscillation pattern on this looks surprisingly chaotic.  A quick web search for "1998 el nino effects" (sans quotes) turned up an interesting source for this (Care.  (1998, June 28)  El Niño in 1997-1998: Impacts and CARE's Response.  Retrieved 2/5/2021 from https://reliefweb.int/report/world/el-ni%C3%B1o-1997-1998-impacts-and-cares-response).  This looks like it might be a wholly sufficient source itself.
 
+This focuses entirely on negative effects.  I'm a little confused by that, to be honest.  Shouldn't weather at this scale be a natural ambivalence?  I did a web search for "does el nino do anything good?" (sans quotes) to see if there were any reports of positive effects.  Instead I've happened upon discussions of coral bleaching.  Sheesh...  Are we going to lose all the sea coral at the next El Niño?  If only we had some kind of scheme to interfere with solar radiation absorption at sea, hah!  Ah, but alas I do not rule the world...  I wonder if there's any biome that could grow both coral and mangroves.  The mangroves might shade the coral, if so.  Perhaps some other kind of coral symbiote plant could be engineered?  I'd rather we not lose all the coral reefs on Earth in the intersection between global warming and normal temperature fluctuations.  Not only are they kind of pretty, their skeletons are pure sunk carbon.  Anyways, the link with the info about coral bleachins is here: (Thompson, D.  (2016, Mar 2)  El Niño: The Good, the Bad and the Ugly.  *Weather from WeatherOps*  Retrieved 2/5/2021 from https://blog.weatherops.com/el-nino-the-good-the-bad-and-the-ugly).
+
+
+Chasing this lead with a search for "El Niño: The Good, the Bad and the Ugly" (sans quotes), I found this: (Aronson, RB.  Precht, WF.  Toscano, MA.  Koltes, KH.  (2002, Jun 1)  The 1998 bleaching event and its aftermath on a coral reef in Belize.  *Maringe Biology*.  Retrieved 2/5/21 from http://www2.cedarcrest.edu/academic/bio/jcigliano/MFEC/Bleaching_1998.pdf).  This claims that the strong El Niño of 1998 causing the first mass coral mortality in the central lagoon of the Belizean barrier reef for the last 3,000 years.  
+
+---
+I wish I weren't in pain.  I already took naproxen, and it's still distracting me from my studies.
 
 ---
 back to [[metr101]]
