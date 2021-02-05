@@ -19,6 +19,7 @@ The assignment is to prepare brief answers for each of these:
 Source policy does not require full academic citations for this, but does requiring including links to any sources utilized.  Copy-and-paste engagement with websites is forbidden for this assignment.  Directions complete.
 
 ---
+I picked the '07-'98 El Niño event.  The 1998 DJF value was 2.2, suggesting strong warming.  The oscillation pattern on this looks surprisingly chaotic.  A quick web search for "1998 el nino effects" (sans quotes) turned up an interesting source for this (Care.  (1998, June 28)  El Niño in 1997-1998: Impacts and CARE's Response.  Retrieved 2/5/2021 from https://reliefweb.int/report/world/el-ni%C3%B1o-1997-1998-impacts-and-cares-response).  This looks like it might be a wholly sufficient source itself.
 
 
 ---
