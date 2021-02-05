@@ -5,7 +5,7 @@ While researching RNA vaccination for authoring [[envs100disc4-pandemicblues]], 
 ---
 Looking at this proposal to use RNA manipulation to vaccinate against collagen autoimmunity, it talks about knocking down CD40, CD80, and CD86.  CD40 is Cluster of Differentiation 40, a costimulatory protein found on antigen-presenting cells.  The clusters of differentiation are designated cell surface molecules providing targets for immunophenotyping cells.  Immunophenotyping is a technique used to study the protein expressed by cells.  It involves using fluorophore-conjugated antibodies to probe and stain target cells, thereby phenotyping the different cells in a heterogenous sample.  I am not sure what was meant by "knocking down" those three target clusters of differentiation.
 
-Fortunately, Unpaywall to the rescue...  voila.  I have research I wouldn't ordinarily be able to access, and I can see what might be hiding behind the verbiage of the abstract.
+Fortunately, Unpaywall to the rescue...  voila.  I have research I wouldn't ordinarily be able to access, and I can see what might be hiding behind the verbiage of the abstract.  Admittedly, it's getting late.  I could spend hours reading about clusters of differentiation, but I need to both exercise and shower this evening.  I'll pick this up tomorrow and edit out this bit of temporality when I do.
 
 ---
 Back to [[Author's Nonfiction]]
