@@ -1,3 +1,5 @@
 # 2021-2-5-Twenty-Third
 
 Golly, I wish I hadn't lost years of my life to the influence of stalking, corruption, and sexual exploitation.  I could've been out there contributing to medical research all along, couldn't I have?  Oh well, nothing to do but try to "give better"!  Giving better to this world than it gave to me is pretty easy, and I think I might be able to make some real contributions to boot.
+
+I owe a great debt to Dr. Tewari's ENVS&100 course for showing me the potential to add scientific weight to my essays by writing densely cited essays.  I must also express my gratitude to the scientific community for having the integrity that empowers such a following eye as my own, as every time I move across a paper in my review trail I am aware of substantially trusting the quality of analysis being put forward to the scientists who put their work into the paper.  I am not yet equipped to discern faulty research, yet if the archive's integrity is valid, I may be able to find new paths throughout it.
