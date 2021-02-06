@@ -47,6 +47,13 @@ CCL11 is specifically a biomarker of eosinophils.  This suggests excess eosinoph
 ---
 What is my vaccination target?  What am I proposing to teach the immune system cells to DO?  I see likenesses between these procedures which suggest that there is something here, but I can't succinctly specify a molecule.
 
+https://www.uniprot.org/uniprot/G3C8U8  (*Uniprot*.  (n.d.)  "UniProtKB - G3C8U8 (G3C8U8_PHLPR)".  Retrieved 2021-2-5.)
+
+If I understand this research correctly, this with a cap on it is the pollen allergen RNA used in the allergy vaccine.  I'm adding this here in case I decide I can learn more about how to pick an RNA target by looking it up.
+
+---
+
+
 
 ---
 Back to [[Author's Nonfiction]]
