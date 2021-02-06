@@ -114,6 +114,8 @@ I am aware of some amount of retread in my thoughts.  I am not an immunologist, 
 
 This looks good for my concept of using RNA vaccines to modulate immune responses in both directions.  If the conditions for creating antigenic vs tolerogenic cellular structures can be clearly defined, fine-tuning the human immunoresponse profile becomes feasible.
 
+What we want to do is to create tolerogenic dendritic cells for every critical internal surface in the body, while watching for signs of inappropriate pathogen resistance.  This may necessitate a new generation of vaccinations against diseases for which vaccinations or widespread immunity are currently common, but now that I have some idea of what's going on in the intercellular medium with RNA vaccines vs regular vaccinations, I think we should do that anyways.  RNA vaccines are a more precise tool which should allow cross-reactivity to become a factor which occurs only to our benefit.
+
 ---
 Back to [[Author's Nonfiction]]
 
