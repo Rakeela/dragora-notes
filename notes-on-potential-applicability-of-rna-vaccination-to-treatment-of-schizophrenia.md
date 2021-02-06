@@ -157,7 +157,7 @@ This is the paper where the allergen was cloned to isolate its complementary DNA
 
 ---
 
-I wonder if I should be researching how an RNA encoding pattern was invented for the COVID-19 viral spike protein.  I've seen points in the literature which claim that RNA vaccinations are "plug and play".  If there's some step that simplifies the discovery of RNA encoding patterns for an antigenic surface, I should like to find it.
+I wonder if I should be researching how an RNA encoding pattern was invented for the COVID-19 viral spike protein.  I've seen points in the literature which claim that RNA vaccinations are "plug and play".  If there's some step that simplifies the discovery of RNA encoding patterns for an antigenic surface, I should like to find it.  If I could propose a panel of specific targets for tolerogenic treatment with an estimated cumulative probability of thereby accounting for schizophrenia-related neuroinflammatory properties derived from the frequency of comorbidity, I would consider that an excellent research outcome strongly supportive of a valuable real world research project.
 
 ---
 Back to [[Author's Nonfiction]]
