@@ -491,7 +491,7 @@ Citations
 [13]  Soltani-Kermanshahi, M.  Mohammad, S.  Sharam, A.  Marjan, M.  Masoodi, M.  (2015, October 26)  Frequency of Celiac Disease in Patients with Increased Intestinal Gas (Flatulence).  Global Journal of Health Science.  Retrieved January 28, 2021 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4954875/
 
 P.S.  Re: Citation Quality:  Citation 11 is weak in that it only establishes that variability exists rather than specifically that variability causes differences in how likable people are.  I included it more for humor than necessity.  Citation 12 is weak for being non-academic, but I was citing the viability of the question rather than a specific conclusion therefrom, and I was glad to find anywhere else someone was asking it.  Finally, a general warning; as I often do not have full access to the papers, all academic citations are of somewhat compromised quality in my usage.
-
+    
 ---
 Back to [[Author's Nonfiction]]
 
