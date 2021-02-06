@@ -143,7 +143,7 @@ https://pubmed.ncbi.nlm.nih.gov/23953827/ (Ezeoke, A.  Mellor, A.  Buckley, P.  
 
 I don't have access to this and therefore can't use it, but I'm listing it for interest.  If there's a general solution available for immune response tailoring, these kinds of broad reviews will be helpful in establishing the protocol for that general solution.
 
-I'm still not sure how antigenic surfaces are encoded for in RNA, currently.
+I'm still not sure how antigenic surfaces can be encoded in RNA, currently.  The part that tells me which piece of RNA to feed to the dendrites is still missing from my understandig.
 
 ---
 https://www.jacionline.org/article/S0091-6749(98)70391-4/fulltext (Niederberger, V.  Laffer, S.  Fröschl, R.  Kraft, D.  Rumpold, H.  Kapiotis, S.  Valenta, R.  Spitzauer, S.  (1998, Feb 1)  IgE antibodies to recombinant pollen allergens (Phl p 1, Phl p 2, Phl p 5, Bet v 2) account for a high percentage of grass pollen-specific IgE.  *The Journal of Allergy and Clinical Immunology*.  Retrieved 2021-2-6.)
