@@ -26,6 +26,14 @@ https://www.hindawi.com/journals/jir/2015/797421/ (Hattinger, E.  Scheiblhofer, 
 
 I hope that I'll be able to demonstrate shared action between this anti-allergen process and anti-arthritis interventions using RNA, thereby demonstrating extensibility across antigen-mediated neuroinflammatory diseases as well.
 
+(Quoted from source)
+"The induction of regulatory T cells has been shown to play an important role in keeping or restoring a nonallergic balanced status of the immune system against allergens [26]. However, in our model no significant differences in IL-10 expression could be detected between prevaccinated and control groups indicating no crucial role of IL-10-secreting Treg cells (Tr1) in the mechanisms underlying protection from an allergic immune response by mRNA immunization (Figure 2(f))."
+
+(Quoted from source)
+"Furthermore, recruitment of eosinophils to the lung was significantly reduced in the vaccination groups. Interestingly, the percentage of infiltrating neutrophils in the lung was increased in the vaccinated group during the acute phase of the lung response (Figure 3(f)). Similarly, Duechs et al. observed that application of various TLR agonists in an asthma model reduced airway eosinophilia and airway resistance but at the same time increased neutrophil influx [27]."
+
+
+
 ---
 Back to [[Author's Nonfiction]]
 
