@@ -116,6 +116,13 @@ This looks good for my concept of using RNA vaccines to modulate immune response
 
 What we want to do is to create tolerogenic dendritic cells for every critical internal surface in the body, while watching for signs of inappropriate pathogen tolerance consequent to the immune system losing targets which it had been using against actual pathogens.  (Autoimmunity is often learned from pathogens, as I believe occurs when the target which the immune system discovers on the pathogen is also present in the body's own constitution.)  This may necessitate a new generation of vaccinations against diseases for which vaccinations or widespread immunity are currently common, but now that I have some idea of what's going on in the intercellular medium with RNA vaccines vs regular vaccinations, I think we should do that anyways.  RNA vaccines are a more precise tool which should allow cross-reactivity to become a factor which occurs only to our benefit.
 
+(quoted from source)
+"Because we have previously used immature DCs to inhibit CIA progression (23), we sought to extend these findings to a system in which expression of specific costimulatory molecules may be knocked down. We observed that gene silencing of CD40, CD80, and CD86 achieved optimal protection from disease and induced Ag-specific Tregs in CIA mice. Collectively, the data presented here support the feasibility of gene-silenced DCs as a means of sup- pressing immune responses in autoimmunity."
+
+I never thought I'd be so happy to see CIA mice.  CIA in this case means "collagen-induced arthritis".  In this paper, "knockdown of CD40, CD80, and CD86" is the method described in the abstract for achieving tolerogenic dendritic cells.  I also want to note that "we have previously used immature DCs to inhibit CIA progression" suggests I need to go read this paper's 23rd citation.  By that verbiage alone, I would infer that the researchers discovered greater immunocompetence from immature dendritic cells presented with arthritogenic particles, from which it would make sense that RNA vaccination (by the procecdure's high specificity for dendritic cells) may be intrinsically suitable for improving the competency and specificity of immunoresponse.  I feel bad for those mice who had to live and suffer for this.  I wish the research could have been performed on a homonculous model expressing only as much mouse as necessary to establish the effect.
+
+I'm looking for information about that gene knockdown procedure.  
+
 ---
 Back to [[Author's Nonfiction]]
 
