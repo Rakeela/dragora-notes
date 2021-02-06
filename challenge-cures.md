@@ -3,6 +3,37 @@
 I've decided to accrete and publish a complete list of which challenges in The Viceroy are cured by which technologies.  This is to help me with producing [[Collapse Type Suggestions]].
 
 ---
+Challenges by Set:
+
+Ecological Collapse
+Economic Restrictions (Cured by Lord Economic) (Rate of Return penalty)
+Invasive Organisms (Cured by Orbital Surveyor) (Biological Specialist penalty)
+Photosynthetic Plague (Cured by Hydroponic Farms) (Biological Specialist penalty)
+Ecological Collapse (Cured by Weather Control Network) (Biological Specialist penalty)
+Erratic Orbit (Cured by Green Belt) (Biological Specialist penalty)
+Ice Age (Cured by Orbital Habitats)  (Biological Productivity penalty)
+Biological Embargo (Cured by Stasis Controller)  (Biological Specialist penalty)
+Solar Disruption (Cured by Solar Moderator)  (Biological Productivity penalty)
+Systemwide Quarantine (Cured by Orbital Hospitals) (Biological Specialist penalty)
+
+---
+Qualms per Challenge
+One of the hidden themes of this game seems to be the question of whether all of its technologies are actually desirable.  That extends to the challenges and their cures.  I'll list all of them and mark 'no objections' if I've come up with no qualms.
+
+Qualms by Set:
+
+Ecological Collapse
+Economic Restrictions - Centralizing economic authority to that extent is a downright bizarre concentration of power.  It's hard to imagine such a thing being proven to be scientifically optimal.  In an environment of blatantly excessive restrictions, it's a little easier to imagine such a thing being proven to be scientifically optimal, and yet that only seems like a potentially harmful temptation.  Particularly in an environment of ecological collapse, it seems likely that the restrictions arose with sensible purposes, and leaving them to be resolved by domestic authorities rather than destroying them at viceregal command seems friendlier to the region.
+Invasive Organisms - No objections.
+Photosynthetic Plague - No objections.
+Ecological Collapse - No objections.
+Erratic Orbit - Why should the galaxy be denied the specific variations of life that develop under these wide seasonal variations?  This is the kind of thing that could lead to discoveries in how to prosperously inhabit more edge-case environs.  Working too hard to fix this seems much less rewarding than working around it.
+Ice Age - Since this is 'fixed' by Orbital Habitats, I'm assuming that means moving the population centers to orbit so that the green band around the center of the planet can be more completely reserved for agriculture.  I have no objections, I just wanted to record my thoughts about how to interpret the cure tech.
+Biological Embargo - I kind of like all the embargo zones in this game.  Conceptually, areas that are operating X or Y embargo are resisting a tendency to destructive overspecialization while encouraging the development of local industrial and technical capabilities which may ultimately diverge from galactic standards in novel ways.  I can see how breaking these embargo zones would result in short-term productivity gains, but I don't like doing it.
+Solar Disruption - I wish I could say 'no objections', because an unstable primary star sounds terrible.  Yet my opinion goes to the same thing as the Erratic Orbit opinion.  What kind of lifeforms would prosper in a kaleidoscopic weather system?  If the ecosystem were supported heavily (symbiotic ecosystem research and weather control systems) what would vibrance look like in an environment where the weather changes so often?  That seems like a better spectacle to offer the galaxy than yet another star smoothed by imperial stellar infrastructure.
+Systemwide Quarantine - Well, it's definitely described as an unpleasant thing, but is it actually proper to go in and extinguish a life-form found in only one place?
+
+
 
 ---
 Back to [[The Viceroy]]

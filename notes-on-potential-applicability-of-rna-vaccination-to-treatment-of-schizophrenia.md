@@ -19,6 +19,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6097895/ (Severance, EG.  Dickerson
 
 This looks like someone thinking in a similar vein to what I was thinking, without having access to prospective new technologies for attacking this novel treatment target.  This is the kind of thing I was looking for.
 
+---
+I need to establish a necessary connection between antigen treatment and RNA vaccination.  I don't fully understand this process yet.  It should shape my searching, and supports reading more about the potential applicability of RNA vaccination to allergies and arthritis.  I'm reading something that I believe I've cited before for other work.
+
+https://www.hindawi.com/journals/jir/2015/797421/ (Hattinger, E.  Scheiblhofer, S.  Roesler, E.  Thalhamer, T.  Thalhamer, J.  Weiss, R.  (2015, Oct 18)  Prophylactic mRNA Vaccination against Allergy Confers Long-Term Memory Responses and Persistent Protection in Mice.  *Journal of Immunology*.  Retrieved 2021-2-5.)
+
+I hope that I'll be able to demonstrate shared action between this anti-allergen process and anti-arthritis interventions using RNA, thereby demonstrating extensibility across antigen-mediated neuroinflammatory diseases as well.
 
 ---
 Back to [[Author's Nonfiction]]
