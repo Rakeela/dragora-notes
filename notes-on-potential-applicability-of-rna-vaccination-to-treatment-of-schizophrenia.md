@@ -159,6 +159,14 @@ This is the paper where the allergen was cloned to isolate its complementary DNA
 
 I wonder if I should be researching how an RNA encoding pattern was invented for the COVID-19 viral spike protein.  I've seen points in the literature which claim that RNA vaccinations are "plug and play".  If there's some step that simplifies the discovery of RNA encoding patterns for an antigenic surface, I should like to find it.  If I could propose a panel of specific targets for tolerogenic treatment with an estimated cumulative probability of thereby accounting for schizophrenia-related neuroinflammatory properties derived from the frequency of comorbidity, I would consider that an excellent research outcome strongly supportive of a valuable real world research project.
 
+I am concerned that studying COVID-19 may be unproductive due to flooding of the searchspace.  There's so much activity that drilling down to exactly the process of development that I'm interested in may be easier if I can find similar research on other targets rather than relying on the COVID-19 research itself.
+
+---
+
+Hm, this may also be a way to cure Guillain-Barré syndrome, repairing one category of vaccine injury IRL and making vaccines factually safer.  That relies on a more easily defined target classification for the antibodies.  The problem in Guillain–Barré syndrome is anti-ganglioside antibodies.  The cultured dendrite treatment described earlier should be able to cure that.  Maintaining a supply of separately matured anergic dendrites may be a useful supportive treatment for neural illnesses more generally, in order to prevent disruption of patient capabilities by immune mistraining over the course of fighting the illness.  This would be suitable for in-patient care, but should result in accelerated healing.
+
+There's potential overlap with the schizophrenia concept as well, depending on the still unknown question of which neurological antibodies are operant in the (conjectured) autoimmune model of schizophrenia.
+
 ---
 Back to [[Author's Nonfiction]]
 
