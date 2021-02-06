@@ -32,7 +32,21 @@ I hope that I'll be able to demonstrate shared action between this anti-allergen
 (Quoted from source)
 "Furthermore, recruitment of eosinophils to the lung was significantly reduced in the vaccination groups. Interestingly, the percentage of infiltrating neutrophils in the lung was increased in the vaccinated group during the acute phase of the lung response (Figure 3(f)). Similarly, Duechs et al. observed that application of various TLR agonists in an asthma model reduced airway eosinophilia and airway resistance but at the same time increased neutrophil influx [27]."
 
-I read this to mean that this intervention works by shifting allergic response from immune response by eosinophils to immune response by neutrophils.  Eosinophils are most optimal against parasites and important against some infections.  Neutrophils are a much more appropriate responses to allergenic particles than eosinophils, as the neutrophils themselves will attempt to dismantle and ingest the allergenic particles.  That a similar shift could be productive for other classifications of immunoresponse tweaking is something that I'll need to establish.
+I read this to mean that this intervention works by shifting allergic response from immune response by eosinophils to immune response by neutrophils.  Eosinophils are most optimal against parasites, important against some infections, have a limited ability to phagocytose pathogens, are critical to pathogen presentation, and are essential immune response regulating cells.  Neutrophils are a much more appropriate responses to allergenic particles than eosinophils, as the neutrophils themselves will attempt to dismantle and ingest the allergenic particles, whereas the eosinophils will at best martial an immune response that summons neutrophils to ingest the allergenic particles.  That a similar shift from local eosinophilia to local neutrophilia could be productive for other classifications of immunoresponse tweaking is something that I'll need to establish, though from a quick review of available information on granulocytes (ie, I'm reading Wikipedia) I get the impression that eosinophils are the most autotoxic of the white blood cells with many forms of inappropriate activation.  That's promising.
+
+---
+https://www.sciencedirect.com/science/article/abs/pii/0165178184901148  (Kronfol, Z.  Turner, R.  Nasrallah, H.  Winokur, G.  (1984, Sep)  Leukocyte regulation in depression and schizophrenia.  *Psychiatry Research*.  Retrieved 2021-2-5.)
+
+This is notable mostly as a speedbump.  It suggests that schizophrenics already have a shift in the balance of their immune system towards neutrophils and way from lymphocytes.  While this proves nothing immediately relevant to my research and doesn't suggest I should stop looking at this avenue, it is bad news in an intuitive base rates sense.  If increasing neutrophil activation is already occurring and it's not helping, the likelihood that a different kind of increased neutrophil activation will be helpful is rational to reduce, though not eliminate, at this juncture.
+
+---
+https://www.sciencedirect.com/science/article/abs/pii/S0278584607004095 (Teixeira, AL.  Reis, HJ.  Nicolato, R.  Brito-Melo, G.  Correa, H.  Teixeira, MM.  Romano-Silva, MA.  (2008, Apr)  Increased serum levels of CCL11/eotaxin in schizophrenia.  *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.  Retrieved 2021-2-5.)
+
+CCL11 is specifically a biomarker of eosinophils.  This suggests excess eosinophil activation is present in schizophrenics.  Other CCLs monitored in this study (CCL2, CCL3, CCL24, CXCL9, and CXCL10) are biomarkers of other kinds of immune cell or immune cell signalling compound, save for CCL24, which is another biomarker of eosinophil, which as an immune system signal attempts to recruit T lymphocytes and neutrophils.  CCL11 is notable for have a chemotactic effect on eosinophils, in other words, it recruits them.  This suggests that a specific malfunction occuring in schizophrenia may be eosinophils inappropriately recruiting each other to congregate around bits of nerve tissue for which their presence is rather unhealthy...
+
+---
+What is my vaccination target?  What am I proposing to teach the immune system cells to DO?  I see likenesses between these procedures which suggest that there is something here, but I can't succinctly specify a molecule.
+
 
 ---
 Back to [[Author's Nonfiction]]
