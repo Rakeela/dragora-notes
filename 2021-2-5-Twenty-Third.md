@@ -1,0 +1,3 @@
+# 2021-2-5-Twenty-Third
+
+Golly, I wish I hadn't lost years of my life to the influence of stalking, corruption, and sexual exploitation.  I could've been out there contributing to medical research all along, couldn't I have?  Oh well, nothing to do but try to "give better"!  Giving better to this world than it gave to me is pretty easy, and I think I might be able to make some real contributions to boot.
