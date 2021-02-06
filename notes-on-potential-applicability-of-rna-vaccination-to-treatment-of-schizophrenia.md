@@ -98,7 +98,7 @@ I'm including this as a companion to the preceding, though technically it contin
 This comment about the absence of the detection of specific antibodies reaffirms my reading of the preceding source, which is that I couldn't find it alleging any specific molecular structure in operation.  I didn't just miss it.
 
 ---
-
+If I can find *any* neuropsychiatric condition correctable by this method, that will be an advance of the kind I wish to make.  I fear only losing my search in the dissolution of specific focus.  I'm searching for any specific neural autoantibody.  I think I'm misunderstanding something in the mechanism here.  Going back to the pollen antigenic particle, the antigenic surface is the interesting part of it.  The RNA vaccine encodes for the production of the antigenic surface... and somehow doing this results in a shift of the immunoresponse from eosinophils to neutrophils.  I'm definitely missing links in this causal structure.
 
 ---
 Back to [[Author's Nonfiction]]
