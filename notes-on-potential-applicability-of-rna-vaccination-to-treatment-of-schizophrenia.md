@@ -100,6 +100,10 @@ This comment about the absence of the detection of specific antibodies reaffirms
 ---
 If I can find *any* neuropsychiatric condition correctable by this method, that will be an advance of the kind I wish to make.  I fear only losing my search in the dissolution of specific focus.  I'm searching for any specific neural autoantibody.  I think I'm misunderstanding something in the mechanism here.  Going back to the pollen antigenic particle, the antigenic surface is the interesting part of it.  The RNA vaccine encodes for the production of the antigenic surface... and somehow doing this results in a shift of the immunoresponse from eosinophils to neutrophils.  I'm definitely missing links in this causal structure.
 
+Traditional vaccines inject the antigenic surfaces.  That's really what a vaccine is, at root; it's a bunch of particles that the immune system is expected to react to in a manner which gives it competency against live viruses.  Insofar as the vaccine's antigenic particles are non-threats which inspire an immune response, vaccination relies upon something like the allergic response potential to otherwise-harmless particles.  RNA vaccines inject code that causes cells to produce the antigenic surfaces.  The same non-threat particles are being made, but locally.  Any kind of cell can potentially pick up the mRNA globules, manufacture antigen spikes, and display them on their surface, but dendritic cells are most eager to do so.  Dendritic cells have a stronger inclination towards phagocytosis, like other immune cells, yet specifically they are the most potent of the antigen presenting cells, being capable of coding antigenic response to naive T cells.
+
+Dendritic cells can also induce immune tolerance somehow?
+
 ---
 Back to [[Author's Nonfiction]]
 
