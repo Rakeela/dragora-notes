@@ -32,7 +32,7 @@ I hope that I'll be able to demonstrate shared action between this anti-allergen
 (Quoted from source)
 "Furthermore, recruitment of eosinophils to the lung was significantly reduced in the vaccination groups. Interestingly, the percentage of infiltrating neutrophils in the lung was increased in the vaccinated group during the acute phase of the lung response (Figure 3(f)). Similarly, Duechs et al. observed that application of various TLR agonists in an asthma model reduced airway eosinophilia and airway resistance but at the same time increased neutrophil influx [27]."
 
-
+I read this to mean that this intervention works by shifting allergic response from immune response by eosinophils to immune response by neutrophils.  Eosinophils are most optimal against parasites and important against some infections.  Neutrophils are a much more appropriate responses to allergenic particles than eosinophils, as the neutrophils themselves will attempt to dismantle and ingest the allergenic particles.  That a similar shift could be productive for other classifications of immunoresponse tweaking is something that I'll need to establish.
 
 ---
 Back to [[Author's Nonfiction]]
