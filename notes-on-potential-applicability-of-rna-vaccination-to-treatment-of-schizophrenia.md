@@ -181,6 +181,17 @@ I believe that this strongly favors the conclusion that celiac's disease contrib
 
 It also mentions possible age-related weakening of the brain-blood barrier, suggesting that pushing back petty brain permeability insults from the immune system may have anti-senescent functions as well.  This is further support for the concept that a general course of allergy vaccination across the entire population would be highly productive.
 
+I'm going to need to find a way to reorganize this content eventually.  It looks like this is sort of a "studying a discipline" exercise which should have more subsorting involved as the amount of content continues to accrete.  I believe I'll be able to very excitedly chase this pattern for a long time, but it looks like defining many contributing causalities for a syndrome that I suspect describes a cluster of outcomes rather than a shared single etiology appears to be a complex task.  The unifying excitement factor here is the possibility for an actual product to be constructed which would tune immunoresponses in a way yielding both intelligence and happiness to its beneficiaries.  Every step forward yields the promise of the potential applications for RNA vaccination's mode of interface with the immune system...  Which reminds me, I need to study the pollen vaccination's mechanism again.
+
+---
+https://www.hindawi.com/journals/jir/2015/797421/ (Hattinger, E.  Scheiblhofer, S.  Roesler, E.  Thalhamer, T.  Thalhamer, J.  Weiss, R.  (2015, Oct 18)  Prophylactic mRNA Vaccination against Allergy Confers Long-Term Memory Responses and Persistent Protection in Mice.  *Journal of Immunology*.  Retrieved 2021-2-5.)
+
+I'm a little self-conscious about the daily restudying factor required for trying to build up my understanding of this tech.  I've never had to do that for classwork.  I think I'll standardize at least the 'source opens section' rule, and I may revise older sections to clarify that.  I'm considering dividing the chronology by date where supported by retrieval date, but I'm not committed to that scheme yet.
+
+Returning to this paper, it appears to have delivered a plasmid encoding RNA for an antigenic surface without specific preparation for ensuring tolerogenic response.  Given my previous reasoning about the nature of the specialization of the RNA vaccines (which is that it delivers particles to dendrites with high specificity), I would infer that this delivered pathogen spikes to dendrites in a non-stressing way.  The dendrites would then have matured (from acquiring pathogens to present) and migrated to the lymphatic system for delivery of new information (its new antigenic surface) to the immune system.  The study then reports that "antigen-specific IgG1" was significantly elevated in vaccinated mice rather than control mice.
+
+Digressing to improve my understanding of antigen-specific IgG1...  IgG is "Immunoglobin G".  Approximately 75% of serum antibodies are IgG variants specific to the antigenic surface.  These Y-shaped proteins are tipped with a pair of binding points specific to the antigen.  Cellular structures with antigen-specific IgG1 attached to them are marked for destruction by the immune system, as well as being directly impaired in mobility characteristics and encouraged to bind uselessly to each other (as each Y-shaped protein can bind to two structures).  A pathogen coated in Immunoglobin G has been "opsonized" and will be phagocytosed if detected by a phagocytotic immune cell (most of them).
+
 ---
 Back to [[Author's Nonfiction]]
 
