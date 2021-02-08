@@ -202,6 +202,8 @@ This strategy is not quite as promising for unlearning immunoresponses as cultur
 
 I may end up crafting my first essay in this category to be a proposal for a protocol generalizing cultured dendrite therapy to other antigenic surfaces for immediate broader study.  Controlled unlearning of improper immunoresponses would provide significant advances for life extension and healthspan if it could be proven generally safe at a skill level suitable for widespread performance.  In which case, with that ambition, I am nearer to a first draft than I thought I was, as I should be able to author that as a commentary upon one paper.  I think I'll give that its own page.
 
+Reader beware; tolerogenic dendrites could also be used to produce antivaccines to enhance the effectiveness of bioweapons.
+
 ---
 Back to [[Author's Nonfiction]]
 
