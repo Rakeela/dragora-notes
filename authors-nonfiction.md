@@ -14,8 +14,15 @@ Class essays:
 * [[envs100-nw-state-parks-essay]]
 * [[metr101disc3-rainmaking]]
 
-Independent study:
+Potential essays:
+* [[A General Protocol for Tolerogenic RNA Vaccination]]
+* [[Tolerogenic RNA Vaccination vs Hypercompetent RNA Vaccination]]
+
+Notes for potential essays:
 * [[notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]]
+
+
+
 ---
 Back to [[authors-writing]]
 
