@@ -179,7 +179,7 @@ https://pubmed.ncbi.nlm.nih.gov/30340384/ (Obrenovich, MEM.  (2018, Oct 18)  Lea
 
 I believe that this strongly favors the conclusion that celiac's disease contributes to brain permeability.  Viewing schizophrenia as a cumulative structure caused by many neglected minor injuries rather than by a singular etiology, an attempt to vaccinate against schizophrenia as through cultured tolerogenic dendrites or an unknown direct RNA method might require a tolerogenic vaccination for celiac's disease, which should be noted as another name for grain allergy.
 
-It also mentions possible age-related weakening of the brain-blood barrier, suggesting that pushing back petty brain permeability insults from the immune system may have anti-senescent functions as well.
+It also mentions possible age-related weakening of the brain-blood barrier, suggesting that pushing back petty brain permeability insults from the immune system may have anti-senescent functions as well.  This is further support for the concept that a general course of allergy vaccination across the entire population would be highly productive.
 
 ---
 Back to [[Author's Nonfiction]]
