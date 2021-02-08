@@ -22,6 +22,8 @@ I need to specify in the essay that I'm inventing and attempting to introduce th
 
 I'm looking forward to establishing the dendrispecific quality, as I believe that may be an ambitious extension to the currently available information on the subject.  Given what I have observed of the status quo in my recent searches, I believe I will have to establish that by logical inference from observations in the data, as I have not thus far seen specific dendrispecificity praise for RNA vaccinations.  I am generating that de noveau and I intend to establish it as fact.  Presuming, of course, that it is an actual fact observed in experiments performed thus far.
 
+My husband has told me that the work that I'm presently doing to try to draw new information from existing research is a "Review" in science.  He says that's the kind of paper I'm writing now.
+
 ---
 back to [[Author's Nonfiction]]
 
