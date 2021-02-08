@@ -88,8 +88,10 @@ Sixth suggestion: (Incomplete)
 Agri-Nanite Apocalypse
 A very advanced society developed here seeking to feed the galaxy with extraordinary amounts of food exports.  It worked really well for a while, but their auto-optimizing nanotechnological agricultural system has become difficult to understand and difficult to trade with.  Commonwealth negotiators have achieved consent from the swarm hive for a recolonization mission, and are dispatching a viceroy.
 Challenges:
-Psuedourbanism (This planet is built up bizarrely to provide living and recreational spaces... for sapient nanite collectives.  While fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  1
-(8 Unset)
+Psuedourbanism (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the resulting buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  1
+Uncoalesced (Save for a few immigrant specialists, this district's population is entirely composed of a nanite soup.  Although the swarm can be directed in employment producing conventional industrial goods as well as exotic biochemicals in exchange for cultural imports, its own cultural artifacts are few and incomprehensible.  Cultural productivity penalty.)  2
+Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  3
+(6 Unset; note incomplete setting 3)
 Special features:
 (Unset)
 
@@ -98,8 +100,10 @@ Grey Goo
 This formerly panarchic region recklessly maximized its deployment of machine intelligence and accidentally created a system far less discriminate than intended.  Commonwealth military forces have established beachheads in suitable district capitol sites, and our diplomats have established formal economic contact with the 'native population' of swarm hive intelligences.  A minority of the swarm hive has continued military opposition in some distracts and appears to be hyperspace capable.
 Challenges:
 Rebel Faction (Stock.  Influence penalty.)  1
-Psuedourbanism (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  2
-(8 Unset)
+Psuedourbanism (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the resulting buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  2
+Uncoalesced (Save for a few immigrant specialists, this district's population is entirely composed of a nanite soup.  Although the swarm can be directed in employment producing conventional industrial goods as well as exotic biochemicals in exchange for cultural imports, its own cultural artifacts are few and incomprehensible.  Cultural productivity penalty.)  3
+Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  4
+(5 Unset; note incomplete setting 4)
 Special features:
 (Unset)
 
