@@ -94,7 +94,7 @@ Recoalescent (This planet's population is having difficulty producing a limited 
 Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  4
 (5 Unset; note incomplete setting 3)
 Special features:
-(Unset)
+On average, the districts in this territory have poor cultural productivity scores.
 
 Seventh suggestion: (Incomplete)
 Grey Goo
