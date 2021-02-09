@@ -91,7 +91,8 @@ Challenges:
 Psuedourbanism (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the resulting buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  1
 Uncoalesced (Save for a few immigrant specialists, this district's population is entirely composed of a nanite soup.  Although the swarm can be directed in employment producing conventional industrial goods as well as exotic biochemicals in exchange for cultural imports, its own cultural artifacts are few and incomprehensible.  Cultural productivity penalty.)  2
 Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  3
-(6 Unset; note incomplete setting 3)
+Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  4
+(5 Unset; note incomplete setting 3)
 Special features:
 (Unset)
 
@@ -103,7 +104,8 @@ Rebel Faction (Stock.  Influence penalty.)  1
 Psuedourbanism (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the resulting buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  2
 Uncoalesced (Save for a few immigrant specialists, this district's population is entirely composed of a nanite soup.  Although the swarm can be directed in employment producing conventional industrial goods as well as exotic biochemicals in exchange for cultural imports, its own cultural artifacts are few and incomprehensible.  Cultural productivity penalty.)  3
 Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  4
-(5 Unset; note incomplete setting 4)
+Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  5
+(4 Unset; note incomplete setting 4)
 Special features:
 (Unset)
 
