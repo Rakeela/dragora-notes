@@ -74,8 +74,11 @@ Initial commentary:
 1.  First obligate source.  Experimentally establishing that dendritic cells can be grown in culture is essential for this paper.
 Suggested sources:
 https://pubmed.ncbi.nlm.nih.gov/15277694/
+Stop and study
 Conclusion pro tempore:
-1.  There actually seem to be some mystery around dendritic cells.
+Stop and study
+Concluding commentary:
+1.  There actually seems to be some mystery around dendritic cells.  I may have already found an appropriate citation, but I need to study this rather than pushing on.
 
 ---
 back to [[Author's Nonfiction]]
