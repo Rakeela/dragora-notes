@@ -16,6 +16,9 @@ Class essays:
 
 Independent study:
 * [[notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]]
+* [[notes-on-tolerogenic-dendritic-cells]]
+
+
 ---
 Back to [[authors-writing]]
 
