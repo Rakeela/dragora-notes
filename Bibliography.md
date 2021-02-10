@@ -67,7 +67,7 @@ Sections;
    1) [[Slightly-Damned]]
    2) [[Miss-Kobayashi's-Dragon-Maid]]
    3) [[Black Butler]] (only volume 1)
-   4) [[Interspecies-Reviewers]] (only volume 1) (content advisory)
+   4) [[Interspecies-Reviewers]] (content advisory)
    5) [[A-Centaur's-Life]] (only volume 1) (I have volumes 1 and 3, but I failed several times while attempting to acquire a copy of volume 2, and then gave up!  Adding it to the list here reminded me of it, and I've ordered another one.  Should arrive without incident this time.)
 
 7) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)

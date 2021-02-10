@@ -168,9 +168,63 @@ Hm, this may also be a way to cure Guillain-Barré syndrome, repairing one categ
 There's potential overlap with the schizophrenia concept as well, depending on the still unknown question of which neurological antibodies are operant in the (conjectured) autoimmune model of schizophrenia.
 
 ---
+https://pubmed.ncbi.nlm.nih.gov/15825133/ (Bushara, KO.  (2005, Apr)  Neurologic presentation of celiac disease.  *Gastroenterology*.  Retrieved 2021-2-7.)
+
+I've only access to the abstract, but it is fascinating itself.  This talks about neurological side effects of gluten sensitivity (as evidenced by high antigliadin antibodies).  The link to schizophrenia is tenuous given that it reports inconclusive diet trials, but I find it interesting in a cumulative causality model.  
+
+Would curing celiac disease across the populace lead to broad decreases in inappropriate permeability of the blood-brain barrier?  For that I can swiftly find...
+
+---
+https://pubmed.ncbi.nlm.nih.gov/30340384/ (Obrenovich, MEM.  (2018, Oct 18)  Leaky Gut, Leaky Brain?  *Microorganisms*.  Retrieved 2021-2-7.)
+
+I believe that this strongly favors the conclusion that celiac's disease contributes to brain permeability.  Viewing schizophrenia as a cumulative structure caused by many neglected minor injuries rather than by a singular etiology, an attempt to vaccinate against schizophrenia as through cultured tolerogenic dendrites or an unknown direct RNA method might require a tolerogenic vaccination for celiac's disease, which should be noted as another name for grain allergy.
+
+It also mentions possible age-related weakening of the brain-blood barrier, suggesting that pushing back petty brain permeability insults from the immune system may have anti-senescent functions as well.  This is further support for the concept that a general course of allergy vaccination across the entire population would be highly productive.
+
+I'm going to need to find a way to reorganize this content eventually.  It looks like this is sort of a "studying a discipline" exercise which should have more subsorting involved as the amount of content continues to accrete.  I believe I'll be able to very excitedly chase this pattern for a long time, but it looks like defining many contributing causalities for a syndrome that I suspect describes a cluster of outcomes rather than a shared single etiology appears to be a complex task.  The unifying excitement factor here is the possibility for an actual product to be constructed which would tune immunoresponses in a way yielding both intelligence and happiness to its beneficiaries.  Every step forward yields the promise of the potential applications for RNA vaccination's mode of interface with the immune system...  Which reminds me, I need to study the pollen vaccination's mechanism again.
+
+---
+https://www.hindawi.com/journals/jir/2015/797421/ (Hattinger, E.  Scheiblhofer, S.  Roesler, E.  Thalhamer, T.  Thalhamer, J.  Weiss, R.  (2015, Oct 18)  Prophylactic mRNA Vaccination against Allergy Confers Long-Term Memory Responses and Persistent Protection in Mice.  *Journal of Immunology*.  Retrieved 2021-2-5.)
+
+I'm a little self-conscious about the daily restudying factor required for trying to build up my understanding of this tech.  I've never had to do that for classwork.  I think I'll standardize at least the 'source opens section' rule, and I may revise older sections to clarify that.  I'm considering dividing the chronology by date where supported by retrieval date, but I'm not committed to that scheme yet.
+
+Returning to this paper, it appears to have delivered a plasmid encoding RNA for an antigenic surface without specific preparation for ensuring tolerogenic response.  Given my previous reasoning about the nature of the specialization of the RNA vaccines (which is that it delivers particles to dendrites with high specificity), I would infer that this delivered pathogen spikes to dendrites in a non-stressing way.  The dendrites would then have matured (from acquiring pathogens to present) and migrated to the lymphatic system for delivery of new information (its new antigenic surface) to the immune system.
+
+The study reports that "antigen-specific IgG1" was significantly elevated in vaccinated mice in comparison to unvaccinated control mice.  Digressing to improve my understanding of antigen-specific IgG1...  IgG is "Immunoglobin G".  Approximately 75% of serum antibodies are IgG variants specific to the antigenic surface.  These Y-shaped proteins are tipped with a pair of binding points specific to the antigen.  Cellular structures with antigen-specific IgG1 attached to them are marked for destruction by the immune system, as well as being directly impaired in mobility characteristics and encouraged to bind uselessly to each other (as each Y-shaped protein can bind to two structures).  A pathogen coated in Immunoglobin G has been "opsonized" and will be phagocytosed if detected by a phagocytotic immune cell (most of them).
+
+It reports that antigen-specific IgG2a was found only in prevaccinated mice, suggesting that they produced an additional antigen which the control mice did not productive.
+
+Conversely, IgE spiked in control mice, but was low or absent in vaccinated mice.  IgE is "Immunoglobin E".  IgE is the least abundant type of antibody with 'normal' levels at 0.05% of antibodies.  Like the much more abundant Immunoglobin G, Immunoglobin E is a Y-shaped protein which functions by agglomerating on pathogenic surfaces to mark them for immunoresponse.  It is the most potently inflammatory class of antibody.  The IgE immunoresponse category is different from the IgG category, actuated by type 1 and type 2 Fcε receptors.  It is correctly deployed against parasites and cancer.  It is incorrectly deployed against allergens/
+
+So the two differences between the vaccinated vs unvaccinated immunoresponse are that only the vaccinated mice produced IgG2a, and that significant IgE production was seen only in the unvaccinated mice.  It looks like this allergy vaccine sensitizes the immune system to "a pathogen" - and then deploys increased numbers of IgG antibodies at it rather than deploying IgE antibodies at it.  The IgG-coated pathogen mildly inflames its vicinity, becomes opsonized, and is then eaten by neutrophils (which is *correct* disposal for allergens) whereas the IgE-coated pathogen would have caused an utter inflammatory panic in the region, become opsonized, and then gotten eaten by eosinophils (which are more toxic than neutrophils).
+
+This strategy is not quite as promising for unlearning immunoresponses as cultured dendrite therapy would be, however it is not useless in the pursuit of mental health, as it would likely represent a considerable advance in the treatment of celiac disease with only a single injection... if the result generalizes across other allergens, and if the functioning of the mouse immune system generalizes to humans.  There's a lot of stuff here that looks to me like it would be less likely to generalize successfully than the cultured tolerogenic dendrite therapy, which despite its relative laboriousness presents a unique and very potent medical opportunity.
+
+I may end up crafting my first essay in this category to be a proposal for a protocol generalizing cultured dendrite therapy to other antigenic surfaces for immediate broader study.  Controlled unlearning of improper immunoresponses would provide significant advances for life extension and healthspan if it could be proven generally safe at a skill level suitable for widespread performance.  In which case, with that ambition, I am nearer to a first draft than I thought I was, as I should be able to author that as a commentary upon one paper.  I think I'll give that its own page.
+
+Reader beware; tolerogenic dendrites could also be used to produce antivaccines to enhance the effectiveness of bioweapons.  Coadministration of malevolently tolerogenic dendrites alongside active samples of the pathogen whose immunoresponse they oppose would lead to unusually virulent infections.
+
+---
+Reclassifying this document to a notes for essays document, and opening new sublinks for revealed essay potentials:
+[[A General Protocol for Tolerogenic RNA Vaccination]]
+[[Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination]]
+
+---
+As I've introduced it without explanation, I should spare a note here for Tolerogenic RNA Vaccination vs Hypercompetent RNA Vaccination, as it may prove a less ambitious essay which I would therefore complete first.  This essay would describe for its hypothetical reader the distinct possibilities that I have discovered in this file for potential RNA vaccination mechanisms.  In brief: a tolerogenic RNA vaccination is loaded with dendritic cells that have been programmed to disarm one of the immune system's (presumably faulty) activation patterns, whereas a hypercompetent RNA vaccination is highly specific to dendritic cells while avoiding as much as possible the release of loose pathogenic molecules and concomitant cellular stresses.  In the essay, I'll compare and contrast the two modes, with citations linking them to current research as much as possible.  I hope to thereby support the development of both avenues of research, although as I suspect tolerogenic RNA vaccination of broader applicability and greater rejuvenation potential, I hope to see it advanced farther and faster than hypercompetent RNA vaccination.
+
+---
+https://pubmed.ncbi.nlm.nih.gov/31101672/ (Kose, N.  Fox, JM.  Sapparapu, G.  Bombardi, R.  Tennekoon, RN.  Dharshan de Silva, A.  Elbashir, SM.  Theisen, MA.  Humphris-Narayanan, E.  Ciaramella, G.  Himansu, S.  Diamond, MS.  Crowe, JE.  (2019, May 17.)  A lipid-encapsulated mRNA encoding a potently neutralizing human monoclonal antibody protects against chikungunya infection.  *Science Immunology*.  Retrieved 2021-2-8.)
+
+Is this another kind of RNA vaccination?  Would the antigen-specific monoclonal antibody provide lingering or temporary protection?  Is this a third vaccine method, or is it a treatment?  How are mRNA encodings devised for specific molecular structures?
+
+When I looked at the abstract for this, I realized that I have many questions about its position relative to what I've been studying.  I didn't even know what a monoclonal antibody was!  I now know that monoclonal antibodies are general 'grabber tools' used in biochemistry, molecular biology, and medicine for their general and engineerable cell-marking applications.
+
+---
 Back to [[Author's Nonfiction]]
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [envs100disc4-pandemicblues]: envs100disc4-pandemicblues "Envs100disc4 PandemicBlues"
+[A General Protocol for Tolerogenic RNA Vaccination]: a-general-protocol-for-tolerogenic-rna-vaccination "A General Protocol for Tolerogenic RNA Vaccination"
+[Tolerogenic RNA Vaccination vs Hypercompetent RNA Vaccination]: tolerogenic-rna-vaccination-vs-hypercompetent-rna-vaccination "Tolerogenic RNA Vaccination Vs Hypercompetent RNA Vaccination"
 [Author's Nonfiction]: authors-nonfiction "Author's Nonfiction"
 [//end]: # "Autogenerated link references"
