@@ -19,6 +19,12 @@ This is a phase 1 clinical trial for tolerogenic dendritic cells.  Apparently it
 
 Agh.  I'm so, so tired.  I'm teary-eyed and in pain, hah.  I want this research to work because I want this to be the answer to *my* problems.  I want to stop having forever-aches and I want to stop taking anti-inflammatories daily.  That's why I care more about tolerogenic dendrites generally than I do about proving something novel about dendrispecificity in RNA vaccines.  If I were *already* entirely healthy rather than dreaming of someday *being* entirely healthy, I would turn my focus onto the thing that gave me dead searches when I tried to query archives to figure out if anyone else had noticed what I had noticed.  I can't tell if I'm doing the right thing by letting myself get distracted by the selfish health interest instead of the greater potential scientific novelty.  I can tell that I'm really struggling with productivity today.  It's 4PM and my day barely felt like it had time to happen in.
 
+What can I even do that would be novel in this space?  The procedures are laid out well enough that I feel like I could conceivably bootleg a trial.  I wouldn't, of course; it'd be a lot of work for no gain.  
+
+Are the procedures optimal?  This goes to my work on [[a-general-protocol-for-tolerogenic-rna-vaccination]], which is my best current hope for finding a novel contribution to the research on tolerogenic RNA vaccination.  I think that a single efficient and generalizable process can be defined which can be tested for safety only once, sidestepping some of the repetitive/duplicative research.  Not that replications are worthless, but I have an impossible selfish interest in seeing a result sooner than later.
+
+Yet I'm having trouble studying.  I'm in pain, and psychologically, everything that alleviates pain undoes a lot of its own gain by being distracting.  I actually *didn't* use cannabis today, and I believe that skipping it made me *less* productive in studying.
+
 ---
 Back to [[authors-nonfiction]]
 
