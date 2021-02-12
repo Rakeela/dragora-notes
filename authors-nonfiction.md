@@ -16,7 +16,7 @@ Class essays:
 
 Potential essays:
 * [[A General Protocol for Tolerogenic RNA Vaccination]]
-* [[Tolerogenic RNA Vaccination vs Hypercompetent RNA Vaccination]]
+* [[Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination]]
 
 Notes for potential essays:
 * [[notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]]
@@ -34,6 +34,7 @@ Back to [[authors-writing]]
 [envs100-nw-state-parks-essay]: envs100-nw-state-parks-essay.md "ENVS100 NW State Parks Essay"
 [metr101disc3-rainmaking]: metr101disc3-rainmaking.md "Metr101disc3 Rainmaking"
 [A General Protocol for Tolerogenic RNA Vaccination]: a-general-protocol-for-tolerogenic-rna-vaccination.md "A General Protocol for Tolerogenic RNA Vaccination"
+[Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination]: tolerogenic-rna-vaccination-vs-dendrispecific-rna-vaccination.md "Tolerogenic RNA Vaccination Vs Dendrispecific RNA Vaccination"
 [notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]: notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md "Notes on Potential Applicability of RNA Vaccination to Treatment of Schizophrenia"
 [notes-on-tolerogenic-dendritic-cells]: notes-on-tolerogenic-dendritic-cells.md "Notes on Tolerogenic Dendritic Cells"
 [authors-writing]: authors-writing.md "Author's Writing"
