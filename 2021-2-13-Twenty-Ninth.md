@@ -5,7 +5,9 @@ While we showered together last night, my husband told me that many scientists a
 I found that interesting and not at all discouraging or upsetting.  For if that's true, then compiling and publishing general protocols of invention is a productive thing to do in general, since it makes the processes of invention more readily available to people who are implementing procedures.  I have nothing against procedural generation of recombinant proteins...  Particularly in medicine, that seems like something which serves well the health of all, quite evenly and without force.
 
 ---
+"All must be free to do good or evil as they will."
 
+In one sense, this is a validation that evil must be allowed to exist.  At the same time, it is also a decree that evil must not entrap others.  To believe in this principle does not reject all binding, but it binds evil to evil and good to good, while dispersing all knots that arise within the system against the wills of its participants.
 
 ---
 back to [[day-post-archive]]
