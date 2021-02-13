@@ -1,8 +1,13 @@
 # Notes on Recombinant Protein Construction
 
-While studying RNA vaccines lately, I've become fixated on the question of how antigenic surface proteins are generated.  How do researchers discover which sequence of RNA will produce which specific surface spikes on cells?  While nominally studying tolerogenic dendritic cells ([[notes-on-tolerogenic-dendritic-cells]]), I realized that what I'm actually curious about are recombinant proteins.  Unless I've made an error in designating this page (very possible), all of these antigenic surfaces are themselves proteins.  They're bits of the protein structures of cells after being pulled apart and put back together again by cellular machinery.  The question of how we discover how to code for an antigenic surface must be a question about how we invent recombinant proteins.
+While studying RNA vaccines lately, I've become fixated on the question of how antigenic surface proteins are generated.  How do researchers discover which sequence of RNA will produce which specific surface spikes on cells?  While nominally studying tolerogenic dendritic cells ([[notes-on-tolerogenic-dendritic-cells]]), I realized that I also need to be studying the invention processes used to generate recombinant proteins.
 
-I should like to figure out the process here so that I can add it to me General Protocol.
+Unless I've made an error in designating this page (very possible), all of the antigenic surfaces that I'm interested in studying are themselves proteins.  They're bits of the protein structures of cells after being pulled apart and put back together again by cellular machinery.  Their nature as proteins is why we can also discover RNA strands which code for their creation.  The question of *how* we discover how to code for an antigenic surface must therefore be a question about how we invent recombinant proteins.  Once we've reinvented a protein, we can use it to sensitize or (I would propose, via tolerogenesis) desensitize the immune system as we see fit, at least within the limits of the immune system's existing cellular interfaces.
+
+I should like to figure out the process of invention for this so that I can add it to my General Protocol.  This would be a convenient thing to reduce to procedure.
+
+---
+
 
 ---
 Back to [[Author's Nonfiction]]
