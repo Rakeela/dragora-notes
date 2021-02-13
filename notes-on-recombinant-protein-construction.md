@@ -8,6 +8,7 @@ I should like to figure out the process of invention for this so that I can add 
 
 ---
 
+I am cognitively bouncing off of this task.  I can tell what I'm doing, mentally.  I'm searching for how to provide a better Y than unknown values of Y for 'I want to produce recombinant antigen surface X, for arbitrary values of X' and 'the first place I need to look is Y, for unknown values of Y'.  If I already knew this task, I would already know where to look for information about how to begin producing a recombinant protein.
 
 ---
 Back to [[Author's Nonfiction]]
