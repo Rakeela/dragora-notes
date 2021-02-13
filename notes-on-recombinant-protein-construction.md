@@ -20,7 +20,9 @@ I'm including this as much to attest for my having gone anywhere as for it being
 ---
 https://www.nature.com/scitable/topicpage/the-proteome-discovering-the-structure-and-function-613/ (Adams, J.  (2008.)  THe Proteome: Discovering the Structure and Function of Proteins.  *Nature*.)
 
-This is something of an overview of protein environments.  Proteomics must be the kind of thing that I'm trying to study here.  I want to master the proteomics of tolerogenic dendritic cells so that I can author a protocol for solving one kind of immunosenesence.  More specifically to this file, I want to learn how specific proteins are identified as being encoded for by specific genes.  (Directing the construction of RNA-encoded proteins is the faculty which RNA vaccination relies on in dendritic cells by which it can provide antigenic surfaces to professional antigenic presentation cells.)
+This is something of an overview of protein environments.  Proteomics must be the kind of thing that I'm trying to study here.  I want to master the proteomics of tolerogenic dendritic cells so that I can author a protocol for solving one kind of immunosenesence.  More specifically to this file, I want to learn how specific proteins are identified as being encoded for by specific genes.
+
+Directing the construction of RNA-encoded proteins is the faculty which RNA vaccination relies on in dendritic cells by which it can provide antigenic surfaces to professional antigenic presentation cells.  Dendritic cells are enthusiastic phagocytosers which pull apart potential pathogens and then try to present useful bits of protein from them.  How chaotic is that process?
 
 ---
 Back to [[Author's Nonfiction]]
