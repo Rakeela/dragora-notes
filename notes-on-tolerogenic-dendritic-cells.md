@@ -35,7 +35,7 @@ If I really want my *General Protocol* to be a breakthrough, perhaps I can deter
 
 I feel a little overwhelmed by this material, but if I'm understanding it correctly, the MAH-infected dendritic cells expressed anti-inflammatory cytokine IL-10 at a higher level, which resulted in them interfering with immunoresponse rather than encouraging it.  This however talks about treating the dendritic cells with LPS, which if it refers to lipopolysaccharides (aka endotoxins, found in the outer membranes of gram-negative bacteria) refers to something that is...  oh, that's the major outer membrane protein of MAH, which is a gram-negative bacteria.  This suggests that if the dendritic cells are attacking an MAH infection, the ones that have already been infected will turn tolerogenic as they're processing the MAH membrane proteins.
 
-
+This asserts strongly that the (a?) tolerogenic phenotype of dendritic cells was (in this case?) induced by Interleukin 10 (IL-10).  It further traces the causality to cyclooxygenase-2 (Cox2), by asserting that a Cox2 inhibitor (celecoxib) prevented production of IL-10.  This establishes Cox2-mediation of prostaglandin E2 (PGE2) as the cause of the infected cells producing more IL-10 and becoming tolerogenic dendritic cells.  Applying a blocker against EP2 receptors also prevented IL-10 production, suggesting that PGE2 binding at EP2 was signalling for IL-10 production.  Does that generalize sufficiently that a dendrispecific EP2 agonist could be used to induce tolerogenic dendrite development?
 
 ---
 Back to [[authors-nonfiction]]
