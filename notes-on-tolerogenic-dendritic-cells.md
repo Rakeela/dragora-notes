@@ -82,8 +82,6 @@ Something about discovering that this involves yeast makes me feel like my thoug
 ---
 I kind of like how all my thoughts on this are in a 'technically indeterminate' mode.  I haven't published anything yet.  I could be really wrong without having strongly declared any position.
 
-Nobody's ever going to tell you that the world was nearly destroyed by a dragon courtesan, and certainly one hopes it isn't true.
-
 ---
 Back to [[authors-nonfiction]]
 
