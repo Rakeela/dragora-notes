@@ -72,11 +72,17 @@ I wonder if defining this research process the way I want to would put together 
 ---
 https://pubmed.ncbi.nlm.nih.gov/32298218/ (Chen, WH.  Hotez, PJ.  Bottazzi, ME.  (2020, Jun 2.)  Potential for developing a SARS-CoV receptor-binding domain (RBD) recombinant protein as a heterologous human vaccine against coronavirus infectious disease (COVID)-19.  *Human Vaccines & Immunotherapeutics*.  Retrieved 2021-2-12.)
 
-(Quoted from source.)
+(Quoted from source abstract.)
 "A SARS-CoV receptor-binding domain (RBD) recombinant protein was developed and manufactured under current good manufacturing practices in 2016."
 
-This looks more like what I was looking for.
+This looks more like what I was looking for.  This is talking about the Receptor Binding Domain (RBD) of a different (although closely related) virus.  This talks a little about its creation, specifying that the protein was grown in yeast.  I'm guessing that this is the generality: transgenic yeast are used to express bits of DNA to see what they produce with it.  This gives citations 4-6 for this, suggesting that I can find more about the specific manufacturing processes if I can dig into the bibliography of this research.
 
+Something about discovering that this involves yeast makes me feel like my thoughts about using yeast to breed enhanced xenomitochondria strains might have been really on-point.  That's off-topic, but go me, I still want to do some work with bioreactors down the line.
+
+---
+I kind of like how all my thoughts on this are in a 'technically indeterminate' mode.  I haven't published anything yet.  I could be really wrong without having strongly declared any position.
+
+Nobody's ever going to tell you that the world was nearly destroyed by a dragon courtesan, and certainly one hopes it isn't true.
 
 ---
 Back to [[authors-nonfiction]]
