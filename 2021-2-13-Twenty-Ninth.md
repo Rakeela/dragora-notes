@@ -1,4 +1,4 @@
-# 2021-2-13
+# 2021-2-13-Twenty-Ninth
 
 While we showered together last night, my husband told me that many scientists are... I don't remember the phrase or word he used, but essentially, he said that they're laborers.  He said that rather than pursuing their curiosities and fascinations, they're actually showing up at work each day to implement procedures which are defined relative to their intended product output, as workers in many industries do.
 
