@@ -37,6 +37,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4319528/ ("Protein structure predic
 
 I'll citationize this at the top of the next section.  Right now I'm depressed, and martialing emotional energy for a school exam is more important than adding another citation to my studies.
 
+For fuck's sake, unknowable omnisciences are God.  That's what gets praised in every church.  If I wanted to trust in unknowable omnisciences, I'd be praying for holy knowledge instead of studying research papers.  The observation structures that people can't share aren't scientific.  People violating whoever is vulnerable to extract all possible information from them have ruled throughout history.  Society stepped away from it *briefly* and every category of evil slumped.  Nobody should ever watch me in any environment unless I can watch them watching me and watch them in kind, and nobody should ever use a tool of observation that can't be fully exposed to transparency.  The observation tools that can't be revealed are *criminal*, and commiting crimes against people is *violating their consent*.  That's rape culture.  It'd still be rape culture if the perpetrators were asexual, and I happen to be in a position to know by experience that some of them *aren't*.
+
 ---
 Back to [[Author's Nonfiction]]
 
