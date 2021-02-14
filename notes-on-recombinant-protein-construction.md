@@ -41,6 +41,8 @@ For fuck's sake, unknowable omnisciences are God.  That's what gets praised in e
 
 I don't believe in the virtue of unknowable omnisciences.  I don't think rule-by-unknowable-omniscience ever accomplished anything but entrenching abuse in society and making humans better at murdering people who would otherwise change human social systems.  All observers should be revealed.  I'd rather have no privacy for anyone than allow privacy to remain a special privilege of "scientific" authoritarians who violate others.
 
+I loathe taking insight from places where admitting to how I really figured something out would get me gaslit.  It's demoralizing the same way being pandered as a morale aid was demoralizing.  The stuff people can't talk about still happens, but it shouldn't be part of science except when it's being studied.
+
 ---
 Back to [[Author's Nonfiction]]
 
