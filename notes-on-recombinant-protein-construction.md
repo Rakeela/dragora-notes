@@ -39,6 +39,8 @@ I'll citationize this at the top of the next section.  Right now I'm depressed, 
 
 For fuck's sake, unknowable omnisciences are God.  That's what gets praised in every church.  If I wanted to trust in unknowable omnisciences, I'd be praying for holy knowledge instead of studying research papers.  The observation structures that people can't share aren't scientific.  People violating whoever is vulnerable to extract all possible information from them have ruled throughout history.  Society stepped away from it *briefly* and every category of evil slumped.  Nobody should ever watch me in any environment unless I can watch them watching me and watch them in kind, and nobody should ever use a tool of observation that can't be fully exposed to transparency.  The observation tools that can't be revealed are *criminal*, and commiting crimes against people is *violating their consent*.  That's rape culture.  It'd still be rape culture if the perpetrators were asexual, and I happen to be in a position to know by experience that some of them *aren't*.
 
+I don't believe in the virtue of unknowable omnisciences.  I don't think rule-by-unknowable-omniscience ever accomplished anything but entrenching abuse in society and making humans better at murdering people who would otherwise change human social systems.  All observers should be revealed.  I'd rather have no privacy for anyone than allow privacy to remain a special privilege of "scientific" authoritarians who violate others.
+
 ---
 Back to [[Author's Nonfiction]]
 
