@@ -46,9 +46,12 @@ I loathe taking insight from places where admitting to how I really figured some
 ---
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4319528/ (Marks, DS.  Hopf, TA.  Sander, C.  (2012, Nov.)  Protein structure prediction from sequence variation.  *Nature Biotechnology*.  Retrieved 2021-2-14.)
 
-Included for interest as much as anything...  I'm reasonably sure there's more up-to-date information available somewhere.  Yet this does attest to proteins being predicted by sequence variation.  I was already *aware* that there are well-studied methods for this, I just don't *know* them...  If I can find them, assembling my General Protocol should be straightforward.
+Included for interest as much as anything...  I'm reasonably sure there's more up-to-date information available somewhere.  Yet this does attest to proteins being predicted by sequence variation.  I was already *aware* that there are well-studied methods for this, I just don't *know* them...  If I can find them, assembling my General Protocol should be straightforward.  If the protocol involves "use this modeling software package on a machine with at least X processing power and Y RAM", that's fine.  I wasn't expecting to record a bunch of protein folding estimate methodology here.
 
 ---
+https://www.nature.com/articles/d41586-020-03348-4 (Callaway, E.  (2020, Nov 30.)  'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures.  *Nature News*.  Retrieved 2021-2-14.)
+
+If this kind of analysis engine has a definable procedure for gaining access to it with well-defined points of access control (such as fees, queues, or gatekeepers), it could feature in the protocol.  More broadly, I hope this gets used very enthusiastically for simulating self-antigens, as their senescence implications are worth taking notice of.
 
 ---
 Back to [[Author's Nonfiction]]
