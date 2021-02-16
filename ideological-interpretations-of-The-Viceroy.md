@@ -23,3 +23,8 @@ The Three Nations Semi-Allied
 Potential Anomalies
  - The Orbital Surveyors -
 Do any of the ideology groups give the orbital survey technology?
+
+---
+Of Specific technologies
+1.  Distributed Thought
+    1.  If you trust that intelligence is well-distributed in the population, you're occasionally wrong (horrific consequences), but you're usually just letting people work without undue stress (technical aptitude increases).  This matches the Old Empire's concept of achieving serenity through fungibility.  The literally described technology of some kind of hive-mind attempting on-demand cognitive load balancing for all integrated individuals does sound like something which could do this, but the 'hyperspace link' in this case might also be interpreted as some kind of stupidity-preserving social policy basket which although unintuitive can be mathematically proven to yield improved scientific performance by getting more people doing the most interesting work.  Either way, implementing Distributed Thought looks like it would increase average scientific yield while letting a few more of science's peak producers live at liberty.
