@@ -107,6 +107,8 @@ The use of sheep's blood admixtures is intriguing.  What an unexpectedly alchemi
 
 I'm having some trouble finding "UNIT 7.1" in the material, which would explain the most basic step in the protocol, but I've noticed something rendering this non-optimal.  For optimal deployment of tolerogenic dendrite, the purification of the sample should ideally in some manner continue until it has secured a population wholly of immature dendritic cells.  If I have to produce that myself, the likelihood that my protocol requires laboratory work to verify increases very dramatically.
 
+...how immunoreactive would someone else's transplanted dendritic cells be?  Don't try that on a human.  If some kind of 'universal donor' dendritic cells could be found or defined, then curing immune disorders could be reduced to an injection from a common standard transplant population maintained in bioreactors at every hospital.  Can the need of autologous dendritic cells be eliminated?
+
 ---
 Back to [[authors-nonfiction]]
 
