@@ -103,7 +103,9 @@ ncbi.nlm.nih.gov/pmc/articles/PMC4559332/ (Nair, S.  Archer, GE.  Tedder, TF.  (
 
 This is a protocol document for how to extract dendritic cells from a sample.  This is the kind of thing I want to improve or extend.  This affirms my usage of the word 'protocol' for describing such documents and suggests that using the word protocol in future searches may be productive, as may a more intent review of *Current Protocols in Immunology*.
 
-The use of sheep's blood admixtures is intriguing.  What an unexpectedly alchemical inclusion in a modern scientific process!  I'm having some trouble finding "UNIT 7.1" in the material, which would explain the most basic step in the protocol, but I've noticed something rendering this non-optimal.  For optimal deployment of tolerogenic dendrite, the purification of the sample should ideally in some manner continue until it has secured a population wholly of immature dendritic cells.  If I have to produce that myself, the likelihood that my protocol requires laboratory work to verify increases very dramatically.
+The use of sheep's blood admixtures is intriguing.  What an unexpectedly alchemical inclusion in a modern scientific process!
+
+I'm having some trouble finding "UNIT 7.1" in the material, which would explain the most basic step in the protocol, but I've noticed something rendering this non-optimal.  For optimal deployment of tolerogenic dendrite, the purification of the sample should ideally in some manner continue until it has secured a population wholly of immature dendritic cells.  If I have to produce that myself, the likelihood that my protocol requires laboratory work to verify increases very dramatically.
 
 ---
 Back to [[authors-nonfiction]]
