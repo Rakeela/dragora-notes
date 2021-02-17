@@ -136,8 +136,14 @@ https://pubmed.ncbi.nlm.nih.gov/24224847/ (Pitt, SC.  Vachharajani, N.  Doyle, M
 
 This mentions Human Leukocyte Antigen (HLA), which suggests a study target for conjectured 'universal donor' dendritic cells.  I don't have access to the full text, but the abstract alone gives me a stepping stone in my research.  Incidentally, could organ transplant rejection rates be reduced by bathing to-be-transplanted organs in a siRNA solution that knocks down alloantigenic surfaces?
 
----
+Looking up Human Leukocyte Antigens on wikipedia, there's a section on transplant rejections as well.  This reveals...  ah.  It reveals that the HLA sites are a highly specific self-recognition system.
 
+---
+https://www.frontiersin.org/articles/10.3389/fimmu.2017.00292/full (Wiczorek, M.  Abuaalrous, ET.  Sticht, J.  Álvaro-Benito, M.  Stolzenberg, S.  Noé, F.  Freund, C.  (2017, Mar 17.)  Major Histocompatibility Complex (MHC) Class I and MHC Class II Proteins: Conformational Plasticity in Antigen Presentation.  *Frontiers in Immunology*.  Retrieved 2021-2-16.)
+
+Reading about the MHC proteins and their occasionally chaotic binding patterns, this looks like a candidate for the system that entropy erodes to create gradual mislearning in autoinflammatory (autoimmune) syndromes.  At one point in this source, it suggests that type 1 diabetes may be caused by a thermodynamically unfavorable (yet not impossible) binding of InsB9–23 (an insulin B chain-derived peptide) with the peptide binding groove on MHC class II proteins.  As time goes on and the body performs many, many chemical operations, the likelihood of improbable-but-possible binding arrangements mounts.
+
+Most of this text is beyond me.  If I have a great deal to learn from it, I shall have to revisit it on a future date.
 
 ---
 Back to [[authors-nonfiction]]
