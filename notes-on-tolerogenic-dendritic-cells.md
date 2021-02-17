@@ -121,7 +121,6 @@ The abstract here talks about allotransplant dendritic cells, which is what I wa
 
 ..it looks like the reason why allotransplanted dendritic cells occurred here appears to be due to the kidney transplant.  This is about kidney transplant rejection.  Host leukocyte inflammation extinguished donor leukocyte populations in rejected transplants.  I'm more curious what happens to donor leukocyte populations when transplants aren't rejected, but this may still not be the source I need for that.  It does talk about dendritic cell behavior "under homeostasis", which it contrasts with dendritic cell behavior "during allograft rejection", suggesting that the answer I'm looking for *may* be that donor dendritic cells function normally when the allotransplantation does not cause rejection.  I'm not confident in my reading of this text.
 
-
 ---
 https://pubmed.ncbi.nlm.nih.gov/24837236/ (Lenicov, FR.  Varese, A.  Merlotti, A.  Geffner, J.  Ceballos, A.  (2014, Aug.)  Prostaglandins in semen compromise the immune response against sexually transmitted pathogens.  *Medical Hypotheses*.  Retrieved 2021-2-16.)
 
@@ -152,6 +151,13 @@ Most of this text is beyond me.  If I have a great deal to learn from it, I shal
 https://pubmed.ncbi.nlm.nih.gov/26140242/ (Wu, AA.  Drake, V.  Huang, HS.  Chiu, SC.  Zheng, L.  (2015.)  Reprogramming the tumor microenvironment: tumor-induced immunosuppressive factors paralyze T cells.  *Oncolmmunology*.  Retrieved 2021-2-16.)
 
 My first thought:  That sounds like a job for a dose of silencer RNA to the tumor cells.  That's what I thought reading *the title*, prior to reading the source.  If the tumor cells are doing something immunosuppressive that other cells aren't doing, won't siRNA restoring normal function to the affected cells be intrinsically tumor-specific through not changing the instructions being executed by other cells.
+
+I'm including this because I had that thought, and also for general ongoing review of potential tolerogenic compounds.
+
+---
+Could transgenic dendritic cells be created which don't express the peptide binding groove at all?  They would fail as dendritic cells in many ways, but they could still present antigens if they phagocytose RNA vaccine lipid capsules.  Without the peptide binding groove, they might no longer provoke immune responses by their own presence.  Creating a replicating synthetic immune cell based on dendritic cells and specialized for receipt of RNA vaccines and tolerogenic RNA vaccines could be desirable as an artificial modification to the human immune system, as it would slightly improve vaccination response while dramatically increasing the efficiency of deploying treatments for immunosenescence and autoimmune diseases.
+
+Which genes prompt dendritic cells to express the peptide binding groove?  Can modified dendritic cell precursors be created which differentiate into hypoallergenic psuedodendritic cells?  I suspect such PD-C cells are possible.  Nor is it necessarily important to inject people with the modified precursor cells; separate culturing of psuedodendritic cells from modified precursors could generate that central supply population which would make implementing this tech much easier.  It's not exactly a problem if the psuedodendritic cells do not sustain a stably replicating population (as I expect they would not in an individual who lacked the relevant modified precursors), as long as they can survive long enough to serve the purpose for which they were prepared as an injection.
 
 ---
 Back to [[authors-nonfiction]]
