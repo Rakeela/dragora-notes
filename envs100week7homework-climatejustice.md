@@ -9,16 +9,16 @@ Part B
 
 Part C (Home ratings for:)
 1.  Environmental health disparities V1.1 rating: 3
-2.  NOx-Diesel Emissions:
-3.  Ozone Concentration:
-4.  PM2.5 Concentration:
-5.  Heavy Traffic Roadways:
-6.  Toxic Releases from Facilities:
-7.  Proximity to Hazardous Waste Treatment Storage and Disposal Facilities:
-8.  Wastewater Discharge:
-9.  No High School Diploma:
-10. People of Color:
-11. Population Living in Poverty:
-12. Death from Cardiovascular Disease:
+2.  NOx-Diesel Emissions: 8
+3.  Ozone Concentration: 3
+4.  PM2.5 Concentration: 3
+5.  Heavy Traffic Roadways: 7
+6.  Toxic Releases from Facilities: 7
+7.  Proximity to Hazardous Waste Treatment Storage and Disposal Facilities: 4
+8.  Wastewater Discharge: 4
+9.  No High School Diploma: 1
+10. People of Color: 9
+11. Population Living in Poverty: 2
+12. Death from Cardiovascular Disease: 1
 
 Am I allowed to object that rating people of color as an environmental hazard is racist?  This assignment is demoralizing.
