@@ -119,6 +119,9 @@ https://pubmed.ncbi.nlm.nih.gov/26466317/ (Chessa, F.  Mathow, D.  Wang, S.  Hie
 
 The abstract here talks about allotransplant dendritic cells, which is what I was looking for.  I'll have to dig into it and see what the researchers did.
 
+..it looks like the reason why allotransplanted dendritic cells occurred here appears to be due to the kidney transplant.  This is about kidney transplant rejection.  Host leukocyte inflammation extinguished donor leukocyte populations in rejected transplants.  I'm more curious what happens to donor leukocyte populations when transplants aren't rejected, but this may still not be the source I need for that.  It does talk about dendritic cell behavior "under homeostasis", which it contrasts with dendritic cell behavior "during allograft rejection", suggesting that the answer I'm looking for *may* be that donor dendritic cells function normally when the allotransplantation does not cause rejection.  I'm not confident in my reading of this text.
+
+
 ---
 https://pubmed.ncbi.nlm.nih.gov/24837236/ (Lenicov, FR.  Varese, A.  Merlotti, A.  Geffner, J.  Ceballos, A.  (2014, Aug.)  Prostaglandins in semen compromise the immune response against sexually transmitted pathogens.  *Medical Hypotheses*.  Retrieved 2021-2-16.)
 
