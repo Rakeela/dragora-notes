@@ -6,3 +6,6 @@ I love the snow, by the way.  I wouldn't rather have a snowstorm than a good gra
 
 ---
 Alright, perfect score on the exam...  I guess I better go cite that source.  *Sigh*.
+
+---
+Back to [[Day Post Archive]]
