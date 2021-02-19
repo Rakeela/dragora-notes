@@ -167,6 +167,13 @@ I do understand that pure capitalism can fail the public in these matters as wel
 
 This is the stuff of many potential careers, though I feel it cannot be the stuff of mine.  I confess to looking with trepidation and misgivings upon the source that we were given for finding comparative pollution levels.  Worse, I confess to burying live wires here; I blasted a tunnel through a small mountain of possible dramas before settling on a post that questions the subject.  Contemplating this subject intimidated me with its complexity and breadth.  In wealth and in poverty, there are so many different attitudes towards environmentalism.  I believe wholly that environmental justice can exist as a progressive concern pure in its virtue, yet to present environmental justice as something wholly, simply, and purely on the side of those who are ill-served by power in our society is not a complete perspective.  What about when people kill rare crows, because they're upset with environmentalists blocking development[2]?  That conflict is over the fate of the Marianas Crow, and it represents environmentalism in conflict with what is quite likely to be a relatively poor and isolate population.  Showing thus that a great breadth of disagreement can exist between people over which environmental concerns are most critical and how to go about advancing them, I felt ill-informed and intrusive just by thinking about it.  I feel like I'd need to be trying to achieve this as my degree to give it enough thought that I would feel like I could address the subject in a way that was wholly respectful to all involved.
 
+Bibliography:
+[1]  (Tong, S.  von Schirnding, YE.  Prapamontal, T.  (2000.)  Environmental lead exposure: a public health problem of global dimensions.  *Bull World Health Organ*.  Retrieved 2021-2-18 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2560844/)
+[2]  (Fancy, SG.  Lusk, M.  Grout, DJ.  (1999, Jan.)  Status of the Mariana Crow Population on Rota, Mariana Islands.  *JOUR*.  Retrieved 2021-2-18 from https://www.researchgate.net/publication/253144438_Status_of_the_Mariana_Crow_Population_on_Rota_Mariana_Islands)
+
+---
+Done and submitted!
+
 ---
 Back to [[envs100]]
 
