@@ -17,7 +17,7 @@ A definition for how to invent cancer cures would be the actual 'cure for cancer
 I think RNA vaccination could be the category buster in cancer by enabling humanity to provide arbitrary peptide targets to the immune system, but I'm even more excited by the potential in tolerogenesis that RNA transfection provides.  I think immunosenescence is caused by accumulated error from thermodynamically improbable self-protein interactions.  I therefore hypothesize that if mistargeted immunoresponses could be forced out, the immune system would remain in a competent 'young' state indefinitely.
 
 ---
-Anomaly:  I found the preceding essay on my *clipboard* before I decided to copy-paste it here.  It was already copied before I copied it.
+Anomaly:  I found the preceding essay on my clipboard *before* I decided to copy-paste it here.  It was already copied before I copied it.  Why did that happen?
 
 ---
 Back to [[Day Post Archive]]
