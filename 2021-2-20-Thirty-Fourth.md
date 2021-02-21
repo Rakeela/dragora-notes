@@ -45,6 +45,13 @@ https://www.uniprot.org/uniprot/Q16520 (*Uniprot*.  (n.d.)  "UniProtKB - Q16520 
 
 This is an overview on BATF.
 
+I'm not sure it helps me.  I feel a bit mired.  The autoreactivity profile of TH17 means that increasing TH17 expression with age *is* an example of mislearning in the immune system, but proving a relationship between TH17 expression and other forms of immune response mislearning looks like it'll be difficult, presuming of course that such a relationship exists in the first place.
+
+---
+https://pubmed.ncbi.nlm.nih.gov/30568299/ (Karmaus, PWF.  Chen, X.  Lim, SA.  Herrada, AA.  Nguyen, TLM.  Beisi, X.  Yogesh, D.  Rankin, S.  Chen, W.  Rosencrance, C.  Yang, K.  Fan, Y.  Cheng, Y.  Easton, J.  Neale, G.  Vogel, P.  Chi, H.  (2018, Dec 19.)  Metabolic heteogeneity underlies reciprocal fates of TH17 cell stemness and plasticity.  *Nature*.  Retrieved 2021-2-20.)
+
+This source attributes substantial cellular plasticity to TH17 cells.  Cellular plasticity is the ability of a cell to reversibly adopt different cellular phenotypes.  
+
 ---
 Back to [[Day Post Archive]]
 
