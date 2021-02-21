@@ -30,7 +30,7 @@ Something I'm reading recreationally.  Obvious personal interest, but it's not e
 ---
 https://pubmed.ncbi.nlm.nih.gov/19578362/ (Schraml, BU.  Hildner, K.  Wataru, I.  Wan-Ling, L.  Smith, WAE.  Solomon, B.  Sahota, G.  Sim, J.  Ryuta, M.  Cemerski, S.  Hatton, RD.  Stormo, GD.  Weaver, CT.  Russel, JH.  Murphy, TL.  Murphy, KM.  (2009, Jul 5.)  The AP-1 transcription factor Batf controls T(H)17 differentiation.  *Nature*.  Retrieved 2021-2-20.)
 
-Part of what's fun about reading these is chasing the references.  If something seems interesting, the reference can be pulled to try to learn more about it.  In this case, "TH17 differentiation" is an immunological process implicated in immunosenescence, and I'm curious about it because I want to see if I can weigh it against my conjecture that immunosenescence is based upon thermodynamically improbable interactions with self-proteins.
+Part of what's fun about reading these is chasing the references.  If something seems interesting, the reference can be pulled to try to learn more about it.  In this case, "TH17 differentiation" is an immunological process implicated in immunosenescence, and I'm curious about it because I want to see if I can weigh it against my conjecture that immunosenescence is based upon thermodynamically improbable interactions with self-proteins.  Do self-protein interactions result in some way in the increasing-with-age expression of AP-1?
 
 ---
 Back to [[Day Post Archive]]
