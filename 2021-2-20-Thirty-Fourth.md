@@ -50,7 +50,32 @@ I'm not sure it helps me.  I feel a bit mired.  The autoreactivity profile of TH
 ---
 https://pubmed.ncbi.nlm.nih.gov/30568299/ (Karmaus, PWF.  Chen, X.  Lim, SA.  Herrada, AA.  Nguyen, TLM.  Beisi, X.  Yogesh, D.  Rankin, S.  Chen, W.  Rosencrance, C.  Yang, K.  Fan, Y.  Cheng, Y.  Easton, J.  Neale, G.  Vogel, P.  Chi, H.  (2018, Dec 19.)  Metabolic heteogeneity underlies reciprocal fates of TH17 cell stemness and plasticity.  *Nature*.  Retrieved 2021-2-20.)
 
-This source attributes substantial cellular plasticity to TH17 cells.  Cellular plasticity is the ability of a cell to reversibly adopt different cellular phenotypes.  
+This source attributes substantial cellular plasticity to TH17 cells.  Cellular plasticity is the ability of a cell to reversibly adopt different cellular phenotypes.  I find this source dense and difficult to study, so it's hard to record my thoughts as I go.  The way genetics research talks about the causal implications of genes is difficult in general, I think.  X controls Y, Y controls Z...  yes, but how do we get a targeted effect?  Ehh...  I assume this complaint reflects my poor understanding.
+
+It looks like this identifies two phenotypes of TH17.  CD27+ and TH1-analogue?  Or is it CD27- and CD27+, which is TH1-analogue?  I'll have to come back to this one someday if I'm to hope to understand it.
+
+---
+Trying to look up TH17 cells, I find evidence of disagreement or uncertainty about the properties of TH17 cells.  Not for the first time, I'm noticing that immunology is less of a settled and confident field than I expected.  There's a lot of potential here.
+
+I am not however successfully relating this to tolerogenesis.  I'm still very interested in this lens, but I think it'll take quite a long time for me to read enough of the associated material to understand it.
+
+How do TH17 cells interact with dendritic cells?
+
+---
+https://pubmed.ncbi.nlm.nih.gov/23352235/ (Segura, E.  Touzot, M.  Bohineust, A.  Cappucio, A.  Chiocchia, G.  Hosmalin, A.  Dalod, M.  Soumelis, V.  Amigorena, S.  (2013, Feb 21.)  Human inflammatory dendritic cells induce Th17 cell differentiation.  *Immunity*.  Retrieved 2021-2-20.)
+
+That may have been a good question!  I may have to link this one into one of my main notes files, and link back to this day log from it.  For now, it stays in the day logs, because this is something I'm studying for interest rather than ambition.
+
+This describes IL-17 production by memory CD4+ T cells as being stimulated by inflammatory dendritic cells.  These inflammatory dendritic cells (infDCs) appear at the sites of pathogenic inflammation and in models of inflammatory diseases such as asthma and arthritis.  I haven't seen this infDC distinction drawn before, though neither is it alien; in my own thoughts, I had been considering dendritic cells to operate in adjuvant (immune stimulating) vs tolerogenic (or anergizing) modes.
+
+The stimulation of IL-17 production may be linked to stimulation by a superantigen?  Superantigens induce excessive and nonspecific activation of the immune system.  I may have misunderstood the reference to a superantigen in this source.
+
+This source concludes that TH17 differentiation is specifically induced by IL-23, interleukin-23.  Hm.  Not IL-17?
+
+---
+I think I've done as much as I can do for now.  I need to stop for the evening.  How's my conjecture that immunosenescence is caused by cumulative mislearning holding up?  I consider it neither confirmed nor rejected.  Something that occurred to me is that if the dendritic cells are accumulating improperly identified self-as-other antigens due to thermodynamically improbable self-protein interactions, they may be in some way recruiting for the kind of immune cell most inclined to attack the proteins that they've thus improperly identified as threats.  Since TH17 cells have the highest autoreactivity of the three Helper T cell lineages, that would result in increased recruitment of TH17 cells.
+
+Yet I have established the existence of no such mechanism.  It remains a conjecture.
 
 ---
 Back to [[Day Post Archive]]
