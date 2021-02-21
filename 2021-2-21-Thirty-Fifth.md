@@ -12,8 +12,10 @@ There exists a third way that develops society's sexual ethics without force: po
 
 Sexually ethical cultures are transparent *and* polite about sex.  There is no need of harshness in preserving the truth of affection between people.  If information flows freely, people who would do horrible things can't *hide*; their peers and victims reveal them.  That revelation happens in polite sexual communities and is empowered by respecting sexuality.  It must be remembered here that information barriers are not only legal, but also social; rudeness and coldness both impair the free flow of information.
 
-I wish I'd met more polite sexuality as an adolescent, instead of meeting an opaque and awful community that obligated me to perform sexually for them and then hated me for withdrawing.  I met people who used sex to be rude, and I met people who politely refrain from speaking about sex.  Yet I did also meet people who exemplified polite sexuality, and I have no *grievance* against those.  I was a pacifist, and very trustingly obedient; had all I met been honest, I would have been safe.
+I wish I'd met more polite sexuality as an adolescent, instead of meeting an opaque and awful community that obligated me to perform sexually for them and then hated me for withdrawing.  I met people who used sex to be rude, and I met people who politely refrained from speaking about sex; those were a well of trauma.  Yet I did also meet people who exemplified polite sexuality; I still did not *like* sex, but I have no *grievance* against those, and nor did they force me to participate.
 
+I am a pacifist, and I was very trustingly obedient.  Had all I met been honest, I would have been safe.
+ 
 ---
 Back to [[Day Post Archive]]
 
