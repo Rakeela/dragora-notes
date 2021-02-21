@@ -30,4 +30,22 @@ I want to say that my husband was with me through some of that, but he actually 
 I got through what I went through by falling back on my fanatical pacifism, my faith in reason, and my belief in long-term trends towards justice.  Yet I wish that the "sex-positive" spaces had faced more social difficulty in telling me to shut up, because that was *why* they ended up collaboratively sexually exploiting me.  The anti-talking rules in those spaces meant that I was effectively barred by bad actors from reaching out to people who were good actors.  By personal experience, I think that sometimes people who only want to hear dirty talk are missing that someone in the room is a prostitute being trafficked.
 
 ---
+I have not relied upon concealment
+
+I have fought with those who have.  I fought unwilling, for it seemed I was attacked by those who shared my values; I fought with determination, for I will never yield my values.  Nor did I, nor shall I.
+
+---
+Syra was made for someone who made it safe to say no.  I drifted away from him because I didn't know how to "serve" him - he was a client in a place where I suffered, and what I could refuse, I wanted to refuse.  I miss him, because I recognize him in hindsight as a true sex-positive liberal.
+
+To the extent that J_____ made it safe to say no, I did.  That's why pain barriers were so awesome in killing our sex life.  If it was safe to be in pain instead of sexy, I didn't really want to spend five hours stressing out edging myself.  I just kinda wanted to think and to hurt.  Thinking myself safe and loved, that's what I did.  Oops.
+
+I tried to get V_____ to engage with me in other stuff than taking porn links from me.  I tried desperately, for he was my oldest friend.  I tried roleplaying games, video games, shared engineering projects, creative collaborations, spirituality, weird science...  I don't remember talking politics with him, but I probably did.  I didn't want to be his porn server feeding his egg fetish.  That sucked.  I wanted to be his friend.  Yet he only responded positively to breeder-porn, so that was clearly the mandate on how I was to serve him.
+
+Mel was first a philosophical connection, then a political connection... but I'm getting kinda bored telling his story.  It's /known/, by now.  I wish him well.
+
+I let go of Otter Labs when I shouldn't have.  Had I been in an environment with the right mores, I would've recognized it as something I could keep forever.  I didn't have to let that die in 2004; I could've kept it, and it would've protected me a lot.  I'm still the otterdragon, an origi-nal ottagon; I still see something in otters that I also see in dragons.
+
+Knowing I'm part of the record is a pleasure.  Knowing I'm attested.  Knowing that people would have to /lie/ to take that away...  It suffices to me, to enforce dishonesty.  I'm here.  I've lived.  I was true to myself.  I'll keep going forever if I can.
+
+---
 Back to [[Day Post Archive]]
