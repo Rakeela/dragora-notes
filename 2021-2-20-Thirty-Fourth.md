@@ -32,6 +32,19 @@ https://pubmed.ncbi.nlm.nih.gov/19578362/ (Schraml, BU.  Hildner, K.  Wataru, I.
 
 Part of what's fun about reading these is chasing the references.  If something seems interesting, the reference can be pulled to try to learn more about it.  In this case, "TH17 differentiation" is an immunological process implicated in immunosenescence, and I'm curious about it because I want to see if I can weigh it against my conjecture that immunosenescence is based upon thermodynamically improbable interactions with self-proteins.  Do self-protein interactions result in some way in the increasing-with-age expression of AP-1?
 
+TH17 cells are helper-T cells with reduced resistance to self-targeting.  They are more likely to carry self antigens.  They produce the pro-inflammatory interleukin-17 (IL-17) and as this trait is distinctive they are sometimes known as IL-17 producing helper T cells.  This is my current understanding of TH17 cells.
+
+This source is putatively about what biochemical factor controls how many TH17 cells the immune system controls.  It claims that BATF "and the closely related BATF3" are required for the differentiation of IL17-producing helper T cells (aka TH17 cells).
+
+BATF is "basic leucine zipper transcription factor, ATF-like", and it interacts via dimerization (molecular bonding) with the "Jun" family of proteins.  This looks like it may be a little too specific to be easily learned about.
+
+If BATF is a transcription factor, then it's being used to promote or reduce protein production via binding to the DNA.  AP-1 expression increases with age; TH17 diferentiation increases with age.  What's going on?
+
+---
+https://www.uniprot.org/uniprot/Q16520 (*Uniprot*.  (n.d.)  "UniProtKB - Q16520 (BATF_HUMAN)".  Retrieved 2021-2-20.)
+
+This is an overview on BATF.
+
 ---
 Back to [[Day Post Archive]]
 
