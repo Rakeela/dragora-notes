@@ -4,13 +4,17 @@ This is a preference list that I decided to record and publish.  It's not about 
 
 1.  Dragon Life Simulator
     * 1 turn = 1 season?  Tons of ways to do this, and my idea of dragons is typically civilian to boot.  I still think someone should make a dragon merchant simulator.  Anyways, this is a perennial for me.
-    * Examples:  Golden Treasure, only?
+    * Examples:
+      * - Golden Treasure
+      * - TBF (To Be Found)
 2.  Ballistic Passenger Business Simulator
     * Imagine if airline travel used rockets.  This would be a good excuse for a near-future sci-fi setting, since we could technically already do this, and it might help get people over a certain fear of rocket travel.  The game would have obvious potential to expand into interplanetary transit; expanding your business to service Lunar flight would be a good 'early-mid' objective, expanding your business to service Martian travelers would be a good 'mid-late' objective, and expanding to the outer planets would either be 'endgame' in a base design or a great material for a DLC.
-    * Examples:  None that I know of; rocket simulators aren't rare, but profit-oriented passenger rocket simulators...  Well, I know of one, but it's purely interplanetary.  People don't seem to realize that terrestrial rocket passenger transit is possible, yet I think any business that launches people between worlds is likely to start out by hunting down profitable edgecases for accelerated transit in terrestrial markets.
+    * Examples:
+      * - TBF
 3.  Reincarnationist Life Simulator
     * A minimalist life simulator designed for playing many briefly simulated lives, with soul variables accreting over time.  Soul variables in turn influence future lives.  Making different choices available and altering what choices are prosperous is the obvious thing for soul variables to affect, but I think it'd be more interesting if there was a sort of multiverse of diverse potential lives such that the player could try to 'aim for' different potentials by accumulating the right karmic soul traits.
-    * Examples:  None?  I loved the life simulator genre ~15 years ago, but I never got to play the full versions of the programs that I loved most, and one of the ones I played exhaustively kind of lost me to the genre.  I'm not big on life simulators anymore.  The basic concept of a minimized life simulator with many iterations that accumulate some kind of stats over iterations seems like it might exist already, albeit that I would expect its current existence to be in a "grinding for progress" mode without full respect for the narrative potential of its game mechanics.
+    * Examples:  
+      * - TBF
 4.  Capacity vs Confidence vs Flexibility Economic Simulator
     * A nation or psuedonational entity simulator focusing on **abstractly** managing the development in a geographical area, with a key variable trichotomy implemented across many sectors of development: capacity vs confidence vs flexibility.  Capacity is the sector's ability to provide quality services under normal conditions.  Confidence is the sector's ability to gain capacity over time.  Flexibility is the sector's ability to absorb shocks (demand spikes and/or disasters) as well as its ability to tolerate fluctuations in available resources (due to planning changes or opportunistic adjustments).  All three are desirable and on average all three tend to increase; despite this shared tendency, the three should be a trichotomy in that they trade off against each other in policy.  Think about how expensive disaster planning can be.  The resources put into that aren't being put into providing quality services under normal conditions.
     * The technologies, policies, and other player-interfacing state modifications given by the game should modify the balance of the trichotomy in various domains.  The basic currency of policy actions is then given by the flexibility in each sector.  All actions which do not increase sectoral flexibility instead deplete it, and most actions deplete it.  Actions which demand flexibility that isn't there cannot be taken.  Planning actions typically deplete flexibility as well rather than provide immediate gains, but they are actually investments in increasing flexibility's growth tendency.
@@ -21,13 +25,18 @@ This is a preference list that I decided to record and publish.  It's not about 
       * When are investments in flexibility protective of confidence through stabilizing performance?  Which sectors benefit most from being hardened against the froth in their event potentials?
       * When is it tolerable to let a sector get hollowed out by economic fluctuations?
     * Beyond the trichotomy, the game's economy should also have a bunch of numbers.  Lots of numbers.  Snrk.  I mean, it should also be an economic simulation.  The sectors should represent categories of development that make sense as being critical for the nation or psuedonational entity that the player is influencing.  This determination of which sectors are present is a very central reflavoring potential in this game concept; a sci-fi game about an alien uplift government trying to turn a backwater economy into an advanced and futuristic one (I tip a wing to [[The Viceroy]]) would have very different sectors from an [[existential threat]] simulator focused on the perils of well-matured growth tendencies.  Renaming the sectors and reseeding their event tables could produce very different games.
-    * Examples:  None.
+    * Examples:  This is too conceptually specific to implement.
 5.  Cannabis-Friendly Exercise Game
     * It's harder to focus on exercise while high, but when I've managed to do it, I've enjoyed exercising while high considerably more than exercising sober.  I think people may be missing out on it as a hedonic potential.  Cannabis is known for being a stunning/slowing kind of effect, but in my sample=1 of experience, resisting the slowing from cannabis also makes exertion feel better.
     * If there's one thing videogames are good at, it's grabbing attention.  That this attention-grabbing function works beyond the realm of merely sitting down and pushing buttons has been core to much of my own exercise.  The interactive training environment can mitigate the disadvantage of exercising while high (poor focus) so that doing it is more reliable.
     * This concept promotes a recreational psychoactive for the sake of its customers' health.  I confess to pharmacoutopianism.
     * Exercise games are always of lower quality...  I think they're more than a genre shift, as different as being a wholly different technology in the videogame industry.  The best I've found have already made a positive difference in my life, and I think this is something that the industry will develop as a broader talent in the future.  Exercise games are just such an important tool for making good health voluntary...  They're a pure application of [[hedonology]].
-    * Examples:  I'd be surprised.
+    * Examples:
+      * - TBF
+6.  Abstract yet Detailed Grand Strategy Game with Weird Maps
+   * I was thinking about Warlock 2's usage of a many-little-planar-bubbles map, and I thought that a decent game might be made through collapsing each planar bubble to a single location, essentially a 'province' tile in a strategy game operating at the more abstract scale where 'cities' and 'units' are less individually considered.  I like weird maps (as with fantasy strategy gaming), but weird maps are less represented at the abstract scale of strategy gaming.
+   * Examples:
+     * - Dominions series (with creative fan-made maps) (still uses individual units)
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
 [The Viceroy]: The-Viceroy.md "The-Viceroy"
