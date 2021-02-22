@@ -48,4 +48,11 @@ I let go of Otter Labs when I shouldn't have.  Had I been in an environment with
 Knowing I'm part of the record is a pleasure.  Knowing I'm attested.  Knowing that people would have to /lie/ to take that away...  It suffices to me, to enforce dishonesty.  I'm here.  I've lived.  I was true to myself.  I'll keep going forever if I can.
 
 ---
+I love my environmental sciences textbook.  I'm underusing its potential as a study text; it has a lot of comprehension-testing essay questions that I could really spend a *lot* of time on had I endless time to work on them.  I've just been fishing out enough info for passing a basic class.  Now, I do like this class, but that just means the fish are extra tasty; I'm still not putting in maximum effort.
+
+I like putting in effort on this task.  I'm sure I could get more out of this text if I had the time, health, and proper preferred focus to work on all the essay seeds that it provides.  I don't expect to do that presently, but I look forward to keeping this textbook for a long time.  Textbooks are a better class trophy to me than my GPA; these books are advanced texts, and since you're guaranteed to have read them, they are always books you truly own.
+
+I'll come back to work the essay examples in some unknown and possibly extensive period of time.  I do re-read books... eventually.
+
+---
 Back to [[Day Post Archive]]
