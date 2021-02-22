@@ -3,7 +3,15 @@
 This page is currently almost blank, but I'm intending to develop it into a collected reference pointer to stuff I've said elsewhere about The Viceroy.
 
 ---
-When I eventually fill this out, it will contain and/or reorganize the texts that I've posted to my Steam account page while contemplating The Viceroy.
+When I eventually fill this out, it will contain and/or reorganize the texts that I've posted to my Steam account page while contemplating The Viceroy.  I hope Steam doesn't lose them!
+
+---
+Preserved fragments:
+/\ - 1
+"Ignoring the question of sustainability at other levels, what do YOU need to most nearly approximate stability at YOUR level?"
+
+"Administrators.  Give me people who can motivate others to follow protocols exactly.  For all the complaints against bureaucracy, people never understand the degree to which they are complaining about specifically faulty bureaucracies.  Fifty excellent middle managers can nigh-indefinitely operate the immortality protocols for a mid-sized territory.  Any less excellent structure will be unsustainable, while any structure trying to achieve that end with fewer truly excellent bureaucrats is a pure false economy - at least at THIS level."
+\/ - 1
 
 ---
 I like seeing iterative refinements of simulation titles.  I think it's a valid and historically effective way of pushing simulations towards their best potential, and that the effectiveness of the process for yielding quality improvements can be emphasized by pointing out the way that simulation products generally fail in the market if they produce an iteration that is of lower quality than its predecessor.
