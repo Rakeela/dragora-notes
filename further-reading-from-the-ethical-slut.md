@@ -32,7 +32,7 @@ The books we're most familiar with are all terrific, and each one offers viewpoi
     19. *The Explorer's Guide to Planet Orgasm: For Every Body*, Annie Sprinkle with Beth Stephens (Greenery Press, 2017).  A fun, approachable, gender-flexible, illustrated guide to all kinds of orgasms and how to discover them.
     20. *More Than Two: A Practical Guide to Ethical Polyamory*, Franklin Veaux and Eve Rickert (Thorntree Press, 2014).  A thorough, realistic guide to long-term multiple relationships.
     21. *Ask Me About Polaymory: The Best of Kimchi Cuddles*, Tikva Wolf (Thorntree Press, 2016).  A whole cartoon book about polyamory!  Its lightheardness makes it a good choice to share with an uncertain family member or friend.
-
+    
 
 ---
 Thoughts on the Further Reading:
