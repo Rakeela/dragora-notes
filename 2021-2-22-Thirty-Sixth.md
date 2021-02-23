@@ -46,7 +46,7 @@ I want sex-positivity to win.  I want to someday be a dragon, and then with that
 I believe that a more charismatic sexuality is possible for humanity than it has thus-far put together.  I am not willing to put myself bodily into trying to promote it; the spirit is willing, but the attempt has already failed.  Letting myself get pandered out in degrading ways did not turn out to actually promote sex-positivity.  I will however continue to defend what I have noticed of the relative ethics of the sex-positive vs sex-negative communities, which despite my qualms with this section of The Ethical Slut, are still in the main being strongly reinforced in favor of sex-positivity by this text.
 
 ---
-The story The Ethical Slut tells on pages 289-291 is an amazing one of compassionate and colorful activists, peaceful and beautiful, loving life and each other.  I wish I could've met that community, but every date in the story is from before I was born.
+The story The Ethical Slut tells on pages 289-291 is an amazing one of compassionate and colorful activists, peaceful and beautiful, loving life and each other.  I wish I could've met that community, but every date in the story is from before I was born.  I met something darker and harsher.  Did the lights get extinguished before I ever set foot on the stage?
 
 ---
 Back to [[day-post-archive]]
