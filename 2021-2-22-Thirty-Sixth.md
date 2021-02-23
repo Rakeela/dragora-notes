@@ -55,6 +55,8 @@ This book as well spoke so much overall of affection and valuing people in thems
 ---
 I'm finishing up the book now.  I'm tempted to transcribe the entire Further Reading section into my notes archive.  I know I have an audience, if only the people who are determined to prove that nothing I do will ever be important, and I think the people to whom I became "a lying slut" could really benefit from reading stuff with a healthier attitude towards sex and relationships.
 
+Hm...  Yes, but I'll give it a file of its own.  [[Further-Reading-From-The-Ethical-Slut]].  Hopefully the authors will forgive me for transgressing their copyright here.  I think this could be educational usage, but of course I'll take it down if I'm requested to do so.
+
 ---
 Back to [[day-post-archive]]
 
