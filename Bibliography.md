@@ -52,7 +52,7 @@ Sections;
    3) [[Essentials-of-Organizational-Behavior-Fourteenth-Edition]]
    4) [[The-Invention-and-Discovery-of-the-'God-Particle'-Higgs]]
    5) [[No-Plot-No-Problem]]
-   6) 
+   6) [[The-Ethical-Slut]]
 
 5) "Comedy" (I am not the biggest fan)
 (I've certainly read some of these, but I'm in no hurry to list them.)
