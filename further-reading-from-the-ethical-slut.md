@@ -3,14 +3,23 @@
 (The following is transcribed in whole from the Further Reading section of The Ethical Slut, 2nd Edition, by Janet W. Hardy and Dossie Easton.  It has been edited only by adding numbers to clarify the list of titles.  Any other alterations or ommissions from this section represent an error on my part, which I will fix on request if I am able.)
 
 We decided not to include websites in this edition because they come and go so quickly, and because a few minutes with your favorite search engine will point you towards the information you need.  We suggest being careful about using sexual terms in your search unless you want to see your monitor fill up with links to porn (which is nice when you want porn but not so good when you want information); if you absolutely can't avoid it, add the word "educational" and it will eliminate most of the smut:
+
 **vaginal fisting educational**
+
 Start with a nonjudgmental and nonvulgar word for the subject that interests you and then add other terms to filter it down.
+
 If you want to find resources in your area, use the name of your city or a nearby city, like this:
+
 **polyamory bisexual Boise**
+
 If the thing you want to know about has more than one word in it, then put double quotes around it, like this:
+
 **"open relationship" trans Boston**
+
 We still like books best, though.  The following is a list of books that we've found useful for polyamory and other sexually adventurous lifestyles.  New books are proliferating like bunnies in the springtime, and we can't keep up with all of them--so apologies if we've ommitted your favorite.
+
 The books we're most familiar with are all terrific, and each one offers viewpoints that others don't, but as of the latest count, we know of dozens more, each with lots to offer.  Read them all, but if you can only afford a few, we suggest that you check out the ones we list here in alphabetical order by the primary author's last name.
+
     1. *The Intimate Enemy: How to Fight Fair in Love and Marriage*, George R. Bach and Peter Wyden (Morrow, 1968).  The concept of "fair fighting" was first expounded by Dr. Bach in this wonderful book.  Published fifty years ago, the book is somewhat outdated, but the material on communication as well as the detailed descriptions of constructive wahys to share your anger with a partner are priceless.
     2. *Rewriting the Rules: An Integrative Guide to Love, Sex, and Relationships*, by Meg Barker (Routledge, 2012).  An intelligent overview of the pros and cons of all the ways people in the twenty-first century are choosing to arrange their sexual and relationship lives.
     3. *Reclaiming Eros: Sacred Whores and Healers*, Suzanne Blackburn and Margaret Wade (Sūade Publishing, 2007).  Interviews with people all over the world who practice sex work as healing.
