@@ -48,6 +48,10 @@ I believe that a more charismatic sexuality is possible for humanity than it has
 ---
 The story The Ethical Slut tells on pages 289-291 is an amazing one of compassionate and colorful activists, peaceful and beautiful, loving life and each other.  I wish I could've met that community, but every date in the story is from before I was born.  I met something darker and harsher.  Did the lights get extinguished before I ever set foot on the stage?
 
+I was willing to do almost anything for sex-positivity, which I was then convinced was essential to the advancement of human ethics (and at first it seemed like good affection as well).  Considering that *my* consent was mistreated, it might be thought that I would turn against it; yet that is not so, as sex crimes are *drastically* more common in conservative societies such as the Middle East than they are in sex-positive communities whose sexual ethics are integral to their cohesion.  Getting trapped in deep, dark pits of abuse is dramatically more common in opaque conservative societies rife with misinformation than it is in transparent liberal communities that thrive on respecting each other.
+
+This book as well spoke so much overall of affection and valuing people in themselves that it reminded me of the sexuality I entered Earth with, when I awoke as an 11 year old human, and thought that human sexuality might be like dragon sexuality.  I want people to be compassionate and loving to each other like this talks about them being.  It sounds so much nicer than my own experiences.
+
 ---
 Back to [[day-post-archive]]
 
