@@ -12,3 +12,6 @@ Yggdrasil - my dream, my belief about both the highest possible reality and the 
 There's a difference between an upload simulation and an upload prison, and it's essential to why I never want to give up civil rights.  The rights of the weakest in society must be absolutely respected... because nobody will ever, ever be weaker than the residents of an upload simulation are to the operators of the simulation.  A society that protects civil rights enough will produce a Yggdrasil construct with no injustices.
 
 I would agree to a correctly presented upload scheme presented by aliens.  There are forms I would insist on - informations I would demand - but on the whole it wouldn't be difficult to manipulate me into signing up for an upload prison unwittingly.  I don't think that advanced societies are likely to have less than the fully reciprocal ethic, so as long as they do the right song and dance upfront, they'll get me whether I'm right or wrong to trust them.
+
+---
+Nonconsensual upload may be the most unethical of all acts, but the ethical value of consensual upload is determined by the degree to which the uploader respects the rights of the uploadee.
