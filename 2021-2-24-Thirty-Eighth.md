@@ -11,7 +11,7 @@ I'm mentioning them because their texture is inconsistent in a way that points t
 ---
 I think the argument against the ethics of reproduction may be wholly general and applicable to all cases.  For the basic problem is that the target of reproduction (the new individual) *cannot* have consented to exist...  Even in a hypothetical perfect environment (such as reproduction within [[Yggdrasil]]), there is no guarantee that all possible individuals are 'satiable' (sorry, this is an imperfect word here), and thus there is no guarantee that reproduction is not a violation of the consent of at least one involved party.  Furthermore, to bring someone into Yggdrasil who will *suffer* there in the highest possible society sounds like a horrible fracture in the potential of our universe.  For in that case, there is truly nowhere else to go, and all that they can do is wander forlorn through the many worlds.
 
-For the record, I consider [[character-gallery.md|Yoet]] to have experienced positive utility returns; she does not hate life, and her dissatisfaction is not terminal.
+For the record, I consider [[character-gallery.md|Yoet]] to have experienced positive utility returns; she does not hate life, and her dissatisfaction is not terminal.  She's fictional, so that doesn't have real ethical value, but it does speak to what I consider the basic resilience of Yggdrasil.  Yoet is an example of a sour edge of Yggdrasil, but not an example of Yggdrasil breaking down.
 
 ---
 
