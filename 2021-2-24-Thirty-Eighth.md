@@ -15,7 +15,7 @@ For the record, I consider [[character-gallery.md|Yoet]] to have experienced pos
 
 ---
 https://pubmed.ncbi.nlm.nih.gov/33583101/ (Kalafatakis, I.  Patellis, A.  Charalampopoulos, I.  Gravanis, A.  Karagogeos, D.  (2021, Feb 13.)  The beneficial role of synthetic microneurotrophin BNN20 in a focal demyelination model.  *Journal of Neuroscience Research*.  Retrieved 2021-2-24.)
-This is from a totally different angle on controlling neuroinflammation.  I don't have access to the full material this time, and it's not critically linked to my own studies.
+This is from a totally different angle on controlling neuroinflammation.  I don't have access to the full material this time, and it's not critically linked to my own studies.  It's about how (in mice) treatment with BNN20, a derivative of Dehydroepiandrosterone (DHEA), reduces astrogliosis in the demyelination phase of their lysophosphatidylcholine (LPC)-induced demyelination mouse model.  I had to alter the abstract's verbiage to include the term astrogliosis, so without more data, I'm only hoping that I've understood that correctly.
 
 ---
 Back to [[Day-Post-Archive]]
