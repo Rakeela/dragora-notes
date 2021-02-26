@@ -63,7 +63,7 @@ Citations:
 [2]  Hoek, AC.  Luning, PA.  Stafleu, A.  de Graaf, C.  (2004, Jun.)  Food-related lifestyle and health attitudes of Dutch vegetarians, non-vegetarian consumers of meat substitutes, and meat consumers.  *Appetite*.  Retrieved 2021-2-25 from https://www.sciencedirect.com/science/article/abs/pii/S019566630300196X
 
 ---
-There!  That's beautiful.  I even tied the ending to the start.
+There!  That's beautiful.  I even tied the ending to the start.  I've titled this An Appeal for Easier, More Economical Green Nutrition.
 
 ---
 Back to [[envs100]]
