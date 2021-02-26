@@ -1,0 +1,15 @@
+# 2021-2-26-Fourtieth
+
+http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5963529&blobtype=pdf (Adamopoulos, IE.  (2018, Jan.)  Inflammation in bone physiology and pathology.  *Current Opinions in Rheumatology*.  Retrieved 2021-2-26.)
+
+I happened across this while thinking about a link that I suspected to exist between immunosenescence and bone aging.  It looks like it confirms the suspicion that I had, while also cataloguing some of the current unknowns in bone inflammatory response which could be profitably studied for senescence and rejuvenation research.
+
+---
+
+Thinking about biology, the difference between a solid and a liquid starts to seem interestingly unclear.  Bones are truly solids, of course, and so we may say the body contains a true solid.  Blood, meanwhile, is clearly a liquid.  What is skin?  Solid.  Let's look at these classifications.
+
+Is everything in skin made of solids?  Even at the surface, how dry are the cells really?  Sweat's a liquid, too.  It gets secreted, but it's a liquid inside the solids first.  The cells are full of liquid environments, and they're immersed in liquid environments as well.  Animal cells are soft-walled, too!  All of this holds together despite the fact that it's a pile of soft solids jiggling in liquid.  
+
+Blood's status as a liquid must be challenged as well, as it is also made of cells suspended in blood plasma, and blood cells are as much a pile of soft solids jiggling in liquid as everything else in the body.
+
+To return last to bone, is bone also truly solid?  It's made of osteocytes, which are osteoblasts that have been built into the stiff secretions that they emit.  What do osteocytes do?  I am trying to think about tinkering with the immune system in their proximity, and yet I know nothing about them.  The body is such a complex system that expertise seems like it might be impossible.
