@@ -11,6 +11,16 @@ Why aren't there more people who would get disturbed by seeing 20-Wealth "blissf
 ---
 I wonder if it would be possible to induce weather events through creating a big "ramp" in a windy area, designed to create upthrust air by curving the surface windflow upwards into the air.  For instance, I would expect that an artificial ramp behind an artificial lake in an area with frequent surface winds would result in enhanced precipitation within the shadow behind the lake+ramp, because moist air would be regularly lofted vertically at that point.  Humanity should do more of this kind of experiment than it has...  It's not really as cost-prohibitive as its been presented.  Basic earth-shaping weather control experiments are about as expensive as building the grounds of a mansion, without the expense of building a mansion itself, and with less (though not zero) maintenance expense than the grounds of a mansion.
 
+People rebuke geo-engineering as if fancy landscaping were literally impossible.  We shouldn't have let conservative fear of the consequences of all policies take over so many of the leading heights in society; our society already has signs of stagnant regression!  People don't seem to think it's even possible to do stuff that two generations ago would've been boring normality.
+
+People then didn't realize that their landscaping and architectural decisions could have possibilities that we now realize these things could have... but we in realizing these new possibilities have quailed at the impossibility of stuff that would've been straightforward labors before!
+
+Creating a prototype mirror-drone fleet to alter precipitation flows at sea is about as much effort as it takes to plate a large car dealership with cars, you know?  It's that much metal worked with *less* difficult engineering.  By calling it less difficult engineering, I do not mean to demean the challenge of novel engineering, but merely to point out the true fact that modern cars have been advanced to a specificity of engineering that considerably exceeds what it would take to find out if weather control is possible through creating machines that collectively initiate controlled increases or decreases of thermal absorption at sea.
+
+Yet our current society regards an engineering investment analogous to filling a large car dealership with cars as unfathomably billions of dollars of expensive.  What happened?  "All the productive people died" literally amounts to dishonesty, because we still *are* plating large car dealerships with cars.  That *is* the same productive talent it takes to modify the weather.  Likewise, we still engage in massive earth moving to build factories, and that's what it takes to do landscaping experiments for weather modification.  The necessary technology already exists, people just don't believe in it.  
+
+Some people rebuke arguing that new things should be attempted, without seeing the conservativism in themselves.
+
 ---
 Back to [[day-post-archive]]
 
