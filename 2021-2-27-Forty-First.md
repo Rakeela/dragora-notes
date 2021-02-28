@@ -21,6 +21,10 @@ Yet our current society regards an engineering investment analogous to filling a
 
 Some people rebuke arguing that new things should be attempted, without seeing the conservativism in themselves.
 
+
+---
+I wonder if a glider could be built covered in metal spikes so that it would attract lightning, then dropped from a high-flying plane to glide into a stormcloud.  That might be a spectacle if it worked.  The glider would be ruined, of course, unless it could survive being struck with lightning a great many times.
+
 ---
 Back to [[day-post-archive]]
 
