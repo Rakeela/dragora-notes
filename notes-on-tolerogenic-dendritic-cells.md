@@ -184,6 +184,8 @@ Would any other kind of antigen-presenter cell be capable of doing this?  I need
 ---
 At the suggestion of Tiltwolf on the Freedom of Form Foundation discord server, I should like to try creating HLA-1 knockout dendritic cells.  I'm not sure that the dendritic cells could process peptides for antigen presentation without HLA-1, but I'm reasonably sure they couldn't produce the peptide binding groove without them.  If they retain enough of their antigen presentation abilities, but shed the bit of their cellular anatomy that reveals their other-ness to the immune system, a general donor population of dendritic cells could be generated in that manner.
 
+I need to synthesize the research on knocking out HLA-1 in stem cells with research I have on directing differentiation of stem cells into dendritic cells.  A transgenic anergizer-specialist dendritic cell with universal donor properties may be achievable... or it may not.  It may only turn out to yield a nonviable mutant cell population, but whether or not it would *work in the immune system*, I think that population can be made to exist in culture.  I just wouldn't want to inject the resulting cells into a human first... it would have to prove a good advancement in mouse medicine, first.
+
 ---
 Back to [[authors-nonfiction]]
 
