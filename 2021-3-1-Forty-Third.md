@@ -10,7 +10,7 @@ The threads of the novel are the things that people are trying to achieve, or th
 
 Yet a draft can proceed 'illogically', processing over great spans of this complexity, and accreting errors as it goes.  Redrafting fixes this and makes the material nearer to its intended ideal, yet even so no author writes without error.  Whence comes the draft, when it steps beyond the rectified structure?
 
-More pragmatically, I'm considering attempting to upload a world-building archive, either here in this jumble of files, or else in a separate simultaneous archive project.
+More pragmatically, I'm considering attempting to upload a world-building archive, either here in this jumble of files, or else in a separate simultaneous archive project.  I expect it will be more charismatic if I produce it as its own structure, but it will be easier to produce such structures at all if I work on them *here*.
 
 ---
 Back to [[day-post-archive]]
