@@ -15,6 +15,8 @@ More pragmatically, I'm considering attempting to upload a world-building archiv
 ---
 Reading about Thymic Involution, apparently the thymus becomes something of a crippled fatty organ.  If the hindrance of its function were literally caused by the intrusion of adipocytes (mechanical disruption), is there anything that could be done to improve the boundaries of the thymus?
 
+Trying to look up chemical treatments for steatosis is getting bogged down in how all diseases of the *liver* are lifestyle issues, from drinking to sedentarism.  That's great, but a chemical treatment for steatosis of the organs might also have applicability worth investigating to the thymus, whose universal steatosis is one of the factors which inflicts aging on people.
+
 ---
 Back to [[day-post-archive]]
 
