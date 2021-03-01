@@ -17,6 +17,10 @@ Reading about Thymic Involution, apparently the thymus becomes something of a cr
 
 Trying to look up chemical treatments for steatosis is getting bogged down in how all diseases of the *liver* are lifestyle issues, from drinking to sedentarism.  That's great, but a chemical treatment for steatosis of the organs might also have applicability worth investigating to the thymus, whose universal steatosis is one of the factors which inflicts aging on people.
 
+Current future prediction: thymic steatosis will someday be considered a medical condition resulting from inadequate rejuvenation treatment.
+
+Potential research direction:  Which animal retains a normally-functioning thymus for the longest fraction of its life?  What is the chemical environment of the thymus in that animal?
+
 ---
 Back to [[day-post-archive]]
 
