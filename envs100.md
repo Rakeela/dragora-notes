@@ -1,8 +1,10 @@
 # ENVS&100
 
 To-Do (Keep this at the top of the file.)
- - Draft week seven discussion post - Food vs Climate (Due Feb 25)
-   - [[envs100disc8-FoodvsClimate]]
+ - Draft week 9 discussion post - Air Pollution (Due March 2, 2921)
+   - [[envs100disc9-AirPollution]]
+ - "Detox Me" self-surveillance diet
+   - This is going to result in reporting a lot of Huel products, currently.  I'm excited to try new things, but Huel appears to be a dreadful food-like substance.
 
 Course Outcomes:
 · Demonstrate the importance of using critical thinking and the scientific method to understand how human activities affect the limited resources of our planet.
