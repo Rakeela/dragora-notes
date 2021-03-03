@@ -1,0 +1,20 @@
+# Envs100disc9 AirPollution
+
+This should be fun!  I'm going to write to promote public moss-based air filtration systems, or something analogously futuristically plant-tech.  Few things strike me as such a joyous shout for biotechnology than plant-based high-tech infrastructure.  I'd rather see mossboxes than trees along a substantial minority of urban roadsides, but especially in industrial areas.
+
+Plus, I get to say nice things about modernizer politicians in China.  I don't know of any specific individuals, but if I remember correctly what I've seen in the media (and assuming it wasn't misleading propaganda), China has the world's largest concentration of both artificial plants and plant-based atmospheric infrastructures.  Their pollution problem is not totally for lack of effort at controlling it.  They'd have to be richer to do a lot more, and therein lies one of the paradoxes of development; getting through the filthy stage of industrialism is a bootstrapping challenge that the world hasn't actually figured out how to meet.  Hm, I'm getting distracted...  No, that's potentially brilliant.  If China is the current leading manufacturer of mossboxes, increased global utilization would direct wealth towards developing that capacity specifically, and would help China grow one of its domestic long-term countermeasures to pollution problems.
+
+---
+Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
+
+Alternatively: these are cool, too.  I know I'm too easily sideswiped by cool factor, but I refuse to believe that a society which industrialized to plate the world in cities can't industrialize to plate the cities in artificial trees.  I mean, if I really embrace the manic causality jump potential here, could you cool the city passively with that?
+
+I'm not likely to use that potential in THIS essay, but I want to give it a paragraph in my notes as part of my creative process.  I would like to know, what happens if you pack a city with a small forest of these on *every* rooftop and build them at the sides of *every* building?  If this pop-sci source isn't overstating the carbon-absorbing potential of them, an urban territory could develop like a hundred times the carbon-sucking power of a forest of its size.  The air would in the vicinity of the city would be a little more oxygenated; would that be perceptible?  The air would be persistently less carbon-rich, and I wonder if that would affect local microclimes.  That's what I mean when I wonder if installing a bunch of artificial trees could cool cities.
+
+This is plant-tech, too.  It uses microflora for maximum optimization.
+
+I wonder if buildings could use the inclusion of an artificial tree atrium in their HVAC systems as a means to lower indoor carbon dioxide accumulations.  If it'd be like passing the air through the carbon-absorption equivalent of 368 living trees, it may be worth giving over two room worths of real estate on the vertical to build one *inside* of large buildings.  Redesigning the microalgae air exchanges to maximize surface area along the wind path in the HVAC system might even allow a superior space-to-power rate, so as to achieve that much absorption power or more with that much space or less.  Hm.  Come to think of it, the forced-air conditions which exist inside of an HVAC system might be optimal for carbon-mitigation, as they are both a point of carbon concentration and a processing accelerant offering predictable flow conditions.  That is a good engineering surface.
+
+If only I could lead the engineering teams!
+
+I wonder if the teacher would rebuke me for using her 'research this subject' prompt to promote an exotic engineering project... but wait, I did that already!  Okay, I think I know my topic now.  Hahaha!

@@ -4,7 +4,7 @@ To-Do (Keep this at the top of the file.)
  - Draft week 9 discussion post - Air Pollution (Due March 2, 2921)
    - [[envs100disc9-AirPollution]]
  - "Detox Me" self-surveillance diet
-   - This is going to result in reporting a lot of Huel products, currently.  I'm excited to try new things, but Huel appears to be a dreadful food-like substance.
+   - This is going to result in reporting a lot of Huel products, currently.  I started consuming it yesterday and I'm planning to consume little or nothing else today and tomorrow.  This is not an entirely accurate window into my diet that I'll be handing in to my teacher, as I don't think I'll be continuing with Huel for the long-term; I'm excited to try new things, but Huel thus far appears to be a dreadful food-like substance.
 
 Course Outcomes:
 · Demonstrate the importance of using critical thinking and the scientific method to understand how human activities affect the limited resources of our planet.
