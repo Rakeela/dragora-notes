@@ -69,7 +69,7 @@ Citations:
 [1]  Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
 [2]  Wyon, DP.  (2003, Dec 31.)  The effects of indoor air quality on performance and productivity.  *Indoor Air*.  Retrieved 2021-3-2 from https://europepmc.org/article/med/15330777.
 [3]  Washington State University.  (2013.)  "Measuring Carbon Dioxide Inside Buildings - Why is it Important?"  Retrieved 2021-3-2 from https://www.theboc.info/pdf/Article-Measuring_CO2_Inside_Buildings-Jan2013.pdf.
-[4]
+[4]  Seppänen, O.A.  Fisk, W.J.  Mendell, M.J.  (1999, Dec.)  Association of ventilation rates and CO2 concentrations with health and other responses in commercial and institutional buildings.  *Indoor Air*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/10649857/.
 
 ---
 I'm not at all bothered by avowing that as the first source I found.  It's just a discussion board post, after all.  I did it without stressing out about it this time.
@@ -78,6 +78,9 @@ I'm not at all bothered by avowing that as the first source I found.  It's just 
 Pantelic, J.  Liu, S.  Pistore, L.  Licina, D.  Vannucci, M.  Sadrizadeh, S.  Ghahramani, A.  Gilligan, B.  Sternberg, E.  Kamschroer, K.  Schiavon, S.  (2020, Mar.)  Personal CO 2 cloud: laboratory measurements of metabolic CO 2 inhalation zone concentration and dispersion in a typical office desk setting.  *Journal of Exposure Science & Environmental Epidemiology*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/31636369/.
 
 Included for interest.
+
+---
+Title:  A Vision of a Greener Steel Garden
 
 ---
 Back to [[envs100]]
