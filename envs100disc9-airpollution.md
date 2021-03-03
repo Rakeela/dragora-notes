@@ -18,3 +18,16 @@ I wonder if buildings could use the inclusion of an artificial tree atrium in th
 If only I could lead the engineering teams!
 
 I wonder if the teacher would rebuke me for using her 'research this subject' prompt to promote an exotic engineering project... but wait, I did that already!  Okay, I think I know my topic now.  Hahaha!
+
+---
+First draft?
+I love biological technology.  To me, this is like a species thing; I must love biological technology, and I do.  Being prompted here to research the issue of air pollution leads me at once towards biological technologies.  My thoughts turned first vertical moss installations of moss culture that clean the air in an optimized way.  Looking this up, I found the topic of artificial trees, and I knew at once I had the subject for my discussion post.
+
+Artificial trees use microalgae to process the air that flows past them.  The first source I found claimed to be describing an artificial tree with the carbon-absorbing power of 368 living trees.  When I read about this, I imagined cities reimagined with artificial forests upon their rooftops, gardens of steel and algae cleaning and refreshing the air like tiny hyperforests, until the city landscape began sinking more carbon than the wilderness around it.  We have already built our labyrinths of crystal and steel so thickly on the Earth; can we not add one more layer of steel live with algae?
+
+I thought as well of HVAC systems, where air is circulated within buildings.  Who has not heard of indoor air pollution?  I read in business science research about the productivity impacts of poorly ventilated offices; it is known that carbon dioxide accumulates in indoor spaces and can impair productivity if it rises too high.  If we have a technology that absorbs carbon dioxide with special fervor and capability, why not begin to build it into our society where it will make life more pleasant and productive by building it into our structures as well?  Doing that will help society to absorb carbon at the points where it is being generated.  Furthermore, it should work even better with the living tree technology, because the HVAC system provides a controlled environment with forced air circulation, and the surface area of the algae-air exchanges can be thus arranged to intercept a predictable wind.  That should make them even more effective at absorbing indoor carbon dioxide than they are for absorbing outdoor carbon dioxide, although they would need electricity to supply light for photosynthesis.
+
+In coming up with fantasies and proposals as I do, I can't help but notice that there's something *stuck* about the engineering abilities of modern societies.  We built so much, but now we keep building the same things over and over again.  The amount of metal-working involved in engineering a garden of artificial plants atop the roof of a building is not large compared to the amount of metal-working involved in engineering the rest of the building.  If we have such problems with atmospheric regulation, and we certainly do, why do we not build countless great novelties in answer to it?  Have we reached such a limit of aesthetics that we can we find no room for greater beauty in changing the look of our cities?  A steel civilization could yet be greener than ours!
+
+---
+Hum hum, soaring rhetoric, I suppose that really is my thing.
