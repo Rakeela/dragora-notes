@@ -62,11 +62,26 @@ I love biological technology.  To me, this is like a species thing; I must love 
 
 Artificial trees use microalgae to process the air that flows past them.  The first source I found claimed to be describing an artificial tree with the carbon-absorbing power of 368 living trees[1].  When I read about this, I imagined cities reimagined with artificial forests upon their rooftops, gardens of steel and algae cleaning and refreshing the air like tiny hyperforests, until the city landscape began sinking more carbon than the wilderness around it.  We have already built our labyrinths of crystal and steel so thickly on the Earth; can we not add one more layer of steel live with algae?
 
-I thought as well of HVAC systems, where air is circulated within buildings.  Who has not heard of indoor air pollution?  I read in business science research about the productivity impacts of poorly ventilated offices[2]; it is known that carbon dioxide accumulates in indoor spaces[3] and can impair productivity if it rises too high[4].  If we have a technology that absorbs carbon dioxide with special fervor and capability, why not begin to build it into our society where it will make life more pleasant and productive by building it into our structures as well?  Doing that will help society to absorb carbon at the points where it is being generated.  Furthermore, it should work even better with the living tree technology, because the HVAC system provides a controlled environment with forced air circulation, and the surface area of the algae-air exchanges can be thus arranged to intercept a predictable wind.  That should make them even more effective at absorbing indoor carbon dioxide than they are for absorbing outdoor carbon dioxide, although they would need electricity to supply light for photosynthesis.
+I thought as well of HVAC systems, where air is circulated within buildings.  Who has not heard of indoor air pollution?  Business methods researchers of prior years have published about the productivity impacts of poorly ventilated offices[2]; it is known that carbon dioxide accumulates in indoor spaces[3] and can impair productivity if it rises too high[4].  If we have a technology that absorbs carbon dioxide with special fervor and capability, why not begin to build it into our society where it will make life more pleasant and productive by building it into our structures as well?  Doing that will help society to absorb carbon at the points where it is being generated.  Furthermore, it should work even better with the living tree technology, because the HVAC system provides a controlled environment with forced air circulation, and the surface area of the algae-air exchanges can be thus arranged to intercept a predictable wind.  That should make them even more effective at absorbing indoor carbon dioxide than they are for absorbing outdoor carbon dioxide, although they would need electricity to supply light for photosynthesis.
 
 In coming up with fantasies and proposals as I do, I can't help but notice that there's something *stuck* about the engineering abilities of modern societies.  We built so much, but now we keep building the same things over and over again.  The amount of metal-working involved in engineering a garden of artificial plants atop the roof of a building is not large compared to the amount of metal-working involved in engineering the rest of the building.  If we have such problems with atmospheric regulation, and we certainly do, why do we not build countless great novelties in answer to it?  Have we reached such a limit of aesthetics that we can we find no room for greater beauty in changing the look of our cities?  A steel civilization could yet be greener than ours!
 Citations:
-[1]
-[2]
-[3]
+[1]  Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
+[2]  Wyon, DP.  (2003, Dec 31.)  The effects of indoor air quality on performance and productivity.  *Indoor Air*.  Retrieved 2021-3-2 from https://europepmc.org/article/med/15330777.
+[3]  Washington State University.  (2013.)  "Measuring Carbon Dioxide Inside Buildings - Why is it Important?"  Retrieved 2021-3-2 from https://www.theboc.info/pdf/Article-Measuring_CO2_Inside_Buildings-Jan2013.pdf.
 [4]
+
+---
+I'm not at all bothered by avowing that as the first source I found.  It's just a discussion board post, after all.  I did it without stressing out about it this time.
+
+---
+Pantelic, J.  Liu, S.  Pistore, L.  Licina, D.  Vannucci, M.  Sadrizadeh, S.  Ghahramani, A.  Gilligan, B.  Sternberg, E.  Kamschroer, K.  Schiavon, S.  (2020, Mar.)  Personal CO 2 cloud: laboratory measurements of metabolic CO 2 inhalation zone concentration and dispersion in a typical office desk setting.  *Journal of Exposure Science & Environmental Epidemiology*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/31636369/.
+
+Included for interest.
+
+---
+Back to [[envs100]]
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[envs100]: envs100.md "ENVS&100"
+[//end]: # "Autogenerated link references"
