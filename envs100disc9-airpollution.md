@@ -67,14 +67,10 @@ I thought as well of HVAC systems, where air is circulated within buildings.  Wh
 In coming up with fantasies and proposals as I do, I can't help but notice that there's something *stuck* about the engineering abilities of modern societies.  We built so much, but now we keep building the same things over and over again.  The amount of metal-working involved in engineering a garden of artificial plants atop the roof of a building is not large compared to the amount of metal-working involved in engineering the rest of the building.  If we have such problems with atmospheric regulation, and we certainly do, why do we not build countless great novelties in answer to it?  Have we reached such a limit of aesthetics that we can we find no room for greater beauty in changing the look of our cities?  A steel civilization could yet be greener than ours!
 
 Citations:
-
-[1]  Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
-
-[2]  Wyon, DP.  (2003, Dec 31.)  The effects of indoor air quality on performance and productivity.  *Indoor Air*.  Retrieved 2021-3-2 from https://europepmc.org/article/med/15330777.
-
-[3]  Washington State University.  (2013.)  "Measuring Carbon Dioxide Inside Buildings - Why is it Important?"  Retrieved 2021-3-2 from https://www.theboc.info/pdf/Article-Measuring_CO2_Inside_Buildings-Jan2013.pdf.
-
-[4]  Seppänen, O.A.  Fisk, W.J.  Mendell, M.J.  (1999, Dec.)  Association of ventilation rates and CO2 concentrations with health and other responses in commercial and institutional buildings.  *Indoor Air*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/10649857/.
+ * [1]  Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
+ * [2]  Wyon, DP.  (2003, Dec 31.)  The effects of indoor air quality on performance and productivity.  *Indoor Air*.  Retrieved 2021-3-2 from https://europepmc.org/article/med/15330777.
+ * [3]  Washington State University.  (2013.)  "Measuring Carbon Dioxide Inside Buildings - Why is it Important?"  Retrieved 2021-3-2 from https://www.theboc.info/pdf/Article-Measuring_CO2_Inside_Buildings-Jan2013.pdf.
+ * [4]  Seppänen, O.A.  Fisk, W.J.  Mendell, M.J.  (1999, Dec.)  Association of ventilation rates and CO2 concentrations with health and other responses in commercial and institutional buildings.  *Indoor Air*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/10649857/.
 
 ---
 I'm not at all bothered by avowing that as the first source I found.  It's just a discussion board post, after all.  I did it without stressing out about it this time.
