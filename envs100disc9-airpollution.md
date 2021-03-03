@@ -76,9 +76,6 @@ Citations:
 I'm not at all bothered by avowing that as the first source I found.  It's just a discussion board post, after all.  I did it without stressing out about it this time.
 
 ---
-File update test mark.
-
----
 Pantelic, J.  Liu, S.  Pistore, L.  Licina, D.  Vannucci, M.  Sadrizadeh, S.  Ghahramani, A.  Gilligan, B.  Sternberg, E.  Kamschroer, K.  Schiavon, S.  (2020, Mar.)  Personal CO 2 cloud: laboratory measurements of metabolic CO 2 inhalation zone concentration and dispersion in a typical office desk setting.  *Journal of Exposure Science & Environmental Epidemiology*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/31636369/.
 
 Included for interest.
