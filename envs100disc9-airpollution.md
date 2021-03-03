@@ -65,10 +65,15 @@ Artificial trees use microalgae to process the air that flows past them.  The fi
 I thought as well of HVAC systems, where air is circulated within buildings.  Who has not heard of indoor air pollution?  Business methods researchers of prior years have published about the productivity impacts of poorly ventilated offices[2]; it is known that carbon dioxide accumulates in indoor spaces[3] and can impair productivity if it rises too high[4].  If we have a technology that absorbs carbon dioxide with special fervor and capability, why not begin to build it into our society where it will make life more pleasant and productive by building it into our structures as well?  Doing that will help society to absorb carbon at the points where it is being generated.  Furthermore, it should work even better with the living tree technology, because the HVAC system provides a controlled environment with forced air circulation, and the surface area of the algae-air exchanges can be thus arranged to intercept a predictable wind.  That should make them even more effective at absorbing indoor carbon dioxide than they are for absorbing outdoor carbon dioxide, although they would need electricity to supply light for photosynthesis.
 
 In coming up with fantasies and proposals as I do, I can't help but notice that there's something *stuck* about the engineering abilities of modern societies.  We built so much, but now we keep building the same things over and over again.  The amount of metal-working involved in engineering a garden of artificial plants atop the roof of a building is not large compared to the amount of metal-working involved in engineering the rest of the building.  If we have such problems with atmospheric regulation, and we certainly do, why do we not build countless great novelties in answer to it?  Have we reached such a limit of aesthetics that we can we find no room for greater beauty in changing the look of our cities?  A steel civilization could yet be greener than ours!
+
 Citations:
+
 [1]  Dormehl, L.  (2019, Aug 16.)  "Artificial tree promises to suck up as much air pollution as a small forest".  *Digital Trends*.  Retrieved 2021-3-2 from https://www.digitaltrends.com/cool-tech/biomitech-artificial-tree/.
+
 [2]  Wyon, DP.  (2003, Dec 31.)  The effects of indoor air quality on performance and productivity.  *Indoor Air*.  Retrieved 2021-3-2 from https://europepmc.org/article/med/15330777.
+
 [3]  Washington State University.  (2013.)  "Measuring Carbon Dioxide Inside Buildings - Why is it Important?"  Retrieved 2021-3-2 from https://www.theboc.info/pdf/Article-Measuring_CO2_Inside_Buildings-Jan2013.pdf.
+
 [4]  Seppänen, O.A.  Fisk, W.J.  Mendell, M.J.  (1999, Dec.)  Association of ventilation rates and CO2 concentrations with health and other responses in commercial and institutional buildings.  *Indoor Air*.  Retrieved 2021-3-2 from https://pubmed.ncbi.nlm.nih.gov/10649857/.
 
 ---
