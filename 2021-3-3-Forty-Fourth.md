@@ -1,0 +1,7 @@
+# 2021-3-3-Forty-Fourth
+
+I spent a lot of my childhood suffering what I've usually thought of as "liminal nausea".  I wasn't fully nauseated.  I wasn't *really* about to throw up.  I just felt like that, but less so.  All day, most days.  I spent a lot of time green around the gills.  I rarely threw up, though sometimes it was a great relief if I did; the liminal nausea would go away for a while when that happened.  Everything I did, I had to do through a bit of nausea, and so I spent my childhood trying to ignore a pall of unwellness.
+
+The frequency of "liminal nausea" eventually went down, but I never totally grew out of this symptom.  I'm thinking about it today, because I woke up in that state.  It's strange to say this, but I don't really feel like I got healthier when it went away.  I feel like I lost something in clarity of mind, which I get back for a few hours or as much as a day or two when "liminal nausea" returns.  I feel like that was... somehow...  as close to a healthy state as I've ever had.
+
+In labeling it as a seemingly healthy state, I don't mean to imply that I ever enjoyed feeling that way.  I was born overweight and I have never not been overweight, but part of what contributed to my weight going ever-upwards was my discovery that I could drive away the liminal nausea by eating a large meal.  My reaction to that discovery was to eat more and lean into hunger.  "Liminal nausea" was something that I didn't want to feel.
