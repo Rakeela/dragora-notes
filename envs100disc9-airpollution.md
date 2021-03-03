@@ -31,3 +31,5 @@ In coming up with fantasies and proposals as I do, I can't help but notice that 
 
 ---
 Hum hum, soaring rhetoric, I suppose that really is my thing.
+
+Let's see...  Business science research about indoor air pollution would help, here.  I *have* read it, I'm almost certain, but let's see if I can locate it outside of the Akashic Records just to be sure.
