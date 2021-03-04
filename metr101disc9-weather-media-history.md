@@ -31,3 +31,23 @@ This looks fun.  It talks about how a climate shift may have changed religious p
 
 ...got it!  Retrieval link added to source.
 
+I am not succeeding at getting my brain wired to this material.  Hedonic hierarchy conflict.  I don't like thinking about ancient people as people who actually existed.  My brain angles off the existential horror and fixates on strategy games instead.  This preserves positive emotional experience, but presently at the expense of my efforts to visualize shifts in available resources caused by climate fluctuations.  Why might El Niño have caused a shift in power favoring the construction of massive temples?  There's usually some logic to human affairs, faulty though it be.
+
+Was it flooding?  Did other structures wash away?  Yet that feels absurd; massive floods do not happen every day.  Was it a need for raised storage?
+
+---
+Park, W.  (2016, Aug 11.)  "A lost temple could teach us about how modern society is structured."  *BBC Future*.  Retrieved 3-3-3 from https://www.bbc.com/future/article/20160808-a-lost-temple-holds-the-secrets-to-the-origins-of-authority.
+
+This is a Peruvian temple thought to have been first occupied five thousand years ago.  It is from about two hundred years before the period of monumental temple dominance ended.
+
+(Quoted from Source)
+“Chavin was built in a risky spot, in a highly flood-prone location,” explains John Rick, associate professor of anthropology, Stanford. “They were aware of the risk of floods and they built towards these risks and not away from them. The monumentality was not only to impress visitors but also to tell them that the creators were capable of challenging nature successfully. And they did very well with it.”
+
+People looked to the priests to help them challenge nature.  The most long-lived of the monumental temple communities were the ones that did the most earthmoving to stabilize the landscape of the community so that weather fluctuations wouldn't ruin lives.
+
+(Quoted from Source)
+There’s evidence that visitors from far away came here – objects brought here from at least 500km (310 miles), “which at the time would be an extraordinary distance to travel,” says Rick. “This leads us to think the people that came here were important figures. This was a cult for the secondary elite who were now emerging and for whom Chavin fit very well in their world view.”
+
+(Quotation Continues)
+Visitors would be asked for contributions of labour to show their commitment to the cult. Local leaders would bring expert workers with them who could help to construct these intricate temples. There’s evidence of exquisite pottery and stone work from far away. In return, only the leaders would be permitted to enter the temple. The more important you were, or the more you could offer the cult, the further into the temple you could pass in a kind of initiation ceremony. By doing so, they were committing themselves to the cult, and being touched by the god-like powers of the priests. “This was a conspiracy, you could almost say, of people working in league with each other and Chavin impressed them.”
+
