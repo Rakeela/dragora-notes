@@ -83,6 +83,21 @@ I'm not synched with this topic yet, but I'm closer.
 "Weather has always shaped history.  Although little survives of their specific practices..."   Perhaps that right there summarizes what discontents me about this project.  I need to know more about the faith to make this beautiful.
 
 ---
+Quilter, J.  (1991, Dec.)  Late Preceramic Peru.  *Journal of World Prehistory*.  Retrieved 2021-3-4.
+
+This looks tasty.  It talks about Huaca Prieta, a fishing village occupied between 5,000 BC and 4,000 BC.    They fished, they farmed, they made textiles and other crafts.  Overall, I'm surprised by how sophisticated such a society sounds, despite its lack of texts and ceramics.  There's speculation here that eating the abundant mollusks of the area may have served as the foundation of Peruvian civilization, as opposed to the more common grain agriculture technologies which were foundational in other regions.  Huh.  Imagining having mollusks at every meal.  Although it does technically say fish and mollusks, and later in the food economy section appears to re-emphasize that this meant fish rather than mollusks specifically.
+
+In the environmental background section, it mentions that the diversity of environments available to the Andean settlers gave them many opportunities.  Different bands of environment were next to each other.  I can imagine that this would have promoted a swifter, earlier increase in the sophistication of society, due to having different lifestyle adaptations in proximity to each other... bit of a flinch moment there, thinking about sick, starving humans trying to learn from each other in a world of maddening privation...
+
+This says they domesticated guinea pigs for a food source.  I suppose that doesn't reveal much about their religion.  I'm getting distracted by minutiae.  It's an interesting general overview that I've dug up.
+
+There's some information here about their architecture, but if I can thereby make inferences to their faith, I'll have to come back when I figure out how.
+
+I feel self-conscious about studying material from which I can only reasonable derive rhetoric.  I cannot use this information.  Alternative perspective:  A notched stone axe dropped in the right place six thousand years ago might have resulted in a text being submitted to a community college course by someone who works too long on these.  How's that for a long-range communication?  ...no, I can't love it.  It's too grim.  So much is learned from graves.  This is definitely someone else's specialty, not mine.  I would probably only come up with strange rebel conjectures, such as proposing that rare luxuries were buried with corpses to associate them with death so that people would not covet the finest goods unduly much.
+
+Claims of association of the local religion with child sacrifice disturbs me as well.  I'm not sure how to use that.  Should I claim that the start of the El Niño cycle lead to the Incan blood sacrifices after a preliterate Peruvian society sought to understand the divine will that caused their arid skies to break open in rain and sunder the land beneath them?
+
+---
 Back to [[metr101]]
 
 (Note to self: Reorganize the author's writing section; it needs to be brought up to date.)
