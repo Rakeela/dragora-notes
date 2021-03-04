@@ -63,6 +63,10 @@ This helps substantiate Peru's special dependency on climate fluctuations.  An a
 ---
 Do I know enough about this subject to write about how Peru's ancient society may have developed around a leadership-model invoking long-term challenge against the weather?  Convincing the people to not build huts on the most obviously unstable hills would have been a life-saving public service in that era.
 
+Maybe I should look up how hill stability can be evaluated.  If I really wanted to give this scholarly power (which I don't; it's a discussion post), I could try to correlate the temple sites with flood and mudslide risk maps.  That would be going too far for this application, but showing a means of hill stability evaluation may help.
+
+I'm not sure what this needs to become something I'd be excited to draft; I think I may even change my mind about the topic.
+
 ---
 Back to [[metr101]]
 
