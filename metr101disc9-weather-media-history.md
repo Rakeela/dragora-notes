@@ -68,6 +68,21 @@ Maybe I should look up how hill stability can be evaluated.  If I really wanted 
 I'm not sure what this needs to become something I'd be excited to draft; I think I may even change my mind about the topic.
 
 ---
+It appears that the period of monumental temple dominance in ancient Peru is formally included in the span of time classified as 'Period 5' in Peruvian history.  It was a preceramic culture known as Lauricocha III.  Thousands of years of preceramic humans...  They had stone and adobe brick architecture already, but no pottery.  What does it take to invent pottery?  You have to shape clay into a form, then burn it until it stays that way.
+
+I got this detail off of Wikipedia.  Not worth citing...  Not enough of an understanding to write about.  How do I speak confidently about something that ancient?
+
+---
+I found another source talking about the temples as potentially pertaining to ancient long-term droughts in the area.  So the Peruvian landscape was dominated by droughts interspersed with destabilizing amounts of precipitation?  I understand why humans died there, but I'm confused why humans lived there.
+
+---
+"I believe that weather is a conquerable force, and in our skill at dealing with it, we have come far."  -  Should I use this rhetorical angle for approaching the Peru topic?  It kind of matches my attitude as a weather controller.  I see weather as something that *can* destroy civilization and *has* destroyed civilizations, but which civilizations *can* withstand and *have* withstood.  Moreover, I see it as something that technology eventually tames and masters.  Sometimes I get frustrated at how uncontrollable the weather is perceived to be, because I feel like I have such a better sense of humus than most people...  Civ VI's new concept of Preserve districts matches a kind of productivity that makes sense to me, but not one found historically.  Historic humans seem to have consumed the landscape pretty recklessly instead.  Tch...  Ah well...  I suppose at least the grove lets me fantasize about a better world.  Rhetorically, I can tell *specifically* that I need to ditch the 'we have come far' line here, because its good resonance has a distracting association.
+
+I'm not synched with this topic yet, but I'm closer.
+
+"Weather has always shaped history.  Although little survives of their specific practices..."   Perhaps that right there summarizes what discontents me about this project.  I need to know more about the faith to make this beautiful.
+
+---
 Back to [[metr101]]
 
 (Note to self: Reorganize the author's writing section; it needs to be brought up to date.)
