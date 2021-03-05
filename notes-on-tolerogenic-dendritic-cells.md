@@ -200,6 +200,16 @@ This is the link that Tiltwolf gave me for a protocol on generating HLA-1 knocko
 
 I feel like what I need to do here is reflective grunt work.  Just as it's been a useful exercise to transcribe parts of other works (such as when I transcribed [[further-reading-from-the-ethical-slut]]), I should transcribe pieces of protocol to create a step-by-step description of how to produce the mutant cell population of dendritic cells without HLA-1.  I'm struggling with a predominantly psychological barrier.  It doesn't feel like "real work" to copy bits of two other protocols into a new synthetic form with a different outcome, and I don't know how to make doing it feel like "real work" that needs to be done.  So I'm sitting on it and being frustrated at myself.
 
+...my vocabulary is imperfect to this work.  I "can" read the material... but it might be important to admit that I can read it only with difficulty.  I think I would gain a lot of fluency if I could have a worksheet of the terms.  Give definitions with a blank, so I could fill in the label on them.  I like doing assignments of that kind, although I know also that I can gain fluency by pushing myself to continued study.
+
+(Quoted from Source)
+As advanced options for HLA matching in allogeneic settings, two strategies were explored. First, we generated HLA class I pseudo-homozygous iPSCs from HLA heterozygous donors by allele-specific genome editing to reduce the number of donors needed. Second, given the pivotal role of HLA-C for suppressing NK cells, we deleted HLA-A and HLA-B biallelically and retained a single haplotype of HLA-C to generate HLA-C-retained iPSCs (also preserving non-canonical HLA-E, -F, and -G), which greatly expand donor compatibility. In both cases, the cells were capable of suppressing T and NK cell activity while retaining HLA expression and antigen presentation to a certain extent. Moreover, this strategy can be combined with HLA class II depletion by a targeted KO of class II major histocompatibility complex transactivator (CIITA), if necessary.
+
+"While retaining HLA expression" is potentially troubling.  "While retaining antigen presentation" is potentially key.  Part of what's exciting about the experimental variation I've proposed on this research, is that I can approach the unknown in experimentation.  I want to do something whose results I cannot clearly predict from available research, in the hopes of improving the predictive power of future research.
+
+---
+
+
 ---
 Back to [[authors-nonfiction]]
 
