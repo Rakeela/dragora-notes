@@ -97,6 +97,24 @@ I feel self-conscious about studying material from which I can only reasonable d
 
 Claims of association of the local religion with child sacrifice disturbs me as well.  I'm not sure how to use that.  Should I claim that the start of the El Niño cycle lead to the Incan blood sacrifices after a preliterate Peruvian society sought to understand the divine will that caused their arid skies to break open in rain and sunder the land beneath them?
 
+I've spent a lot of time on this, and I still feel like I'm pretty far from a complete product.  I pretty much have to use this material, at this point, but I can potentially use a conversational discussion post that talks about what I felt inspired to look up, while talking about my uncertainties rather than my confidences.
+
+There is discussion speculating the nature of religious activity here.  It involved sitting around a ceremonial hearth, making offerings to the fire.  I find myself wondering if we should really understand this as religious.  What if that was a social activity, and we're looking at social spaces as though they were sacred spaces?  What if these were organizational sites for leadership with particular gathering customs?  Maybe the particular ceremonial rooms were eventually sealed up, because the particular leading groups were dissolved, or bad blood rose up between them and tarred all memory of particular rooms?  Some people weep when they see the site of tragedy; were such a person in leadership today, a quite modern group might occasionally replace a room 'unnecessarily' to soothe their feelings.  Would we know any different had the sites been schools of a kind predating writing?  ...hm, and now I am imagining a tradition of child sacrifice arising to terrify school pupils into obedience...  My imagination can be a terrible place.
+
+There is mention of small, crude figurines, and miscellaneous objects of unbaked clay.  This says: sacraments.  My thought: instruction props?  There's much made here of symbolic thought... and I don't understand the shicra system that it describes...  There's so much here to study.
+
+(Quoted from source)
+Large pueblos in New Mexico and Arizona might easily be viewed as "monumental architecture" requiring highly organized social systems to build and maintain them if ethnographic sources were not available to tell us toherwise.  When hierarchy is indeed manifest in later pre-history, "temple burial" was less important than temple expansion and associated ideological concepts may have shifted from maintenance and renewal to growth and development."
+
+The idea of these ancient cultures focusing on maintenance and renewal is...  horrific to me.  For how many centuries did they seek not to improve their way of life, but merely to continue it?  They were content to live and die unchanging?  Had the weather not changed this society, would it ever have changed at all?
+
+---
+Draftlet
+When I think about the weather, my mind goes towards regional climates.  I think about the poorly managed terrains that can become poisoned or dried up; I imagine cities, so much like stone deserts themselves, hard and radiating heat.  I think about the strength of old constructions on Earth, built with primitive methods, or rather I think about their weakness; I think about how often they were destroyed by the turning of the weather short- or long-term.  When I think of weather's influence on history, I confess it is to me a thought of death, and of all the people who've died in prior human societies.  Well, I know a tale of a lost society in South America, and I thought I might look it up to see if I could present a macabre tale of a climate fluctuation coinciding with European visitors in a way that made epidemics worse in the area.
+
+Looking for that, I stumbled upon something instead.  I found what might be a stranger fluctuation in history from the weather in South America.  Peruvian civilization stretches very far back in time, and there are indications that their society's religion may have fluctuated in the late preceramics period as a result of ENSO shifts.  Their priests challenged nature in Peru, where the climate is often harsh and dry, and precipitation from El Niño is unexpected enough to cause flooding, crop damage, and mudslides.
+
+
 ---
 Back to [[metr101]]
 
