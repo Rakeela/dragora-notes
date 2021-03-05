@@ -1,0 +1,5 @@
+# 2021-3-5-Forty-Fifth
+
+The Survivor's Guide arrived!  I'm not usually awaiting a book like this.  Although looking at it, right now, before opening it...  I'm pretty sure it won't have anything direct to tell me.  It can't do anything about the species boundary.  It can't make me fundamentally not *disinterested* in humans.
+
+I was thinking about that as I walked through the rain to the postbox where I picked up the delivery.  I've no interest in sex with humans.  Years ago, the furry community's obligate universal interspecies connectivity gave me the impression that it wasn't *acceptable* to be disinterested in sex outside of my species.  I tried to loose my boundaries of species to match.  It didn't work.  I'm more attracted to various animals than I am to humans, and it's not actually because I'm very attracted to various animals.  Humans are just ugly.  You're missing key basic features.
