@@ -207,6 +207,12 @@ As advanced options for HLA matching in allogeneic settings, two strategies were
 
 "While retaining HLA expression" is potentially troubling.  "While retaining antigen presentation" is potentially key.  Part of what's exciting about the experimental variation I've proposed on this research, is that I can approach the unknown in experimentation.  I want to do something whose results I cannot clearly predict from available research, in the hopes of improving the predictive power of future research.
 
+(Quoted from Source)
+Following gRNA transfection, IFN-g treatment and HLA-A2 sorting of iPSCs, we analyzed genomic DNA by Sanger sequencing and found that 100% (16/16 clones) of sorted cells harbored indels, whereas only 47.6% (10/21 clones) of the non-sorted bulk population contained indels. We also found no off-target mutations in the non-targeted HLA-A32 allele (19 clones), which have 3 bp mismatches in the gRNA sequence (Figure 1F).
+
+What are indels?  Looking it up, it's the molecular biology term for insertions or deletions of bases in the genome.  INsertions or DELetions.  I don't think I like this term, but whatever.  This section is titled "Enrichment of HLA-Edited Cells by IFN-gamma Treatment and Sorting", and it starts with the string, "To identify successful KO clones," which suggests that it's a verification step.  This is a particular section that I'm finding difficult to read.
+
+
 ---
 
 
