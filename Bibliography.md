@@ -54,23 +54,27 @@ Sections;
    5) [[No-Plot-No-Problem]]
    6) [[The-Ethical-Slut]]
 
-5) "Comedy" (I am not the biggest fan)
+5) Putative Nonfiction
+   1) [[A-Million-Little-Pieces]]
+   2) [[TRANCE-Formation-of-America]]
+
+6) "Comedy" (I am not the biggest fan)
 (I've certainly read some of these, but I'm in no hurry to list them.)
 
-5) Mythology
+7) Mythology
    1) [[The-Bible]]
    2) [[Oahspe]]
    3) [[Egyptian-Revenge-Spells]]
    4) 
 
-6) Visual Novels
+8) Visual Novels
    1) [[Slightly-Damned]]
    2) [[Miss-Kobayashi's-Dragon-Maid]]
    3) [[Black Butler]] (only volume 1)
    4) [[Interspecies-Reviewers]] (content advisory)
    5) [[A-Centaur's-Life]] (only volume 1) (I have volumes 1 and 3, but I failed several times while attempting to acquire a copy of volume 2, and then gave up!  Adding it to the list here reminded me of it, and I've ordered another one.  Should arrive without incident this time.)
 
-7) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
+9) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]
    2) [[Nobilis-Second-Edition]]
    3) [[Gamma-World-Player's-Handbook]]
@@ -126,7 +130,7 @@ Sections;
    53) [[Starfinders-Alien-Archive-2]]
    54) [[Earthdawn-Second-Edition]]
 
-8) Writing Advice
+10) Writing Advice
    1) [[No-Plot-No-Problem]]
    2) [[From-Sanctity-to-Sorcery-An-Author's-Guide-to-Building-Belief-Structures-and-Magic-Systems]]
 
