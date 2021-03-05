@@ -212,6 +212,12 @@ Following gRNA transfection, IFN-g treatment and HLA-A2 sorting of iPSCs, we an
 
 What are indels?  Looking it up, it's the molecular biology term for insertions or deletions of bases in the genome.  INsertions or DELetions.  I don't think I like this term, but whatever.  This section is titled "Enrichment of HLA-Edited Cells by IFN-gamma Treatment and Sorting", and it starts with the string, "To identify successful KO clones," which suggests that it's a verification step.  This is a particular section that I'm finding difficult to read.
 
+(Quoted from Source)
+As an alternative to HLA homozygous iPSCs, researchers have been using genome-editing technologies to knock out the b2-microglobulin (B2M) gene. B2M protein forms a heterodimer with HLA class I proteins and is required for HLA class I presen- tation on the cell surface (Gornalusse et al., 2017; Lu et al., 2013; Mandal et al., 2014; Riolobos et al., 2013). Hence, suppression of the B2M gene would prevent an immune response from cyto- toxic CD8+ T cells by depleting all HLA class I molecules (HLA-A, -B, -C, -E, -F, and -G).
+
+This discusses a KO target for the gene editing.  B2M gene KO prevents the formation of HLA class I proteins on the surface of cells.  I'm not sure if that would or would not impair the construction of the peptide binding groove on dendritic cells.  I suspect this would fail to prevent the construction of the relevant self-identifying structure on the dendritic cells, as I believe HLA-2 proteins are specifically the ones being used for the peptide binding groove.  This suggests my entire endeavor would be *particularly* likely to produce nonviable mutant cells.  (As long as I think it would produce *any* cellular population I might still be interested in performing the experiment just to see what happens.)  Yet this also suggests an alternative avenue for my research, which is to study the construction of the peptide binding groove in more detail, to see if I can likewise knock out something that it depends upon in the way that cells rely upon B2M proteins for presenting HLA class I proteins on their surface.  Furthermore, depletion of HLA class I molecules may still be of interest to the final product, as these are (to my current inadequate understanding) self-identifying structures common to *all* cells.
+
+I still haven't fully grasped this source.  I'm not sure whether to continue studying it, or if I should break away and dig for sources by which I can study the molecular biology of the dendritic cell surface proteins.
 
 ---
 
