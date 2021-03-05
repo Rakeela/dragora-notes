@@ -1,4 +1,4 @@
-# 2021-3-5-Forty-Fifth
+# 2021-3-4-Forty-Fifth
 
 The Survivor's Guide arrived!  I'm not usually awaiting a book like this.  Although looking at it, right now, before opening it...  I'm pretty sure it won't have anything direct to tell me.  It can't do anything about the species boundary.  It can't make me fundamentally not *disinterested* in humans.
 
@@ -24,6 +24,9 @@ I'm not sure how long this book will sit around in my workspaces.  It's not as t
 You didn't get hurt alone, and you can't heal alone.  Support is essential to any healing process.  Isolation plays a key role in childhood sexual abuse.  Most children never tell what is happening to them, and many who do tell are not believed or given adequate support.  Adult survivors tend to continue to live in isolation.  Coming out of isolation means coming into relationships.  This, in and of itself, is a part of healing sexually.
 
 It seems like a lot of people in society could benefit from that.
+
+---
+Sorry about the date update.  I wrote this yesterday, and incorrectly dated it to the fifth.
 
 ---
 Back to [[day-post-archive]]
