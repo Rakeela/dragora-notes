@@ -33,4 +33,9 @@ Lately, I've been having good luck with multitasking for hedonic support, and I'
 I confirmed last night that I couldn't multitask mathematics and exercise effectively (at least with my current skill level at both tasks), but I've confirmed to myself several times that I can multitask strategy games and exercise.  I'm going to see if I can multitask a strategy game with math homework.  I think that achieving a math synergy requires serenity which strategy games are good at supporting, so I'm hopeful of success.
 
 ---
+There may be something to the concept of a panarchic work ethic, but I'm still not sure.  I think my productivity is still poor overall.  The thing that makes me valuable as a person is the angle of my productivity, not the velocity of it.
+
+I think I'll need three monitors to effectively multitask The Viceroy with math homework.  The Viceroy needs one monitor; mathematics is easier with two.  If I had three monitors at my workstation, I would have enough screens to make no compromises at my present skill level.  Unfortunately, I don't know how to mount three monitors in a workspace.
+
+---
 Back to [[day-post-archive]]
