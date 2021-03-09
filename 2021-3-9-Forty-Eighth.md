@@ -46,5 +46,17 @@ Other notes...  Z-score counts standard deviations.  If something has a Z-score 
 
 I refer to my specific class notes files less than I refer to my daylogs, so far.  I'm unsure what that should imply for the way I organize information in this archive.
 
+(Scratch)
+
+
+---
+My name was eaten; it is not to be seen.  Did we forget that could happen in the real?
+
+---
+This game's soundtrack is not ideally helpful for this multitasking.
+
+---
+I think I was even smarter than I am today, at one point in my youth.  My early life was hideously stressful, so I'm not surprised that I lost something to that, but...  I wonder what happened, neurologically.  I wonder what specific processes were involved, and if that bit of entropy can be pushed back.  I would really like to be able to visualize more complex shapes again.  Like, the *really* complex ones.
+
 ---
 Back to [[day-post-archive]]
