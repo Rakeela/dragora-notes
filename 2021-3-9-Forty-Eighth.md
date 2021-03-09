@@ -42,5 +42,9 @@ I think I'll need three monitors to effectively multitask The Viceroy with math 
 
 I'm putting a sample equation for this on a labeled index card that I use as a book mark.
 
+Other notes...  Z-score counts standard deviations.  If something has a Z-score of 2.2, it is 2.2 standard deviations higher than the observed mean.  If something has a Z-score of -0.4, it is -0.4 standard deviations lower than the observed mean.
+
+I refer to my specific class notes files less than I refer to my daylogs, so far.  I'm unsure what that should imply for the way I organize information in this archive.
+
 ---
 Back to [[day-post-archive]]
