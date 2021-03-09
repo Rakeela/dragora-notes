@@ -38,4 +38,9 @@ There may be something to the concept of a panarchic work ethic, but I'm still n
 I think I'll need three monitors to effectively multitask The Viceroy with math homework.  The Viceroy needs one monitor; mathematics is easier with two.  If I had three monitors at my workstation, I would have enough screens to make no compromises at my present skill level.  Unfortunately, I don't know how to mount three monitors in a workspace.
 
 ---
+"To standardize variables, you calculate the mean and standard deviation for a variable.  Then, for each observed value of the variable, you subtract the mean and divide by the standard deviation."
+
+I'm putting a sample equation for this on a labeled index card that I use as a book mark.
+
+---
 Back to [[day-post-archive]]
