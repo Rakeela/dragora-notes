@@ -26,4 +26,11 @@ I've been trying to use yet having trouble remembering this fact today, I'm goin
 "To standardize variables, you calculate the mean and standard deviation for a variable.  Then, for each observed value of the variable, you subtract the mean and divide by the standard deviation."
 
 ---
+I'm still having morale problems right now.  I think that's why my ability to actuate the information I'm taking in by studying is being limited.
+
+Lately, I've been having good luck with multitasking for hedonic support, and I'm therefore going to load up The Viceroy on one monitor, while having my assignment on the other.
+
+I confirmed last night that I couldn't multitask mathematics and exercise effectively (at least with my current skill level at both tasks), but I've confirmed to myself several times that I can multitask strategy games and exercise.  I'm going to see if I can multitask a strategy game with math homework.  I think that achieving a math synergy requires serenity which strategy games are good at supporting, so I'm hopeful of success.
+
+---
 Back to [[day-post-archive]]
