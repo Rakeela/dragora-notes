@@ -26,6 +26,7 @@ You didn't get hurt alone, and you can't heal alone.  Support is essential to an
 It seems like a lot of people in society could benefit from that.
 
 ---
+(Authored 2021-3-5.)
 Sorry about the date update.  I wrote this yesterday, and incorrectly dated it to the fifth.
 
 ---
