@@ -1,2 +1,0 @@
-# Mr. Popper's Penguins
-
