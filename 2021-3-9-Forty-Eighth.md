@@ -58,5 +58,7 @@ This game's soundtrack is not ideally helpful for this multitasking.
 ---
 I think I was even smarter than I am today, at one point in my youth.  My early life was hideously stressful, so I'm not surprised that I lost something to that, but...  I wonder what happened, neurologically.  I wonder what specific processes were involved, and if that bit of entropy can be pushed back.  I would really like to be able to visualize more complex shapes again.  Like, the *really* complex ones.
 
+Would formal study of topography help?  I think playing Hyper-Rogue may have already helped (somewhat, though I have not yet found the holy grail), but I've gotten the impression that people generally *learn* to do that kind of thing.
+
 ---
 Back to [[day-post-archive]]
