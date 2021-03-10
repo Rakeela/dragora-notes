@@ -20,3 +20,7 @@ Thinking of this as four essay questions instead of one essay prompt, I suppose 
 Question 1
 
 I need to pull this in to the small and personal.  Significant wildfires, for instance, are something which has in the past directly impacted my life.
+
+The mention of 'food' in the prompt is interesting.  How does air pollution affect food?  The four-questions presentation makes me reluctant to research this.
+
+I know that air pollution dampened my appreciation of the area where I grew up.  The forests were beautiful, but when all the air had the Staley's Stench, I wasn't impressed by assurances that the pollution in the air was produced by food processing facilities producing harmless volatiles, and was therefore safe to breathe.  I found that hard to believe.  Worse, it wasn't fun.  The industrial funk hanging in the air made an oppressive environment worse.  Fortunately, that environment will never bother me again.  Unfortunately, I can't use it for this essay.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-10-Forty-Ninth.md",
+            "file": "metr101disc10-Air-Pollution.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-10-Forty-Ninth.md",
+                "file": "metr101disc10-Air-Pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "metr101disc10-Air-Pollution.md",
     "Untitled.md",
     "Videogame-Wishlist.md",
     "mr-poppers-penguins.md",
@@ -94,7 +95,6 @@
     "todo.md",
     "2021-3-9-Forty-Eighth.md",
     "2020-11-23-third.md",
-    "2020-11-20-second.md",
-    "2020-11-19-First.md"
+    "2020-11-20-second.md"
   ]
 }
