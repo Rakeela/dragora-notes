@@ -1,0 +1,7 @@
+#2021-3-11-Fiftieth
+
+This is the earliest day in which the first of my order of dendritic cell textbooks might arrive.  I want to say I'm hyped.  Better to say I'm attentive.  I do want to read it very badly, but in general the idea of doing anything good for the world feels incomprehensible today.
+
+Today, I want justice!  And I won't get it.  Like every other day in which I want justice.  The idea of valuing honesty and opposing obscurantism is treated as "superheroism" and "unrealistic utopianism", despite being the foundation of all modern society.  The idea of doing what we already know to work should not be "superheroic", just... normal.  We resist evil, because not doing so is ludicrously stupid and unsustainable, and the human species collectively tried not resisting evil for thousands of years already, only to burst forward with new vitality on every short interval of the defense of rights.
+
+Yet we keep backsliding.  The people who argue that doing the right thing is "unrealistic" keep landing in power despite the fact that they're basically worthless for the role.  That's historically forgivable, as previous societies didn't know what they didn't know, but now humanity is technologically advanced enough that we should understand factually that those who tell "necessary" lies are not competent leaders.
