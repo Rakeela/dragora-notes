@@ -7,7 +7,11 @@ Today, I want justice!  And I won't get it.  Like every other day in which I wan
 Yet we keep backsliding.  The people who argue that doing the right thing is "unrealistic" keep landing in power despite the fact that they're basically worthless for the role.  That's historically forgivable, as previous societies didn't know what they didn't know, but now humanity is technologically advanced enough that we should understand factually that those who tell "necessary" lies are not competent leaders.
 
 ---
-
 I talked about politics at length today with Kistaro.  We disagree about a bunch of stuff, but we have interesting disagreements.  We expect each other to be intelligent and well-motivated in the matter of politics and society, so there's no hurled abuse involved.  Sometimes we persuade each other of things.
 
-I can't say the conversation made me happy, but it made my day suck less.  I appreciate it.
+I can't say the conversation made me happy, but it made my day suck less.  I appreciate it, although I'm kind of horrified by the idea of trying to solve the problems of a species that is 60% incapable of algebra.
+
+---
+I'm doing the Concepts and Tools assignment for meteorology on the day it's due, again.  I learn more from the assigned work than from the lessons, but I have so many other things that I want to do, that I rarely work ahead.
+
+This is conventionally "a bad habit", yet it seems to work well enough for me that I think if public schooling had been less willing and able to enforce my paying attention to each specific class in assigned sequence, I would've had much better results in public schooling.  If schools assigned work that was intended to be completed during the school sessions themselves, while making the actual lessons a matter of optional attendance, I think that would work better from an early age.
