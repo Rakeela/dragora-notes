@@ -5,3 +5,9 @@ This is the earliest day in which the first of my order of dendritic cell textbo
 Today, I want justice!  And I won't get it.  Like every other day in which I want justice.  The idea of valuing honesty and opposing obscurantism is treated as "superheroism" and "unrealistic utopianism", despite being the foundation of all modern society.  The idea of doing what we already know to work should not be "superheroic", just... normal.  We resist evil, because not doing so is ludicrously stupid and unsustainable, and the human species collectively tried not resisting evil for thousands of years already, only to burst forward with new vitality on every short interval of the defense of rights.
 
 Yet we keep backsliding.  The people who argue that doing the right thing is "unrealistic" keep landing in power despite the fact that they're basically worthless for the role.  That's historically forgivable, as previous societies didn't know what they didn't know, but now humanity is technologically advanced enough that we should understand factually that those who tell "necessary" lies are not competent leaders.
+
+---
+
+I talked about politics at length today with Kistaro.  We disagree about a bunch of stuff, but we have interesting disagreements.  We expect each other to be intelligent and well-motivated in the matter of politics and society, so there's no hurled abuse involved.  Sometimes we persuade each other of things.
+
+I can't say the conversation made me happy, but it made my day suck less.  I appreciate it.
