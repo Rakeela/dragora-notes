@@ -71,10 +71,23 @@ I think that humanity is currently stuck in a slump of learned helplessness vis 
 ---
 Question 4
 
+Potential test question:
+One of the potentially dangerous pollution conditions is fumigation spread, where the plume from a smokestack sinks and concentrates at the surface.  What causes fumigation spread from smokestacks?
+A) Sinking air from a high pressure system forces the pollutants from the smokestack downwards
+B) Adiabatic cooling from the rising of the effluvia plume drives the now-cold plume back towards the ground
+C) Unstable air below the smokestack causes vertical motion of the plume, but stable air above the smokestack prevents it from dispersing vertically
+D) The hot, high pressure systems associated with the urban heat island make subsidence inversions frequent in industrial areas
+
 ---
 Assembled:
 
 1.  My husband doesn't like to travel, and I'm not a very outgoing person, so the most prominent way that air pollution is likely to affect my life seems to be that wildfire season may put up a haze.  Perhaps a larger way air pollution would impact my life is that I'm fixated on biotechnology, and I tend in various to think of the atmosphere as a kind of bio-engineering challenge.  Could a new transgenic algae with a faster metabolism make pollution control installations more cost-effective?
 2.  I think that the fate of the climate is going to be similar to the fate of air pollution control issues more generally, and that environmentalism will win both battles or neither.  The primary battleground over environmentalism will be in the deeply impoverished parts of the world.  I suspect that eco-intransigence in the developing world stems from a frustration with the failure of the first world to put its industrialism where its mouth is by producing eco-friendly technologies at prices that permit export to developing markets.  If America had reacted to environmentalism the way it reacted to automobiles (think about just how massive the highway system is), we'd have made much more drastic progress, but our nation appears to have insisted on a high-cost image-obsessed 'bespoke' environmentalism rather than engaging in industrial retooling for low-cost mass production of eco-friendly technologies.
 3.  I think that humanity is currently stuck in a slump of learned helplessness vis a vis the task of environmental regulation.  It's true that we need to reconstruct a dispiritingly large amount of infrastructure to reduce emissions, but it's also true that America has had persistent unemployment for the last decade.  What happened to the awesome public spirit that powered radical changes in past societies?  I think we're going to find a way to get that spirit back, and this time we're going to be driving back pollution instead of creating it.
-4.  
+4.  Test question proposal:  One of the potentially dangerous pollution conditions is fumigation spread, where the plume from a smokestack sinks and concentrates at the surface.  What causes fumigation spread from smokestacks?
+	1.  A) Downdrafts from stormy weather drive the plume of the smokestack towards the ground
+	2.  B) Adiabatic cooling from the rising of the effluvia plume drives the now-cold plume back towards the ground
+	3.  C) Unstable air below the smokestack causes vertical motion of the plume, but stable air above the smokestack prevents it from dispersing vertically
+	4.  D) The hot, high pressure systems associated with the urban heat island make subsidence inversions frequent in industrial areas
+
+The correct answer is C!  Storms generally disperse pollutants, adiabatic cooling doesn't work like that, and urban heat islands are persistent/recurrent low pressure systems, not high pressure system.
