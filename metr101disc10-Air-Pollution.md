@@ -41,8 +41,13 @@ Fundamentally, I believe in human industry.  I think it's absurd to think that a
 
 Admittedly, people aren't usually keen on adopting massive new architectural investments.  Eh...  it'd be kind of sad if "conservative architecture" was the social force that killed humanity...  I hope that's not the great filter itself.  Do societies that are overextending their resource base tend to get tied into the design patterns which animate their most massive investments, creating a well of change-resistance which destroys civilizations?  I find that disconcertingly easy to imagine, but that's more in the category of [[existential-threat]].  I can't use that here.
 
+Hah!  The most straightforward way air pollution is going to affect my life going forward is that I'm going to keep thinking about it!
+
+(Draft)
+My husband doesn't like to travel, and I'm not a very outgoing person, so the most prominent way that air pollution is likely to affect my life seems to be that wildfire season may put up a haze.  Perhaps a larger way air pollution would impact my life is that I'm fixated on biotechnology, and I tend in various to think of the atmosphere as a kind of bio-engineering challenge.  Could a new transgenic algae with a faster metabolism make pollution control installations more cost-effective?
+
 ---
 Question 2
 
 (Draft)
-I think air pollution is going to trend down globally as new methods are invented for dealing with it.  Heavily polluted emerging markets represent cost-efficiency challenges for utility pollution control technologies, the meeting of which challenges will result in even readier adoption by developed markets already accustomed to prioritizing this subject.
+I think air pollution is going to trend down globally as new methods are invented for dealing with it.  Cities are continually looking for better ways to provide services in packed conditions, and better climate controls are a perennial favorite once people have their basic needs met.  I kind of wonder if environmentalism is being a victim of its own success, as the level of effluvia that was common before modern environmental safeguards occasionally set rivers on fire.  Speaking of which, if some public-spirited arson wants to create a bad few days of pollution that are likely to set in motion a good few decades of pollution control, heavily polluted rivers are occasionally flammable and tend to burn memorably.
