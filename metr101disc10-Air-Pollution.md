@@ -34,3 +34,15 @@ Sensors are a hard technology to distribute, much to my dissatisfaction.  My gra
 What does this have to do with air pollution?  Well, it's a form of bad weather, isn't it?  We need to be able to see it.  Hm...  I still don't think I can make any immediate use of this.  In expressing a desire for sensors, I'm expressing an ignorance of the true nature of the problem, which is fine save that my actual ignorance of the problem is such that I also know very little about what sensors would be useful.  How much automated air pollution scanning equipment could reasonably be constructed for adding to new public sensor meshes, and with what resolution would they work?
 
 ...drat it, but I have just linked it right back to biotech.  More than for its health effects, I dream of working with [[xenomitochondria]] so that I can achieve metabolic acceleration factors for essential plantlife.  In this case, since carbon scrubbers are based on algae, [[transgenic-algae]] may be helpful in maximizing their CO2 absorption.
+
+I'm thinking about the rooftop scrubber-garden concept that I described in [[envs100disc9-airpollution]], and its companion worked into HVAC systems.  If those are dramatically superior to natural trees as air scrubbers, I don't think the architecture that I proposed is all that improbable.  I'm imagining these as platforms built in sleek green and white, more abstract sculpture than imitation plantlife; thoroughly unnatural, but evoking the cleansing green by their colors and icons.
+
+Fundamentally, I believe in human industry.  I think it's absurd to think that a society which works so much metal every day can be defeated by problems it could solve by working metal differently.  I'm... not really an environmentalist, but the stuff I think is neat also gets affected by the climate.  So can I write about how I think air pollution is going to change the look of cities?  ...maybe for Question #2.
+
+Admittedly, people aren't usually keen on adopting massive new architectural investments.  Eh...  it'd be kind of sad if "conservative architecture" was the social force that killed humanity...  I hope that's not the great filter itself.  Do societies that are overextending their resource base tend to get tied into the design patterns which animate their most massive investments, creating a well of change-resistance which destroys civilizations?  I find that disconcertingly easy to imagine, but that's more in the category of [[existential-threat]].  I can't use that here.
+
+---
+Question 2
+
+(Draft)
+I think air pollution is going to trend down globally as new methods are invented for dealing with it.  Heavily polluted emerging markets represent cost-efficiency challenges for utility pollution control technologies, the meeting of which challenges will result in even readier adoption by developed markets already accustomed to prioritizing this subject.
