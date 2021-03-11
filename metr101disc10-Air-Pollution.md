@@ -50,7 +50,31 @@ My husband doesn't like to travel, and I'm not a very outgoing person, so the mo
 Question 2
 
 (Draft)
-I think that the fate of the climate is going to be similar to the fate of air pollution control issues more generally, and that environmentalism will win both battles or neither.  The primary battleground over environmentalism will be in the deeply impoverished parts of the world.  I suspect that eco-intransigence in the developing world stems from a frustration with the failure of the first world to put its industrialism where its mouth is by producing cheap green utility exports.  If America had reacted to environmentalism the way it reacted to automobiles (think about just how massive the highway system is), we'd have made much more drastic progress, but our nation appears to have insisted on a high-cost image-obsessed 'bespoke' environmentalism rather than engaging in industrial retooling for low-cost mass production of eco-friendly technologies.
+I think that the fate of the climate is going to be similar to the fate of air pollution control issues more generally, and that environmentalism will win both battles or neither.  The primary battleground over environmentalism will be in the deeply impoverished parts of the world.  I suspect that eco-intransigence in the developing world stems from a frustration with the failure of the first world to put its industrialism where its mouth is by producing eco-friendly technologies at prices that permit export to developing markets.  If America had reacted to environmentalism the way it reacted to automobiles (think about just how massive the highway system is), we'd have made much more drastic progress, but our nation appears to have insisted on a high-cost image-obsessed 'bespoke' environmentalism rather than engaging in industrial retooling for low-cost mass production of eco-friendly technologies.
 
+---
+Question 3
 
+(Draft)
+I think we're going to see more ambitious public infrastructure to deal with the constituents of the atmosphere.  This is our environment, and taking control of the environment is the scientific thing to do.
 
+(Notes on draft)
+...technically, this suffices.  I want to say something about how I believe that humanity is an industrially ambitious species, and how our civilization is defined by its ability to reshape the whole surface of the globe to meet our needs, but I kind of don't and it's kind of not.  I actually believe most of humanity is a kind of suburban trash that is very respectable suburban trash, thank you very much.  They're just kind of...  "good citizens"... and they think the meaning of life is working hard, hating fun, teaching kids to know their place the way they knew their place, and then dying a respectable normal death.  I've gotten the very strong impression that people no longer know how to even *tolerate* awesome new projects.
+
+Ahem, grum grum brumbally:  Don't people know that awesome new endeavors are always intolerably expensive and they never work out?  Anyone who thinks humanity should do anything new is arrogant, too stupid to think about the budgetary math, and ought to learn to shut their mouth, as I've been told by progressives.  God save me should I ever meet a conservative!
+
+I think the very idea of humanity facing a climate crisis speaks to a radical grundification of our industrial potentials.  You'd think factories could only be built by demigods by how harsh people are in reacting to the idea that humanity needs large quantities of any new object.
+
+(Draft 2)
+I think that humanity is currently stuck in a slump of learned helplessness vis a vis the task of environmental regulation.  It's true that we need to reconstruct a lot of infrastructure to reduce emissions, but it's also true that America has had persistent unemployment for the last decade.  What happened to the awesome public spirit that powered radical changes in past societies?  I think we're going to get that spirit back, and this time we're going to be driving back pollution instead of creating it.
+
+---
+Question 4
+
+---
+Assembled:
+
+1.  My husband doesn't like to travel, and I'm not a very outgoing person, so the most prominent way that air pollution is likely to affect my life seems to be that wildfire season may put up a haze.  Perhaps a larger way air pollution would impact my life is that I'm fixated on biotechnology, and I tend in various to think of the atmosphere as a kind of bio-engineering challenge.  Could a new transgenic algae with a faster metabolism make pollution control installations more cost-effective?
+2.  I think that the fate of the climate is going to be similar to the fate of air pollution control issues more generally, and that environmentalism will win both battles or neither.  The primary battleground over environmentalism will be in the deeply impoverished parts of the world.  I suspect that eco-intransigence in the developing world stems from a frustration with the failure of the first world to put its industrialism where its mouth is by producing eco-friendly technologies at prices that permit export to developing markets.  If America had reacted to environmentalism the way it reacted to automobiles (think about just how massive the highway system is), we'd have made much more drastic progress, but our nation appears to have insisted on a high-cost image-obsessed 'bespoke' environmentalism rather than engaging in industrial retooling for low-cost mass production of eco-friendly technologies.
+3.  I think that humanity is currently stuck in a slump of learned helplessness vis a vis the task of environmental regulation.  It's true that we need to reconstruct a dispiritingly large amount of infrastructure to reduce emissions, but it's also true that America has had persistent unemployment for the last decade.  What happened to the awesome public spirit that powered radical changes in past societies?  I think we're going to find a way to get that spirit back, and this time we're going to be driving back pollution instead of creating it.
+4.  
