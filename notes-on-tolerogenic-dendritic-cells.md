@@ -233,7 +233,7 @@ The HLA-F gene is 346 amino acids long.  Is that indicative of what I can replac
 
 As I'm learning to better visualize the peptide binding groove, this is looking harder rather than easier.  The immune system is frustratingly picky about immune matching.  No wonder present experiments focused on autologous dendritic cells...  certainly though, that doesn't mean a transgenic universal donor *wouldn't* be a breakthrough, if it's possible.  I wonder if I could do it as a PHD project.  A doctorate in immunology wasn't in my plans, but there's nothing offensive about the thought of it.
 
-To specify the ideal a little better:  I think a dendritic cell population would be universal if it expressed HLA-2 proteins on its surface membrane only as a result of antigen processing.
+To specify the ideal a little better:  I think a dendritic cell population would be universal if it expressed HLA-2 proteins on its surface membrane only as a result of antigen processing.  This looks like it will be difficult to achieve.
  
 ---
 Back to [[authors-nonfiction]]
