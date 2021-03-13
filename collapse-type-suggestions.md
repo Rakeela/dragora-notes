@@ -41,7 +41,7 @@ Third suggestion:  (Complete?)
 Haunted by Beyonders
 A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of hyperspatial poisoning in this region that the Commonwealth needs to prove it can clean.
 Challenges:
-Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Investment return penalty.)  1
+Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Rate of return penalty.)  1
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  2
 Hyperspace Infections (Stock.  Reproduction penalty.)  3
 Climactic Disruption (Stock.  Biological specialist penalty.)  4
@@ -141,6 +141,22 @@ History of Horrors (Stock.  Influence penalty.)  6
 Spiritually Broken (Stock.  Cultural specialist penalty.)  7
 Restrictive Education (Stock.  Scientific capacity penalty.)  8
 Hyperspace Darkness (Stock.  Happiness penalty.)  9
+Special Features:
+(Unset)
+
+Tenth Suggestion: (Incomplete)
+Locked AI Collective
+This system developed a large base of Panarchic cognitechnologies, and developed a 'perfectly proven' perfect way of life.  The bland repetitiveness that subsequently developed in its cultural products proved the canary in the coalmine for a society in the process of proving itself not to exist.  This society needs help rebooting its research systems... literally.
+Challenges:
+Common Culture (Stock.  Cultural base penalty.)  1
+Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  2
+Logic Locking (The sapient machinery in this district is stuck contemplating an unusual, poorly defined, or extremely theoretical consideration with no likelihood of returning results in definable timelines. Science penalty.)  3
+Eternal Philosophers (Stock.  Bureaucratic penalty.)  4
+Overspecialization  (Stock.  Industrial specialist penalty.)  5
+Paradigm Shift  (Stock.  Rate of return penalty.)  6
+Extreme Family Planning  (Many of the people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  7
+Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industrial specialist penalty.)  8
+Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)
 Special Features:
 (Unset)
 

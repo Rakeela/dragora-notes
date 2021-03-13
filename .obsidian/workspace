@@ -6,7 +6,6 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "1b3ca53712a3fa5c",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "notes-on-tolerogenic-dendritic-cells.md",
     "collapse-type-suggestions.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
     "Untitled.md",
     "2021-3-11-Fiftieth.md",
     "metr101disc10-Air-Pollution.md",
