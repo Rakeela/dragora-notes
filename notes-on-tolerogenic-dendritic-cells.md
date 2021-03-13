@@ -221,6 +221,9 @@ I still haven't fully grasped this source.  I'm not sure whether to continue stu
 
 ---
 I'm ordering a copy of Clinical Immunology, Fifth Edition, and a few other texts on dendritic cells.  I need to keep studying the molecular biology of the dendritic cell surface proteins.
+
+---
+My textbook has arrived, and I've located the section of interest.  I'm trying to study the peptide binding groove chemistry using this textbook.  It's dense with unfamiliar terms, but I've already found something I wonder about.  Could I transpose the coding for a nonfunctional protein structure into the coding for the genes which assemble the peptide binding groove?  If the cell expresses a malformed groove which cannot bind peptide, that /may/ work.  If it's as easy as copying and pasting to get the body to produce a protein in the wrong place, at least.  I bet it's not.  Even if it is, I can't necessarily identify the correct protein.
  
 ---
 Back to [[authors-nonfiction]]
