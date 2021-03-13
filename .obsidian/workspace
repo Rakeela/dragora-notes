@@ -10,18 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-11-Fiftieth.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "018b69a35bf2b1df",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "transgenic-algae.md",
+            "file": "notes-on-tolerogenic-dendritic-cells.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-11-Fiftieth.md",
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +85,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "notes-on-tolerogenic-dendritic-cells.md",
+    "2021-3-11-Fiftieth.md",
     "Untitled.md",
     "metr101disc10-Air-Pollution.md",
     "envs100disc9-airpollution.md",
@@ -103,8 +94,6 @@
     "xenomitochondria.md",
     "transgenic algae.md",
     "mitochondria.md",
-    "Author's Nonfiction.md",
-    "Videogame-Wishlist.md",
-    "mr-poppers-penguins.md"
+    "Author's Nonfiction.md"
   ]
 }

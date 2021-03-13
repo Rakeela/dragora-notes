@@ -235,6 +235,9 @@ As I'm learning to better visualize the peptide binding groove, this is looking 
 
 To specify the ideal a little better:  I think a dendritic cell population would be universal if it expressed HLA-2 proteins on its surface membrane only as a result of antigen processing.  This looks like it will be difficult to achieve.
  
+ ---
+ Do I correctly understand the cellular positioning and biological application of the HLA-2 proteins?  I first imagined the dendritic cell as a kind of carnivorous flower with a toothy mouth of The Peptide Binding Groove, which I now understand is not at all an accurate mental image.  My current imagination of the dendritic cell studs them with peptide binding grooves, some of which are empty and ready to react with potential antigenic surfaces in the intercellular media, and some of which are loaded with peptides ready to present to other immune cells.  I don't know if this mental image is or is not accurate.
+ 
 ---
 Back to [[authors-nonfiction]]
 
