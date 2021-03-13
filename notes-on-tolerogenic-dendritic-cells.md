@@ -224,6 +224,12 @@ I'm ordering a copy of Clinical Immunology, Fifth Edition, and a few other texts
 
 ---
 My textbook has arrived, and I've located the section of interest.  I'm trying to study the peptide binding groove chemistry using this textbook.  It's dense with unfamiliar terms, but I've already found something I wonder about.  Could I transpose the coding for a nonfunctional protein structure into the coding for the genes which assemble the peptide binding groove?  If the cell expresses a malformed groove which cannot bind peptide, that /may/ work.  If it's as easy as copying and pasting to get the body to produce a protein in the wrong place, at least.  I bet it's not.  Even if it is, I can't necessarily identify the correct protein.
+
+I'm eying HLA-F in particular.  HLA-F is not expressed on the surface of most cells, but it is expressed on the cells around the placenta (trophoblasts), on naive immune cells that are replicating in an antigen-specific manner (lymphoblasts), and on stimulated memory T cells.  That last one is particularly of interest to me, since stimulated memory T cells produce antigenic materials, and need to not be attacked by the agitated immune system in their proximity.  Likewise, the immune system has many special resistances to attacking reproductive cells.  If the HLA-F surface expression prevents the immune system from attacking the cells that are expressing it, that might be an avenue which could be pursued for hypoallergenic transplant tissue engineering.
+
+The HLA-F gene is encoded on a telomere of the HLA-A gene locus.  I thought telomeres were nonfunctional partition genes, but this encodes a protein functional in the immune system.  I'd hate to lose this telomere.
+
+The HLA-F gene is 346 amino acids long.  Is that indicative of what I can replace it with?  What's the rule here?
  
 ---
 Back to [[authors-nonfiction]]
