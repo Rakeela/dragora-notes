@@ -238,6 +238,13 @@ To specify the ideal a little better:  I think a dendritic cell population would
  ---
  Do I correctly understand the cellular positioning and biological application of the HLA-2 proteins?  I first imagined the dendritic cell as a kind of carnivorous flower with a toothy mouth of The Peptide Binding Groove, which I now understand is not at all an accurate mental image.  My current imagination of the dendritic cell studs them with peptide binding grooves, some of which are empty and ready to react with potential antigenic surfaces in the intercellular media, and some of which are loaded with peptides ready to present to other immune cells.  I don't know if this mental image is or is not accurate.
  
+ I'm concerned about the possibility that *all* of the HLA-2 proteins on the surface of the dendritic cell may have gotten there via processing peptides for presentation, in which case what is troubling about the interface between the dendritic cells and the 
+
+ ---
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538944/ (Mantegazza, AR.  Magalhaes, JG.  Amigorena, S.  Marks, MS.  (2012, Nov 29.)  Presentation of phagocytosed antigens by MHC class I and II.  *Traffic*.  Retrieved 2021-3-13.)
+ 
+ This talks about the role of phagocytosis in 
+ 
 ---
 Back to [[authors-nonfiction]]
 
