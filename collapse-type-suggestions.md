@@ -112,9 +112,43 @@ Hollowed System (Stock. Base industry penalty.)  6
 Special features:
 (Unset)
 
+Eighth Suggestion: (Incomplete)
+Localist Catastrophe
+Everything that galactic society decided it could afford to ignore in this society turned out to be a worst case scenario, and the local politicians were a gruesome spectrum of incompetent and evil.  Massive breaches of trust have destroyed the regional government, which will now need to be rebuilt.  Specialization is severely impaired in this region, and close attention may be necessary to usefully respecialize the districts.
+Challenges:
+Political Oversight (Stock.  Bureaucratic penalty.)  1
+Brutal Justice (Stock.  Cultural specialist penalty.)  2
+Unscrupulous Society (Stock.  Industrial specialist penalty.)  3
+Overspecialization (Stock.  Industrial specialist penalty.)  4
+Market Collapse (Stock.  Rate of return penalty.)  5
+Industrial Pollution (Stock.  Biological specialist penalty.)  6
+Genetic Stupidity (Stock.  Science capacity penalty.)  7
+System-Wide Quarantine (Stock.  Biological specialist penalty.)  8
+Incompetent Regime (Stock.  Bureaucratic penalty.)  9
+Special Features:
+(Unset)
+
+Ninth Suggestion: (Incomplete)
+Research Conspiracy Aftermath
+This system was recently liberated from a rogue Panarchic government which shielded itself from galactic society's observation using local hyperspace severing, and then used its local population for long-term social experimentation.  Public bleakness under these hopeless conditions increased to such an extreme as to give the system a ruinous infamy; this infamy helped lead to rescue, but may now benefit from repair.
+Challenges:
+Panarchic Wargames (The Panarchy has assigned large contingents of military forces to this planet for training, research, and recreational purposes.  While these are technically allied forces operating lawfully, their presence is both expensive and disruptive, increasing supply and maintenance costs planet-wide.  Upkeep penalty.)  1 
+Scientific Guilds (Stock.  Science capacity penalty.)  2
+Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  3
+Petty Dictator (Stock.  Influence penalty.)  4
+Unscrupulous Society (Stock.  Industrial specialist penalty.)  5
+History of Horrors (Stock.  Influence penalty.)  6
+Spiritually Broken (Stock.  Cultural specialist penalty.)  7
+Restrictive Education (Stock.  Scientific capacity penalty.)  8
+Hyperspace Darkness (Stock.  Happiness penalty.)  9
+Special Features:
+(Unset)
 
 ---
 I may want to start adding cure-tech proposals to each of these.
+
+---
+This is [[existential-threat]] style thinking, and may also deserve some form of shared categorization with those notes.  How can any one organizational structure ever be provably optimal for a sufficiently complex set of information?
 
 ---
 Back to [[The Viceroy]]
