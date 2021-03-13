@@ -243,8 +243,15 @@ To specify the ideal a little better:  I think a dendritic cell population would
  ---
  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538944/ (Mantegazza, AR.  Magalhaes, JG.  Amigorena, S.  Marks, MS.  (2012, Nov 29.)  Presentation of phagocytosed antigens by MHC class I and II.  *Traffic*.  Retrieved 2021-3-13.)
  
- This talks about the role of phagocytosis in 
- 
+ This talks about the role of phagocytosis in filling out the MHC-2 interfaces on a dendritic cell, which I take as evidence favoring my conjecture that dendritic cells 'nibble' on other cells in order to pick up potential antigen proteins for cellular presentation.
+  
+---
+  I read somewhere and need to find it again (or more information of the same kind, or counter-information) that the majority of the peptides presented by cells are of self-antigens.  This suggests that anergizing responses are actually the normal common response, and hostile immunoresponse happens in response to a minority of carried peptides.  I want to create a super-anergizer (the anergizing-specialist dendritic cell) in order to eliminate inappropriately learned responses.  That task is a little harder if anergizing interactions already predominate.
+  
+  I'm also concerned that anergizing-specialist dendritic cells may still 'nibble', and if they should in the process happen to eat any real antigens that the immune system ought to respond to, they'll still try to anergize that response as well.
+  
+  Silver lining, the anergizing-predominant immunoresponse model supports my conjecture that inappropriate autoimmune activation scenarios are based on thermodynamically improbable interactions, which in turn is a favorable indicator for the potential to rejuvenate the immune system.
+  
 ---
 Back to [[authors-nonfiction]]
 
