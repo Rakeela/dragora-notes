@@ -158,7 +158,7 @@ Extreme Family Planning  (Many of the people of this planet are ostensibly not a
 Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industrial specialist penalty.)  8
 Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)
 Special Features:
-(Unset)
+Technical overseers throughout the territory.
 
 ---
 I may want to start adding cure-tech proposals to each of these.
