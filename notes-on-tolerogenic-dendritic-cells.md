@@ -252,6 +252,8 @@ To specify the ideal a little better:  I think a dendritic cell population would
   
   Silver lining, the anergizing-predominant immunoresponse model supports my conjecture that inappropriate autoimmune activation scenarios are based on thermodynamically improbable interactions, which in turn is a favorable indicator for the potential to rejuvenate the immune system.
   
+  Hm.  If there's a way to cloak a cell-eater like a dendritic cell from the immune system, what stopped nature from weaponizing that potential before I ever thought of it?  There are bacteria whose evolutionary priorities would favor such a development, save possibly if it were hyper-competent enough to kill the host every time, which potentiality is not favorable for bacterial evolution.
+  
 ---
 Back to [[authors-nonfiction]]
 

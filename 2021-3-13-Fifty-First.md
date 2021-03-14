@@ -15,3 +15,10 @@ The output of a zero-point energy generator is so low that I wouldn't want to po
 Time and the need to avoid gravitational interactions are the only things that would limit the size of such a structure... so I imagine that it would be threaded all over in every orbit of the galaxy with a low probability of damaging gravitic interactions.  Maybe it could even be used to alter the spin characteristics of a galaxy in a way suitable for creating more space for itself.
 
 Again, foolish thoughts, but I wanted to share them.
+
+---
+Any system that large would have signal insanity problems, wouldn't it?  It has the highest possible light lag issue.  Propagating a single thought across that much computational substrate would take an eon; it would necessarily rely on local sub-processing clusters in order to react to systems at the necessary rate.
+
+Is this the system whose operation is simulated by [[after-the-empire]]?  It can't be; After the Empire assumes the possiblity of superluminal coordination.  *Without* superluminal coordination, the 'complete' consciousness of the ZPE-replicant substrate would be almost unfathomably slow to think.
+
+If I were the sum consciousness of such a system, I would be deeply concerned about evolutionary systems trying to crack my functions at every extrema, due to the much higher testing-and-processing rate of smaller minds.
