@@ -45,5 +45,9 @@ I'm actually kind of scared of people who can arbitrage in that environment, and
 
 ...I didn't say a word about what I was working on, but the first thing Kistaro said to me after "Good morning," was to remind me to take my antidepressants.  Added to the log in the moment!
 
+I can trade on human suffering, when and if trading on human suffering alleviates it.  Part of the appeal of biotechnological advances are their basic alleviation of suffering.  Health is the most shared common resource of all humanity at every level, which is sought for or given by many advances.  Furthermore, we are all subject to the laws of epidemiology and resource exhaustion, whose strictures I desire to relax through research, which research I've even hoped might make space travel easier through resolving deficiencies in mitochondrial metabolism in the biology of organisms in microgravity.  All good causes.
+
+I want to live forever, but I want to leave this world.
+
 ---
 Back to [[day-post-archive]]
