@@ -41,5 +41,9 @@ I wonder what a sci-fi strategy game would be like if it depicted an ecology of 
 
 Bringing it here to a personal log file might be more appropriate than working through it in the essays section...  or am I just failing at what I initially said I'd do, which was to not plan out the essay in this file?  I haven't found the way through my thoughts to what I intended to write the essay on as the "appropriate" subject, so I'm still "off-topic" right now.  I'm stuck striking glancing blows off of my horror at human misery.
 
+I'm actually kind of scared of people who can arbitrage in that environment, and not in a way that doubts their compassion.  This is hurting my ability to think of building an organization capable of influencing global agriculture, which *is* at this point one of my central ambitions.  Being human just looks like it sucks so much, how can I *trade* on that?
+
+...I didn't say a word about what I was working on, but the first thing Kistaro said to me after "Good morning," was to remind me to take my antidepressants.  Added to the log in the moment!
+
 ---
 Back to [[day-post-archive]]
