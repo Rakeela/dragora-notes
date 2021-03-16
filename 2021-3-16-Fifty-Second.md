@@ -4,7 +4,7 @@ I have a new desk!  It's gigantic.  I had to slide my keyboard and mouse over to
 
 ---
 
-My environmental sciences class has an optional essay to fill in for one missed assignment.  It's on ending world hunger.  I think I'll do it.  I like essay assignments.  I skipped one discussion without excuse, so it'll fill in that slot.
+My environmental sciences class has an optional essay to fill in for one missed assignment.  It's on ending world hunger.  I think I'll do it.  I like essay assignments about trying to fix big global issues.  I skipped one discussion without excuse, so it'll fill in that slot.
 
 I don't intend to plan out the essay here in *this* note, but...  World hunger is kind of one of those big hopeless topics.  What is the real problem?  People in backwards conservative societies have lots of unprotected sex, even when life is miserable and bringing children into it is direly unethical.  I am not being bigoted in favor of my own ancestors when I say that, as I would *greatly* prefer my peasant ancestors had been sterilized by ethical concerns.  No sapient should have to suffer the condition of being incarnate on Earth, even in today's era when we have improved so much beyond the imaginations of our ancestors.  It's unconsciable that people reproduced *in* the time of our ancestors.  They must have been completely insane.
 
@@ -21,6 +21,25 @@ Fortunately, I do have another angle, which is that I'm interested in agricultur
 I just wish I felt like curing world hunger today wasn't so much like trying to row a kayak up a waterfall.  We can restabilize at every population level *so far*, but that won't work forever, and the populations that reproduce most have the *least* wealth.  This is one thing that [[The-Viceroy]] reverses in an extraordinary way; it's not the wealthiest human societies that are hypernatalistic, but the human societies that are broken by poverty.  When the least wealthy populations split their wealth generationally, they get *less wealthy still*, which compounds the problem.
 
 Why would any ethical sapience subject their children to that?
+
+---
+Bees are not friendly on the day that they're first met.  This is an aphoristic thought that occurred to me.
+
+While trying to think my way around to biofuels, I ended up thinking about the inherent conflict between the emotional status of bees and the helpful services of the apiary industry.  The first response of many people to bees is dread.  The bee is a loudly buzzing, swiftly flying radiation of potential future pain, and yet somehow this is something that we benefit from in society.
+
+I think this is because bees are comprehensible hazards.  There is a level of fear response to the bee which is rational, reliable, and not harmful of itself, which then is unusually favorable for a fear response.  The risk of the presence of bees is such as can be planned around.  This permits that risk to be traded off against the benefits of the presence of bees.
+
+In the case of bees, this trade-off tends to be positive, as we can discern services that bees provide to the economy and the environment.  We can on that basis eventually discern the rational fear of the absence of bees, because we can find ways that having bees around can be protective.
+
+All of that takes time and thought.  People don't like bees on their first encounter.
+
+---
+
+I wonder what a sci-fi strategy game would be like if it depicted an ecology of alien civilizations interacting with each other in obscure ways that make perfect sense to them in their own perspective, and leads to a chaotic interplay of which ones can engage productively where.  Is that too complex to build?
+
+...biofuels.  I should be trying to trace a route to biofuels.  Or world hunger.  I think I know what's wrong; this is the essential tragedy stress again.  I'm thinking about how bad human society can get in an apparently stable way, with people living their entire lives in those conditions.  I feel like my attitude to how awful I think most of history has been is limiting my ability to think of solutions for the problems which face undeveloped nations.
+
+Bringing it here to a personal log file might be more appropriate than working through it in the essays section...  or am I just failing at what I initially said I'd do, which was to not plan out the essay in this file?  I haven't found the way through my thoughts to what I intended to write the essay on as the "appropriate" subject, so I'm still "off-topic" right now.  I'm stuck striking glancing blows off of my horror at human misery.
 
 ---
 Back to [[day-post-archive]]
