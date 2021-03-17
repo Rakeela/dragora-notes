@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "envs100-World-Hunger.md",
+            "file": "collapse-type-suggestions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "envs100-World-Hunger.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
+    "envs100.md",
     "envs100-World-Hunger.md",
     "2021-3-16-Fifty-Second.md",
-    "envs100.md",
     "envs100-exam-1-study-guide.md",
     "Untitled.md",
     "2021-3-13-Fifty-First.md",
     "notes-on-tolerogenic-dendritic-cells.md",
     "nova-drift.md",
-    "collapse-type-suggestions.md",
     "2021-3-11-Fiftieth.md"
   ]
 }
