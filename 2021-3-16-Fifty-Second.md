@@ -56,5 +56,9 @@ This isn't a helpful source for my environmental sciences essay, but it's someth
 
 I wonder if it would be possible to treat microgravity muscle wasting by producing synthetic antibodies for over-expressed mRNA to cause them to be opsonized and reprocessed by neutrophils...  on the other hand, mRNA is already tiny, so maybe opsonization isn't the correct suppression mechanism.  Still, something may be possible here.  Treatments that increase metabolic performance in orbit would decrease the minimum required athleticism of astronauts.
 
+Suppressing excessive immunoresponse may also be helpful in opening space habitation to the public, if the etiology of the muscular atrophy is partially inflammatory.  Immunosenescence leads to sustained long-term increases in the rate of inflammation in the body.
+
+I feel a little like I'm trying to carry the world solo, but at least I have somewhere that I'm trying to carry it *to*.
+
 ---
 Back to [[day-post-archive]]
