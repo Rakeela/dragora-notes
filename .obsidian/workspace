@@ -6,6 +6,17 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-3-16-Fifty-Second.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4204f6e05bbe919a",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
@@ -82,13 +93,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "envs100-World-Hunger.md",
+    "2021-3-16-Fifty-Second.md",
     "envs100.md",
     "envs100-exam-1-study-guide.md",
-    "2021-3-16-Fifty-Second.md",
     "Untitled.md",
     "2021-3-13-Fifty-First.md",
     "notes-on-tolerogenic-dendritic-cells.md",

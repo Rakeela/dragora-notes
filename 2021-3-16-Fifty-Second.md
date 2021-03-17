@@ -50,4 +50,11 @@ I can trade on human suffering, when and if trading on human suffering alleviate
 I want to live forever, but I want to leave this world.
 
 ---
+https://www.frontiersin.org/articles/10.3389/fphys.2018.01926/full (Teodori, L.  Costa, A.  Campanella, L.  Albertini, M.C.  (2019, Jan 10.)  Skeletal Muscle Atrophy in Simulated Microgravity Might Be Triggered by Immune-Related microRNAs.  *Frontier Sin Physiology*.  Retrieved 2021-3-16.)
+
+This isn't a helpful source for my environmental sciences essay, but it's something I think I'll want to review later.  Over-expression of specific mRNA may impair glycolysis in the cells, leading to reduced muscle performance.
+
+I wonder if it would be possible to treat microgravity muscle wasting by producing synthetic antibodies for over-expressed mRNA to cause them to be opsonized and reprocessed by neutrophils...  on the other hand, mRNA is already tiny, so maybe opsonization isn't the correct suppression mechanism.  Still, something may be possible here.  Treatments that increase metabolic performance in orbit would decrease the minimum required athleticism of astronauts.
+
+---
 Back to [[day-post-archive]]
