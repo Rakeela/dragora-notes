@@ -39,7 +39,7 @@ Sector retains some Commonwealth projects, most commonly patriotic indoctrinatio
 
 Third suggestion:  (Complete?)
 Haunted by Beyonders
-A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of hyperspatial poisoning in this region that the Commonwealth needs to prove it can clean.
+A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of hyperspatial poisoning in this region that the Commonwealth needs to prove it can overcome.
 Challenges:
 Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Rate of return penalty.)  1
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  2
@@ -131,7 +131,7 @@ Special Features:
 
 Ninth Suggestion: (Incomplete)
 Research Conspiracy Aftermath
-This system was recently liberated from a rogue Panarchic government which shielded itself from galactic society's observation using local hyperspace severing, and then used its local population for long-term social experimentation.  Public bleakness under these hopeless conditions increased to such an extreme as to give the system a ruinous infamy; this infamy helped lead to rescue, but may now benefit from repair.
+This territory was recently liberated from a rogue Panarchic government which shielded itself from galactic society's observation using local hyperspace severing, and then used its local population for long-term social experimentation.  Public bleakness under these hopeless conditions increased to such an extreme as to give the system a ruinous infamy; this infamy helped lead to rescue, but may now benefit from repair.
 Challenges:
 Panarchic Wargames (The Panarchy has assigned large contingents of military forces to this planet for training, research, and recreational purposes.  While these are technically allied forces operating lawfully, their presence is both expensive and disruptive, increasing supply and maintenance costs planet-wide.  Upkeep penalty.)  1 
 Scientific Guilds (Stock.  Science capacity penalty.)  2
@@ -147,7 +147,7 @@ Special Features:
 
 Tenth Suggestion: (Incomplete)
 Locked AI Collective
-This system developed a large base of Panarchic cognitechnologies, and developed a 'perfectly proven' perfect way of life.  The bland repetitiveness that subsequently developed in its cultural products proved the canary in the coalmine for a society in the process of proving itself not to exist.  This society needs help rebooting its research systems... literally.
+This previously Imperial territory developed a large base of Panarchic cognitechnologies, in the process developing a 'perfectly proven' perfect way of life.  The bland repetitiveness that subsequently developed in its cultural products proved the canary in the coalmine for a society in the process of proving itself not to exist.  This society needs help rebooting its research systems... literally.  They may also benefit from a little more help finding their own individual voices in life.
 Challenges:
 Common Culture (Stock.  Cultural base penalty.)  1
 Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  2
@@ -160,6 +160,23 @@ Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate developme
 Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)
 Special Features:
 Technical overseers throughout the territory.
+
+Eleventh Suggestion:  (Incomplete)
+Anti-Sustainability Crisis
+Massive skepticism of economic regulatory functions in government and society have lead to a breakdown in regulatory controls throughout this region.  Although local political leaders have protested the Viceregal intervention with claims that they are engaging in productive anti-bureaucratic governance, pollution and disease are spreading in the shadow of an industriously filthy rebellion.  The industrial economy is powerful in this territory, but misery is pervasive and a reliance on importing biological products may be inevitable.
+Challenges:
+(9 Unset)
+Special Features:
+Generally high industry scores, local governments widespread
+
+Twelth Suggestion:  (Incomplete)
+Palatial Shambles
+(Unset)
+Challenges:
+Extreme Housing Inequality (Celestial palaces crowd the listings on local property markets, but what the public calls an apartment is too small to be entirely sanitary.  The extent and visibility of the gap inspires rage and envy in the public, but perhaps worse is that it inspires a hopelessness destructive to the development of talent.  Happiness penalty.)  1
+(8 Unset)
+Special Features:
+Increased base crowding limits on many districts
 
 ---
 I may want to start adding cure-tech proposals to each of these.
