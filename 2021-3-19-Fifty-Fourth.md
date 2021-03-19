@@ -38,3 +38,5 @@ I wonder if exercise soreness is impairing my motivation, and I'm going to go tr
 
 ---
 Reading about ocean acidification, I found myself thinking, "Is there any such thing as an algae species that promotes alkaline conditions?"  This thought is not valuable of itself, but may be a helpful one for ecosystem engineering more broadly.  Living things alter the PH balance of their environment as they live.  Do any of them alkalize their environment?
+
+Would that just result in the ocean frothing up its dissolved CO2?  Tch.  Probably better to focus on algae engineering for pure carbon sinkage.  My meteorology textbook says that promoting algae blooms does nothing to stop ocean acidification of itself, but that's not true.  Dead microorganisms in the water column sink, carrying carbon away from the surface, and what settles to the ocean floor isn't contributing to the acidification of the surface waters AFAIK.
