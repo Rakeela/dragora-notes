@@ -35,3 +35,6 @@ I recently finished some delicious cherry-amaretto THC edibles.  THC edibles oft
 ...I am undirected today, and no, I'm not presently high.  I'm tempted to say, "Well, today is a weekend," on the basis that my classes pack work into Sunday (and have done so this Sunday as well), whereas today I have no tests nor imminently due homework.  Yet that doesn't mean I *want* to do nothing all day, just that my immediate plans won't be altered if I do nothing all day.
 
 I wonder if exercise soreness is impairing my motivation, and I'm going to go try caffeinating myself.
+
+---
+Reading about ocean acidification, I found myself thinking, "Is there any such thing as an algae species that promotes alkaline conditions?"  This thought is not valuable of itself, but may be a helpful one for ecosystem engineering more broadly.  Living things alter the PH balance of their environment as they live.  Do any of them alkalize their environment?
