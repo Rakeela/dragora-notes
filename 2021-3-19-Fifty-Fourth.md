@@ -23,3 +23,8 @@ I think Herfy's just cooks grocery store fries in their frier, but my experience
 I haven't eaten at Herfy's for a long time.  Where do grease bomb burgers and perfect fried foods fit into a weight loss plan?  They don't.  I can only lament that.
 
 They're a local family business, and I hope they do well.  Herfy's is the kind of restaurant I'd love to see survive into the age where we can digitize experiences and share them without paying pricetags in health.
+
+---
+Yesterday I found a new method of exercise which may be worth taking note of: integrating dragon porn into the routine.  The thought I had was that exercise is very much limited by pain tolerance... and something I knew from the bad old days (which I was thinking about yesterday) is that arousal increases pain tolerance.  Chronic pain was one of the original reasons I found for being tolerant of sexuality, because being aroused offers pain relief.
+
+Well, I'm pretty sore today, so I'd say it worked.
