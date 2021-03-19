@@ -21,4 +21,13 @@ I just really don't have a lot of faith that every day to day discomfort will pa
 Maybe if I natter at my notes archives about how woe-is-fasting, I'll stick to it.  Heh.
 
 ---
+A note about stalker authoritarians...  Exhibitionism was my first fetish.  I'm not hiding anything, and I never have been.  Transparency was something that I liked early on.  Pretty much all anyone had to do to get the all-access pass to the goings-on of my life was to ask.
+
+Nobody asked, but it doesn't seem to have been because nobody looked.  Even early on...
+
+Naively, I thought that if I stopped identifying as an exhibitionist, people would stop watching me without my consent.  All I really accomplished by that was that people who thought I was interesting now thought that they were hurting someone who refused them instead of fueling the fantasy of someone who consented.  It doesn't seem like that difference mattered very much.  It didn't stop people who were, from the outset, inclined to observe without asking.
+
+Sex criminals aren't good at seeking consent.  Who knew?
+
+---
 Back to [[day-post-archive]]
