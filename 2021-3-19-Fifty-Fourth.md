@@ -28,3 +28,10 @@ They're a local family business, and I hope they do well.  Herfy's is the kind o
 Yesterday I found a new method of exercise which may be worth taking note of: integrating dragon porn into the routine.  The thought I had was that exercise is very much limited by pain tolerance... and something I knew from the bad old days (which I was thinking about yesterday) is that arousal increases pain tolerance.  Chronic pain was one of the original reasons I found for being tolerant of sexuality, because being aroused offers pain relief.
 
 Well, I'm pretty sore today, so I'd say it worked.
+
+---
+I recently finished some delicious cherry-amaretto THC edibles.  THC edibles often taste terrible, but these ones were very good.
+
+...I am undirected today, and no, I'm not presently high.  I'm tempted to say, "Well, today is a weekend," on the basis that my classes pack work into Sunday (and have done so this Sunday as well), whereas today I have no tests nor imminently due homework.  Yet that doesn't mean I *want* to do nothing all day, just that my immediate plans won't be altered if I do nothing all day.
+
+I wonder if exercise soreness is impairing my motivation, and I'm going to go try caffeinating myself.
