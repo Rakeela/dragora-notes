@@ -52,3 +52,5 @@ I had similar effects from Soylent.  If I really consumed only Soylent, my appet
 While I'm talking about it, most of the Huel was too bland.  It was like trying to live on an oatmeal diet.  In this respect, the peanut butter Huel stood out from the pack as being *too rich*.  The more I could mix it to a perfectly even consistency, the more it became like drinking a peanut butter shake.  Unfortunately, that didn't make the peanut butter Huel do any better for cumulative intolerability.  I like peanut butter shakes, but rarely.
 
 I need to get rid of my old, expired stocks of Soylent... and maybe reorder some of the mint ones.  Only a small amount, though.  Soylent mint could be a snack option.  It's not something I want to base a diet on.
+
+Oh, but I can't bring up Huel without mentioning that they REALLY need to improve their Chocolate formula.  Their chocolate flavoring verges on disgusting, and it affects both the powders and the food bars.  None of their other flavors are so bad.  So anyone who is curious about Huel should really try some other flavor first...  I recommend the Salted Caramel.
