@@ -9,7 +9,7 @@ If other people had all along been faking sexuality to meet "my" needs?  I didn'
 
 We need a Glasswall Grid.  Old liberalism knew that mercy in light was the key to success, like I do.  LGBT rights didn't advance in stealth and secrecy.  It advanced in openness and compassion, through charitable organization and service to others.  It wasn't an intrinsically altruistic campaign and it didn't need to be; "charitable organization and service to others" doesn't preclude hedonism and it never did.
 
-When I read The Ethical Slut, one of the things that wowed me was that it asserted something which was never part of *my* life: that integrity matters in sexuality.  That's so true.  For years I had been disallowed to protest any dishonesty, but I understand now that's because I was mired in a rape culture that didn't respect my right to say no.  The only people who need to be dishonest in sexuality are rapists, and we need better than a rape culture.
+When I read [[the-ethical-slut|The Ethical Slut]], one of the things that wowed me was that it asserted something which was never part of *my* life: that integrity matters in sexuality.  That's so true.  For years I had been disallowed to protest any dishonesty, but I understand now that's because I was mired in a rape culture that didn't respect my right to say no.  The only people who need to be dishonest in sexuality are rapists, and we need better than a rape culture.
 
 When sex positivity is honest, it expands and strengthens in society.  Love grows where pleasure and honesty are shared together.
 
