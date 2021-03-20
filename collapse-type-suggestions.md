@@ -175,7 +175,9 @@ Palatial Shambles
 Challenges:
 Extreme Housing Inequality (Celestial palaces crowd the listings on local property markets, but what the public calls an apartment is too small to be entirely sanitary.  The extent and visibility of the gap inspires rage and envy in the public, but perhaps worse is that it inspires a hopelessness destructive to the development of talent.  Happiness penalty.)  1
 Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  2
-(7 Unset)
+Blandeur (This planet's culture is august, magnificent, and painfully short of people taking actual creative risks.  The uniform local consensus about what constitutes beauty has stifled cultural productivity.  Blandeur is considered a variation of common culture, with many of the same policy implications.  Culture base penalty.)  3
+Formal Culture (Stock.  Bureaucratic penalty.)  4
+(5 Unset)
 Special Features:
 Increased base crowding limits on many districts
 

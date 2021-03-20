@@ -54,3 +54,9 @@ While I'm talking about it, most of the Huel was too bland.  It was like trying 
 I need to get rid of my old, expired stocks of Soylent... and maybe reorder some of the mint ones.  Only a small amount, though.  Soylent mint could be a snack option.  It's not something I want to base a diet on.
 
 Oh, but I can't bring up Huel without mentioning that they REALLY need to improve their Chocolate formula.  Their chocolate flavoring verges on disgusting, and it affects both the powders and the food bars.  None of their other flavors are so bad.  So anyone who is curious about Huel should really try some other flavor first...  I recommend the Salted Caramel.
+
+---
+I could write an essay about ocean pipes off the coast of Peru.  I could pretend I'm writing it for a discussion board post in Dr. Tewari's env-sci course.  That might be fun.  It'd be a reason to study something relatively obscure.
+
+---
+Now I'm thinking about Huel and wishing I could eat some.  The Thai Green Curry is pretty tasty, and I just got a new shipment with flavors I haven't tried yet, too.  It doesn't fit into my "400 calories, and ketogenic" requirement, so I'm complaining about it here instead of actually eating some...  It's a good sign if I end up wanting the stuff while I'm fasting, because if that happens consistently, cumulative intolerability will be straightforwardly resistable.
