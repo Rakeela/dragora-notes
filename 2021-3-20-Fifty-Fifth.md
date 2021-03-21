@@ -54,4 +54,9 @@ I'm disappointed at myself for not doing better on monotonic health diets.  I fe
 That game is bleakness wrapped in shine, by the by.  A society that is always collapsing somewhere, built in small confederacies of planets, struggling to knit together small societies in a world where sweeping population culls are normal?  What is going on?  So I've built from it a concept of a world where galactic society is forever rebuilding, and great contesting forces sweep in after every Viceroy.  I do not necessarily imagine that each territory collapses instantly, yet in the game's representation of a semistatic equilibrium there is the sense that if there are parts of the galaxy where societies are not always eventually collapsing, they occur far away from the regions that the Viceroys are working on.  Every bright and growing planet is a tragedy in the making...
 
 ---
+If I had access to the right kind of machine-assisted free will, I probably would shunt my appetites to get more done.  I would only do that if it were very literal tech under my very literal control... and it's not anywhere close to anything I think that I myself could build.
+
+I wonder if society will ever someday run out of people inclined to trust others that much.
+
+---
 [[day-post-archive]]
