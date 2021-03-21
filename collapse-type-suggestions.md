@@ -173,16 +173,18 @@ Twelth Suggestion:  (Incomplete)
 Palatial Shambles
 (Unset)
 Challenges:
-Extreme Housing Inequality (Celestial palaces crowd the listings on local property markets, but what the public calls an apartment is too small to be entirely sanitary.  The extent and visibility of the gap inspires rage and envy in the public, but perhaps worse is that it inspires a hopelessness destructive to the development of talent.  Happiness penalty.)  1
+Extreme Housing Inequality (Celestial palaces crowd the listings in this system's real estate, but what the public calls an apartment is too small to be entirely sanitary.  The extent and visibility of the gap inspires rage and envy in the public, but perhaps worse is that it inspires a hopelessness destructive to the development of talent.  Happiness penalty.)  1
 Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  2
 Blandeur (This planet's culture is august, magnificent, and painfully short of people taking actual creative risks.  The uniform local consensus about what constitutes beauty has stifled cultural productivity.  Blandeur is considered a variation of common culture, with many of the same policy implications.  Culture base penalty.)  3
 Formal Culture (Stock.  Bureaucratic penalty.)  4
-(5 Unset)
+Reclusive AI Utopia  (This system has become dominated by powerful AI who claim that they wish to avoid influencing galactic culture, and who have used their influence over its society to achieve that very expertly.  A great fraction of the population is comprised of sapient machinery and the residents of upload clusters.  They claim to find contentment in trading real goods for cultural imports.   Culture base penalty.)  5
+Anti-Statisticians  (Long-term economic planning has been crushed on this planet by competitively-designed AI bankers whose attempts to subvert all exploitable patterns render the local market impenetrable and incomprehensible.  Rate of return penalty.)  6
+(3 Unset)
 Special Features:
 Increased base crowding limits on many districts
 
 ---
-I may want to start adding cure-tech proposals to each of these.
+I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public can cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.
 
 ---
 This is [[existential-threat]] style thinking, and may also deserve some form of shared categorization with those notes.  How can any one organizational structure ever be provably optimal for a sufficiently complex set of information?

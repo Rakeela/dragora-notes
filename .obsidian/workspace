@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-20-Fifty-Fifth.md",
+            "file": "collapse-type-suggestions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-20-Fifty-Fifth.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
     "2021-3-20-Fifty-Fifth.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
     "Science-News-Archive.md",
@@ -105,7 +106,6 @@
     "character-gallery.md",
     "aowcommander-profiles.md",
     "glory-lane-by-piers-anthony.md",
-    "hedonology.md",
-    "Untitled.md"
+    "hedonology.md"
   ]
 }
