@@ -18,7 +18,8 @@ This is different.  Kistaro has asked me to stop fasting because I seem too exha
 
 I'm not too hard to convince.  The hardest part for me is being like, "Why tomorrow?"  I didn't actually ask that, because I don't urgently need more energy today for anything.  I'll have plenty of work to do tomorrow, but I can just keep being exhausted now.
 
-Switching my 'off' days generally to Friday and Saturday was requested so that I'd be more energetic on the weekends.  I pointed out that I have tests on Sunday and eating then could have the biggest impact on my productivity, so moving my fasting days to Saturday and Sunday was decided on.
+---
+I asked "Why tomorrow?" and Kistaro explained that switching my 'off' days generally was requested so that I'd be more energetic on the weekends.  This was initially proposed as Friday-Saturday, but I pointed out that I have tests on Sunday and eating then could have the biggest impact on my productivity, so we've decided to move my 'feasting' days to Saturday and Sunday.  At least while my coursework continues to assign tests on Sunday, I will take to eating only on weekends, and fasting during weekdays.
 
 ---
 Is this going to result in my having only one day off from fasting this week?  ...no way.  I've been saving a Nerds Rope from Valentines' day, and I'm going to eat it.
