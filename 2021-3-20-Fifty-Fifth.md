@@ -34,4 +34,15 @@ I think I'm grateful.  The world I grew up in was awful.  This one, I don't know
 Atheism doesn't offer much of that.  I have to assume that my experiences were real, and all that really happened is I forgot the shape of a map.  From that perspective, I do not want to leave much of this world unchanged.  I grew up in an awful world.
 
 ---
+We order out too much here.  I know it.  I love it!  I can't cook, but I love food.  That's where my love of processed food comes in; it exemplifies efficient service to people whose talents lie elsewhere.  I really don't think it'll all be unhealthy forever.  Mm, I'm off topic.
+
+I'm looking over food options trying to decide what to order for brunch tomorrow.  Kistaro wants red meat.  I didn't come into the question with any very strong preference, but immediately upon looking at one of the food ordering apps, it recommended to me a place that sells fried chicken livers, fried chicken gizzards, and fried okra.  That's three things I want.  There aren't many restaurants in the area that I know sells organ meats!  That's what *I* want.  That said, Kistaro's preference is probably going to be overriding here; ordering a half pound of fried chicken livers is going to have to wait for a different week.
+
+There's another restaurant in the area that sells steak and kidney pie, which is another favorite of mine.  I may recommend it tomorrow.  I can live without meat, but...  when I do eat meat, I don't know why people always prize pure muscle tissue so much.  The really flavorful meats are in the organs.
+
+I wonder if anywhere in the area sells beef liver served with onions.  I wonder how many centuries will pass before someone invents a vegan chicken liver substitute!  ...I wonder if I'd like haggis.
+
+There's also a local restaurant that'll sell me a peanut butter bacon burger on a pretzel bun.  I'm not sure that's a good idea, but maybe I'll try it tomorrow.  It's been way too long since I last ate a pretzel bun.
+
+---
 [[day-post-archive]]
