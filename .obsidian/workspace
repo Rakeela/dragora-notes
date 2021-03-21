@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-21-Fifty-Sixth.md",
+            "file": "city-quirks.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-21-Fifty-Sixth.md",
+                "file": "city-quirks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "city-quirks.md",
     "Untitled.md",
     "2021-3-20-Fifty-Fifth.md",
     "collapse-type-suggestions.md",
@@ -105,7 +106,6 @@
     "ontogenic-control.md",
     "notes-on-tolerogenic-dendritic-cells.md",
     "character-gallery.md",
-    "aowcommander-profiles.md",
-    "glory-lane-by-piers-anthony.md"
+    "aowcommander-profiles.md"
   ]
 }
