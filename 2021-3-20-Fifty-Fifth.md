@@ -14,4 +14,9 @@ When I read [[the-ethical-slut|The Ethical Slut]], one of the things that wowed 
 When sex positivity is honest, it expands and strengthens in society.  Love grows where pleasure and honesty are shared together.
 
 ---
+This is different.  Kistaro has asked me to stop fasting because I seem too exhausted today.  Specifically, calling off tomorrow's fast was requested.
+
+I'm not too hard to convince.  The hardest part for me is being like, "Why tomorrow?"  I didn't actually ask that, because I don't urgently need more energy today for anything.  I'll have plenty of work to do tomorrow, but I can just keep being exhausted now.
+
+---
 [[day-post-archive]]
