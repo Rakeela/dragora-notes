@@ -23,5 +23,14 @@ Switching my 'off' days generally to Friday and Saturday was requested so that I
 ---
 Is this going to result in my having only one day off from fasting this week?  ...no way.  I've been saving a Nerds Rope from Valentines' day, and I'm going to eat it.
 
+I'll eat some Huel soup, too.
+
+---
+There have always been anomalies in my life, but the biggest one is that, I don't think the world I grew up in exists anymore.  This is always true for everyone eventually, but in my case the maps of the area where I grew up don't even look the same.  The towns have been shuffled around.  Human societies don't redevelop that way, that fast.  I feel like a refugee from a slightly different Earth.
+
+I think I'm grateful.  The world I grew up in was awful.  This one, I don't know as much about.  Although I guess as an outsider, I should be humbler about trying to change everything... well, I think that I would be, if I really believed that I came from a different Earth.
+
+Atheism doesn't offer much of that.  I have to assume that my experiences were real, and all that really happened is I forgot the shape of a map.  From that perspective, I do not want to leave much of this world unchanged.  I grew up in an awful world.
+
 ---
 [[day-post-archive]]
