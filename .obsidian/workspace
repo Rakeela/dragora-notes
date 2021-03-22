@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "collapse-type-suggestions.md",
+            "file": "2021-3-22-Fifty-Seventh.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collapse-type-suggestions.md",
+                "file": "2021-3-22-Fifty-Seventh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2021-3-22-Fifty-Seventh.md",
     "collapse-type-suggestions.md",
     "Untitled.md",
     "notes-on-tolerogenic-dendritic-cells.md",
@@ -105,7 +106,6 @@
     "2021-3-20-Fifty-Fifth.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
     "Science-News-Archive.md",
-    "ontogenic-control.md",
-    "character-gallery.md"
+    "ontogenic-control.md"
   ]
 }

@@ -28,3 +28,26 @@ Kistaro reassured me of one other thing that I think is worth recording.  It's n
 I believe some of the weird things I've went through had material external causes, but this one either comes down to spiritual causes, or else it's all me.  Although I appreciate the spiritual explanation (perhaps I'm hearing the spirits of friendly crows who had steady access to peanuts thanks to me), I'm scientifically obligated to say that hearing crow is all me this time.
 
 What a useless skill.  I guess it's very fitting for me.  I consider crows sapience candidates, and I'd like to uplift them.  When I think about the technical overseers and the thinking dust technologies in [[The-Viceroy]], I think of my longing to uplift crows...  If we had that kind of sharing technology...
+
+---
+I'm still thinking about something I thought about yesterday.  Why do we say that irrigation salinizes fields by causing salt deposition?  That is not specific enough to represent the complete relevant understanding.  Irrigation water can only deposit salt via evaporation to the extent that it contains salt.  The water I use in my CPAP machine at night would not salt a field were it used as an irrigant, because I use distilled water for that.  Why can't we use irrigation water for controlled deposition of all manner of chemical substances?  The chemical content of farm soils could be very substantially altered were water-soluble chemistry up to the task of providing for the necessary alterant compounds.  It may even be possible to desalt a field by planning for ongoing cycling of the water to maintain its chemobalance, using a low salt water input, and then filtering salt out of the cycled water.
+
+I wonder if I'll ever get to have a hydroponic garden on Mars.  Hm.  Hey, how many more people would be more willing to migrate to Mars if personal hydroponics were available as a cheap luxury add-on?  I'm not exactly the only peaceful person on Earth who likes plants.  It might be a useful source of biomass for a colony that's likely to value every source of biomass it can get, all while providing people with a low-cost recreation and a sense of security in a larger private space than they might've expected to get on Mars.  Sure, it'd all have to be indoor gardening, but indoor gardening architecture has been needing a revamp for decades now.
+
+Humanity may be eating this world in an unsustainable way, but I'm still thinking ahead to that future when a spacefaring transhumanity with revamped mitochondria or other biotech adaptations will be unafraid of muscle wasting in space travel.  I think we'll have dragons in orbit, after all.  I don't even think Martian colonization is such a distant future thing.
+
+I really wish I could figure out my campus housing situation.  I need laboratory training!  I want that covid-19 vaccine to be universally distributed in my area so that I can attend in-person classes... but then I still don't know how I'll be able to arrange proximity.  I would much rather arrange proximity than transportation, unless I can arrange transportation by self-driving car.  Traveling with strangers sounds too stressful and unapproachable...  I'd be more willing to sign up to let a self-driving car be used by a carpooling service when I'm not using it, than to try to sign up for such a service as one of the passengers sharing the vehicle.  My big personal space bubble is not the most economical trait.
+
+---
+I still drift between serial obsessions.  Sinking time into this dragora archive has served as a partial centralizing function which links the content and trajectories together better than I used to be capable of achieving, but there's still a lot of jank in my efforts to think through *anything*.
+
+I have never welcomed nor been assisted by suggestions in this domain, but despite that my search has been necessary insular, I am still searching for ways to improve my productive coherency.  I wish machine-assisted free will was farther along.  Crows aren't the only species I'd like to see uplifted with mental transcription.  If I believed the technology safe enough, I would very much like to have access to it myself.
+
+Back in Puzzlebox, I found the setting's use of mind control horrific, but I think in the end that may have been a misunderstanding of the longing that it represents.  I would've portrayed it differently.  If I could truly be the one controlling the process, I don't think controlled self-change would be anything but self-control, even if invasive nanotechnologies *were* involved.
+
+Those were Yoet's *own* nanites, hahaha.
+
+...but my mind is constantly veering off what I need to be doing.
+
+---
+Back to [[day-post-archive]]
