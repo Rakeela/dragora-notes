@@ -171,20 +171,54 @@ Generally high industry scores, local governments widespread
 
 Twelth Suggestion:  (Incomplete)
 Palatial Shambles
-(Unset)
+The cities of a monumentally developed society have shuddered apart in waves of growth and emigration, with the territory's economy revealing the hazards of being economically dependent on transient cultural tastes and highly advanced methods of increasing the productivity of cultural specialists.  Repair or work around the territory's long-term cultural deficits, and help these people find comfort in the terms of life in their crowded cities.
 Challenges:
 Extreme Housing Inequality (Celestial palaces crowd the listings in this system's real estate, but what the public calls an apartment is too small to be entirely sanitary.  The extent and visibility of the gap inspires rage and envy in the public, but perhaps worse is that it inspires a hopelessness destructive to the development of talent.  Happiness penalty.)  1
 Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  2
-Blandeur (This planet's culture is august, magnificent, and painfully short of people taking actual creative risks.  The uniform local consensus about what constitutes beauty has stifled cultural productivity.  Blandeur is considered a variation of common culture, with many of the same policy implications.  Culture base penalty.)  3
-Formal Culture (Stock.  Bureaucratic penalty.)  4
-Reclusive AI Utopia  (This system has become dominated by powerful AI who claim that they wish to avoid influencing galactic culture, and who have used their influence over its society to achieve that very expertly.  A great fraction of the population is comprised of sapient machinery and the residents of upload clusters.  They claim to find contentment in trading real goods for cultural imports.   Culture base penalty.)  5
+Blandeur (This district's culture is austere, magnificent, and painfully short of people taking actual creative risks.  The local consensus about how things ought to look has stifled cultural productivity.  Blandeur is considered a variation of common culture, with many of the same policy implications.  Culture base penalty.)  3
+Panarchic Wargames (The Panarchy has assigned large contingents of military forces to this planet for training, research, and recreational purposes.  While these are technically allied forces operating lawfully, their presence is both expensive and disruptive, increasing supply and maintenance costs planet-wide.  Upkeep penalty.)  4
+Reclusive AI Utopia  (This system has become dominated by powerful AI who claim that they wish to avoid influencing galactic culture.  As a result of their efforts, a great fraction of the population is comprised of sapient machinery and upload cluster residents who are incapable of or resistant to providing cultural exports through the gates, but who claim to seek contentment in trading real goods for cultural imports.   Culture base penalty.)  5
 Anti-Statisticians  (Long-term economic planning has been crushed on this planet by competitively-designed AI bankers whose attempts to subvert all exploitable patterns render the local market impenetrable and incomprehensible.  Rate of return penalty.)  6
-(3 Unset)
+Rubbish Imports  (Additionally to the trade flows tracked by the Commonwealth as productive, this planet is signed on to many galactic trade pacts with the cumulative impact that its markets are flooded with inferior goods.  The resulting 'low quality society' has an infamy not conducive to high revenues in cultural exports, though the local cuisine is pretty good.  Culture base penalty.)  7
+Zero Birth Culture (Stock.  Reproductive penalty.)  8
+Formerly Important. (Stock.  Happiness penalty.)  9
 Special Features:
-Increased base crowding limits on many districts
+Increased base crowding limits on many districts, at least one space elevator, at least one permanently protected AI
+
+Thirteenth suggestion:  (Incomplete)
+Mercurial Sea
+Society in this region is ruled by a system of black box intelligences thinking incomprehensible thoughts in seas of computational substrate.  The remaining biological citizens and some of the more comprehensible AIs consider this a state of collapse, and the Commonwealth has answered their cries for an intervention.
+Challenges:
+Uncoalesced  (Save for a few immigrant specialists, this district's population is entirely composed of a nanite soup.  Although the swarm can be directed in employment producing conventional industrial goods as well as exotic biochemicals in exchange for cultural imports, its own cultural artifacts are few and incomprehensible.  Base culture penalty.)  1
+Emulated Nanoinfluence  (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence Penalty.)  2
+Psuedourbanism  (This planet is built up bizarrely to provide 'living' and 'recreational' spaces for sapient nanite collectives.  While the resulting buildings are fascinating in various ways and are in limited quantities essential on any planet recovering from an assimilation crisis, entire 'cities' of this architecture amount to nothing but nigh-unusable terrain.  Crowding penalty.)  3
+Assimilationist Computronium  (This planet's population is regularly assailed by nano-swarm criminals who try to convert all others into their own kind of being.  Law and order has not wholly failed, but misery is widespread and the nano-combat equipped population is more useful to violent rebellion than it is to the Commonwealth. Happiness penalty.)  4
+Anti-Statisticians  (Long-term economic planning has been crushed on this planet by competitively-designed AI bankers whose attempts to subvert all exploitable patterns render the local market impenetrable and incomprehensible.  Rate of return penalty.)  5
+Extremist Nano-Environmentalism  (Industrial specialization on this planet has been crushed by militant nanite collectives which have strengthened its wilderness areas astonishingly.  Industrial planners exist in terrified compliance with the restrictions placed on them by the local nano-enhanced ecology.  Industrial specialty penalty.)  6
+Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  7
+(2 Unset)
+Special Features:
+Ubiquitous Thinking Dust improvements.
 
 ---
 I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public can cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.
+
+---
+Come to think of the Old Imperials 'taking pleasure' in fixing a challenge, is each challenge something detested by the faction which can fix it?  Is this part of the implied competing ideological structures in this game's setting?
+
+I can imagine for instance that if a Panarchic AI Collective took over a region with antistatisticians infesting its market, they might instead enjoy building up the infrastructure to retake the market for more civilized and cooperative AI bankers.  They would contest the antistatisticians as fellow AI citizens and integrate them into their computerized markets.  This approach is slightly more expensive overall, but it's also friendlier.
+
+Sufficiently advanced AIs are actual people.  If the Old Imperials construct a 'hyperspace market' out of the distributed understanding potential of the populous as a whole to coordinate behavior such that over-competitive market AIs get frozen out of it, they're making actual people suffer isolation and sudden incompetence in a form of economic endeavor they would otherwise be able to retain a place in indefinitely.
+
+---
+Panarchic Wargames should probably be cured by the Panarchic Naval Port.  Once you have that development, you have the societal infrastructure to integrate the disruptive potential of the wargames in a regular manner.  So even though it's a very Panarchy problem, it also has a very Panarchy solution.  I think this represents a fair externality of the Panarchy.  Their overbuilt recreational military is partially everywhere.  It's mostly harmless, but it's too real to be free in its passage.
+
+Once I have enough thoughts on cure techs built up, I'll know what kind of cure tech thoughts pages I should build.  Hm...  I wonder if I can write a book on [[The-Viceroy]].  Is that fair play in culture?  I think it's a very impressive work and I'd be glad to extend its reach a bit more if I could.
+
+---
+Challenge concepts that I don't have anywhere else to put:
+Cultural Hypercompetition  (The people of this planet have a broadly unidirectional engagement with galactic culture, in that they measure themselves against the best in the galaxy, yet have themselves no local talent of such renown.  The resulting sense of perpetual inadequacy makes local cultural specialists timid and easily discouraged.  Cultural specialist penalty.)
+Law of Love  (The highly developed strictures of romantic and sexual ethics in this system are so widely followed and consistently supported by the public that reproductive rates are depressed system-wide.  Reproductive penalty.) - I intend that this would be cured with Reproduction Mandate, should a player dare.
 
 ---
 This is [[existential-threat]] style thinking, and may also deserve some form of shared categorization with those notes.  How can any one organizational structure ever be provably optimal for a sufficiently complex set of information?

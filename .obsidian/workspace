@@ -6,11 +6,10 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "city-quirks.md",
+            "file": "2021-3-21-Fifty-Sixth.md",
             "mode": "source"
           }
         }
@@ -18,10 +17,11 @@
       {
         "id": "4204f6e05bbe919a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes-on-tolerogenic-dendritic-cells.md",
+            "file": "collapse-type-suggestions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "city-quirks.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "city-quirks.md",
-    "Untitled.md",
-    "2021-3-20-Fifty-Fifth.md",
     "collapse-type-suggestions.md",
+    "Untitled.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
+    "2021-3-21-Fifty-Sixth.md",
+    "city-quirks.md",
+    "2021-3-20-Fifty-Fifth.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
     "Science-News-Archive.md",
     "ontogenic-control.md",
-    "notes-on-tolerogenic-dendritic-cells.md",
-    "character-gallery.md",
-    "aowcommander-profiles.md"
+    "character-gallery.md"
   ]
 }
