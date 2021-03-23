@@ -47,7 +47,7 @@ Back in Puzzlebox, I found the setting's use of mind control horrific, but I thi
 
 Those were Yoet's *own* nanites, hahaha.
 
-...but my mind is constantly veering off what I need to be doing.
+...but my mind is constantly veering off what I need to be doing.  Longing for machine-assisted free will is actually a longing for my fast-switching nature to get *faster*, but for that velocity to be used in a more accurate way.
 
 ---
 Back to [[day-post-archive]]
