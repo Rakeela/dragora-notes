@@ -50,4 +50,12 @@ Those were Yoet's *own* nanites, hahaha.
 ...but my mind is constantly veering off what I need to be doing.  Longing for machine-assisted free will is actually a longing for my fast-switching nature to get *faster*, but for that velocity to be used in a more accurate way.
 
 ---
+Finished a school test I'd procrastinated on.
+
+---
+The worst kind of Huel soup so far is the yellow coconut curry soup.  Since I can't make it worse, I've decided to try to make it better; I dumped a teaspoon of mint chocolate flavoring into this mug of soup.  Chocolate is not adding something good to this flavor, but mint is less wrong than I expected; minty soups may be an underexplored territory.
+
+I'll try other flavorings that I have against the awful 'yellow coconut curry'... and maybe once I finish the bag, I'll celebrate at my next fast break by ordering a real yellow curry from somewhere that can do it right.
+
+---
 Back to [[day-post-archive]]
