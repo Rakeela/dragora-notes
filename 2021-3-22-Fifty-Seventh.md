@@ -53,7 +53,7 @@ Those were Yoet's *own* nanites, hahaha.
 Finished a school test I'd procrastinated on.
 
 ---
-The worst kind of Huel soup so far is the yellow coconut curry soup.  Since I can't make it worse, I've decided to try to make it better; I dumped a teaspoon of mint chocolate flavoring into this mug of soup.  Chocolate is not adding something good to this flavor, but mint is less wrong than I expected; minty soups may be an underexplored territory.
+The worst kind of Huel soup so far is the yellow coconut curry soup.  Since I can't make it worse, I've decided to try to make it better; I dumped a teaspoon of mint chocolate flavoring into this mug of soup.  Chocolate is not adding something good to this flavor, but mint is less wrong than I expected; minty soups may be an underexplored territory.  On the other hand, the flavor is not exactly growing on me as I work through the bowl, so I wouldn't rate this as being markedly more palatable than the Huel yellow curry started out.
 
 I'll try other flavorings that I have against the awful 'yellow coconut curry'... and maybe once I finish the bag, I'll celebrate at my next fast break by ordering a real yellow curry from somewhere that can do it right.
 
