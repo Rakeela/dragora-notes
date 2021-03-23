@@ -58,4 +58,9 @@ The worst kind of Huel soup so far is the yellow coconut curry soup.  Since I ca
 I'll try other flavorings that I have against the awful 'yellow coconut curry'... and maybe once I finish the bag, I'll celebrate at my next fast break by ordering a real yellow curry from somewhere that can do it right.
 
 ---
+If I can't stop thinking about what's wrong with sexuality in a world where natalists are hostile to sexual ethics and relationships which prioritize love above reproduction, maybe I should work more on one of my immortalist settings.  I've had at least two.  The older of the two which comes to mind was rife with errors and would be unrewarding to bring back.
+
+The rape cult set have as usual used this stuff to remind me that once I refused consent to pedophiles, I wasn't allowed to refuse consent to them, and nothing done by someone they molested is ever allowed to be important.  It's pretty demoralizing to know that I'm not allowed to have creative privacy against sex criminals.  I don't like rape culture, and it doesn't seem like the people who violate boundaries are even actually happy about what they do.  That's just why I lean on the Glasswall though, I want my civil rights back.  I'm nowhere close to important enough for people to be using any meaningful resources of time or money on me, and that would be devastating in a Glasswall scenario, because only corruption could angle someone against me.  I live lawfully and in respect of the rights of others, so the Glasswall would not harm *me*, but I've been hated by people more authoritarian than myself.
+
+---
 Back to [[day-post-archive]]
