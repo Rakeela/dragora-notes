@@ -45,8 +45,19 @@ Someday with rejuvenation technologies, relationships will become everlasting...
 ---
 Pervasive digitization resolves violent culture.  It creates barriers between people, confining violent inclinations.  It favors peaceful people, who form connections more readily in an environment that covers them in a thick distance armor.  It provides for non-violent dueling tools, or else for 'violent' dueling tools which cannot affect population growth rates.  Finally, it provides for the creation of upload environments, where violence is *truly* useless in determining the evolution of culture, and only the artwar remains.
 
+On the other hand, if you have pervasive digitization, I'm not sure resolving violent culture is necessarily important, since your upload population is just not going to be affected the way a physical population would be.  Using pervasive digitization to its full anti-violence potential feels a little like punishing non-reproduction and the desire for personal space.  A sufficiently digitized society could simulate violent culture exquisitely well while achieving a strong expectation that *even locally*, peaceful people are only being affected by externalities to the extent that they may find trouble finding people to engage in their preferred recreations.
+
+To the extent that those preferred recreations are sexual, the 'pacifist' here shouldn't *be* favored.  As a pacifist anti-natalist, my opinion about violent culture is that it would be okay if I could be sure that the participants would never hit *me*.  People who want to do something other than sex for eternity are proposing to do something that doesn't destroy the basic sustainability of future societies.  I approve of that.
+
+I mean, for a real world example of how simulated violence can turn aside real violence, look at MOBA games generally, and especially at DOTA 2.  That game seems to wildly stress out its participants, and it seems to be very thrilling to a specific kind of person.  If they want to be stressed out like that in this big nasty zero-sum conflict...  I don't get it, but I can't hate them for it.  Their love of that game does me no harm.  Go go gadget gaming league, hahaha.  E-sports are valid too.
+
 ---
-It's a good idea to resist giving the orbital surveyors their capstone technology.  The upkeep cost reduction can only pay off when you have spectacular administrators (+100% bureaucratic cost reduction) or when you have totally lost control of the administrative work (>95% bureaucratic costs).  Otherwise, the bureaucratic 
+It's a good idea to resist giving the orbital surveyors their capstone technology.  The upkeep cost reduction can only pay off when you have spectacular administrators (+100% bureaucratic cost reduction) or when you have totally lost control of the administrative work (>95% bureaucratic costs).  Otherwise, the bureaucratic expense eats the upkeep savings.  There's probably some way to exactly calculate the threshold at which the upkeep savings exceed the bureaucratic costs, but I haven't given it that much thought yet.
+
+---
+Armor seems to work better than shielding for the smaller ships.  Shields don't seem to matter until you have so much shielding and regen that you can tolerate incoming damage indefinitely, which is an easier threshold to attain for the larger ships.  Shields would also be more effective against Imperial ships that use slower-firing weapons... but if you have a small ship, you can get an awful lot of armor per each point of generators, so on cruisers armor is still better.
+
+On this note...  What is a non-linear railgun?  Railguns have to be linear, don't they?
 
 ---
 In other news, I'm out of (online) college for the semester.  Yesterday, I was thinking that today I could dive into my copy of Dendritic Cell Protocols, 2nd Edition, and fill out this day log with thoughts on it to try to keep myself engaged with studying it.  These day-logs seem to meet my unexpected personal need for publishing my thoughts in an ongoing way.  It's not quite as exciting as linking to something available online, but it might still work for me.
