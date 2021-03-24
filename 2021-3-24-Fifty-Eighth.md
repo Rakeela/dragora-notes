@@ -7,7 +7,7 @@ I was trying to get the appropriations approved for the construction of a new cr
 ---
 Thinking about leisure subsidies in [[The-Viceroy]], I keep thinking that one of the things which leisure subsidies might be doing for galactic society is helping to filter out people who really don't want to work.  Going with my concept that the game's galactic society is constantly collapsing and rebuilding in different places, and is searching for stable immortals throughout this process, leisure subsidies could be serving a morally ambiguous purpose of luring miserable people out of society.
 
-This is more broadly something that I think the Commonwealth's purchased happiness policies accomplish.  If someone's use of leisure subsidies is light and consistent, and they still also get work done...  Fine, they can be a stable immortal.  If someone hits the leisure subsidies hard and is totally taken out of society by them, that fits the Commonwealth's basic reliance on rape culture.  They don't need anyone who isn't providing them with children and labor, and trying to develop talent in an honest way is too much work.
+This is more broadly something that I think the Commonwealth's purchased happiness policies accomplish.  If someone's use of leisure subsidies is light and consistent, and they still also get work done...  Fine, they can be a stable immortal.  If someone hits the leisure subsidies hard and is totally taken out of society by them, removing them fits with the Commonwealth's basic reliance on rape culture.  They don't need anyone who isn't providing them with children and labor, and trying to develop talent in an honest way is too much work.
 
 I think there's a basic brutality to the Commonwealth.  They're killing miserable people in large numbers, saying "we care about you," but then manipulating people to death.
 
@@ -34,6 +34,16 @@ There's a basic rape dependency of IRL governments who aren't willing to oppose 
 
 ---
 I don't think the Basic Income technology is or could be part of what I imagine to be the basic evil of the Commonwealth Consensus, although in a pro-leisure sense it is fairly adjacent to it.  I think that basic income programs result in everyone in society having a stake in the productivity of everyone in society, so that technological advances no longer destroy quality of life.
+
+---
+The cultures that put the Commonwealth in their lower class have the approximate right of it; that pattern fades out early if society has advanced tools to deal with it.  The unity of the Commonwealth gives way to the unity of Empire, which yields in turn to the diversity of the Panarchy, this being at last the structure willing to acknowledge the rights of all.  If the high-Wealth societies could also refrain from reproducing so as to maintain the luxuries of space and sustainability, the game might truly depict paradise.
+
+I do not mean to demonize sex with the completion of this sentence and the sentence that follows, but sex as an end in itself is a vapid and unfulfilling drive.  Nobody can be heavily invested in sex itself without failing to notice its emptiness.  Sex in the fuller hedonic form that sex-positivity relies upon is a celebration of relationships.  Strong romantic relationships help people to become better people; mandatory sexuality rather famously tends to make them worse.
+
+Someday with rejuvenation technologies, relationships will become everlasting... but resources will still be *finite*.  I believe that people will understand that they can enjoy their good relationships for milennia only in a society that refrains from natalism and abusive sexuality.  I think that'll be a sex-positive paradise, too; ubiquitous sterilization will then permit sex to serve its proper loving role exclusively!
+
+---
+Pervasive digitization resolves violent culture.  It creates barriers between people, confining violent inclinations.  It favors peaceful people, who form connections more readily in an environment that covers them in a thick distance armor.  It provides for non-violent dueling tools, or else for 'violent' dueling tools which cannot affect population growth rates.  Finally, it provides for the creation of upload environments, where violence is *truly* useless in determining the evolution of culture, and only the artwar remains.
 
 ---
 In other news, I'm out of (online) college for the semester.  Yesterday, I was thinking that today I could dive into my copy of Dendritic Cell Protocols, 2nd Edition, and fill out this day log with thoughts on it to try to keep myself engaged with studying it.  These day-logs seem to meet my unexpected personal need for publishing my thoughts in an ongoing way.  It's not quite as exciting as linking to something available online, but it might still work for me.
