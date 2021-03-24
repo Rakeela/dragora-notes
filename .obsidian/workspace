@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-24-Fifty-Eighth.md",
+            "file": "collapse-type-suggestions.md",
             "mode": "source"
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-22-Fifty-Seventh.md",
+            "file": "2021-3-24-Fifty-Eighth.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-24-Fifty-Eighth.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
     "2021-3-24-Fifty-Eighth.md",
+    "2021-3-22-Fifty-Seventh.md",
+    "collected-thoughts-on-the-viceroy.md",
+    "college-notes.md",
     "2021-3-16-Fifty-Second.md",
     "2021-3-18-Fifty-Third.md",
     "2021-3-19-Fifty-Fourth.md",
     "2021-3-20-Fifty-Fifth.md",
-    "2021-3-21-Fifty-Sixth.md",
-    "Untitled.md",
-    "2021-3-22-Fifty-Seventh.md",
-    "collapse-type-suggestions.md",
-    "notes-on-tolerogenic-dendritic-cells.md"
+    "2021-3-21-Fifty-Sixth.md"
   ]
 }

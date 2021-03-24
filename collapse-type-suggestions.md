@@ -41,7 +41,7 @@ Third suggestion:  (Complete?)
 Haunted by Beyonders
 A combination of twisted hyperspatial geography and a too-fervent rejection of imperial culture can destroy the normal positive relations between the public and the Beyonders, and it has done so here.  The usually subtle presence of the Beyonders has become a kind of hyperspatial poisoning in this region that the Commonwealth needs to prove it can overcome.
 Challenges:
-Probability Plague (An infectious and incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is mathematically self-neutralizing, extreme individual luck variations have been breaking good plans and exalting bad ones.  Rate of return penalty.)  1
+Probability Plague (An infectious and nigh-incurable hyperspace plague is shifting random event profiles chaotically across this planet.  Although the effect is theoretically self-neutralizing over long time intervals, people stuck in temporality are stuck watching as extreme individual luck variations break good plans and exalt bad ones.  Rate of return penalty.)  1
 Psychosocial Turbine (Recurrent cultural and ideological conflicts in this district have gained near-perfect cyclic qualities.  While the sincerity of the struggle draws grim fascination from some Panarchists, the majority of the participants only feel a stress of perpetual misrule.  Happiness penalty.)  2
 Hyperspace Infections (Stock.  Reproduction penalty.)  3
 Climactic Disruption (Stock.  Biological specialist penalty.)  4
@@ -199,6 +199,20 @@ Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotec
 (2 Unset)
 Special Features:
 Ubiquitous Thinking Dust improvements.
+
+Fourteenth Suggestion:  (Incomplete)
+Virtual World Crack-Up
+This territory developed a top-heavy reliance on virtualization.  Much of its population existed wholly in virtual environments.  Unfortunately, [[exploited-hyperpalatability]] created a growing aversion to operating in the real, which resulted in a dearth of necessary maintenance.  Ubiquitous computation has collapsed in this territory.
+Challenges:
+Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  1
+Mansion Fixation  (The people of this district are keen and competitive property-owners who all want to have as much real estate for their own use as possible.  High land values are a fact of life here and the public is hypersensitized to crowding.  Crowding limit penalty.)  2
+Cultural Hypercompetition  (The people of this planet have a broadly unidirectional engagement with galactic culture, in that they measure themselves against the best in the galaxy, yet have themselves no local talent of such renown.  The resulting sense of perpetual inadequacy makes local cultural specialists timid and easily discouraged.  Cultural specialist penalty.)  3
+Garbage-Scavenging Poverty  (The industrial economy in this district was hollowed out by a degree of neglect and incompetence that proved as dangerous as any wartime saboteur campaign.  The public has shown a surprising and indeed unfortunate resilience under these conditions, which have become entrenched as broad dearths in professions that are considered basic to galactic society.  Industrial base penalty.)  4
+Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.)  5
+Corrosive Plague (Stock.  Upkeep penalty.)  6
+(3 Unset)
+Special features:
+(Unset)
 
 ---
 I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public can cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.

@@ -65,6 +65,9 @@ In other news, I'm out of (online) college for the semester.  Yesterday, I was t
 I'm not sure how to attribute dates to the chapters in this book, so they're all going to be listed as June, 2009, to which the book's foreword is attributed; my apologies if that's incorrect.
 
 ---
+Weird personal trivia:  If I do not otherwise have present symptoms of illness and I have not recently sneezed enough for sneezing itself to be a source of suffering, then I feel a little bit luckier every time I sneeze.  Sneezing when I'm not sick feels like the touch of a benevolent god.  Not that I believe in any such thing, mind you.
+
+---
 Kalinski, P.  Wieckowski, E.  Muthuswamy, R.  de Jong, E.  (2009, Jul.)  Generation of stable Th1/CTL-, Th2-, and Th17-inducing Human Dendritic Cells.  *Dendritic Cell Protocols*.  Retrieved 2021-3-24 from a physical book.
 
 Just looking at the title, this may be less than ideal for my interests.  Th17-inducing dendritic cells are a pro-inflammatory lineage which is up-regulated over the course of lifespan, and I consider it a likely candidate for causing immunosenescence.  Still, I'm hoping this will be instructive as to the methods of how to culture dendritic cells.
