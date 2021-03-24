@@ -68,6 +68,22 @@ I'm not sure how to attribute dates to the chapters in this book, so they're all
 Weird personal trivia:  If I do not otherwise have present symptoms of illness and I have not recently sneezed enough for sneezing itself to be a source of suffering, then I feel a little bit luckier every time I sneeze.  Sneezing when I'm not sick feels like the touch of a benevolent god.  Not that I believe in any such thing, mind you.
 
 ---
+"Why do people ever start being interested in sexuality?"
+
+That was my original question about sex.  First asked with a precocious distaste (I was annoyed with sex-centric culture), I tried to clean and reconstruct the question into a good and positive interest.  That didn't work out.
+
+I do have my own answer, because I can now report a hindsight perspective on why I became interested in sexuality.  My reason was, "because treating sex as the purpose of life is so obligatory, that there's nothing to do about it but try to find a way to smile about that even though it sucks."  I thought something along the lines of:  Liberals and conservatives agree that there is no point to life save to engage in reproductive activities, and what can ever be done in the face of such a broad consensus?  At least liberals acknowledge love in a gender-neutral fashion while proposing to punish people less for engaging in life's purpose, so liberalism must be correct!
+
+Well, I now understand that a stronger sex-positivity would've saved me in childhood, by which I mean neither a stronger sex-positivity on *my* part, nor a greater availability of sex.  I mean a sex-positivity capable of presenting the charismatic relationship models that build up happy people and stable communities.  That's what a sex-positive society would *be*.  It is that capacity of superior ethics which underlies the historic inexorability of liberal mores.  [[The-Ethical-Slut]] talks a lot about this stuff, and did a lot to heal me where my expectations that had been damaged by abuse.
+
+Sex-positive communities cannot tolerate sexually exploitative people without being destroyed.  Sex-negative communities have a very substantial ability to tolerate sexually exploitative people without being destroyed.  If you build the more fragile construct, your society survives only to the extent that it can remove sexually exploitative people.  I really like that prospect.
+
+It's not good enough to just have a stronger sex-positivity represented in culture.  The public needs to be engaged with and capable of this stuff as well.  It wasn't Hollywood's fault that my trust in my peers was damaged by violence at school and sexual exploitation online, but if someone somewhere abandoned the idea of bringing the whole of the public in on advanced and charismatic mores, maybe it's that person's fault.
+
+---
+The following sections are 'appended'; they are not posted in the order that I thought of them, but are aggregated to the end of the file to facilitate potential future reorganization of them as study notes.
+
+---
 Kalinski, P.  Wieckowski, E.  Muthuswamy, R.  de Jong, E.  (2009, Jul.)  Generation of stable Th1/CTL-, Th2-, and Th17-inducing Human Dendritic Cells.  *Dendritic Cell Protocols*.  Retrieved 2021-3-24 from a physical book.
 
 Just looking at the title, this may be less than ideal for my interests.  Th17-inducing dendritic cells are a pro-inflammatory lineage which is up-regulated over the course of lifespan, and I consider it a likely candidate for causing immunosenescence.  Still, I'm hoping this will be instructive as to the methods of how to culture dendritic cells.
@@ -79,6 +95,15 @@ I want to create anergizing-specialist dendritic cells.  It's a bit of a wince t
 The protocol itself is a bit intrinsically dense.  I'd have to look up each piece of it.  I wonder how it would differ from a protocol that would filter exclusively for Th-17 inducing dendritic cells.  Will I be able to tell?  An earlier chapter (5) talks about in vitro (laboratory) generation of dendritic cells; a later chapter (8) talks about generating tolerogenic dendritic cells.  The information might be here.
 
 It's petty, but I'm a little concerned about my fine manual dexterity for some of this work.  I'm clumsy, not graceful.  I have the hands of a pianist, the shoulders of a farmer, and the brain of something else.  Lab work may leave me wishing I had prosthetic hands so that I could have a system which would behave in more well-defined ways than my natural hands.  If my hands offend me, can I cut them off?
+
+---
+
+It's a side-swipe on this topic, but I wonder if textbook publishing is used to grant prestige to research reproductions, as refinement of protocols like this would be something that would need to be re-performed on an ongoing basis in order to enable the production of the best possible textbooks.  Reproduction of research is something that can sometimes suffer detrimental underperformance.
+
+---
+Turnquist, H.R.  Fischer, R.T.  Thomson, A.W.  (2009, Jul.)  Pharmacological Modification of Dendritic Cells to Promote their Tolerogenicity in Transplantation.  *Dendritic Cell Protocols*.  Retrieved 2021-3-24 from a physical book.
+
+...
 
 ---
 Back to [[day-post-archive]]
