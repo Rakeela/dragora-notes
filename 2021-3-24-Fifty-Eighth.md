@@ -23,6 +23,15 @@ It reminds me of how I was treated.  I was regarded as a potentially intelligent
 
 I was treated as having been killed by perfect leisure - as having been God granted a perfect fun time forever, having all my sexual desires slaked, even the most depraved!  When it's like... why.  Why was it so incomprehensible that I wouldn't like stuff that almost nobody likes?  Why did these perfectly virtuous people forget all the conversations we had about the ethics of fiction?  Why did I get raped?
 
+Why would humans value a social system constructed of ubiquitous child molestation?
+
+Conservatives throughout history have stalked the victims of child molestation, too.  That's the link between nationalist indoctrination, enlightened policing, and the surveillance planets.  Their society is all criminals... because their society is based on child molestation, has the violent erraticity of all societies with ubiquitous child molestation, and falls apart in non-reproduction if you seriously crack down on the molestation of children.
+
+There's no need for an advanced society to be 'all criminals'.  IRL, almost everyone is lawful.  Humanity is not going to develop as these societies in The Viceroy develop.  The Glasswall Grid would work better than the "you're all criminals and will be happy or else" of the Commonwealth Consensus, but there are no Glasswall Grids in The Viceroy's technology tree.
+
+---
+There's a basic rape dependency of IRL governments who aren't willing to oppose pedophilia sincerely enough to be sexually liberal.  I wish conservatives cared about the welfare of children as something other than a posture they affect in order to improve their reproductive success.
+
 ---
 I don't think the Basic Income technology is or could be part of what I imagine to be the basic evil of the Commonwealth Consensus, although in a pro-leisure sense it is fairly adjacent to it.  I think that basic income programs result in everyone in society having a stake in the productivity of everyone in society, so that technological advances no longer destroy quality of life.
 
