@@ -80,6 +80,8 @@ Sex-positive communities cannot tolerate sexually exploitative people without be
 
 It's not good enough to just have a stronger sex-positivity represented in culture.  The public needs to be engaged with and capable of this stuff as well.  It wasn't Hollywood's fault that my trust in my peers was damaged by violence at school and sexual exploitation online, but if someone somewhere abandoned the idea of bringing the whole of the public in on advanced and charismatic mores, maybe it's that person's fault.
 
+I think people will get there overall.  I think about it compulsively, but unless I have some kind of unexpected psychic influence, there's nothing I can do about it.
+
 ---
 The following sections are 'appended'; they are not posted in the order that I thought of them, but are aggregated to the end of the file to facilitate potential future reorganization of them as study notes.
 
@@ -103,7 +105,7 @@ It's a side-swipe on this topic, but I wonder if textbook publishing is used to 
 ---
 Turnquist, H.R.  Fischer, R.T.  Thomson, A.W.  (2009, Jul.)  Pharmacological Modification of Dendritic Cells to Promote their Tolerogenicity in Transplantation.  *Dendritic Cell Protocols*.  Retrieved 2021-3-24 from a physical book.
 
-...
+
 
 ---
 Back to [[day-post-archive]]
