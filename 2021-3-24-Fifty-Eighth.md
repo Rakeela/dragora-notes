@@ -46,6 +46,9 @@ Someday with rejuvenation technologies, relationships will become everlasting...
 Pervasive digitization resolves violent culture.  It creates barriers between people, confining violent inclinations.  It favors peaceful people, who form connections more readily in an environment that covers them in a thick distance armor.  It provides for non-violent dueling tools, or else for 'violent' dueling tools which cannot affect population growth rates.  Finally, it provides for the creation of upload environments, where violence is *truly* useless in determining the evolution of culture, and only the artwar remains.
 
 ---
+It's a good idea to resist giving the orbital surveyors their capstone technology.  The upkeep cost reduction can only pay off when you have spectacular administrators (+100% bureaucratic cost reduction) or when you have totally lost control of the administrative work (>95% bureaucratic costs).  Otherwise, the bureaucratic 
+
+---
 In other news, I'm out of (online) college for the semester.  Yesterday, I was thinking that today I could dive into my copy of Dendritic Cell Protocols, 2nd Edition, and fill out this day log with thoughts on it to try to keep myself engaged with studying it.  These day-logs seem to meet my unexpected personal need for publishing my thoughts in an ongoing way.  It's not quite as exciting as linking to something available online, but it might still work for me.
 
 I'm not sure how to attribute dates to the chapters in this book, so they're all going to be listed as June, 2009, to which the book's foreword is attributed; my apologies if that's incorrect.
