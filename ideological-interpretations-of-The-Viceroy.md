@@ -5,13 +5,46 @@ Presented in the game's lore are the six subcultural ideologies, the three overa
 ---
 The Six Subcultures
  - The Old Empire -
-The humans most like Beyonders summoned the Beyonders most like humans, creating the Empire of the Elect.  This fraction of the Old Empire is serene because they know that the time cost of each action is illusory.  They're happy to jaunt around *being* the fungible population, doing esoteric tasks for the amusement of distant strangers on other worlds, trusting that enough will get done fast enough if people just keep working without worrying about it.
-Velocity is only a matter of perspective; slow and steady work may even get the work done faster.  Immortality does these people a great service.
- - The Reformed Empire - 
+	 - The Basic
+		 - The humans most like Beyonders summoned the Beyonders most like humans, creating the Empire of the Elect.  This fraction of the Old Empire is serene because they know that the time cost of each action is illusory.  They're happy to jaunt around *being* the fungible population, doing esoteric tasks for the amusement of distant strangers on other worlds, trusting that enough will get done fast enough if people just keep working without worrying about it.
+	 - The Value of Immortality
+		 - Velocity is only a matter of perspective; slow and steady work may even get the work done faster.  Immortality does these people a great service.
+	 - The View on Collapse
+		 - The Old Empire holds the burning world in its hands.  That's an important symbol for them.  Yes, galactic society is always collapsing, and yes that means the empire is always collapsing.  The old empire is aware that they are infinitely declining forever.  They call that acknowledging entropy, and they only worry about it day to day to the extent that doing so is part of their dayjob.
+	 - The Rebellion (Commonwealth)
+
+ - The Reformed Empire -
+		 - The Basic
+			 - Serenity in motion, and an occasionally vile sense of humor.  An active opposition to anything that doesn't seem like a productive endeavor, combined with a will to prey on labor opportunities, off-load their challenges, exaggerate their accomplishments, and look for opportunities to coast.  Are they productive on average?  Somehow, yes.
+		 - The Value of Immortality
+			 - Well, they're happy to be alive.  They're not always good for everyone else's happiness, but they are themselves happy in all kinds of conditions.  They can be lured into a lot of ugly work while only moderately overpaying them, and if the blast radius is small enough...  Ugh...  Immortality does these people a great service.
+		 - The View on Collapse
+			 - The Reformed Empire is on fire, and it can't tell the difference between going down and going faster.  If the Empire falls, it needed to fall.  If something new rises after, great!  If the Empire itself rises after, great!  If the Empire somehow doesn't even fall?  Great!  As long as the Empire keeps MOVING and DOING STUFF, the Empire is Great!
+		 - The Rebellion (Panarchic)
+ 
  - The Monocultural Commonwealth - 
+	 - The Basic
+	 - The Value of Immortality
+	 - The View on Collapse
+	 - The Rebellion (Panarchic)
+
  - The Commonwealth Democracy - 
+	 - The Basic
+	 - The Value of Immortality
+	 - The View on Collapse
+	 - The Rebellion (Imperial)
+
  - The Panarchic Purist-Preservationists - 
+	 - The Basic
+	 - The Value of Immortality
+	 - The View on Collapse
+	 - The Rebellion (Commonwealth)
+
  - The Panarchic AI Collective -
+	 - The Basic
+	 - The Value of Immortality
+	 - The View on Collapse
+	 - The Rebellion (Imperial)
 
 ---
 The Three Nations Semi-Allied
@@ -26,5 +59,10 @@ Do any of the ideology groups give the orbital survey technology?
 
 ---
 Of Specific technologies
+
+I imagine that every node on the technology tree represents a lot of technologies which are in some way linked developments conceptually.  Implementing a technology affirms those potentials and builds them into a location, but they exist everywhere that society has sufficiently developed.  As such, every technology in the game can be interpreted as a postulate about how people should prefer to develop society in an environment of difficult immortality.
+
+Specific decisions about what to cure vs what to leave as-is can also be interpreted as ideological commitments; this is something of a note-to-self that I need to work on filling out my [[challenge-cures]] page for my own reference.
+
 1.  Distributed Thought
     1.  If you trust that intelligence is well-distributed in the population, you're occasionally wrong (horrific consequences), but you're usually just letting people work without undue stress (technical aptitude increases).  This matches the Old Empire's concept of achieving serenity through fungibility.  The literally described technology of some kind of hive-mind attempting on-demand cognitive load balancing for all integrated individuals does sound like something which could do this, but the 'hyperspace link' in this case might also be interpreted as some kind of stupidity-preserving social policy basket which although unintuitive can be mathematically proven to yield improved scientific performance by getting more people doing the most interesting work.  Either way, implementing Distributed Thought looks like it would increase average scientific yield while letting a few more of science's peak producers live at liberty.
