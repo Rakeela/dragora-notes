@@ -120,4 +120,7 @@ So dendritic cells apoptose mistargeted T-cells.  This puts in context what my a
 This is fun material, but I'm not sure it's appropriate.  Strictly speaking, I feel like what I've learned today is that I need to keep studying that other, fatter textbook, with its information about how peptide processing works in the dendritic cell.  Producing a universal donor dendritic cell population only seems more impossible as I study, but I have a lot to learn.
 
 ---
+People react like studying any new thing is an intolerable, unfathomable arrogance... and then they wonder why it seems like nobody changes.  All my life since childhood, and throughout adulthood so far, I've been attacked for learning stuff I wasn't supposed to.  Not my favorite thing about life on Earth, that.
+
+---
 Back to [[day-post-archive]]
