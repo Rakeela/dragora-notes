@@ -105,7 +105,19 @@ It's a side-swipe on this topic, but I wonder if textbook publishing is used to 
 ---
 Turnquist, H.R.  Fischer, R.T.  Thomson, A.W.  (2009, Jul.)  Pharmacological Modification of Dendritic Cells to Promote their Tolerogenicity in Transplantation.  *Dendritic Cell Protocols*.  Retrieved 2021-3-24 from a physical book.
 
+This should be relevant to my interests.
 
+(Quoted from Abstract)
+"Indeed, the infusion of RAPA-conditioned, host-derived DCs, pulsed with alloantigen, prolongs allograft survival.  In particular, when the RAPA-conditioned DCs are delivered repeatedly or in combination with a short course of immunosuppression indefinite allograft survival is observed, typically associated with increased Foxp3+ T-regulatory cells (Treg)."
+
+This is neat!  If tolerogenic dendritic cells encourage Treg activity in defense of their presented antigen peptides, the prospect for treating auto-inflammatory conditions with tolerogenic dendritic cells is greatly reinforced.  If the mechanism for inducing tolerogenic preservation by Tregs can be sufficiently defined, it may be possible to vaccinate against the development of future auto-inflammatory conditions through delivery of peptides in a manner specialized for uptake by Treg cells.
+
+(Quoted from Source)
+"However, they are also critically involved in central and peripheral tolerance, acting as proficient inducers of T-cell apoptosis and anergy, in addition to being inducers/stimulators of Treg (1-6)."
+
+So dendritic cells apoptose mistargeted T-cells.  This puts in context what my anergizing-specialist dendritic cells would really need to be designed to do: hunt down and destroy the rogue T-cells that have gone vigilante against the body's own tissues.  To think "anergizing-specialist" makes them sound so gentle, too.
+
+This is fun material, but I'm not sure it's appropriate.  Strictly speaking, I feel like what I've learned today is that I need to keep studying that other, fatter textbook, with its information about how peptide processing works in the dendritic cell.  Producing a universal donor dendritic cell population only seems more impossible as I study, but I have a lot to learn.
 
 ---
 Back to [[day-post-archive]]
