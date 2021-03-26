@@ -206,13 +206,30 @@ This territory developed a top-heavy reliance on virtualization.  Much of its po
 Challenges:
 Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  1
 Mansion Fixation  (The people of this district are keen and competitive property-owners who all want to have as much real estate for their own use as possible.  High land values are a fact of life here and the public is hypersensitized to crowding.  Crowding limit penalty.)  2
-Cultural Hypercompetition  (The people of this planet have a broadly unidirectional engagement with galactic culture, in that they measure themselves against the best in the galaxy, yet have themselves no local talent of such renown.  The resulting sense of perpetual inadequacy makes local cultural specialists timid and easily discouraged.  Cultural specialist penalty.)  3
+Cultural Hypercompetition  (The people of this planet have a broadly unidirectional engagement with galactic culture, in that they measure themselves against the best in the galaxy, yet have no local talent of such renown.  The resulting sense of perpetual inadequacy makes local cultural specialists timid and easily discouraged.  Cultural specialist penalty.)  3
 Garbage-Scavenging Poverty  (The industrial economy in this district was hollowed out by a degree of neglect and incompetence that proved as dangerous as any wartime saboteur campaign.  The public has shown a surprising and indeed unfortunate resilience under these conditions, which have become entrenched as broad dearths in professions that are considered basic to galactic society.  Industrial base penalty.)  4
 Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.)  5
 Corrosive Plague (Stock.  Upkeep penalty.)  6
-(3 Unset)
+Ex-Virtual Refugees (This planet has been designated for resettlement by individuals rescued from collapsing virtual worlds.  Unfortunately, the absence of or extreme pricetags on luxuries which are cheap and abundant in virtual worlds has made them a miserable, demanding, and ungrateful populace.  Happiness penalty.)  7
+(2 Unset)
 Special features:
 (Unset)
+
+Fifteenth Suggestion:  (Incomplete)
+Pro-War AI
+Bored and empathy-deficit AI overseers in this territory did not, for the most part, outright take control of it.  Instead, they encouraged hatreds to break out, helped to organize them, and carefully protected the territory's key industres from all combatants.  Now some very excitedly happy AI are playing wargames forever, or at least until we put a stop to it; thankfully, the local AI overlords are not capable of building hyperspace ships!
+Challenges:
+Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.)  1
+Tyrannical Omniscience (This system is suffering close governance by an AI overlord intolerant of biological variation and only grudgingly working towards the public service obligations it was installed to serve. Happiness penalty.)  2
+Determinist Culture (Stock. Happiness penalty.)  3
+Anti-Statisticians  (Long-term economic planning has been crushed on this planet by competitively-designed AI bankers whose attempts to subvert all exploitable patterns render the local market impenetrable and incomprehensible.  Rate of return penalty.)  4
+Rampant Wardrones (The sectors of this planet are controlled by and/or dedicated to fighting against control by AI wardrones, and the galaxy is horrified. Influence penalty.)  5
+Warring Nations (Stock.  Influence penalty.)  6
+Territorial Dispute (Stock.  Influence penalty.)  7
+Radioactive Fallout (Stock.  Crowding penalty.)  8
+Orbital Bombardment (Stock.  Crowding penalty.) 9
+Special features:
+AI overseers
 
 ---
 I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public can cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.
@@ -231,7 +248,6 @@ Once I have enough thoughts on cure techs built up, I'll know what kind of cure 
 
 ---
 Challenge concepts that I don't have anywhere else to put:
-Cultural Hypercompetition  (The people of this planet have a broadly unidirectional engagement with galactic culture, in that they measure themselves against the best in the galaxy, yet have themselves no local talent of such renown.  The resulting sense of perpetual inadequacy makes local cultural specialists timid and easily discouraged.  Cultural specialist penalty.)
 Law of Love  (The highly developed strictures of romantic and sexual ethics in this system are so widely followed and consistently supported by the public that reproductive rates are depressed system-wide.  Reproductive penalty.) - I intend that this would be cured with Reproduction Mandate, should a player dare.
 
 ---

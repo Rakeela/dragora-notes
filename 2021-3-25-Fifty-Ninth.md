@@ -18,3 +18,16 @@ There are not enough antidepressants for the way I feel today.  My actual feelin
 If women are treated as mindless breeder sex objects, and then are supposed to be grateful for it, *we understand that as wrong*, but that understanding doesn't exist for men.  Men are such universal sluts that they're *lying* if they don't want sex.  We have to *watch* them.  CAREFULLY.  A man who tells such "lies" might be capable of ANYTHING.
 
 It's so dumb.  I hate this world.  I want to have the rights that women take for granted.
+
+---
+I'm cheering myself up with food.  Even using only Huel, I can still do this.  For instance, I tried out a thicker chocolate Huel.  It was disgusting again.  The chocolate mix is just unusually sensitive to how thick it is, and it's best thin.
+
+I'm following it up with some Huel soup to get the taste out of my mouth.  The Huel soups vary in quality, but they're okay.
+
+I almost cried typing "it's so dumb" earlier, but I didn't actually.  My hedonic setpoint is heavily regenerative.  I"m always okay.  There's always someone else suffering more.
+
+---
+I noticed something while thinking about the gaps in my dexterity yesterday.  My hands tremble.  It interferes with my typing.  I drop stuff.  To write with a pen or pencil, I have to hold it so hard that my hands cramp up.  I've broken pencils in one hand before, even while trying to use them.
+
+---
+Back to [[day-post-archive]]
