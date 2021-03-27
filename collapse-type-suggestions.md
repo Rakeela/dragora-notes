@@ -240,7 +240,8 @@ Existential Dissociation (These people don't believe in their own existence.  Lo
 Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.)  3
 Glimpse Culture (This district's preferred mode of cultural output is to produce miniature representations quickly and then abandon them, rather than to develop large products in detail and then maintain them over time.  Whie there are certainly fans of this style to give it a market, the accessibility of the style has fueled a populist disdain for cultural specialization and a local antipathy to funding larger cultural works.  Cultural specialization penalty.)  4
 Psuedostatisticians (Recreational corruption dominates the culture of this planet, and attempts to prove statistical reality are actively oppressed, sometimes even violently.  The resulting uncertainties magnify all verification expenses, entrenching the problems that 'subversive' anti-bureaucratic activists are trying to oppose.  Bureaucratic penalty.)  5
-(4 Unset)
+Hyperlocal Hyperspatials (This 'planet' is an administrative fiction representing a truly impressive hyperspace city that has overcome /some/ of the usual limitations on the ability of hyperspace cities to participate in the economy.  Unfortunately, many of the most talented people who live here are theoretically incomprehensible in other spacetimes, and their talents cannot be carried into the broader Commonwealth.  Influence penalty.)  6
+(3 Unset)
 Special features:
 Any
 
