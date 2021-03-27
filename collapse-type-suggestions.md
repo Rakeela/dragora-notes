@@ -94,7 +94,7 @@ Uncoalesced (Save for a few immigrant specialists, this district's population is
 Recoalescent (This planet's population is having difficulty producing a limited number of distinct intelligences; essentially, the population is a swarm hive lacking individualism, and its actual population is presently far more indeterminate than Commonwealth metrics can represent.  Basic productivity is surprisingly unimpaired by the chaos, but the planet's financial markets are difficult to comprehend and highly error-prone due to legal and technical difficulties in establishing designations of ownership and control.  Rate of return penalty.)  3
 Emulated Nanoinfluence (The designed-sapience psychologies of this planet's population resist 'wasting time' with normal social interactions and independent personal development to an extent which contributed to the region's erosion during the assimilation crisis and risks impairing the development of large scale talent networks going forward.  Influence penalty.)  4
 Protean Wilderness (The reshaped ecology of this world has been integrated with its ubiquitous pollution of nanites and bioengineering experiments to produce an environment of bizarre and horrifically dangerous creatures.  While only a minor military threat compared to the organized might of an advanced society, having to deploy ubiquitous militarized defenses against 'nature' creates a society dreary and immiserated.  Happiness penalty.)  5
-Hyperspatial Fungus (Calculational pollution of local hyperspace has encouraged the proliferation of a form of a hyperspatial life harmless to us, but highly aversive to Beyonders.  It's difficult to summon them from this system and it's difficult to convince Beyonders on open-ended summons to travel to it.  Their absence impairs the development of local financial markets.  Rate of return penalty.) 6
+Hyperspatial Fungus (Calculational pollution of local hyperspace has encouraged the proliferation of a form of a hyperspatial life harmless to us, but highly aversive to Beyonders.  It's difficult to summon them from this system and it's difficult to convince Beyonders on open-ended summons to travel to it.  The system is stuck being a casualty of their search for stable returns on behalf of investors in other territories.  Rate of return penalty.) 6
 (3 Unset)
 Special features:
 On average, the districts in this territory have poor cultural productivity scores.
@@ -157,7 +157,7 @@ Overspecialization  (Stock.  Industrial specialist penalty.)  5
 Paradigm Shift  (Stock.  Rate of return penalty.)  6
 Extreme Family Planning  (Many of the people of this planet are ostensibly not against reproduction, but their extraordinarily perfectionistic parental ideals and multicentennial attitude towards parenting function that way regardless.  Reproduction penalty.)  7
 Obsessive Symmetry (This planet is ruled by AIs who refuse to tolerate development which they don’t consider ‘beautiful’, seriously impairing the development and deployment of heavy industrial processes. Industrial specialist penalty.)  8
-Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)
+Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)  9
 Special Features:
 Technical overseers throughout the territory.
 
@@ -230,6 +230,19 @@ Radioactive Fallout (Stock.  Crowding penalty.)  8
 Orbital Bombardment (Stock.  Crowding penalty.) 9
 Special features:
 AI overseers
+
+Sixteenth Suggestion:  (Incomplete)
+Hyperspace Negation
+Although this territory is accessible only through a damaged gate, hyperspace in its region is very much intent.  Feverish hyperspace fluctuations have done more than merely damaging forward planning in this area; the corresponding realspace of this territory is substantially indeterminate and confusing.
+Challenges:
+Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  1
+Existential Dissociation (These people don't believe in their own existence.  Local culture asserts with the force of consensus that the entirety of this planet is just a single emanation of a probabilistic pattern with billions of individual-like facets.  The effect that this has on individual psychology is not positive, as the resulting individuals are very bad at pursuing their own interests, and get very chaotic when their interests are poorly served as a result.  Happiness penalty.)  2
+Malignant Hyperconnection (A hyperspace link of alien design has been woven between the minds of the people across this system, spreading the awareness of unhappiness from person to person across much larger distances than anyone can do anything about.  Although the people here try harder than most to keep each other happy, misery is far more inescapable.  Happiness penalty.)  3
+Glimpse Culture (This district's preferred mode of cultural output is to produce miniature representations quickly and then abandon them, rather than to develop large products in detail and then maintain them over time.  Whie there are certainly fans of this style to give it a market, the accessibility of the style has fueled a populist disdain for cultural specialization and a local antipathy to funding larger cultural works.  Cultural specialization penalty.)  4
+Psuedostatisticians (Recreational corruption dominates the culture of this planet, and attempts to prove statistical reality are actively oppressed, sometimes even violently.  The resulting uncertainties magnify all verification expenses, entrenching the problems that 'subversive' anti-bureaucratic activists are trying to oppose.  Bureaucratic penalty.)  5
+(4 Unset)
+Special features:
+Any
 
 ---
 I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public can cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.

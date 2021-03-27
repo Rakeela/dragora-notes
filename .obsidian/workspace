@@ -6,7 +6,6 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,10 +17,11 @@
       {
         "id": "4204f6e05bbe919a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-3-24-Fifty-Eighth.md",
+            "file": "collapse-type-suggestions.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The-Only-World-Building-Workbook-You'll-Ever-Need.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,14 +97,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
+    "2021-3-26-Sixtieth.md",
+    "2021-3-24-Fifty-Eighth.md",
     "The-Only-World-Building-Workbook-You'll-Ever-Need.md",
     "Bibliography.md",
     "Blogs-recommended-to-me.md",
-    "2021-3-26-Sixtieth.md",
     "Untitled.md",
     "2021-3-25-Fifty-Ninth.md",
-    "collapse-type-suggestions.md",
-    "2021-3-24-Fifty-Eighth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "The-Viceroy.md"
   ]
