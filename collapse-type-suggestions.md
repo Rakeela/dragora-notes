@@ -258,8 +258,12 @@ Sufficiently advanced AIs are actual people.  If the Old Imperials construct a '
 ---
 Panarchic Wargames should probably be cured by the Panarchic Naval Port.  Once you have that development, you have the societal infrastructure to integrate the disruptive potential of the wargames in a regular manner.  So even though it's a very Panarchy problem, it also has a very Panarchy solution.  I think this represents a fair externality of the Panarchy.  Their overbuilt recreational military is partially everywhere.  It's mostly harmless, but it's too real to be free in its passage.
 
-Psuedostatisticians is something that I would expect to see cured by the Panarchic Survey technology.
+---
+Psuedostatisticians is a challenge that I would expect to see cured by the Panarchic Survey technology.  Not only are panarchic survey constructions an investment in supporting statisticians, their attitude (no practice sacred) may be able to 'reach' counter-productive anti-bureaucratists.
 
+This suggests that the Panarchy harbors antistatisticians (AI bankers whose selfishly optimized economic behavior destroys the comprehensibility of market data), while the Empire harbors psuedostatisticians (serene liars who like to see what happens when bad data gets passed off as valid).  I think that's appropriate.
+
+---
 Once I have enough thoughts on cure techs built up, I'll know what kind of cure tech thoughts pages I should build.  Hm...  I wonder if I can write a book on [[The-Viceroy]].  Is that fair play in culture?  I think it's a very impressive work and I'd be glad to extend its reach a bit more if I could.
 
 ---
