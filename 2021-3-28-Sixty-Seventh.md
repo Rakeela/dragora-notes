@@ -1,0 +1,3 @@
+#2021-3-28-Sixty-Seventh
+
+I've realized that I can tighten up my fasting schedule with little loss of hedonic potency by instituting a new rule that I skip dinner on Saturday and breakfast on Sunday.  That creates space for a 24 hour fast in the middle of the feasting period, which is long enough to enable some good deep ketosis in the middle of the fast break.  I can only eat one really large meal per day anyways, and this lets me further concentrate the two 'primary' large meals just as well as I could before.  A morning feast and an evening feast are hedonically distinct.
