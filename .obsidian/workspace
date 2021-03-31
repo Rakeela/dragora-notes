@@ -19,6 +19,7 @@
             "id": "93ca72a09fd26144",
             "type": "leaf",
             "dimension": 49.949341438703144,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,7 +32,6 @@
             "id": "e3a05ab15e43024d",
             "type": "leaf",
             "dimension": 50.050658561296856,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Occupational-Hazards-Episode-One.md",
+                "file": "2021-3-31-Seventieth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "2021-3-31-Seventieth.md",
+    "The Viceroy.md",
+    "Videogame-Wishlist.md",
+    "diversican-cloning.md",
+    "collapse-type-suggestions.md",
+    "challenge-cures.md",
+    "2021-2-4-Twenty-Second.md",
     "Occupational-Hazards-Episode-One.md",
     "Notable-Videogames.md",
-    "2021-3-31-Seventieth.md",
-    "Notable Videogames.md",
-    "medical-news-archive.md",
-    "Untitled.md",
-    "news-archive.md",
-    "News Archive.md",
-    "dragon.md",
-    "egalitarian.md"
+    "Notable Videogames.md"
   ]
 }

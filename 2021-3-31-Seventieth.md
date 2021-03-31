@@ -17,7 +17,12 @@ Speaking of potential sexuality-linked nodes, I'm tempted to copy over the revie
 ...yeah, I'm going to upload it.  That node is at [[Occupational-Hazards-Episode-One]].
 
 ---
-I've appended a new article to my [[medical-news-archive]].  It's a bit of a period piece which indicates some of what risks going unseen in pandemic-era social policy, but moreover I linked it as an indicator of something that is missing thus far in human technological development.  We don't have 
+I've appended a new article to my [[medical-news-archive]].  It's a bit of a period piece which indicates some of what risks going unseen in pandemic-era social policy, but moreover I linked it as an indicator of something that is missing thus far in human technological development.  We don't have fully developed telepresence abilities.  [[The-Viceroy]] pins the requirement on the nose here; "as good as or better than physical presence" is what telepresence has to be in order to succeed.
+
+---
+That game is evil, by the way.  I mean [[The-Viceroy]].  I could reveal what's evil about it, but no audience this decade is likely to believe me.  I've made the attempt to reveal what's evil about it in other contexts, and I'll keep trying to do so.
+
+I also intend to keep playing it.  It's gonna be a great game in a century, mark my words.  Even if it never has a sequel, there's a very material reason why the codebase doesn't have to change to make the game get less evil over time.  I'm doing my best to play the version that doesn't exist yet, instead of the version that was released.
 
 ---
 Back to [[day-post-archive]]
