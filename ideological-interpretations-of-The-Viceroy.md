@@ -69,7 +69,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     2.  The described technology sounds like some kind of hive-mind attempting on-demand cognitive load balancing for all integrated individuals.  That would accomplish this objective.  Maybe this is why so many Imperials have cat-ear antennae implants.
     3.  The 'hyperspace link' in this case might also be interpreted as some kind of stupidity-preserving social policy basket which although unintuitive can be mathematically proven to yield improved scientific performance by getting more people doing the most interesting work.  In this case, distributed thought would increase average scientific yield and reduce society's reliance on especially brilliant individuals, which (per the values of the Old Empire) would be good for reducing the amount of stress that the brilliant people suffer.
     4.  The 'hyperspace link' could also refer to an inclination to try to establish rational trust with outsiders.  In-setting, this could be an FTL knowledge-sharing link-up implemented across the Empire, such as the one that is in-universe mediated by the Library Relay.  It could even be "this planet has been equipped so that the general public can use the Library Relay network the way it was originally designed to be used".
-    5.  I believe the correct understanding is, "All simultaneous understandings are valid to the extent that they can be proven noncontradictory."  All of this sounds like stuff the Old Empire might try.
+    5.  I believe the correct understanding is, "All simultaneous understandings are valid to the extent that they can be held in a noncontradictory fashion."  All of this sounds like stuff the Old Empire might try.
 2.  
 
 ---
