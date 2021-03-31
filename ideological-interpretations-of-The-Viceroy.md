@@ -80,6 +80,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  I consider this to be one of the 'animal uplift' technologies, with the way it re-engineers minds.  Telepathic dust lowers the emotional processing differences that arise between very different people by creating a temporary local harmony in its area of effect.  This would be helpful for overcoming communication barriers between people of different species.
 
 ---
+2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
+
+---
 The Much-Reviled Lower Classes
 
 The same ideology at different levels may substantially change its moral valence and the implications about how a society is governed.  Thinking about the six factions and how they change their constituent population demographics strikes me as salient here.  If I remember correctly (I'm not presently loading the game to check), Wealth 6 is described as 'galactic average', and at Wealth 6, the population is 2/5ths upper class, 2/5ths middle class, and 1/5th lower class.
