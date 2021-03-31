@@ -19,7 +19,6 @@
             "id": "93ca72a09fd26144",
             "type": "leaf",
             "dimension": 49.949341438703144,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,10 +31,11 @@
             "id": "e3a05ab15e43024d",
             "type": "leaf",
             "dimension": 50.050658561296856,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Occupational-Hazards-Episode-One.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-3-31-Seventieth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
+    "Occupational-Hazards-Episode-One.md",
     "2021-3-31-Seventieth.md",
     "The Viceroy.md",
     "Videogame-Wishlist.md",
@@ -120,8 +122,6 @@
     "collapse-type-suggestions.md",
     "challenge-cures.md",
     "2021-2-4-Twenty-Second.md",
-    "Occupational-Hazards-Episode-One.md",
-    "Notable-Videogames.md",
-    "Notable Videogames.md"
+    "Notable-Videogames.md"
   ]
 }

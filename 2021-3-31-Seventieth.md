@@ -25,4 +25,7 @@ That game is evil, by the way.  I mean [[The-Viceroy]].  I could reveal what's e
 I also intend to keep playing it.  It's gonna be a great game in a century, mark my words.  Even if it never has a sequel, there's a very material reason why the codebase doesn't have to change to make the game get less evil over time.  I'm doing my best to play the version that doesn't exist yet, instead of the version that was released.
 
 ---
+Oh, for my notes; Zintrothian Rapture 1 was founded circa 11 AM on the Monday of March 29th, or aka 2021-3-29.  The counters on its logs are referent to that date, which was countermark '1'.
+
+---
 Back to [[day-post-archive]]
