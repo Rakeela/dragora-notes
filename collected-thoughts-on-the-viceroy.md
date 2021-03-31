@@ -1,6 +1,6 @@
 # Collected Thoughts on The Viceroy
 
-This page is currently almost blank, but I'm intending to develop it into a collected reference pointer to stuff I've said elsewhere about The Viceroy.
+This page is currently almost blank, but I'm intending to develop it into a collected reference pointer to stuff I've said elsewhere about [[The-Viceroy]].
 
 ---
 When I eventually fill this out, it will contain and/or reorganize the texts that I've posted to my Steam account page while contemplating The Viceroy.  I hope Steam doesn't lose them!

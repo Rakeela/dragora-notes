@@ -58,7 +58,7 @@ Potential Anomalies
 Do any of the ideology groups give the orbital survey technology?
 
 ---
-Of Specific technologies
+Of Specific Technologies
 
 I imagine that every node on the technology tree represents a lot of technologies which are in some way linked developments conceptually.  Implementing a technology affirms those potentials and builds them into a location, but they exist everywhere that society has sufficiently developed.  As such, every technology in the game can be interpreted as a postulate about how people should prefer to develop society in an environment of difficult immortality.
 
@@ -66,3 +66,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 1.  Distributed Thought
     1.  If you trust that intelligence is well-distributed in the population, you're occasionally wrong (horrific consequences), but you're usually just letting people work without undue stress (technical aptitude increases).  This matches the Old Empire's concept of achieving serenity through fungibility.  The literally described technology of some kind of hive-mind attempting on-demand cognitive load balancing for all integrated individuals does sound like something which could do this, but the 'hyperspace link' in this case might also be interpreted as some kind of stupidity-preserving social policy basket which although unintuitive can be mathematically proven to yield improved scientific performance by getting more people doing the most interesting work.  Either way, implementing Distributed Thought looks like it would increase average scientific yield while letting a few more of science's peak producers live at liberty.
+
+
+---
+The Much-Reviled Lower Classes
+
+The same ideology at different levels may substantially change its moral valence and the implications about how a society is governed.  Thinking about the six factions and how they change their constituent population demographics strikes me as salient here.  If I remember correctly (I'm not presently loading the game to check), Wealth 6 is described as 'galactic average', and at Wealth 6, the population is 2/5ths upper class, 2/5ths middle class, and 1/5th lower class.
+
+Each faction is defined by a specific 'ascension' pattern.  For instance, the Panarchy Ritualists turn Commonwealth citizens into Imperial citizens, then they turn Imperial citizens into Panarchists.  This is the inverse of the Commonwealth Unifiers, who turn Panarchists into Imperial citizens, and then into Commonwealth citizens.  As Wealth increases, the ascension pattern moves.  (Also, population growth increases, but that is just bogus.)
+
+When you pick up a territory, it has mostly collapsed, and it is mostly comprised of the failures of another faction.  In The Viceroy, you are *always* taking over the failed territories of your enemies, and you're always fighting a rebellion from your lower class.  (You are *also* always governing on *behalf of* that rebellion; canonically, you always close out assignments by giving the redeveloped territory *back*!  (This is why I like not killing rebels!!))  At the start of each assignment, the population is 4-5ths lower class, and at that level it may or may not be able to manage a decent modern sewage system, let alone a galactic society.
+
+Since the *violent* conflicts between the factions are focused on the lower classes, each faction presumably most hates the lower classes of their opposing faction most.  So the Commonwealth Unifiers loathe the Panarchy because of what the Panarchic lower class is like, and the Panarchic Ritualists loathe the Commonwealth because of what the Commonwealth lower class is like.
+
+The game doesn't give us too much hatred from which to demonize the lower classes, and I'm glad of that; The Viceroy has a gentle touch in some of the ways that matter.  Still, we get some clue about what the lower classes of the Commonwealth are like when the Panarchic Ritualists decry the 'authoritarianism' of the Commonwealth.  Look at the Commonwealth Unifier tech tree (upper right), and then imagine that ideology if it were being espoused by people who thought the best two techs on the tree were Reproductive Mandate and Nationalist Indoctrination.  I think that's what the Panarchy Ritualists rankle against: the worst people in the Commonwealth, the ruiners and eaters of the Commonwealth territories, are sexually-obsessed singers of praise to dear leader who think that people should be literally punished if they don't have enough sex.
+
+What would the other examples be like?  If I can come up with at least one more, I'll reorganize this information into a section analogous to the Six Subcultures section for describing the Three Lower Classes.

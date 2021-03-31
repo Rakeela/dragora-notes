@@ -2,10 +2,10 @@
 
 I was contemplating my Science News Archive page recently.  I haven't recorded any of the science news links that I've read recently (and in fact have updated that page reiterating my uncommitment), but I still think it's a good idea which would produce an archive that I would actually use if I did it.  So I've decided that a way to improve my feeling about committing to it would be to generalize it.  This will be my new top-level page for my News Archive category.  It will link to topic-sorted News Archive subpages.
 
-[[Medical News Archive]]
-[[Science News Archive]]
-[[Climate News Archive]]
-[[Environmental News Archive]]
+[[Medical-News-Archive]]
+[[Science-News-Archive]]
+[[Climate-News-Archive]]
+[[Environmental-News-Archive]]
 
 ---
 I wonder if I should create a starting page to host my toppest top-level content organization, though if so I'm not there yet.
