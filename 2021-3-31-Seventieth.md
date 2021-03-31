@@ -12,4 +12,12 @@ I'm NOT misusing the phrase 'rape culture'; I was pressured into years of cybers
 If I make that writeup on 'Echoes of the Perfect Form' (EPF) which I talked about in the [[dragon]] node, I could start wikilinking the moments where I complain about being sexually disinterested in moments.  I'm just a bit reluctant to create a hotness-scales node in my notes archive.
 
 ---
+Speaking of potential sexuality-linked nodes, I'm tempted to copy over the review I gave for Occupational Hazards: Episode 1 into a [[Notable-Videogames]] sub-node.  That game is not just a porn game to me.  Unlocking the entire gallery involved solving a challenging little implicit math puzzle that produced a very satisfying mental map.  I'm not sure even the game's developer noticed what they did, and whether the developer noticed or not, I'd like more people to notice it.  That game indicates good ludonarrative potentials.
+
+...yeah, I'm going to upload it.  That node is at [[Occupational-Hazards-Episode-One]].
+
+---
+I've appended a new article to my [[medical-news-archive]].  It's a bit of a period piece which indicates some of what risks going unseen in pandemic-era social policy, but moreover I linked it as an indicator of something that is missing thus far in human technological development.  We don't have 
+
+---
 Back to [[day-post-archive]]
