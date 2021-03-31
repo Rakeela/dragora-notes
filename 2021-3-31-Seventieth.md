@@ -9,4 +9,7 @@ We need a Glasswall.  I don't mind someone 'stealing' an idea so much if they're
 I'm NOT misusing the phrase 'rape culture'; I was pressured into years of cybersexual performances for Stan the Omniscient.  The carrot-and-stick system pointed at me was ultimately all stick.  I never would've given over sexual consent if I knew the day I withdrew sexual consent would see me marked a rapist.  I am not a rapist; I am not even sexually interested in humans!
 
 ---
+If I make that writeup on 'Echoes of the Perfect Form' (EPF) which I talked about in the [[dragon]] node, I could start wikilinking the moments where I complain about being sexually disinterested in moments.  I'm just a bit reluctant to create a hotness-scales node in my notes archive.
+
+---
 Back to [[day-post-archive]]
