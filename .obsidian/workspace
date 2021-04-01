@@ -19,10 +19,11 @@
             "id": "93ca72a09fd26144",
             "type": "leaf",
             "dimension": 49.949341438703144,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable-Videogames.md",
+                "file": "Novel-Challenge-Cures.md",
                 "mode": "source"
               }
             }
@@ -31,7 +32,6 @@
             "id": "e3a05ab15e43024d",
             "type": "leaf",
             "dimension": 50.050658561296856,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collapse-type-suggestions.md",
+                "file": "Novel-Challenge-Cures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Novel-Challenge-Cures.md",
     "collapse-type-suggestions.md",
-    "ideological-interpretations-of-The-Viceroy.md",
+    "challenge-cures.md",
+    "The-Viceroy.md",
+    "Qualms-per-Challenge.md",
     "Notable-Videogames.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-3-31-Seventieth.md",
     "Occupational-Hazards-Episode-One.md",
-    "The Viceroy.md",
-    "Videogame-Wishlist.md",
-    "diversican-cloning.md",
-    "challenge-cures.md",
-    "2021-2-4-Twenty-Second.md"
+    "The Viceroy.md"
   ]
 }
