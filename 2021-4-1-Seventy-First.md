@@ -1,0 +1,14 @@
+#2021-4-1-Seventy-First
+
+It steps a little beyond the note I just added to [[notes-on-tolerogenic-dendritic-cells]], but I wonder if I could research 'cellular minimalism', trying to engineer functional transgenic cell lines which have knocked out as many of their functions as possible while still working for some purpose or another.  Would such cells have any advantages?
+
+---
+I woke up today feeling a little like I slept in an ocean of tears.  I had various dreams, and that was arguably the fourth of them.  The first of the night was both disturbing and disappointing; I can't recall it well enough to talk about it, and what little I do recall is not appealing.
+
+The second was a little better.  I had a dream of a party to which a bunch of birds were invited, heh.  One of them was particularly colorful and affectionate; its head came to my hip, and it pressed against me as I stroked its iridescent feathers.
+
+After the party had gone on for a while, there was a disruptive and ugly moment where ripples of harsh laughter filled the room; looking for the source, I discovered that the party-goers were mocking one of the birds for saying that everyone would be happy if they bred.  "Uplift wisdom!" jeered one of the attendees.  There had been some brief discussion of what the meaning of happiness was, apparently, occurring in the other side of the room from where I was near; "Breed everyone!" had been the exuberant statement from one of the room's most talkative birds which set the room into hysterics when it was said very loudly.  I disapproved very much of what the bird said, but I also greatly disliked the party-goers for reacting so *harshly* to it, so...  I left the party, which is to say I left the dream, to dream of something else.
+
+I had four dreams last night, and the third I don't remember (though I remember sunlit streets and the dream's emotional tone seemed bright), but the fourth dream was that I dreamed I was sleeping in water.  I was also in my bedroom, which was half-flooded; I felt like I was in a dozy half-awake state, contemplating the decision that Kistaro and I had made to try sleeping in a flooded bedroom.  Impossibly, a wave moved through the room, and in my floating slumber I was pushed up against the bookshelves; it was no fierce impact, but rather I bobbed into the books, and thought, "Oh no!  We forgot about our books.  All of these must be ruined by water now."
+
+From there I awoke for real, and though my dreams were fine overall, still I've been sniffling teary-eyed this morning, feeling like a hulk of wasted potential.
