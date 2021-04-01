@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "collapse-type-suggestions.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Notable-Videogames.md",
     "2021-3-31-Seventieth.md",
@@ -120,7 +121,6 @@
     "The Viceroy.md",
     "Videogame-Wishlist.md",
     "diversican-cloning.md",
-    "collapse-type-suggestions.md",
     "challenge-cures.md",
     "2021-2-4-Twenty-Second.md"
   ]

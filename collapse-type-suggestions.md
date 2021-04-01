@@ -211,7 +211,8 @@ Garbage-Scavenging Poverty  (The industrial economy in this district was hollowe
 Inhuman Prioritization (This district’s economy is geared towards servicing priorities that make sense only to artificial intelligences, and its ability to meet the needs of its inhabitants has been severely compromised. Happiness penalty.)  5
 Corrosive Plague (Stock.  Upkeep penalty.)  6
 Ex-Virtual Refugees (This planet has been designated for resettlement by individuals rescued from collapsing virtual worlds.  Unfortunately, the absence of or extreme pricetags on luxuries which are cheap and abundant in virtual worlds has made them a miserable, demanding, and ungrateful populace.  Happiness penalty.)  7
-(2 Unset)
+Mind-Merge Aftermath  (This system's population recently collapsed due to an epidemic outbreak of dangerous mind-merge technologies.  While the result for the territory has arguably been to reset it to a comprehensible state from which development can proceed, mind-merge revenants are considered a disquieting kind of immortal, and there are quite a lot of them living here.  Influence penalty.)  8
+(1 Unset)
 Special features:
 (Unset)
 
