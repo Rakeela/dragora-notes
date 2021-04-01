@@ -19,3 +19,14 @@ Mel - or rather, his "dragon elf" character, whose name I've forgotten - present
 In [[The-Viceroy]], the Commonwealth has natalist policies, reproductive mandates, and nationalist indoctrination in the same tech tree that contains basic incomes, leisure subsidies, and radical policing.  They're Mel-style "pacifists", enforcing their fucking-not-fighting future.  Except that some of the people they're enforcing it *against* want neither fucking nor fighting, and there's no place in the Commonwealth for that.
 
 The Empire in that game can tolerate people who don't want to fuck or fight... but they're dishonest, homogenizing, and their territories fall in the ugly brutality that they call 'justice'.
+
+---
+I attended a video conference chocolate tasting with Kistaro and Kistaro's coworkers.  I didn't participate much; I was intimidated to speak to that audience.  I got to see a few of Kistaro's coworkers.  I doubt I'll remember their names.
+
+I finished the tasting feeling sick, which surprised me.  I have a tremendous appetite for sweets.  I also finished it with a very strong protein craving and I felt like I'd feel better with some protein, so I lobbied for a burger delivery, and we put the order in.  The place we ordered from had soft pretzels on the menu, so I ordered one of those as well.
+
+Sometimes I like to think about how my tastes have changed over time.  Pretzels, for instance, were bland when I was a kid.  (I still think dry/hard pretzels have no flavor save salt.)  At some point, soft pretzels and pretzel bread took on a delicate flavor that I've found pleasure in ever since.  The same thing happened to sugar cookies; despite my love of sugar, I only started liking sugar cookies in adulthood.
+
+Conversely, when I was a kid I couldn't tolerate spicy foods, which isn't to say I disliked them.  I could be brought to tears by 'mild' food, which is an awesome sensitivity whose fading I kind of regret, but even so I really enjoyed the flavors.  As I pushed into the challenge, my tolerance increased.  Today I suspect I have 'average' spice tolerance.  I don't like pain-flavored foods, but I pick up a lot of flavor notes in moderately spicy foods, and there's a tearjerking take on Basil Fried Rice that one of the local Thai restaurants sells.  It's pretty much amazing despite going over my usual limit.
+
+There's a few things I've lost my taste for, too.  Um, none of them come to mind right now, but a quiet note of anxiety is what prompted me to write this up.  Even though my love of sugar is trouble for my health, I hope I never lose my taste for sweets.  It just seems like it would be strange to be *me* without liking sweets.
