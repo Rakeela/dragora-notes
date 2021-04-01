@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel-Challenge-Cures.md",
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Novel-Challenge-Cures.md",
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "notes-on-tolerogenic-dendritic-cells.md",
     "Novel-Challenge-Cures.md",
     "collapse-type-suggestions.md",
     "challenge-cures.md",
@@ -121,7 +122,6 @@
     "Notable-Videogames.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-3-31-Seventieth.md",
-    "Occupational-Hazards-Episode-One.md",
-    "The Viceroy.md"
+    "Occupational-Hazards-Episode-One.md"
   ]
 }
