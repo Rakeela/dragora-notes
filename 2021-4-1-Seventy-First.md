@@ -12,3 +12,10 @@ After the party had gone on for a while, there was a disruptive and ugly moment 
 I had four dreams last night, and the third I don't remember (though I remember sunlit streets and the dream's emotional tone seemed bright), but the fourth dream was that I dreamed I was sleeping in water.  I was also in my bedroom, which was half-flooded; I felt like I was in a dozy half-awake state, contemplating the decision that Kistaro and I had made to try sleeping in a flooded bedroom.  Impossibly, a wave moved through the room, and in my floating slumber I was pushed up against the bookshelves; it was no fierce impact, but rather I bobbed into the books, and thought, "Oh no!  We forgot about our books.  All of these must be ruined by water now."
 
 From there I awoke for real, and though my dreams were fine overall, still I've been sniffling teary-eyed this morning, feeling like a hulk of wasted potential.
+
+---
+Mel - or rather, his "dragon elf" character, whose name I've forgotten - presented Bonobianism as a solution for world peace.  As though there was some fuck-or-fight dichotomy that could be settled towards fucking forever.  I don't want to fuck *or* fight.  I want to read, study, and experience.  I want to build worlds *bigger* than just fucking and fighting.
+
+In [[The-Viceroy]], the Commonwealth has natalist policies, reproductive mandates, and nationalist indoctrination in the same tech tree that contains basic incomes, leisure subsidies, and radical policing.  They're Mel-style "pacifists", enforcing their fucking-not-fighting future.  Except that some of the people they're enforcing it *against* want neither fucking nor fighting, and there's no place in the Commonwealth for that.
+
+The Empire in that game can tolerate people who don't want to fuck or fight... but they're dishonest, homogenizing, and their territories fall in the ugly brutality that they call 'justice'.
