@@ -1,5 +1,31 @@
 #Novel-Challenge-Cures
 
+I'm likely to do this wrong.  It's dreadful fan work and I'll surely make errors, such as balancing the cures improperly around the ideologies.  I'm far from assembling a complete idea of what the ideologies in the game actually are.
+
+Cures for Novel Challenges
+1.  Panarchic Wargames
+	1.  Proposed cure technology:  Panarchic Navy
+		1.  Justification:  The Panarchy can regularize and reorganize its forces if its authority is acknowledged, resolving the disruptions that they cause.
+		2.  Apologia in Defiance:  Leaving the issue in place doesn't drive away the panarchy's navy, but it also refrains from acknowledging their right to be present.  Operations like this are neither infinitely resilient nor indefinitely sustainable.  Given sufficient time, they will leave or be forced to depart, and we will not have given ground while they were here.  (Anti-Panarchistic.)
+		3.  Apologia in Neglect:  Bureaucratically speaking, ignoring the panarchy's military is cheap, but operating their ports is expensive.  We pay upkeep either way.  Why stress about it?  (Nonfactional.)
+	2.  Melange FIle
+		1.  Proposed cure technology:  Nationalist Indoctrination
+			1.  Justification:  To get people to stop using melange files, the impairment that their shifting personalities impose to broader society has to be driven home to them.  When the public is widely convinced that they need to find ways to conform their personality types to the needs of their nation, the only people who'll keep using melange files will be the dregs of society.
+			2.  Apologia in Defiance:  Melange files accelerate retraining, increase psychological resilience, and do no harm to public health.  Galactic society claims it doesn't know how to integrate immortal users of melange files, but this just shows the stagnating narrowness which we've accepted as the peak of all possible wealth.  People who want to see change in society should be supported and enabled, not oppressed.  (Panarchic.)
+			3.  Apologia in Neglect:  It's what people want to do.  You want us to go out there and stop them?  Why bother?  (Nonfactional.)
+
+---
+I'm not sure what the Mind-Merge Aftermath issue should be cured by, but I was thinking about it.  It's based on the idea that very mature cyberocracies may see 'meta-identity proofs', extensive consciousness sharing, willing archetypal optimization, and other memetic hazards which result in great swathes of society being comfortably willing to accept that they are indeed identical to each other... and that for each defined interchangeable populace, there are 'collective' advantages to losing the dupes and concentrating the identicals into a smaller number of conscious beings.  Post-concentration individuals are mind-merge revenants.
+
+The concept here is that galactic society considers such beings extremely probably stable, but still conceptually disturbing, and it only reluctantly admits them among the immortals of the galaxy.  So for the cure, I was thinking that this should be cured by whichever faction would be most *enthused* to meet mind-merge revenants.  To that, I'm not sure; the identity collapse story is ideologically resonant with the Old Empire, but I feel like the Commonwealth Unifiers might love them even more.  The Old Empire knows it /does/ collapse despite its unity, but it doesn't /want/ to collapse in unity.  The Commonwealth Unifiers strike me as singularitans, who would love to go looking for some excuse to count mind-merge revenants among their numbers.
+
+Each mind-merge revenant constitutes a huge singular aggregation of talent and experience, after all.
+
+Since it represents the largest investment in densifying the society of the Commonwealth Unifiers and is on one of the tips of their tech tree, I think 'Three Shift Society' strikes me as representing a sufficient local concentration of the faction's ideas to create an area that accepts and makes influential the contributions of mind-merge revenants.  Alternatively, attributing the cure tech to 'Right to Competence' may be appropriate for helping to indicate the kind of talent sources that the Commonwealth Unifiers are glad to tap for their struggle to get competent leaders in place all across the Commonwealth.  Lacking the galactic bias against the mind-merge revenants, the Unifiers would see them as people who withstood the sorrows of a world collapsing into them, and gained that much perspective on life.
+
+---
+Below retained for archival purposes.
+
 ---
 I may want to start adding cure-tech proposals to each of these.  For instance, my intent with Anti-Statisticians is that it would be cured with Distributed Thought, representing that the public cure the AI chaos problem by learning to re-interpret the investment market from first principles rather than remaining bound to mistaken prior understandings.  This practice of falling back gently upon the underutilized minds so that their understanding helps society develop is very much the kind of thing that I imagine the Old Imperials taking pleasure in.
 
