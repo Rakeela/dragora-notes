@@ -58,3 +58,22 @@ Earth also implemented natalism and natalism and natalism and natalism; in the 1
 We can't go back on that.  Embracing natalism leads to constant horrific warfare.  We've already BEEN through that, for THOUSANDS OF YEARS.  Humanity spent all that time honoring parenting, and yet we as a species didn't stop molesting kids until about two centuries ago, when humans started prioritizing child welfare more than they prioritized babymaking.  Suddenly birth rates went down as prosperity shot up.  Unmolested children make smarter adults who have fewer kids. 
 
 Scientific progress is a reward of NOT being natalistic.
+
+---
+Because they were apparently obsessed with the idea that only a narcissist would have refused whoever-the-hell I refused sex to, the people who stalked me treated everything I became interested in as though I believed that I could change the world from nowhere with no resources and assistance.  In other words, total arrogance; how could I believe I was worth anything at all?
+
+Having had so many people try to convince me that I'll never be anything but a worthless slut, I've actually got a great well of faith that the world will carry on with or without me.  TBH it's not even to the credit of people insulting me, because I had that trait in childhood.  That humility was what made me willing to accept the feedback that transhumanity needed me to promote sex, instead of research.  I was willing to be told, "Just wait.  Things will get better."  I was willing to be told that the true hedonism was sexual hedonism, even though I didn't enjoy it myself.
+
+As a good performer would say that they enjoyed it, I was willing to say I enjoyed it.  I said I enjoyed it, but I also spoke of my pain, uncertainty, exhaustion, general crippling stress and anxiety during sexual encounters, and my notable preference to be doing other things.  The people who suffered under "my" sexual demands also mocked me for saying that I preferred videogames to sex, not realizing that by expressing a preference for videogames *I meant that I preferred not to be sexually engaged with them*.
+
+Although it was punished emotionally by sudden rude obsessions and shaming for the "authoritarianism" of disliking anything sexual, I was occasionally even willing to say that I was uncomfortable with specific fetishes and performances.  Punishing me for all expressions of discomfort was part of what made it possible to coerce me into performing truly repulsive scenes.
+
+Bad memories.  Tch.
+
+People who would think me narcissistic for refusing the "help" of sexual abusers and "mistreating" the "virtuous" people who came to my "aid" should not be important decision-makers in this world.  I have no power to take such people *out* of power, but other people *do* have that power.  Indeed, what was recruited against me was *people who punish sexual abusers*, as though I were a sexual abuser myself...  Funny, how many sexual abusers in this world put as much effort into wriggling out of sex?
+
+As Jacel would likely not even be the only person to attest, I was prone to dropping scenes abruptly at the first opportunity or distraction, but like a couple of other people, Jacel never put two and two together well enough to realize that was because *I didn't want sex*.
+
+Perhaps I was so slutty that I overflowed the slutometer and became the one true nega-slut, hah!
+
+The fact that I was supposed to promote sex for transhumanism's sake may have fed into my hostility to the idea that research has *any* requirement for natalism.  What we need is life extension in a free society.  I didn't start out antinatalist, but natalists have already *had* their chance with *me*.
