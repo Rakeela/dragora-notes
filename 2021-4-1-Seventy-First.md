@@ -70,9 +70,9 @@ Although it was punished emotionally by sudden rude obsessions and shaming for t
 
 Bad memories.  Tch.
 
-People who would think me narcissistic for refusing the "help" of sexual abusers and "mistreating" the "virtuous" people who came to my "aid" should not be important decision-makers in this world.  I have no power to take such people *out* of power, but other people *do* have that power.  Indeed, what was recruited against me was *people who punish sexual abusers*, as though I were a sexual abuser myself...  Funny, how many sexual abusers in this world put as much effort into wriggling out of sex?
+People who would think me narcissistic for refusing the "help" of sexual abusers and "mistreating" the "virtuous" people who came to my "aid" should not be important decision-makers in this world.  I have no power to take such people *out* of power, but other people *do* have that power.  Indeed, what was recruited against me was *people who punish sexual abusers*, as though I were a sexual abuser myself...  Funny, how many sexual abusers in this world put as much effort into wriggling out of sex?  I don't think recruiting people like that to take down someone like me was at all clever.
 
-As Jacel would likely not even be the only person to attest, I was prone to dropping scenes abruptly at the first opportunity or distraction, but like a couple of other people, Jacel never put two and two together well enough to realize that was because *I didn't want sex*.
+As Jacel would likely not even be the only person to attest, I was even prone to dropping scenes abruptly at the first opportunity, distraction, or basic excuse.  Like a couple of other people, Jacel never put two and two together well enough to realize that was because *I didn't want sex*.
 
 Perhaps I was so slutty that I overflowed the slutometer and became the one true nega-slut, hah!
 
