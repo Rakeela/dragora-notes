@@ -77,3 +77,6 @@ As Jacel would likely not even be the only person to attest, I was even prone to
 Perhaps I was so slutty that I overflowed the slutometer and became the one true nega-slut, hah!
 
 The fact that I was supposed to promote sex for transhumanism's sake may have fed into my hostility to the idea that research has *any* requirement for natalism.  What we need is life extension in a free society.  I didn't start out antinatalist, but natalists have already *had* their chance with *me*.
+
+---
+Back to [[day-post-archive]]
