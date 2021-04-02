@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
+                "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
                 "mode": "source"
               }
             }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-4-2-Seventy-Second.md",
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
+                "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "notes-on-tolerogenic-dendritic-cells.md",
+    "Universal tolerogenic dendritic cell experiment 1.md",
+    "2021-4-2-Seventy-Second.md",
     "Untitled.md",
     "character-gallery.md",
     "AoWCommanders Profiles.md",
     "The-Viceroy.md",
     "2021-4-1-Seventy-First.md",
-    "Untitled 1.md",
-    "ideological-interpretations-of-The-Viceroy.md",
-    "challenge-cures.md",
-    "collapse-type-suggestions.md"
+    "Untitled 1.md"
   ]
 }
