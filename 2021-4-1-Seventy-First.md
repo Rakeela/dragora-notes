@@ -79,7 +79,7 @@ Perhaps I was so slutty that I overflowed the slutometer and became the one true
 The fact that I was supposed to promote sex for transhumanism's sake may have fed into my hostility to the idea that research has *any* requirement for natalism.  What we need is life extension in a free society.  I didn't start out antinatalist, but natalists have already *had* their chance with *me*.
 
 ---
-Jacel played some co-op games with me, but I really wish sie'd taken me up on workshop projects.  I didn't want to boil bismuth for *me*.  I wanted to boil bismuth *with* someone.  Yet I was held to it as though I were somehow proving myself not worthy of hatred as an inadequate and failed sex slave by doing it...
+Jacel played some co-op games with me, but I really wish sie'd taken me up on workshop projects.  I didn't want to boil bismuth for *me*.  I wanted to boil bismuth *with* someone.  Yet I was held to it as though I were somehow proving myself not worthy of hatred as a failed servant by doing it...
 
 ...I think Jacel just hated me.  I still wanted to do things with hir, but sie could only complain about how I "didn't do anything".  I offended hir with my inadequate porn output and my interest in unacceptable subject matter, such as how Ihroun's sexually abusive childhood affected the development of her adult sex life.  Jacel, I think, hated me *so much* that sie treated me as *endorsing child abuse*, even though it was also such an unsexy and emotionally intimate subject matter that I think if sie loved me, sie would have been drawn into it as a drama project.
 
