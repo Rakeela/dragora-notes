@@ -1,6 +1,6 @@
 # Challenge Cures
 
-I've decided to accrete and publish a complete list of which challenges in The Viceroy are cured by which technologies.  This is to help me with producing [[Collapse Type Suggestions]].
+I've decided to accrete and publish a complete list of which challenges in The Viceroy are cured by which technologies.  This is to help me with producing [[Collapse-Type-Suggestions]].
 
 ---
 Challenges by Set:

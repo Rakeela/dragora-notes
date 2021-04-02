@@ -22,6 +22,8 @@ Notes for potential essays:
 * [[notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]]
 * [[notes-on-tolerogenic-dendritic-cells]]
 
+Experimental proposals:
+* [[Universal-tolerogenic-dendritic-cell-experiment-1]]
 
 Back to [[authors-writing]]
 

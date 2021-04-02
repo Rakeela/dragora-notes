@@ -17,7 +17,7 @@ I'm considering making a gallery of Viceregal characters akin to the [[aowcomman
 ---
 
 Related Games:
-[[After the Empire]]
+[[After-the-Empire]]
 
 Back to [[Notable-Videogames]]
 

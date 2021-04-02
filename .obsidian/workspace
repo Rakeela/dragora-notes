@@ -6,6 +6,7 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -19,7 +20,6 @@
             "id": "93ca72a09fd26144",
             "type": "leaf",
             "dimension": 49.949341438703144,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
+                "file": "reincarnation.md",
                 "mode": "source"
               }
             }
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
-    "notes-on-tolerogenic-dendritic-cells.md",
-    "Universal tolerogenic dendritic cell experiment 1.md",
-    "2021-4-2-Seventy-Second.md",
-    "Untitled.md",
+    "authors-ideals.md",
+    "reincarnation.md",
+    "privacy.md",
+    "pacifist.md",
+    "night-and-day.md",
+    "paprika.md",
     "character-gallery.md",
-    "AoWCommanders Profiles.md",
-    "The-Viceroy.md",
-    "2021-4-1-Seventy-First.md",
-    "Untitled 1.md"
+    "Author's Fiction.md",
+    "Warlockisms.md",
+    "authors-writing.md"
   ]
 }

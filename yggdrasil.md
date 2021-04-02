@@ -15,3 +15,6 @@ I would agree to a correctly presented upload scheme presented by aliens.  There
 
 ---
 Nonconsensual upload may be the most unethical of all acts, but the ethical value of consensual upload is determined by the degree to which the uploader respects the rights of the uploadee.
+
+---
+Back to [[authors-ideals]]
