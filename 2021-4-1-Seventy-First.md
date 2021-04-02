@@ -84,4 +84,7 @@ Jacel played some co-op games with me, but I really wish sie'd taken me up on wo
 ...I think Jacel just hated me.  I still wanted to do things with hir, but sie could only complain about how I "didn't do anything".  I offended hir with my inadequate porn output and my interest in unacceptable subject matter, such as how Ihroun's sexually abusive childhood affected the development of her adult sex life.  Jacel, I think, hated me *so much* that sie treated me as *endorsing child abuse*, even though it was also such an unsexy and emotionally intimate subject matter that I think if sie loved me, sie would have been drawn into it as a drama project.
 
 ---
+Heck, I'm still drawn to it as a drama project.  I don't feel like I'm skilled enough to pull it off, but I think about it enough.  I sometimes comment about saying I want do something in a century or two, or similar sentiments, but this isn't something I'd do in a century.  Writing Ihroun's story feels more like something that I might do in thirty years.  For some reason, I feel like I may be able to publish it in 2052.
+
+---
 Back to [[day-post-archive]]
