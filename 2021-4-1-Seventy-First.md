@@ -66,13 +66,13 @@ Having had so many people try to convince me that I'll never be anything but a w
 
 As a good performer would say that they enjoyed it, I was willing to say I enjoyed it.  I said I enjoyed it, but I also spoke of my pain, uncertainty, exhaustion, general crippling stress and anxiety during sexual encounters, and my notable preference to be doing other things.  The people who suffered under "my" sexual demands also mocked me for saying that I preferred videogames to sex, not realizing that by expressing a preference for videogames *I meant that I preferred not to be sexually engaged with them*.
 
-Although it was punished emotionally by sudden rude obsessions and shaming for the "authoritarianism" of disliking anything sexual, I was occasionally even willing to say that I was uncomfortable with specific fetishes and performances.  Punishing me for all expressions of discomfort was part of what made it possible to coerce me into performing truly repulsive scenes.
+Although it was punished emotionally by sudden rude obsessions and also shaming for the "authoritarianism" of disliking anything sexual, I was occasionally even willing to say that I was uncomfortable with specific fetishes and performances.  Punishing me for all expressions of discomfort was part of what made it possible to coerce me into performing truly repulsive scenes.
 
 Bad memories.  Tch.
 
 People who would think me narcissistic for refusing the "help" of sexual abusers and "mistreating" the "virtuous" people who came to my "aid" should not be important decision-makers in this world.  I have no power to take such people *out* of power, but other people *do* have that power.  Indeed, AFAIK the people who were recruited to punish me were *people who punish sexual abusers*, as though I were a sexual abuser myself...  Funny, how many sexual abusers in this world put as much effort into wriggling out of sex?  I don't think recruiting people like that to take down someone like me was at all clever.
 
-As Jacel would likely not even be the only person to attest, I was even prone to dropping scenes abruptly at the first opportunity, distraction, or basic excuse.  Like a couple of other people, Jacel never put two and two together well enough to realize that was because *I didn't want sex*.
+As Jacel would likely not even be the only person to attest, I was even prone to dropping scenes abruptly at the first opportunity, distraction, or basic excuse.  Like a couple of other people, Jacel never put two and two together well enough to realize that was because *I didn't want sex*.  Jacel was notably intolerant of all "I don't like sex" feedback out of me, like some of the people who in hindsight I think were stalking me to sexually exploit me.  I wasn't allowed to be disliking sex honestly, I had to be "lying" about disliking sex...
 
 Perhaps I was so slutty that I overflowed the slutometer and became the one true nega-slut, hah!
 
