@@ -6,7 +6,6 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -32,10 +31,11 @@
             "id": "e3a05ab15e43024d",
             "type": "leaf",
             "dimension": 50.050658561296856,
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reincarnation.md",
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "mode": "source"
               }
             }
@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +113,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "authors-ideals.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
     "reincarnation.md",
+    "reputation-markets.md",
+    "authors-ideals.md",
     "privacy.md",
     "pacifist.md",
     "night-and-day.md",
     "paprika.md",
     "character-gallery.md",
-    "Author's Fiction.md",
-    "Warlockisms.md",
-    "authors-writing.md"
+    "Author's Fiction.md"
   ]
 }
