@@ -21,4 +21,11 @@ This was a random thought which occurred to me about how to create nanoreplicant
 I also found myself imagining handheld 'broadcast wands' used to finely direct nanites.  I tend to imagine future humanity living in a bright albeit hazy world of individual nanite swarms, with most if not all people having their own personal swarm.  A stage where people have to use a powerpack backpack and a broadcast wand to direct their swarm could be an intermediary tech.
 
 ---
+I read an article today about William Pierce, author of the Turner Diaries.  It was more about his son, Kevin Pierce, who is afraid that he has some kind of genetic flaw which shouldn't be passed on.  I'm grateful to my own dad for teaching me that there's a place for everyone in this world.  That lesson has been very protective for me.
+
+I wish Jerry's attitude towards gay people had been clearer; sometimes he was okay with them, sometimes he was inexplicably hateful.  His opposition to gay people was *inarticulate*; something about the thought of homosexuality seemed to emotionally overload him.  For years I wondered if he got raped by a guy or something back in California, though I don't think that happened.  The only articulate thing I remember him ever saying about what 'the gay agenda' actually was, was that he thought they were stupid for opposing firearms rights, "because God made men and women, but Samuel Colt made them equal."  He was of the opinion that anyone 'marginalized' in society ought to be carrying firearms.  I used to be committed to that position as well; I'm still *of* of that position, but my attitude has tended towards 'whatever' on it.
+
+He hated Muslims, too.  I wish he'd had better reasons for opposing Islamic influences.  I think he was correct, but I think he was correct because Islam opposes diversity in society, and is against his concept that everyone has a place.  That *wasn't* the argument he used.  Instead, he had some theological point that didn't make much sense to me, objecting to something about Islamic worship that I didn't understand and don't remember.  He also literally disliked turbans...  which was like... what?  Why would someone care that much about headgear?
+
+---
 Back to [[day-post-archive]]
