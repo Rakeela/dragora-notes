@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "authors-nonfiction.md",
+            "file": "2021-4-2-Seventy-Second.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authors-nonfiction.md",
+                "file": "2021-4-2-Seventy-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "2021-4-2-Seventy-Second.md",
     "authors-nonfiction.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "day-post-archive.md",
@@ -124,7 +125,6 @@
     "2021-3-19-Fifty-Fourth.md",
     "2021-3-29-Sixty-Eighth.md",
     "2021-3-10-Forty-Ninth.md",
-    "2021-3-26-Sixtieth.md",
-    "2021-3-30-Sixty-Ninth.md"
+    "2021-3-26-Sixtieth.md"
   ]
 }
