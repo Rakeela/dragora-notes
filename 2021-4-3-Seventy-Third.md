@@ -14,4 +14,11 @@ There's a cancer research internship open at a local research center.  I want to
 Even though I'm focused on the ways that the immune system interacts with mental illness, aging, and arthritis, I also understand the connection between the work I want to do and cancer treatment.  The immune system is supposed to take down cancers.  Sometimes that works, but sometimes it ends up guarding them.  Tregs around a tumor are a bad sign.  Being able to retune the immune system would result in considerable advances in low-morbidity cancer treatment.
 
 ---
+"In order to prevent a 'grey goo' scenario, we deliberately designed our nanites to rely on energetically unfavorable chemistry, with a dependency on broadcast power.  Cut the power, cut the replication.  This also broadened our use-cases, as there are many more thermodynamically unfavorable chemical transformations than thermodynamically favorable ones.  As long as we have electricity, we need no longer be bound by entropy."
+
+This was a random thought which occurred to me about how to create nanoreplicants without having them eat everything.  Give them a reliance on an electrical supply!  You can't plug a nanite swarm into the wall, but you could plug a broadcast power station into the wall.  The range on broadcast power is pretty limited; Tesla's dream of powering a city without an infrastructure of electrical wiring was foolhardy.  Yet in this application, that malus is a virtue, as the nanoreplicants would not be able to spread beyond the range of the broadcast power station.
+
+I also found myself imagining handheld 'broadcast wands' used to finely direct nanites.  I tend to imagine future humanity living in a bright albeit hazy world of individual nanite swarms, with most if not all people having their own personal swarm.  A stage where people have to use a powerpack backpack and a broadcast wand to direct their swarm could be an intermediary tech.
+
+---
 Back to [[day-post-archive]]
