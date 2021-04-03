@@ -101,3 +101,10 @@ Since the *violent* conflicts between the factions are focused on the lower clas
 The game doesn't give us too much hatred from which to demonize the lower classes, and I'm glad of that; The Viceroy has a gentle touch in some of the ways that matter.  Still, we get some clue about what the lower classes of the Commonwealth are like when the Panarchic Ritualists decry the 'authoritarianism' of the Commonwealth.  Look at the Commonwealth Unifier tech tree (upper right), and then imagine that ideology if it were being espoused by people who thought the best two techs on the tree were Reproductive Mandate and Nationalist Indoctrination.  I think that's what the Panarchy Ritualists rankle against: the worst people in the Commonwealth, the ruiners and eaters of the Commonwealth territories, are sexually-obsessed singers of praise to dear leader who think that people should be literally punished if they don't have enough sex.
 
 What would the other examples be like?  If I can come up with at least one more, I'll reorganize this information into a section analogous to the Six Subcultures section for describing the Three Lower Classes.
+
+---
+Related pages
+[[Qualms-per-Challenge]]
+
+---
+Back to [[The-Viceroy]]
