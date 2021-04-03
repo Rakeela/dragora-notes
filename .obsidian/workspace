@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "day-post-archive.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "day-post-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +116,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "day-post-archive.md",
     "2020-11-19-First.md",
     "2020-12-1-Sixth.md",
     "2021-3-19-Fifty-Fourth.md",
@@ -120,7 +125,6 @@
     "2021-3-26-Sixtieth.md",
     "2021-3-30-Sixty-Ninth.md",
     "2021-3-28-Sixty-Seventh.md",
-    "2021-3-11-Fiftieth.md",
-    "notes-on-tolerogenic-dendritic-cells.md"
+    "2021-3-11-Fiftieth.md"
   ]
 }
