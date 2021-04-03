@@ -2,7 +2,7 @@
 
 This is a second-level organizational piece for the organization of my nonfiction writings archive.
 
-
+I need to update this with the rest of my class essays as well, but I don't feel like doing it right now. - 2021-4-2
 
 ---
 Class essays:
