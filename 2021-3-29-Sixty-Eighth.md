@@ -21,3 +21,6 @@ Well, there *was* an explosion.  The engine *still* did not behave as expected w
 The crews of the observation fleet and the prototype ship checked their sensor data in with home base on Pluto, and when enough time had passed for them to receive acknowledgments, they flew into the wireframe place, their spaceships no larger than the wireframe 'flying cars'.  A robotic probe alerted to the presence of the arrivers, this being the first observed thing in the wireframe place which was not a wireframe; with great flashing lights atop it, it flew amidst the explorers broadcasting something in the correct communication protocols yet which transmission was found to contain only sound files of speech in an alien language and an inscrutable green symbolic pattern covered in flashing red bits.  It then flew to the other side of the portal still broadcasting, its transmission repeating continuously.
 
 That was when I woke up.  I enjoy that dream on many levels.  It was long, complex, and beautiful.  I'm glad I remember it.
+
+---
+Back to [[day-post-archive]]

@@ -60,3 +60,6 @@ I could write an essay about ocean pipes off the coast of Peru.  I could pretend
 
 ---
 Now I'm thinking about Huel and wishing I could eat some.  The Thai Green Curry is pretty tasty, and I just got a new shipment with flavors I haven't tried yet, too.  It doesn't fit into my "400 calories, and ketogenic" requirement, so I'm complaining about it here instead of actually eating some...  It's a good sign if I end up wanting the stuff while I'm fasting, because if that happens consistently, cumulative intolerability will be straightforwardly resistable.
+
+---
+Back to [[day-post-archive]]

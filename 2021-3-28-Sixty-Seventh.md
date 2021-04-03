@@ -11,3 +11,6 @@ There's been a great thunderstorm this evening as well, with hail!  I'd like to 
 
 ---
 I bought some mung bean cakes imported from Vietnam, and they're delicious.  Planty-sweet flavor, and I love the texture.  I haven't eaten through the two boxes that I bought, and they're about to go uneaten for a week; I'll see if they're still just as good next weekend.
+
+---
+Back to [[day-post-archive]]

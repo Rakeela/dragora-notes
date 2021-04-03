@@ -6,6 +6,7 @@
       {
         "id": "db7a7647ac18223a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -31,7 +32,6 @@
             "id": "e3a05ab15e43024d",
             "type": "leaf",
             "dimension": 50.050658561296856,
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "notes-on-tolerogenic-dendritic-cells.md",
-    "reincarnation.md",
-    "reputation-markets.md",
-    "authors-ideals.md",
-    "privacy.md",
-    "pacifist.md",
-    "night-and-day.md",
-    "paprika.md",
-    "character-gallery.md",
-    "Author's Fiction.md"
+    "2020-11-19-First.md",
+    "2020-12-1-Sixth.md",
+    "2021-3-19-Fifty-Fourth.md",
+    "2021-3-29-Sixty-Eighth.md",
+    "2021-3-10-Forty-Ninth.md",
+    "2021-3-26-Sixtieth.md",
+    "2021-3-30-Sixty-Ninth.md",
+    "2021-3-28-Sixty-Seventh.md",
+    "2021-3-11-Fiftieth.md",
+    "notes-on-tolerogenic-dendritic-cells.md"
   ]
 }

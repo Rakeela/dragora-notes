@@ -10,3 +10,6 @@ It was still a depressing and unhedonic conduct, though.  It depresses me that s
 Nobody's even actually treating me that way now.  It's just a way that I've been treated, and which I couldn't stop thinking about all day until I drowned it out with a porn game.  Porn games are an easy, yet stimulating kind of media.  They're chill, but ugly.  They're also relevant enough to what upset me that I could transition into focusing on one, but far enough away that I couldn't keep thinking about old trauma.
 
 When I drowned myself in porn games years ago and called it 'studying for writing', I think I was doing the same thing then, but without insight.
+
+---
+Back to [[day-post-archive]]

@@ -16,3 +16,6 @@ Sodas are still too hyperpalatable to be a safe caffeine dosage method for me.  
 
 ---
 I came up with the best way to describe my 5-2 fasting pattern.  It's the fastest rate at which I can celebrate successful fasts by eating large meals, and still reliably lose weight.  5-2 fasting provides the highest level of *feasting* which appears to be safe.  Indefinite feasting!
+
+---
+Back to [[day-post-archive]]

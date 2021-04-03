@@ -19,3 +19,6 @@ This is conventionally "a bad habit", yet it seems to work well enough for me th
 The assignment this time is about a particular public sensor system that I wanted to see exist, and which to some extent already does exist.  It's hard to focus on while I feel depressive, but I think I'll get it done.  That said, in terms of grade prioritization, I should blow this off instead of blowing off the env-sci discussion board post this week, but I'm markedly more inclined to study meteorology sensors than I am to write an essay for env-sci right now.
 
 The env-sci discussion thread this week asks for individual reflections about what changes each student's household has made in response to the assessments of resource use that the env-sci class required the students to make.  This is already presumptive (how many students will actually have changed something?), but worse is that the teacher put their standard two citation minimum in the instructions.  I don't understand that; the citation demand looks faulty here.  If I'm reporting on what's happened in my vicinity, the source is me.  That means I know how to do the concepts and tools assignment, but I don't know how to do the discussion post assignment, and I'm prioritizing the immediately comprehensible work.
+
+---
+Back to [[day-post-archive]]
