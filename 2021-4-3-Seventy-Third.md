@@ -28,4 +28,7 @@ I wish Jerry's attitude towards gay people had been clearer; sometimes he was ok
 He hated Muslims, too.  I wish he'd had better reasons for opposing Islamic influences.  I think he was correct, but I think he was correct because Islam opposes diversity in society, and is against his concept that everyone has a place.  That *wasn't* the argument he used.  Instead, he had some theological point that didn't make much sense to me, objecting to something about Islamic worship that I didn't understand and don't remember.  He also literally disliked turbans...  which was like... what?  Why would someone care that much about headgear?
 
 ---
+I ordered donuts a few days ago for delivery this morning.  They're surprisingly good, so I want to give them a shout-out.  The store is called Factory Donuts, and the storefront is in Kirkland.  The banana fritter was the big novelty that drew me to it (donuts are not high on my hedonic ranking of foods); they were actually a little underflavorful and disappointing.  Yet everything else is very tasty, and the *texture* of the donuts is exceptionally correct, including the texture of the fritter.
+
+---
 Back to [[day-post-archive]]
