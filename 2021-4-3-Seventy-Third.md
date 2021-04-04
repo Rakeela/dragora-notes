@@ -34,4 +34,7 @@ I ordered donuts a few days ago for delivery this morning.  They're surprisingly
 It's difficult to have the stances that I have, knowing that liberalism will always consider me an enemy.  Yet I know that I live in a society, and idealism is about more than just what makes me comfortable.
 
 ---
+Argh, I'm trying to write a short story, and it is *very hard*.  I could complain for five thousand words a day, but fiction is so much harder!  How do some people output massive daily word counts?  I want to live forever for so many reasons, but wanting to do some of the stuff that's *hard* is one of them.
+
+---
 Back to [[day-post-archive]]
