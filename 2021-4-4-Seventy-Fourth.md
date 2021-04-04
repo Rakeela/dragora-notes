@@ -33,7 +33,7 @@ We need better medicine.  Persistent inflammation creates a lot of pain.  Immuno
 
 Or you know, we can just embrace sociopathy and punishment forever, whee stagnation and hatred, such LIBERATION!  Who needs science, justice, or tolerance when society permits us to hate the suffering and blame the victims?
 
-Liberalism got shived by "liberals", but it didn't get shived by liberals.
+Liberalism got shivved by "liberals", but it didn't get shivved by liberals.
 
 ---
 Back to [[day-post-archive]]
