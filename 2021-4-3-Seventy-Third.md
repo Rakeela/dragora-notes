@@ -31,4 +31,7 @@ He hated Muslims, too.  I wish he'd had better reasons for opposing Islamic infl
 I ordered donuts a few days ago for delivery this morning.  They're surprisingly good, so I want to give them a shout-out.  The store is called Factory Donuts, and the storefront is in Kirkland.  The banana fritter was the big novelty that drew me to it (donuts are not high on my hedonic ranking of foods); they were actually a little underflavorful and disappointing.  Yet everything else is very tasty, and the *texture* of the donuts is exceptionally correct, including the texture of the fritter.
 
 ---
+It's difficult to have the stances that I have, knowing that liberalism will always consider me an enemy.  Yet I know that I live in a society, and idealism is about more than just what makes me comfortable.
+
+---
 Back to [[day-post-archive]]
