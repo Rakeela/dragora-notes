@@ -8,7 +8,7 @@ I was male as Rakeela; I was male as Kairn.  That meant something different in t
 
 As an otherkin, I'd like to have a better word than 'dehumanizing' for that, but I'll use the word I've got.  If human women were subject to the same all-must-be-sexual pressure and were treated as lying when they claimed nonsexual motives the way men are treated as lying when they claim nonsexual motive, human women would be horribly traumatized by that treatment.  As a society, we KNOW that is true!  Acknowledging the same thing about men is considered unacceptable.  Well, human psychology is ungendered in enough ways that I think a lot of men on Earth must be walking around with unacknowledged trauma burdens as a side effect of living in this society.
 
-My awareness of that makes it hard to come up with male characters for my writing.
+My awareness of that makes it hard to come up with male characters for my writing.  Trying to conform with obligatory male hypersexuality certainly traumatized me.
 
 ---
 Back to [[day-post-archive]]
