@@ -11,4 +11,7 @@ As an otherkin, I'd like to have a better word than 'dehumanizing' for that, but
 My awareness of that makes it hard to come up with male characters for my writing.  Trying to conform with obligatory male hypersexuality certainly traumatized me.
 
 ---
+I would not consent to reproduce on Earth, and I do not understand why anyone would.  The violent dishonesty of this world is unfit for presentation to unprepared psyches.
+
+---
 Back to [[day-post-archive]]
