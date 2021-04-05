@@ -4,44 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "db7a7647ac18223a",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2021-4-4-Seventy-Fourth.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "af657ae31b365d0b",
         "type": "split",
         "children": [
           {
-            "id": "93ca72a09fd26144",
-            "type": "leaf",
+            "id": "45377aaac77d3352",
+            "type": "split",
             "dimension": 49.949341438703144,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
-                "mode": "source"
+            "children": [
+              {
+                "id": "93ca72a09fd26144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "693d405295126465",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "e3a05ab15e43024d",
-            "type": "leaf",
+            "id": "4ffd91da03a67890",
+            "type": "split",
             "dimension": 50.050658561296856,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
-                "mode": "source"
+            "children": [
+              {
+                "id": "e3a05ab15e43024d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "character-gallery.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "c7e462257a486797",
+                "type": "leaf",
+                "active": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-4-5-Seventy-Fifth.md",
+                    "mode": "source"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -100,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-4-Seventy-Fourth.md",
+                "file": "2021-4-5-Seventy-Fifth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,13 +143,13 @@
   "lastOpenFiles": [
     "Untitled.md",
     "character-gallery.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+    "2021-4-4-Seventy-Fourth.md",
     "2021-4-3-Seventy-Third.md",
     "2021-4-2-Seventy-Second.md",
     "authors-nonfiction.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "day-post-archive.md",
-    "2020-11-19-First.md",
-    "2020-12-1-Sixth.md",
-    "2021-3-19-Fifty-Fourth.md"
+    "day-post-archive.md"
   ]
 }
