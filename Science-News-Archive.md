@@ -11,7 +11,7 @@ Commentary:  Is this research or advertising?  It's pretty cool to see anything 
 https://www.nature.com/articles/d41586-020-03348-4 - 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures - Retrieved 2021-2-14
 Commentary:  Important for [[notes-on-recombinant-protein-construction]].
 
-https://www.technologyreview.com/2021/03/17/1020969/mouse-embryo-grown-in-a-jar-humans-next/" - A mouse embryo has been grown in an artificial womb—humans could be next
+https://www.technologyreview.com/2021/03/17/1020969/mouse-embryo-grown-in-a-jar-humans-next/" - A mouse embryo has been grown in an artificial womb—humans could be next - Retrieved 2021-3-??
 Commentary:  [[ontogenic-control|Ontogenic control!]]  I wonder if this could be used to accelerate drug safety testing by enabling direct testing against embryonic tissue.  Is there any way to formally correlate embryonic drug safety to adult drug safety?
 
 ---
