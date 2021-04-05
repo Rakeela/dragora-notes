@@ -36,4 +36,7 @@ Or you know, we can just embrace sociopathy and punishment forever, whee stagnat
 Liberalism got shivved by "liberals", but it didn't get shivved by liberals.
 
 ---
+I wish I believed in omniscience.  I was honest to people who weren't, who blamed and punished me for "authoritarianism" though for years they isolated and controlled me with lies.  An omniscience would know that I had been honest, uncredited.  I was not loyal; I did not do as loyalists do, concealing the lies of "friends" so that they would "protect" me.  I was willing to walk away from abusers in a principled way.
+
+---
 Back to [[day-post-archive]]
