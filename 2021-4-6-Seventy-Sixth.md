@@ -12,7 +12,7 @@ Ethically speaking, it would be better to work on insects than on mice, because 
 ---
 I don't want to do anything for this world.  Knowing that there's no justice for what happened to me - that people treated me as having all power in relationships where I was powerless, and that's the reality considered "true" no matter what is actually true - it's hard to convince myself that I should struggle and do anything difficult for anyone else.
 
-My life was set up so that doing things for others would support and enable rapists.  I wasn't allowed to have enough privacy to do things purely for myself, so why should I do anything?
+My life was set up so that doing things for others would support and enable rapists.  I wasn't allowed to have enough privacy to do things purely for myself, so why should I do anything?  The Glasswall would legalize some of the abuses perpetrated against me, but I remain convinced that it would also catch the people who perpetrated them before they were legal.  Meanwhile, legal =/= acceptable, and I see salvation in the divide between the two.  I was treated in ways that are both unacceptable and illegal, but neither means anything if the way I was treated is uncatchable.  Making it catchable would mean that at least the unacceptability of it could have an influence on the world.
 
 ---
 Back to[[day-post-archive]]
