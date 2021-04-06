@@ -7,4 +7,7 @@ So I marked a fast period in this week, because I already want to take a break f
 I intend to make a savory bacon shake out of Huel at some point tomorrow, though.  Hopefully that'll be better, though there's a substantial risk it'll just be inedible.
 
 ---
+Ethically speaking, it would be better to work on insects than on mice, because insects really cannot think... but insect biology is too far away to make useful inferences from it.  I wonder if it would be possible to make cybermice with artificial brains that provide only insect-level processing while leaving the bulk of the mouse metabolism unmodified so as to continue providing a mammallian model of most processes.  That's crazy hyper-ethical thought of course, humanity doesn't have the resources to spare for that.
+
+---
 Back to[[day-post-archive]]
