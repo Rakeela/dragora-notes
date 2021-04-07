@@ -65,7 +65,7 @@ _Transplant Profile Gallery 2_
 	 * Society:  Ihroun can only exist in a flawed/incomplete sex-positive society.  A complete sex-positive society would not contain the character of her father, but a sex-negative society would not contain the character of her rescuer!  Nor would a sex-negative society tolerate Ihroun's ambivalently positive attitude towards sexuality.
  * **Kettikita:**
 	 * Physics:  Advanced enough to have sports doctors.  No other requirements.
-	 * Society:  Kettikita's transient social patterns can only exist in an urban society.
+	 * Society:  No war stories.  Hyperfitness is a great trait for a soldier, but Kettikita is not a soldier, and would be horrified to be told she has the genes for it.  Beyond that, Kettikita's transient social patterns can only exist in an urban society.
 
 ---
 Back to [[Authors-Fiction]]
