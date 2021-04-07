@@ -35,14 +35,16 @@ _Past Roleplaying Character Gallery_
 	  * Her shiny, well-oiled feathers do actually leave her smelling like fish oil.  It's a sign of good health!
 
 
-I may add more later.  I may try to add every character I can recall, eventually... though I doubt it.  Yoet was something of a first and last.  In hindsight, she was almost prophetic.  She felt pressured to keep herself in a pleasant state for lovers in a sexualized eternity... and lo, that was where I encountered bonobianism.  So it was like...  that was supposed to be the answer, huh?  Yoet couldn't put to words why that was dissatisfying to her, nor then could I.  I don't think I ever used her in a sexual scene, but I put away her qualms as I'd put away my own a few years earlier in pushing myself to adopt the presumption that sex would have true value.
+I may add more later.  I may try to add every character I can recall, eventually... though I doubt it.
+
+Yoet was something of a first and last.  In hindsight, she was almost prophetic.  She felt pressured to keep herself in a pleasant state for lovers in a sexualized eternity... and lo, that was where I encountered bonobianism.  So it was like...  that was supposed to be the answer, huh?  Yoet couldn't put to words why that was dissatisfying to her, nor then could I.  I don't think I ever used her in a sexual scene, but I put away her qualms as I'd put away my own a few years earlier in pushing myself to adopt the presumption that sex would have true value.
 
 ---
 I can't use any of these without transplanting them.  I will not likely use again the settings that they are from.  I have thought about this in the context of Amadeus first, but I have realized that every character I add to this gallery has a kind of transplantation requirement profile as well.  I'm going to write that out here.
 
 _Transplant Profile Gallery_
 * **Chimes:**
-  * Physics:  Chimes is an artifact creature.  It requires some kind of no-profile source of mobility, and can only exist in fantasy settings and the softest sci-fi.
+  * Physics:  Chimes is an artifact creature.  It requires some kind of no-profile source of mobility, and can only exist in fantasy settings or the softest sci-fi.
   * Society:  Pacifist.  No war stories for Chimes.  It is never actually a whirling ball of blades.
 * **Yoet:**
   * Physics:  Yoet self-identifies as a chemist, but we would probably consider her a nanotechnician.  She can only exist in settings with advanced nanotechnology.
@@ -50,9 +52,9 @@ _Transplant Profile Gallery_
 * **Syra:**
   * Physics:  Syra is a blazing firebird most suitable for high fantasy environments, though religious/superstitious nanotechnology might suffice instead.
   * Society:  No particular requirements need to be met for her character to exist, but consider the impact of her ambient healing power on the rest of the story.
-* **Amadeus**
+* **Amadea**
   * Physics:  Extremely primitive environments are out, but most historic settings have sufficient technology.
-  * Society:  Not fanatic egalitarianism.  Amadeus can exist anywhere from severely stratified to moderately egalitarian societies, but extreme egalitarianism prevents the existence of the landlord-farmer.
+  * Society:  Not fanatic egalitarianism.  Amadea can exist anywhere from severely stratified to moderately egalitarian societies, but extreme egalitarianism bars the existence of the landlord-farmer.
 
 ---
 Back to [[Authors-Fiction]]
