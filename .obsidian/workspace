@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-6-Seventy-Sixth.md",
+                    "file": "2021-4-7-Seventy-Seventh.md",
                     "mode": "source"
                   }
                 }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-tolerogenic-dendritic-cells.md",
+                "file": "character-gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "e3a05ab15e43024d",
   "lastOpenFiles": [
+    "character-gallery.md",
+    "Untitled.md",
+    "2021-4-6-Seventy-Sixth.md",
     "notes-on-tolerogenic-dendritic-cells.md",
     "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "vat-meat.md",
     "Science-News-Archive.md",
-    "2021-4-6-Seventy-Sixth.md",
     "2021-4-5-Seventy-Fifth.md",
-    "Untitled.md",
     "Economic-News-Archive.md",
-    "news-archive.md",
-    "character-gallery.md"
+    "news-archive.md"
   ]
 }
