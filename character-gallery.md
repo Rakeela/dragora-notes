@@ -42,7 +42,7 @@ Yoet was something of a first and last.  In hindsight, she was almost prophetic.
 ---
 I can't use any of the following without transplanting them.  I will not likely use again the settings that they are from.  I have thought about this in the context of Amadea first, but I have realized that every character I add to this gallery has a kind of transplantation requirement profile as well.  I'm going to write that out here.
 
-_Transplant Profile Gallery_
+_Transplant Profile Gallery 1_
 * **Chimes:**
   * Physics:  Chimes is an artifact creature.  It requires some kind of no-profile source of mobility, and can only exist in fantasy settings or the softest sci-fi.
   * Society:  Pacifist.  No war stories for Chimes.  It is never actually a whirling ball of blades.
@@ -55,6 +55,17 @@ _Transplant Profile Gallery_
 * **Amadea**
   * Physics:  Extremely primitive environments are out, but most historic settings have sufficient technology.
   * Society:  Not fanatic egalitarianism.  Amadea can exist anywhere from severely stratified to moderately egalitarian societies, but extreme egalitarianism bars the existence of the landlord-farmer.
+
+---
+The following is for less forbidding transplant profiles.  I may conceivably use the following in their original settings, but I'm adding notes for use in other settings as well.
+
+_Transplant Profile Gallery 2_
+ * **Ihroun:**
+	 * Physics:  Something needs to enable her isolation, and something needs to enable her rescue.  Very advanced settings are good at enabling rescue, but would tend to block the initial isolation, whereas primitive settings are good at enabling isolation, but make the rescue improbable.
+	 * Society:  Ihroun can only exist in a flawed/incomplete sex-positive society.  A complete sex-positive society would not contain the character of her father, but a sex-negative society would not contain the character of her rescuer!  Nor would a sex-negative society tolerate Ihroun's ambivalently positive attitude towards sexuality.
+ * **Kettikita:**
+	 * Physics:  Advanced enough to have sports doctors.  No other requirements.
+	 * Society:  Kettikita's transient social patterns can only exist in an urban society.
 
 ---
 Back to [[Authors-Fiction]]
