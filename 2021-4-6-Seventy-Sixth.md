@@ -26,4 +26,18 @@ If I was starving, I wouldn't feel sickened by drinking this.  That's the best I
 I think I'll just pour it out.
 
 ---
+Huel's flavor boosts are too clumpy, they don't mix evenly at all.  :\
+
+I'm not sure I'll be able to get any use out of the unflavored and unsweetened variety.  The basic flavor of it is not good, as the website warns, but the flavor boosts don't mix well enough to reflavor it.
+
+Attempts to mix the overly rich peanut butter flavor with other things have generally failed, because the result is blandly not flavored like anything.  Ironically, the peanut butter huel is still the tastiest.
+
+I got good results out of a quite thin preparation of chocolate Huel with the chocolate cherry flavor boost.  I think the flavor boosts may require thinner preparations, as does the chocolate Huel period, as it is *gross* at full thickness.  I'm still trying to make Huel suck less; I can't say I'm enthused by it.
+
+I've got five boxes of Huel food bars arriving, those make Huel dieting way less awful.
+
+---
+I experimented.  Thinned Huel works better with the flavor boosts.  Standard thickness is too thick, the flavor boosts won't mix in.
+
+---
 Back to[[day-post-archive]]

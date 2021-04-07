@@ -56,7 +56,6 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "active": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -129,6 +128,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,13 +141,14 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
     "2021-4-6-Seventy-Sixth.md",
+    "Science-News-Archive.md",
     "notes-on-tolerogenic-dendritic-cells.md",
     "2021-4-5-Seventy-Fifth.md",
     "Untitled.md",
     "Economic-News-Archive.md",
-    "Science-News-Archive.md",
     "news-archive.md",
     "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "character-gallery.md",
