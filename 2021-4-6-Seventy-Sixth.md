@@ -17,4 +17,7 @@ My life was set up so that doing things for others would support and enable rapi
 The Glasswall would legalize some of the abuses perpetrated against me, but I remain convinced that it would also catch the people who perpetrated them before they were legal.  Meanwhile, legal =/= acceptable, and I see salvation in the divide between the two.  I was treated in ways that are both unacceptable and illegal, but neither means anything if the way I was treated is uncatchable.  Making it catchable would mean that at least the unacceptability of it could have an influence on the world.
 
 ---
+Once my utter depressiveness of most of the day faded, I changed my mind about fasting.  A few hours past that, I've decided to try the bacon Huel.  I've mixed it up, and I'm really nervous about trying it...
+
+---
 Back to[[day-post-archive]]
