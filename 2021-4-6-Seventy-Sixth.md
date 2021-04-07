@@ -19,5 +19,11 @@ The Glasswall would legalize some of the abuses perpetrated against me, but I re
 ---
 Once my utter depressiveness of most of the day faded, I changed my mind about fasting.  A few hours past that, I've decided to try the bacon Huel.  I've mixed it up, and I'm really nervous about trying it...
 
+...hm.
+
+If I was starving, I wouldn't feel sickened by drinking this.  That's the best I can say.  It's not sickening.
+
+I think I'll just pour it out.
+
 ---
 Back to[[day-post-archive]]
