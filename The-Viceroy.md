@@ -15,6 +15,9 @@ Subpages:
 I'm considering making a gallery of Viceregal characters akin to the [[aowcommander-profiles]] I made for Age of Wonders: Planetfall.  Some of what I've written about The Viceroy has been ambiguously in-character, and I'd be more satisfied with the creative quality of those thoughts had I specific characters to attribute them to.  It helps that, inspired by the game's Beyonder lore about the optimality of taking all paths simultaneously, I have opened four save game files in all at this point for contemplating the in-game ideologies of the separate cultures of which the Commonwealth is constructed.
 
 ---
+I honestly think the developer of this game was involved with something "shady", or that if they weren't, someone hijacked their codebase for a shady thing.  Yet the game is such a beautiful complex ideological statement, too.  The Panarchy in this game is the first time I've ever seen someone other than myself express anything like how I personally feel about ideologies, which is that ideologies are *themselves* a form of art, and there's no reason that people should kill each other over ideologies when they could be mutually appreciating them instead.  The Panarchy loves *all* ideologies, and so do I.
+
+---
 
 Related Games:
 [[After-the-Empire]]
