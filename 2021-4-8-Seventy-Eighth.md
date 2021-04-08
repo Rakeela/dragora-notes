@@ -34,4 +34,9 @@ Years ago I was trying to write a story about phoenixes, and I struggled with th
 I couldn't keep writing that story.  Once that subject came up the story became exhausting and depressing the way trying to write Ihroun's story was exhausting and depressing.  I didn't yet have the words for the role that I'd been pressed into.
 
 ---
+I'm trying to do math homework and I'm so tired the tiredness hurts.  I don't think it's purely an emotional state.  I hope I don't just die someday.
+
+I'm still more able to do math homework than I was in public schooling!  God, public schooling had no resources for whatever is wrong with me.
+
+---
 Back to [[day-post-archive]]
