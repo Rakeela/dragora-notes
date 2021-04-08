@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-tolerogenic-dendritic-cells.md",
+                    "file": "2021-3-25-Fifty-Ninth.md",
                     "mode": "source"
                   }
                 }
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "character-gallery.md",
+                    "file": "concept-map.md",
                     "mode": "source"
                   }
                 }
@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-7-Seventy-Seventh.md",
+                    "file": "2021-4-8-Seventy-Eighth.md",
                     "mode": "source"
                   }
                 }
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heavily regenerative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,11 +125,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "character-gallery.md",
+                "file": "2021-4-8-Seventy-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -141,17 +142,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e3a05ab15e43024d",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
-    "character-gallery.md",
+    "2021-4-8-Seventy-Eighth.md",
+    "2021-3-25-Fifty-Ninth.md",
+    "day-post-archive.md",
     "notes-on-tolerogenic-dendritic-cells.md",
-    "2021-4-7-Seventy-Seventh.md",
     "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+    "concept-map.md",
+    "character-gallery.md",
     "Untitled.md",
-    "2021-4-6-Seventy-Sixth.md",
-    "vat-meat.md",
-    "Science-News-Archive.md",
-    "2021-4-5-Seventy-Fifth.md",
-    "Economic-News-Archive.md"
+    "2021-4-7-Seventy-Seventh.md",
+    "2021-4-6-Seventy-Sixth.md"
   ]
 }

@@ -1,0 +1,21 @@
+#2021-4-8-Seventy-Eighth
+
+I wonder how long I'll keep posting a string of daily logs.  I like the blog section of this archive, and I wonder if I should reorganize.  For instance, I could put all the dayposts into their own folder.  That would lead to me refoldering ALL the content.  I'm not sure if that would increase navigability or just stop me from scrolling across the list of all nodes.  The graph would still work, but I don't spend too much time staring at the graphs anymore.  I referenced that in [[2020-11-23-third]] and created the [[concept-map]] node for it, but that information is kind of out-of-date at this point.  Although the graph feature *is* still really cool, and I am still getting some use out of it.
+
+---
+Today is a third day in a row where I've woken up feeling critically bleak.  My antidepressants aren't really 'doing it' for me, I guess.  Nothing new about that.  I'll be okay.  I still love life and I want to live forever.
+
+I like the struggle.  This has always been the single hardest thing for people to understand about my psychology, and somehow I think it's part of my general inability to cry.  I've always had a 'heavily regenerative hedonic setpoint' (as I've put it before).  I referenced that in [[2021-3-25-Fifty-Ninth]], but it goes way back.  Even in childhood.
+
+As a kid, I thought humans were telepathic.  Nowadays...  kind of maybe?  It offends my materialism, but I've seen lots of stuff that offends my materialism.  (There are people who moan the lack of weird experiences in their lives, but I wish I had a lack of weird experiences in mine!)  Yet that 'telepathy' (if so it is) seems to trip, struggle, and lead people to behave in horrible ways when it encounters a particular rare trait that I happen to be stuck with, which is "I like the struggle".  Since my hedonic setpoint regenerates, I'm often tempted to lean into anything that sucks, especially if I am (or feel like I am) stuck with it.  So I'll express the brightside of anything eventually, and that confuses people.  I tend to love and hate experiences simultaneously.
+
+Growing up, I tried to like fighting, and it didn't work.  My sister Brooke thought I liked fighting with her; no, I really didn't.  I was just stuck with it and so I said I liked it, because my hedonic setpoint regenerates enough to make that feel like honesty in the moment.  In young adulthood, I tried to like sex in the same way, and that didn't work either.
+
+Yet it's close enough to real that I can't cry about most stuff, and if people *are* telepathic, they seem to react to my regenerative attitude as though my positivity were totally 100% sincere.  That means the people who *like* me risk being drawn into intensifying stuff that sucks for me.  Oftentimes that's stuff which eventually sucks for everyone in the blast radius.  If that's telepathy, it's not their fault, but it's also not my fault.  I kind of hate that.  There's nothing I can do about it.
+
+Whether the social influence of this trait is telepathic or not, there's nothing I can do about it.  I don't know if I would keep this trait if I could choose whether or not to keep it.  It's kind of weird.  I can't tell if it's really making me happier; I think it leads to trouble and may have damaged my ability to participate in society.  It may not be making me happier on average.  On the other hand, I'm reasonably confident that it *does* contribute to making me someone who would be happier to live forever than someone who doesn't have the same trait.  I think over the super-long-term, my regenerative hedonic setpoint keeps me optimistic, engaged, and inclined to see novelty in the world.
+
+I've thought about suicide enough in my life and I've gone through enough rare bad stuff that I think I would've killed myself if I didn't have this regenerative capacity, but I *do* have it, so I don't think I'll *ever* kill myself, no matter what.  There *is* always someone else suffering more than me.  Which is what leads me to think, "I suffer, but I'm happy."
+
+---
+Back to [[day-post-archive]]

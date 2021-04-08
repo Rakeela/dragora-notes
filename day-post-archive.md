@@ -74,6 +74,12 @@ Organized by month:
 2021-4
 [[2021-4-1-Seventy-First]]
 [[2021-4-2-Seventy-Second]]
+[[2021-4-3-Seventy-Third]]
+[[2021-4-4-Seventy-Fourth]]
+[[2021-4-5-Seventy-Fifth]]
+[[2021-4-6-Seventy-Sixth]]
+[[2021-4-7-Seventy-Seventh]]
+[[2021-4-8-Seventy-Eighth]]
 
 
 
