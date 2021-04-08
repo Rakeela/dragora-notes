@@ -24,4 +24,14 @@ If humanity *is* telepathic, Brooke might be an innocent telepath who never dese
 I wish there was a game like Ring Fit, which uses the ring but *not* the leg straps, and which relies on a substantial "honor system" component...  Actually, I guess I'm wishing I had exercise tapes that used the ring prop.  It makes me feel like I know where my hands are supposed to go.  Hands: actually kind of awkward.  Dexterous quadrupeds make more sense to me, but then I guess they *would*, as a [[dragon]].  Rawr!
 
 ---
+I wrote a discussion board post suggesting animes to one of my teachers.  I mentioned Trigun, Cowboy Bebop, and Arpeggio of Blue Steel.  I'd hardly posted it when I realized that I'd forgotten Gargantia on the Verdurous Planet.  I can hardly believe I forgot to list it!  Well, I can't edit the post now, and deleting it just to rewrite it with another suggestion feels too foolish; despite her request for streaming suggestions, I already doubt the teacher is really interested in anime suggestions.
+
+---
+I'm exhausted and thinking about what I wrote in [[2021-3-25-Fifty-Ninth]].  It's not an unusual topic for me, really.  If women were stereotyped the way men are stereotyped, we would not consider society to be 'sexually liberated'; we would consider it to be oppressive.  Human gender is not *that* much of a straightjacket; men's emotional needs are not *that* alien vs women's emotional needs.
+
+Years ago I was trying to write a story about phoenixes, and I struggled with their sexual mores.  I expressed those struggles to people I knew.  I think it was Kistaro who told me that in any society, being perceived as wholly interested in sex would be skeevy.  And it's like... yeah.  Yeah it would be.  So why do we tolerate sexually objectifying men so much in society?  If someone is treated as having no desires other than sex and no potentials other than sex, they're being treated as a 100% sexual object rather than a person...
+
+I couldn't keep writing that story.  Once that subject came up the story became exhausting and depressing the way trying to write Ihroun's story was exhausting and depressing.  I didn't yet have the words for the role that I'd been pressed into.
+
+---
 Back to [[day-post-archive]]
