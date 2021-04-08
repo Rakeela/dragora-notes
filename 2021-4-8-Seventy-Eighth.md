@@ -18,4 +18,7 @@ Whether the social influence of this trait is telepathic or not, there's nothing
 I've thought about suicide enough in my life and I've gone through enough rare bad stuff that I think I would've killed myself if I didn't have this regenerative capacity, but I *do* have it, so I don't think I'll *ever* kill myself, no matter what.  There *is* always someone else suffering more than me.  Which is what leads me to think, "I suffer, but I'm happy."
 
 ---
+If humanity *is* telepathic, Brooke might be an innocent telepath who never deserved how much I came to hate her.  She *always* presented herself as doing what she thought I wanted her to do.  Not only that, I discovered that I *could* influence her behavior her by influencing what she thought I wanted her to do.  Kistaro says that she was being manipulative, but...  I still wonder.  Even though I find her behavior bafflingly inappropriate, I think it's possible that she was being sincere and trying to be a good sister to me.  Especially if humans have some undiscovered telepathic capacity.
+
+---
 Back to [[day-post-archive]]
