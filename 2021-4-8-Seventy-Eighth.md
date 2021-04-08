@@ -21,4 +21,7 @@ I've thought about suicide enough in my life and I've gone through enough rare b
 If humanity *is* telepathic, Brooke might be an innocent telepath who never deserved how much I came to hate her.  She *always* presented herself as doing what she thought I wanted her to do.  Not only that, I discovered that I *could* influence her behavior her by influencing what she thought I wanted her to do.  Kistaro says that she was being manipulative, but...  I still wonder.  Even though I found her behavior bafflingly inappropriate, I think it's possible that she was being sincere and trying to be a good sister to me.  Especially if humans have some undiscovered telepathic capacity.
 
 ---
+I wish there was a game like Ring Fit, which uses the ring but *not* the leg straps, and which relies on a substantial "honor system" component...  Actually, I guess I'm wishing I had exercise tapes that used the ring prop.  It makes me feel like I know where my hands are supposed to go.  Hands: actually kind of awkward.  Dexterous quadrupeds make more sense to me, but then I guess they *would*, as a [[dragon]].  Rawr!
+
+---
 Back to [[day-post-archive]]
