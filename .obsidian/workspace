@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-3-25-Fifty-Ninth.md",
+                    "file": "collapse-type-suggestions.md",
                     "mode": "source"
                   }
                 }
@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-8-Seventy-Eighth.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
+    "2021-3-25-Fifty-Ninth.md",
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "2021-4-8-Seventy-Eighth.md",
     "The-Viceroy.md",
     "concept-map.md",
-    "2021-3-25-Fifty-Ninth.md",
     "day-post-archive.md",
     "notes-on-tolerogenic-dendritic-cells.md",
-    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "character-gallery.md",
-    "Untitled.md",
-    "2021-4-7-Seventy-Seventh.md"
+    "Untitled.md"
   ]
 }

@@ -246,6 +246,14 @@ Hyperlocal Hyperspatials (This 'planet' is an administrative fiction representin
 Special features:
 Any
 
+Seventeenth Suggestion:  (Incomplete)
+Regulatory Overreach
+This territory's previous government foresaw real existential threats in its future trajectory and attempted to avert the looming necessity of a reparative viceregal administration through corrective regulations.  While that effort was itself intelligent, foresighted, and laudatory, the result of a rapidly changing and increasingly restrictive regulatory environment was that the regional economy collapsed.  A reparative viceregal administration has been authorized.
+Challenges:
+(9 Unset)
+Special features:
+May not have beyonder bank platforms.
+
 ---
 Challenge concepts that I don't have anywhere else to put:
 Law of Love  (The highly developed strictures of romantic and sexual ethics in this system are so widely followed and consistently supported by the public that reproductive rates are depressed system-wide.  Reproductive penalty.) - I intend that this would be cured with Reproduction Mandate, should a player dare.
