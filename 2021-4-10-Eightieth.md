@@ -28,7 +28,14 @@ I have a bunch of books open right now, that I'm simultaneously reading.  I'm ev
 
 I'm writing this down because I'm amused to set down "The Psychology Workbook for Writers" right next to "Monster Girl Encyclopedia", both of them having bookmarks partway through... oh, there's "The Ecology of Commerce", right under "The Psychology Workbook for Writers".  Heh.  The rest of this pile of books is "The Only World Building Workbook You'll Ever Need" and "The Furry Future", that last one being a short story anthology.
 
-There are so many good books to read!  I feel like I'll never outlive humanity's literary output alone, and reading isn't even the only thing I enjoy.
+There are so many good books to read!  I feel like I'll never outlive humanity's literary output alone, and reading isn't even the only thing I enjoy... but that is, I think, a digression...  I was actually adding this note to say that the juxtaposition of "The Psychology Workbook for Writers" and "Monster Girl Encyclopedia" is very comical.  One of these is presumably good psychology.  The other one is clearly very bad at psychology!  I wrote more about that [[2021-4-9-Seventy-Ninth|yesterday]].
+
+---
+Argh!  I'm so frustrated.  There's this pain across the 'top' of my arms.  From my wrist almost to my shoulder, it's the area that is 'the top surface' when I set my palms flat on my desk in front o fme.  It's like this pain that settles into my muscles and weakens them.  It makes me not want to move, but not moving makes it worse.  Knowing that not moving would make it worse makes me agitated.  I don't want to use those muscles in any particular way, but I want to use them enough to reduce the pain, and that leads to a sort of undirected restlessness.
+
+Potassium supplements help with this, but they're not enough some days.  They're not being enough right now.
+
+A restless need to move my arms (or else they hurt) makes it harder to read, too.  I would be more productive at everything without whatever is wrong with my health.  Even the 'pure exercises of mind' are interfered with by ill health.
 
 ---
 Back to [[day-post-archive]]
