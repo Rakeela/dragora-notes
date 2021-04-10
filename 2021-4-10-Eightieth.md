@@ -24,4 +24,11 @@ I don't mean this to be a personal condemnation of someone I never have and neve
 Although they still should've moved her desk.
 
 ---
+I have a bunch of books open right now, that I'm simultaneously reading.  I'm even still working on "The Ecology of Commerce"... although I've presently set that down somewhere and misplaced it...  It's in my living room somewhere, I'll find it.
+
+I'm writing this down because I'm amused to set down "The Psychology Workbook for Writers" right next to "Monster Girl Encyclopedia", both of them having bookmarks partway through... oh, there's "The Ecology of Commerce", right under "The Psychology Workbook for Writers".  Heh.  The rest of this pile of books is "The Only World Building Workbook You'll Ever Need" and "The Furry Future", that last one being a short story anthology.
+
+There are so many good books to read!  I feel like I'll never outlive humanity's literary output alone, and reading isn't even the only thing I enjoy.
+
+---
 Back to [[day-post-archive]]
