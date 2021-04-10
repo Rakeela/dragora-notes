@@ -24,4 +24,19 @@ Yet something else stood out to me as well, which I didn't expect going in: the 
 I wonder how many people read the book and picked up on that.  I complain about the way society treats men, but I'm also well aware that there are valid complaints out there.
 
 ---
+Also, the level of semen fixation in some pages of this book makes sense of some of the slug-whore jokes I've seen people make.  Those annoyed me so much before!  This must be the kind of thing where that comes from.  Essence, essence, and more "essence"!  Heh.
+
+I've written with the same kind of bad joke before, but I was still annoyed by other people making it.  I was always treated as the butt of the joke, even when I was the one authoring it, even when I was being sexually coerced.  Even though I was rebuked harshly for complaining about anything in particular, the idea that I was present unwillingly and dealing with stuff I didn't like was treated as 100% unfathomable.  The reason I had to be rebuked for complaining was because I had a lot to complain about...  Being treated as the deserving target for a rape culture that molested me for years and stalked me vengefully when I started saying no really wore off my sense of humor for jokes about semen.
+
+I had to do the same kind of all-positive writing that this book uses.  Pleasure, pleasure, and "pleasure" forever...  Reading it, on some of these descriptions of extreme marathon sex, I've just found myself thinking, "but the chafing and soreness"...  I mean, I've been there.  It's just so virgin fantasy.  People who've never had their genitals chafe from overuse are probably more inclined to mistake this book for presenting a perspective on... actual pleasure.
+
+"Dark elves kick and whip not pain but pleasure into their men, a skill they've honed over many years."  I mean, I think masochism is an actual fetish that a lot of people don't have.  I don't like Earth very much, but I'm pretty sure I'd turn down a portal to the world in *this* book.
+
+I'm tempted to file this work in 'comedy' and think of it as redeeming some of the bad jokes I faced... although actually, I think those bad jokes are still kind of a buzzkill...  It's unfun to think about how people who read this book are in danger of being the butt of the joke.  Abusers don't decide who the butt of the joke is by whether people *actually* don't get it, but by whether they can get away with victimizing someone by portraying them as not getting it, like what happened to me...
+
+The rape-aligned types who victimize anyone who is too honest in sexuality make it dangerous to express anything positive OR negative about anything sexual, and I can only imagine them victimizing people who picked up anything in this book and expressed anything good or bad about it.  Complaints are "authoritarian" and "unfun" so people who complain about sex are targeted for victimization; praises are "virgin fantasy" and "lame" so people who actually like sex are targeted for victimization.  The result is a deathly opacity where the whole subject is basically taboo... and what is a society where sex is too dangerous to talk about, if not a conservative society?
+
+I would turn down a portal to the world in *this* book, but society on Earth is still awful.
+
+---
 Back to [[day-post-archive]]
