@@ -41,4 +41,7 @@ A restless need to move my arms (or else they hurt) makes it harder to read, too
 This joke has occurred to me so many times that maybe publishing it will make it *stop* occurring to my mind: who is more excited to kiss a lover on the neck, a vampire or a neck-romancer?
 
 ---
+I have been procrastinating on using cannabis lately as though it were a chore, hah.  It helps with pain relief, but I'm not very fond of its psychoactivity profile.
+
+---
 Back to [[day-post-archive]]
