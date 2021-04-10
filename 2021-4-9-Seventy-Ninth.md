@@ -34,9 +34,9 @@ I had to do the same kind of all-positive writing that this book uses.  Pleasure
 
 I'm tempted to file this work in 'comedy' and think of it as redeeming some of the bad jokes I faced... although actually, I think those bad jokes are still kind of a buzzkill...  It's unfun to think about how people who read this book are in danger of being the butt of the joke.  Abusers don't decide who the butt of the joke is by whether people *actually* don't get it, but by whether they can get away with victimizing someone by portraying them as not getting it, like what happened to me...
 
-The rape-aligned types who victimize anyone who is too honest in sexuality make it dangerous to express anything positive OR negative about anything sexual, and I can only imagine them victimizing people who picked up anything in this book and expressed anything good or bad about it.  Complaints are "authoritarian" and "unfun" so people who complain about sex are targeted for victimization; praises are "virgin fantasy" and "lame" so people who actually like sex are targeted for victimization.  The result is a deathly opacity where the whole subject is basically taboo... and what is a society where sex is too dangerous to talk about, if not a conservative society?
+The rape-aligned types who victimize anyone who is too honest in sexuality make it dangerous to express anything positive OR negative about anything sexual, and I can only imagine them victimizing people who picked up anything in this book and expressed anything good or bad about it.  Complaints are "authoritarian" and "unfun" so people who complain about sex are targeted for victimization; praises are "virgin fantasy" and "lame" so people who actually like sex are targeted for victimization.  The result is a deathly opacity where the whole subject is basically taboo... and what is a society where sex is too socially dangerous to talk about, if not a sexually conservative society?
 
-I would turn down a portal to the world in *this* book, but society on Earth is still awful.
+I would turn down a portal to the world in *this* book, but society on Earth is still awful.  Liberalism needs both affection and integrity in order for sex-positivity to be real.
 
 ---
 Back to [[day-post-archive]]
