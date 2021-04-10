@@ -38,4 +38,7 @@ Potassium supplements help with this, but they're not enough some days.  They're
 A restless need to move my arms (or else they hurt) makes it harder to read, too.  I would be more productive at everything without whatever is wrong with my health.  Even the 'pure exercises of mind' are interfered with by ill health.
 
 ---
+This joke has occurred to me so many times that maybe publishing it will make it *stop* occurring to my mind: who is more excited to kiss a lover on the neck, a vampire or a neck-romancer?
+
+---
 Back to [[day-post-archive]]
