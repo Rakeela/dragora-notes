@@ -25,4 +25,7 @@ Vellos once told me that herms were playthings among his species.  He also once 
 Imagine if a man who could only see women as sex objects was also himself disinterested in sex, but then he met a woman who was likewise disinterested in sex... and he could not then perceive her as anything but a sex object.
 
 ---
+Anyone whose consent isn't respected eventually starts catching fire, and not in a good way.  They start burning, and anything around them might catch fire... metaphorically speaking... usually metaphorically, at least.  No firestarter am I...
+
+---
 Back to [[day-post-archive]]
