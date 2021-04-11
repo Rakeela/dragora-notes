@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-10-Eightieth.md",
+                    "file": "Novel-Challenge-Cures.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collapse-type-suggestions.md",
+                "file": "Novel-Challenge-Cures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "93ca72a09fd26144",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "Novel-Challenge-Cures.md",
     "collapse-type-suggestions.md",
+    "2021-4-10-Eightieth.md",
     "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "2021-4-11-Eighty-First.md",
-    "2021-4-10-Eightieth.md",
     "2021-4-9-Seventy-Ninth.md",
     "Untitled.md",
     "immortalist.md",
     "paprika.md",
-    "2021-4-8-Seventy-Eighth.md",
-    "imagine-a-brain-implant.md"
+    "2021-4-8-Seventy-Eighth.md"
   ]
 }

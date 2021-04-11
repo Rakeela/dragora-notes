@@ -252,16 +252,21 @@ This territory's previous government foresaw real existential threats in its fut
 Challenges:
 Regulatory Intransigence  (Society and government on this planet is convinced that the vast majority of the regulations on the books are strictly necessary to the continuity of life on the planet, and that they are strictly necessary in exactly the form they were authored in.  Proposals to alter anything are considered infuriating and face constant pushback, while heightened compliance costs increase the price of every project.  Bureaucratic penalty.)
 Ascetic Leadership  (This system managed to tap into such a deep well of humility that it drew ascetics not only into its population, but even into its leadership.  A substantial cultural power went into sustaining this... but it might be too much of a good thing.  It is very, very hard to draw any of the resulting leaders into galactic society, and sometimes it's even difficult to identify who is in charge of critical systems.  Influence penalty.)
-(8 Unset)
+Law of Love  (The highly developed strictures of romantic and sexual ethics in this system are so widely followed and consistently supported by the public that reproductive rates are depressed system-wide.  Reproductive penalty.)
+(6 Unset)
 Special features:
 May not have beyonder bank platforms.
 
 ---
 Challenge concepts that I don't have anywhere else to put:
-Law of Love  (The highly developed strictures of romantic and sexual ethics in this system are so widely followed and consistently supported by the public that reproductive rates are depressed system-wide.  Reproductive penalty.) - I intend that this would be cured with Reproduction Mandate, should a player dare.
+(All concepts currently are placed in at least one disaster proposal.)
 
 ---
 This is [[existential-threat]] style thinking, and may also deserve some form of shared categorization with those notes.  How can any one organizational structure ever be provably optimal for a sufficiently complex set of information?
+
+---
+Related pages:
+[[Novel-Challenge-Cures]]
 
 ---
 Back to [[The-Viceroy]]

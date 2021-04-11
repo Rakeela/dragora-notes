@@ -13,6 +13,21 @@ Cures for Novel Challenges
 			1.  Justification:  To get people to stop using melange files, the impairment that their shifting personalities impose to broader society has to be driven home to them.  When the public is widely convinced that they need to find ways to conform their personality types to the needs of their nation, the only people who'll keep using melange files will be the dregs of society.
 			2.  Apologia in Defiance:  Melange files accelerate retraining, increase psychological resilience, and do no harm to public health.  Galactic society claims it doesn't know how to integrate immortal users of melange files, but this just shows the stagnating narrowness which we've accepted as the peak of all possible wealth.  People who want to see change in society should be supported and enabled, not oppressed.  (Panarchic.)
 			3.  Apologia in Neglect:  It's what people want to do.  You want us to go out there and stop them?  Why bother?  (Nonfactional.)
+	3.  Ascetic Leadership
+		1.  Proposed cure technology:  Panarchic Palaces
+			1.  Justification:  We do actually need leaders to be visible people in order to operate the systems that they're responsible for.
+			2.  Apologia in Defiance:  The achievement of humble leadership should be worked around, but NEVER broken!  The fundamental source of a society's influence ought to be the whole of its wealth and prosperity!  (Imperial)
+			3.  Apologia in Neglect:  ...isn't this ideal?  These are the leaders who don't WANT palaces.  (Nonfactional.)
+		2.  Proposed cure technology:  Leisure Subsidies
+			1.  Justification:  Voluntary stoicism is all well and good, but the purpose of governance is the protection of the common weal.  Protecting the happiness of the public is the most important function of government, and a leadership of contemplative invisibles is not actually an investment in doing so.
+			2.  Apologia in Defiance:  If government is to put the people first, it should not be going expensively out of its way to put wasteful people into power!  (Imperial)
+			3.  Apologia in Neglect:  You're asking us to pay very elevated wages for a mix of imported talent and the most profligate locals, and you're telling us that leads to a superior government.  Are you sure that you're doing the right thing?  (Nonfactional.)
+		3.  (Note on multiple proposed cures:  I thought of the arguments for 'Panarchic Palaces' first, but I actually favor Leisure Subsidies here as the tech which would best "cure" ascetic leadership.  I think putting the ascetic leaders into palaces would actually be a good way to work around this 'problem' rather than a way to cure it.  Austere grandeur is not only a 'thing' in palace design, it is THE thing by which palatial architecture risks developing 'blandeur', and so there's nothing incoherent about the idea of ascetic palace-dwellers, since they are the population that can be most convincingly magnified by the appearance of austere grandeur.)
+	4.  Law of Love
+		1.  Proposed cure technology:  Reproductive Mandate
+			1.  Justification:  If your government is willing to behave unethically to get people to reproduce more, the law of love can be broken...
+			2.  Apologia in Defiance:  (Incoherent screaming opposition from otherwise polite people.)  (Nonfactional.)
+			3.  Apologia in Neglect:  Whoa.  Don't touch that.  (Nonfactional.)
 
 ---
 I'm not sure what the Mind-Merge Aftermath issue should be cured by, but I was thinking about it.  It's based on the idea that very mature cyberocracies may see 'meta-identity proofs', extensive consciousness sharing, willing archetypal optimization, and other memetic hazards which result in great swathes of society being comfortably willing to accept that they are indeed identical to each other... and that for each defined interchangeable populace, there are 'collective' advantages to losing the dupes and concentrating the identicals into a smaller number of conscious beings.  Post-concentration individuals are mind-merge revenants.
