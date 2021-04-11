@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+                    "file": "collapse-type-suggestions.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-11-Eighty-First.md",
+                "file": "collapse-type-suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "93ca72a09fd26144",
   "lastOpenFiles": [
+    "collapse-type-suggestions.md",
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
     "2021-4-11-Eighty-First.md",
     "2021-4-10-Eightieth.md",
     "2021-4-9-Seventy-Ninth.md",
@@ -147,8 +149,6 @@
     "immortalist.md",
     "paprika.md",
     "2021-4-8-Seventy-Eighth.md",
-    "collapse-type-suggestions.md",
-    "imagine-a-brain-implant.md",
-    "2021-3-25-Fifty-Ninth.md"
+    "imagine-a-brain-implant.md"
   ]
 }

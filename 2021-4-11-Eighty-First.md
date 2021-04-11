@@ -20,7 +20,9 @@ It doesn't really matter...  I shouldn't be thinking about it.  Although I do lo
 What if Brooke doesn't remember me?  I'm reasonably confident that she would never forget *that I exist*, but what if she doesn't remember how she treated me, and is not today the kind of person who would treat anyone that way?  Would the Brooke who exists today then still be 'guilty'?
 
 ---
-Vellos once told me that herms were playthings among his species.  He also once gifted me a 3D printed egg, but rebuffed my attempts to engage with him in an artisanal way.  I identified as hermaphroditic to him, and I guess he couldn't perceive a hermaphrodite as anything but a whore.  :/
+Vellos once told me that herms were playthings among his species.  He also once gifted me a 3D printed egg, but rebuffed my attempts to engage with him in an artisanal way.  I identified as hermaphroditic to him, and I guess he couldn't perceive a hermaphrodite as anything but a whore.  He wasn't happy about that, but I guess that shows how deeply entrenched misconceptions can be.
+
+Imagine if a man who could only see women as sex objects was also himself disinterested in sex, but then he met a woman who was likewise disinterested in sex... and he could not then perceive her as anything but a sex object.
 
 ---
 Back to [[day-post-archive]]

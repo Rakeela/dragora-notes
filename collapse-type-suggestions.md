@@ -250,7 +250,9 @@ Seventeenth Suggestion:  (Incomplete)
 Regulatory Overreach
 This territory's previous government foresaw real existential threats in its future trajectory and attempted to avert the looming necessity of a reparative viceregal administration through corrective regulations.  While that effort was itself intelligent, foresighted, and laudatory, the result of a rapidly changing and increasingly restrictive regulatory environment was that the regional economy collapsed.  A reparative viceregal administration has been authorized.
 Challenges:
-(9 Unset)
+Regulatory Intransigence  (Society and government on this planet is convinced that the vast majority of the regulations on the books are strictly necessary to the continuity of life on the planet, and that they are strictly necessary in exactly the form they were authored in.  Proposals to alter anything are considered infuriating and face constant pushback, while heightened compliance costs increase the price of every project.  Bureaucratic penalty.)
+Ascetic Leadership  (This system managed to tap into such a deep well of humility that it drew ascetics not only into its population, but even into its leadership.  A substantial cultural power went into making this system sustain itself... but it might be too much of a good thing.  It is very, very hard to draw any of the resulting leaders into galactic society, and sometimes it's even difficult to identify who is in charge of critical systems.  Influence penalty.)
+(8 Unset)
 Special features:
 May not have beyonder bank platforms.
 
