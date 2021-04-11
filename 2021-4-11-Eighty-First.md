@@ -17,4 +17,7 @@ In FF8, one of the plotpoints is that the party has all met before, but can't re
 It doesn't really matter...  I shouldn't be thinking about it.  Although I do love FF8, as a game; I never got past the third disk, despite which it's one of my favorite games.
 
 ---
+What if Brooke doesn't remember me?  I'm reasonably confident that she would never forget *that I exist*, but what if she doesn't remember how she treated me, and is not today the kind of person who would treat anyone that way?  Would the Brooke who exists today then still be 'guilty'?
+
+---
 Back to [[day-post-archive]]
