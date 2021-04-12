@@ -28,4 +28,18 @@ Imagine if a man who could only see women as sex objects was also himself disint
 Anyone whose consent isn't respected eventually starts catching fire, and not in a good way.  They start burning, and anything around them might catch fire... metaphorically speaking... usually metaphorically, at least.  No firestarter am I...
 
 ---
+Monster Girl Encyclopedia would be better off without the bizarre and incongruous hypermonogamy.  It really emphasizes the semblance of abusive intentions in the writing, and the way it is sexually objectifying not women but *men*.  It's a repetition of a single dumb fantasy with no coherence, and overall the book comes off as shockingly sex-negative.  An actually positive attitude towards sex would be more fluid than this and would emphasize it as a more balanced part of life...
+
+Well, any singular pleasure is a hell, really.  Hyperfixation is a kind of condemnation and abuse.  We would have a better world if people were relaxed enough to admit to that, but then people wouldn't be starch enough to *do* it.
+
+I still recognize it as condemning the idea that anyone who touches a man's semen should be instantly loyal, as well.  It's just so...  I dunno, *monochrome*, I guess?  Like, it replicates how in harem fantasies all the girls in the harem bond to the same guy, improbably and sometimes even impractically.  I almost appreciate this for *mis*using that idea, because that does have the potential to indicate it as something unappealing.  Those stories 'have' to be that way, but why?  Why do so few romantic stories include positive transient relationships?  Why don't people move apart with sweet memories?
+
+I almost wonder if the lack of "temporary, but good" relationships in culture contributes to making people terrified of love.  I understand the need of super long-term relationships for *childrearing*, and there's no need of reproduction if people *want* to bond long-term, but at the same time our culture just about lacks the concept that it's not necessarily traumatic being someone's ex.
+
+Life is full of good minor connections.  People don't keep the same friends for decades, but that doesn't mean those people weren't real friends.  "Parting is such sweet sorrow," is a phrase in our culture...  I don't think I've heard it for many years at this point.  Where did it arise from?
+
+---
+Ihroun never sticks around long enough to see any relationship sour.  A thought on that topic, for my notes.
+
+---
 Back to [[day-post-archive]]
