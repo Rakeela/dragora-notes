@@ -39,7 +39,7 @@ I almost wonder if the lack of "temporary, but good" relationships in culture co
 Life is full of good minor connections.  People don't keep the same friends for decades, but that doesn't mean those people weren't real friends.  "Parting is such sweet sorrow," is a phrase in our culture...  I don't think I've heard it for many years at this point.  Where did it arise from?
 
 ---
-Ihroun never sticks around long enough to see any relationship sour.  A thought on that topic, for my notes.
+Ihroun never sticks around long enough to see any relationship sour.  A thought on that topic, for my notes.  She collects statuary, not connections...
 
 ---
 Back to [[day-post-archive]]
