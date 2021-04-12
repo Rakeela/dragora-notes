@@ -26,5 +26,9 @@ I was pain-free while I was studying health, but I loaded up a math assignment a
 
 I feel like someone deeply primitive got enraged at me for trying to do math and did something highly unusual so that they could be mathematically superior to me, despite my actual basic talent.  Maybe I should take advanced mathematics just to piss off the unknown observer...  it is actually my plan to take as much math as I can.
 
+Kistaro has recommended cannabis.  I actually do have a history of successfully using cannabis to evade this *particular* pain anomaly, which is not uniquely occurring today, but happens during *all* of my math classes.  Knowledge of this is why Kistaro made that recommendation, and it was a good one that I think I'll follow...  A lot of the math homework that I've submitted to education in adulthood was completed while I was high, because being high reduces the amount I suffer for being in pain.
+
+I still don't like the psychoactivity profile of cannabis, but if it makes me more capable of doing math without *horrible suffering*, it is at least in this context nootropic.
+
 ---
 Back to [[day-post-archive]]
