@@ -22,7 +22,9 @@ https://pubmed.ncbi.nlm.nih.gov/25716012/  (Pasqualleti, G.  Brooks, D.J.  Ediso
 Just including this as a source link for my claim that neuroinflammation factors in dementia.  Note that even if specific causes of neuroinflammation are not autoreactive, it is my belief (potentially erroneous) that autoreactivity errors accumulate in the immune systems of *all* people given sufficient longevity.  As such, even if autoreactivity is not the predominant driver of inflammation, if people start living forever eventually everyone will benefit from autoreactivity control.  Adding secondary sources of inflammation only makes primary sources of inflammation more immiserating.
 
 ---
-I was pain-free while I was studying health, but I loaded up a math assignment and became overwhelmed by pain.  What the hell, that kind of fluctuation feels like someone who isn't honest enough to engage with integrity is artificially punishing me for the sin of thinking that I can perform math.  I'm not exactly losing points on the assignment either; it's going fine.  As usual, I'm not actually incompetent at math.
+I was pain-free while I was studying health, but I loaded up a math assignment and became overwhelmed by pain.  What the hell, that kind of fluctuation feels like someone who isn't honest enough to engage with integrity is artificially punishing me for the sin of thinking that I can perform math.  I'm not exactly losing points on the assignment either; it's going fine, albeit agonizingly slowly due to arbitrary sudden pain.  As usual, my actual math competency is fine.
+
+I feel like someone deeply primitive got enraged at me for trying to do math and did something highly unusual so that they could be mathematically superior to me, despite my actual basic talent.
 
 ---
 Back to [[day-post-archive]]
