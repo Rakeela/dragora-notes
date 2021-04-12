@@ -24,7 +24,7 @@ Just including this as a source link for my claim that neuroinflammation factors
 ---
 I was pain-free while I was studying health, but I loaded up a math assignment and became overwhelmed by pain.  What the hell, that kind of fluctuation feels like someone who isn't honest enough to engage with integrity is artificially punishing me for the sin of thinking that I can perform math.  I'm not exactly losing points on the assignment either; it's going fine, albeit agonizingly slowly due to arbitrary sudden pain.  As usual, my actual math competency is fine.
 
-I feel like someone deeply primitive got enraged at me for trying to do math and did something highly unusual so that they could be mathematically superior to me, despite my actual basic talent.
+I feel like someone deeply primitive got enraged at me for trying to do math and did something highly unusual so that they could be mathematically superior to me, despite my actual basic talent.  Maybe I should take advanced mathematics just to piss off the unknown observer...  it is actually my plan to take as much math as I can.
 
 ---
 Back to [[day-post-archive]]
