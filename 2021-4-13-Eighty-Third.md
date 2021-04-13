@@ -15,4 +15,7 @@ I'm not going to invest my life into making it possible, but...  I dunno.  Peopl
 In hindsight, I think the wind goddess' church were approximately correct about the right way to live with their support of living openly, although...  Kairn was killed by an inquisitor who pursued too ferociously a violation of the church's integrity and enchanted the rest of us to be her instruments of holy vengeance.  That didn't really convince me that they were doing the right thing.  Also, being puppeteered for murderous purposes kind of broke my mind.
 
 ---
+I wonder if it'll ever be socially acceptable to be 'grumpy'.  I didn't consider grumpiness a personal failing of Vellos, I liked that he could be metaphorically spiny.  I liked that we had a society where he could have spines and I could have armor, even if I didn't realize at the time that everyone was treating it as blunt metaphors for trauma.
+
+---
 Back to [[day-post-archive]]
