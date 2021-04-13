@@ -12,4 +12,7 @@ I think if we move away from a wheels-on-the-ground model, people may understand
 I'm not going to invest my life into making it possible, but...  I dunno.  People are so uncreative.  I wish I had more of the health that most people take for granted, and that they had more of the mind that I take for granted.
 
 ---
+In hindsight, I think the wind goddess' church were approximately correct about the right way to live with their support of living openly, although...  Kairn was killed by an inquisitor who pursued too ferociously a violation of the church's integrity and enchanted the rest of us to be her instruments of holy vengeance.  That didn't really convince me that they were doing the right thing.  Also, being puppeteered for murderous purposes kind of broke my mind.
+
+---
 Back to [[day-post-archive]]
