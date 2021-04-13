@@ -28,4 +28,9 @@ I met another fucked up loyalist today.  As usual, they pumped me for informatio
 The fact that I'm powerless against it doesn't make deception LESS of a violation of consent.
 
 ---
+The real reason the Glasswall is a bad idea is that narcissistic people think others are "stupid" for actually working.  How many kids will just use the all-access pass to victimize whoever is "stupid enough" to do their homework for class, resulting in the whole class turning in identical worksheets to whatever is turned in by whichever kid is "too stupid" to use the Glasswall system to cheat?
+
+Well...  none!  Actually, this is one of the basic advantages of the Glasswall.  Since it always reports on whoever uses it, anyone who uses the Glasswall for academic cheating will be catchable.  Academic integrity would be much more resilient in general.
+
+---
 Back to [[day-post-archive]]
