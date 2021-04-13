@@ -18,4 +18,14 @@ In hindsight, I think the wind goddess' church were approximately correct about 
 I wonder if it'll ever be socially acceptable to be 'grumpy'.  I didn't consider grumpiness a personal failing of Vellos, I liked that he could be metaphorically spiny.  I liked that we had a society where he could have spines and I could have armor, even if I didn't realize at the time that everyone was treating it as blunt metaphors for trauma.
 
 ---
+I just thought of something about sci-fi.  A lot of sci-fi artists know that symmetry is 'more attractive' than asymmetry, and so they use symmetry as part of their determination for whether or not an alien is supposed to look appealing.  Yet intraspecific variation is a thing, and varying the extent of symmetry could be used to indicate it more than it currently is.  A slightly misshapen alien of the same species would still be less appealing than a very symmetrical representation, and having both in the same setting would make them both more believable.
+
+This could be used to tell stories based on attractiveness as well.  Ugly villains, ugly heroes.  More people would be blind to the attractiveness cue in an alien species, which could be an asset to the author or even a plot point in the story.
+
+---
+I met another fucked up loyalist today.  As usual, they pumped me for information while reminding me in petty ways that I couldn't "force" them to be honest.  Deception is still a violation of consent.  I wish society were more consensual.
+
+The fact that I'm powerless against it doesn't make deception LESS of a violation of consent.
+
+---
 Back to [[day-post-archive]]
