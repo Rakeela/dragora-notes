@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "collapse-type-suggestions.md",
+                    "file": "Northern-Creche-Confederation.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-13-Eighty-Third.md",
+                "file": "Northern-Creche-Confederation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "93ca72a09fd26144",
   "lastOpenFiles": [
+    "Northern-Creche-Confederation.md",
+    "collapse-type-suggestions.md",
     "Untitled.md",
     "2021-4-9-Seventy-Ninth.md",
     "2021-4-12-Eighty-Second.md",
     "2021-4-10-Eightieth.md",
     "2021-4-11-Eighty-First.md",
     "Novel-Challenge-Cures.md",
-    "collapse-type-suggestions.md",
     "Universal-tolerogenic-dendritic-cell-experiment-1.md",
-    "immortalist.md",
-    "paprika.md"
+    "immortalist.md"
   ]
 }
