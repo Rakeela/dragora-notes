@@ -31,4 +31,11 @@ Kistaro has recommended cannabis.  I actually do have a history of successfully 
 I still don't like the psychoactivity profile of cannabis, but if it makes me more capable of doing math without *horrible suffering*, it is at least in this context nootropic.
 
 ---
+I know that I've been a disruptive person all my life...  Bitter, opinionated, and disruptive.  I believe in my causes!  Yet I also wish I could say that there was something which would change me in that respect.  I fear that even if everything went my way, I would still be trapped in old sorrows and my great disagreements with humanity.
+
+I feel like there's something wrong with how I've expressed this passage, and I don't know what it is.
+
+If I did change, what would I change to?  What is my other potential?  I feel like there's something obscure wrong with my life; something I am powerless against.  If someone could identify that and fix it, who would I become?
+
+---
 Back to [[day-post-archive]]
