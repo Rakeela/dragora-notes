@@ -53,4 +53,9 @@ I wanted to found a company dealing with real issues and "omniscience" treated m
 They were right to imagine me as enraged, but the part I don't understand is why they didn't understand that there might be some rational cause for the emotion they imagined.  I was dealing with people who were very, very proud that they knew more about the world than I did, and who were very proud of the power they had over me by being dishonest to me.
 
 ---
+Argh.  *kicks a wall*  Now I'm infuriated by humanity's failure to handle COVID-19 with the kind of alacrity that it deployed against smallpox.  We really should have doctors knocking on doors across the nation.  No more, no less.  Instead of prioritizing by types of people, prioritize by entire communities, and just scythe off the virus by vaccinating entire communities one at a time.
+
+We could then use the same approach to start taking down other diseases that RNA vaccination enables new targeting of, starting with whichever costs the most money to the economy.  *That's* how you boost the economy while defending the public weal!
+
+---
 Back to [[day-post-archive]]
