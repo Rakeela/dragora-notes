@@ -18,7 +18,7 @@ I mean, it'd be arrogant to think I knew better than the course material I was s
 ---
 I kind of resent having to 'interpret' comments, generally.  Why don't people respect the emotional safety of others enough to be straightforward?
 
-I want to say, like, were they never a child scared by unclear feedback from an authority figure?  That teacher sent me a questioning email, and included an anomalous comment...
+I want to say, like, were they never a child scared by unclear feedback from an authority figure?  That teacher sent me a questioning email, and included an anomalous comment... and I can just tell that for trying to engage as required by etiquette, I'm in danger of being hated, because an authority figure approached me with ambiguous comments from a position of control.  The hatred of others is not my hatred.  If we had a more polite society, this kind of thing wouldn't happen, but rude people hate the open societies, preferring their closed hostilities where people are at risk if they're caught thinking about any other world but the one to which they're supposed to be conforming.
 
 ---
 Back to [[day-post-archive]]
