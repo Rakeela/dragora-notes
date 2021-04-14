@@ -11,5 +11,9 @@ Well, I don't intend to let it degrade my coursework.  I'll just be on guard.
 ---
 I'm very disappointed by my global health textbook.  I got a quiz question wrong already due to bad information organization in the book.  Twice in the book, one of the wrong answers from the quiz was presented in the context that the quiz asked about, whereas the right answer was not listed in that context.  This frustrated me most of all because I *did* get the right answer on my *first* pass through the quiz.  I understood the concept, but I tried to answer per the book rather than thinking I knew better than my course material, and I therefore got it wrong!
 
+Reducing tobacco smoking is a more intersectoral issue in global health than improving maternal care.  I knew it before I looked at the book, but I got it marked wrong by trying to answer per the book rather than per my own understanding.
+
+I mean, it'd be arrogant to think I knew better than the course material I was studying, right?  I'm in class to correct my presumably flawed prior understandings, so it's appalling to get penalized for preferring the material to my own understanding.
+
 ---
 Back to [[day-post-archive]]
