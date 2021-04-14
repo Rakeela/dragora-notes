@@ -48,4 +48,9 @@ This is the kind of product I dreamed of selling from Otter Labs when I was youn
 Or hell, speaking of cybernetics, try embracing cybernetics in the old Russian sense.  Set up complex cybernetic programming scenarios, expose them to the public, and hold prize contests for the best solutions.  If we're specifically bankrupt on the logistical skills needed to organize big interventions, *target the development of that skill*.  As meta-technological insights go, this one isn't even especially advanced.
 
 ---
+I wanted to found a company dealing with real issues and "omniscience" treated me as wanting nothing but sex!  I wasn't willing to reproduce!  Nobody convinced me it was a good idea!  All of my dreams were derided by people who then became infuriated at my "lies" for sexually rejecting them and my "primitive" inactivation!
+
+They were right to imagine me as enraged, but the part I don't understand is why they didn't understand that there might be some rational cause for the emotion they imagined.  I was dealing with people who were very, very proud that they knew more about the world than I did, and who were very proud of the power they had over me by being dishonest to me.
+
+---
 Back to [[day-post-archive]]
