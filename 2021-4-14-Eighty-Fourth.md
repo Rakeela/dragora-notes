@@ -35,4 +35,15 @@ I don't think our society is massively impoverished.  I think that humanity real
 On the cheap, judging by the smallpox campaign!  Our ancestors were stupider, sicker, and more mentally ill than us!  They didn't know what they couldn't do, and so they did tons of stuff that we of today's world "know" is impossible.
 
 ---
+I mean, that's why I don't have a lab.  That's why I believed that transhumanism needed sex workers more than it needed research assistants.  In order to be very trusting of people, I had to believe that society had grown massively impoverished, and couldn't afford to do anything with a pricetag higher than a thousand bucks.  That's just not true.  It never was, and it was an injustice that I was held accountable as though only paradise has ever had resources.
+
+Our ancestors were dirt poor, too.  They had dramatically *less* than we had.  Why can't we do more with more?
+
+If the problem is that everyone's exhausted, literally, if that's just widespread and people had all the can-do victimized out of them the way I just about had it victimized out of me...  For one thing, why don't we get nicer?  Why give up all our progress because we're obsessively mean for no particular reason?  This is a tangent; it side-swiped my thinking here.  Mean people telling me that literally everything was too expensive and pushing me towards sex ruined my life.  Sex is cheap, but it doesn't get anything *done*.  I didn't like it, and my complaints were treated as lies versus the obvious true reality that I was worthless and incapable of doing anything.  That was garbage.
+
+The original thought I was going to get at before that tangent distracted me is this, which is more central and critical: why not embrace transhumanism?  Liberal transhumanism should always have been a highly effective countermeasure here if the problem is some kind of mass public exhaustion.  If your hand offends you, cut it off!
+
+Or hell, speaking of cybernetics, try embracing cybernetics in the old Russian sense.  Set up complex cybernetic programming scenarios, expose them to the public, and hold prize contests for the best solutions.  If we're specifically bankrupt on the logistical skills needed to organize big interventions, *target the development of that skill*.  As meta-technological insights go, this one isn't even especially advanced.
+
+---
 Back to [[day-post-archive]]
