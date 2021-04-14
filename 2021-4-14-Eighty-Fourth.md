@@ -16,4 +16,9 @@ Reducing tobacco smoking is a more intersectoral issue in global health than imp
 I mean, it'd be arrogant to think I knew better than the course material I was studying, right?  I'm in class to correct my presumably flawed prior understandings, so it's appalling to get penalized for preferring the material to my own understanding.
 
 ---
+I kind of resent having to 'interpret' comments, generally.  Why don't people respect the emotional safety of others enough to be straightforward?
+
+I want to say, like, were they never a child scared by unclear feedback from an authority figure?  That teacher sent me a questioning email, and included an anomalous comment...
+
+---
 Back to [[day-post-archive]]
