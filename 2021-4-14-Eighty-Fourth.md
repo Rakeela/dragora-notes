@@ -21,4 +21,11 @@ I kind of resent having to 'interpret' comments, generally.  Why don't people re
 I want to say, like, were they never a child scared by unclear feedback from an authority figure?  That teacher sent me a questioning email, and included an anomalous comment... and I can just tell that for trying to engage as required by etiquette, I'm in danger of being hated, because an authority figure approached me with ambiguous comments from a position of control.  The hatred of others is not my hatred.  If we had a more polite society, this kind of thing wouldn't happen, but rude people hate the open societies, preferring their closed hostilities where people are at risk if they're caught thinking about any other world but the one to which they're supposed to be conforming.
 
 ---
+The smallpox eradication story makes the global reaction to Coronavirus look unconsciably corrupted.
+
+In the 70s, it was possible for the USA to engage in door-to-door medical care across ALL OF INDIA, a larger and less friendly territory than its own, with considerably less development.  It should therefore be possible to conduct door-to-door medical care across all of the USA, which is a smaller target with better services and a general assurance of safety for the field teams.  Door-to-door medical distribution would drastically accelerate the curing of the coronavirus.
+
+This makes a complete mockery of the expense of healthcare.  It was in the 70s cost-effective for the USA to eradicate a disease ABROAD.  Yet today we can't eradicate a disease that is supposedly wrecking the global economy?  This speaks of extraordinary falsehood and suggests that if we installed a Glasswall, we would learn a great many unusual things about our political leaders.
+
+---
 Back to [[day-post-archive]]
