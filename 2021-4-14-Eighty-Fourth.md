@@ -28,4 +28,11 @@ In the 70s, it was possible for the USA to engage in door-to-door medical care a
 This makes a complete mockery of the expense of healthcare.  It was in the 70s cost-effective for the USA to eradicate a disease ABROAD.  Yet today we can't eradicate a disease that is supposedly wrecking the global economy?  This speaks of extraordinary falsehood and suggests that if we installed a Glasswall, we would learn a great many unusual things about our political leaders.
 
 ---
+The same people who castigated me for doing nothing always refused to provide assistance or make resources available for things to be done.  I think they were projecting.  I think they were trying to do nothing and they were scapegoating me for it.  I was willing to do other things, but the only thing they would actually *cooperate* with was sex.  *Everything* else was "too expensive", such that I have consistently gotten the impression that our society is *massively impoverished*.
+
+I don't think our society is massively impoverished.  I think that humanity really is at apex wealth.  I think our society is just corrupted and hateful, entrenching dishonest people at the expense of everyone else.  We'd be better off with a sortition system.  It would put "stupid" and "incompetent" people into power... and, failing to know that doing literally anything is too expensive, those stupid and incompetent people would proceed to get stuff done.
+
+On the cheap, judging by the smallpox campaign!  Our ancestors were stupider, sicker, and more mentally ill than us!  They didn't know what they couldn't do, and so they did tons of stuff that we of today's world "know" is impossible.
+
+---
 Back to [[day-post-archive]]
