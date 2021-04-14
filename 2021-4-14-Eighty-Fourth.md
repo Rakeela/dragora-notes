@@ -50,7 +50,7 @@ Or hell, speaking of cybernetics, try embracing cybernetics in the old Russian s
 ---
 I wanted to found a company dealing with real issues and "omniscience" treated me as wanting nothing but sex!  I wasn't willing to reproduce!  Nobody convinced me it was a good idea!  All of my dreams were derided by people who then became infuriated at my "lies" for sexually rejecting them and my "primitive" inactivation!
 
-They were right to imagine me as enraged, but the part I don't understand is why they didn't understand that there might be some rational cause for the emotion they imagined.  I was dealing with people who were very, very proud that they knew more about the world than I did, and who were very proud of the power they had over me by being dishonest to me.
+They were right to imagine me as enraged, at least in the sense that it would've been a coherent, comprehensible emotional response to the psychological abuse that I faced.  My gaining benevolence instead *was* chaotic.  Yet the part that I don't understand is why the people who surrounded me didn't understand that there might be some rational cause for the emotion they imagined.  I was dealing with people who were very, very proud that they knew more about the world than I did, and who were very proud of the power they had over me by being dishonest to me.
 
 ---
 Argh.  *kicks a wall*  Now I'm infuriated by humanity's failure to handle COVID-19 with the kind of alacrity that it deployed against smallpox.  We really should have doctors knocking on doors across the nation.  No more, no less.  Instead of prioritizing by types of people, prioritize by entire communities, and just scythe off the virus by vaccinating entire communities one at a time.
