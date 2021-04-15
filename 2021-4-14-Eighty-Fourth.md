@@ -43,7 +43,7 @@ If the problem is that everyone's exhausted, literally, if that's just widesprea
 
 The original thought I was going to get at before that tangent distracted me is this, which is more central and critical: why not embrace transhumanism?  Liberal transhumanism should always have been a highly effective countermeasure here if the problem is some kind of mass public exhaustion.  If your hand offends you, cut it off!  More to the point, implant chemical regulators into people so that their metabolism stays tuned for high performance during the day, and mental recovery across the evening and night.  Running the body harder is basically entropic, but if we're failing our medical potential by mass exhaustion, high-tech hummingbird implants could actually make people live longer.
 
-This is the kind of product I dreamed of selling from Otter Labs when I was younger.  I wanted to found a company to commercialize that.
+This is the kind of product I dreamed of selling from Otter Labs when I was younger.  I wanted to found a company to commercialize that kind of thing.  I think not that specifically, though I've come up with something like this idea many times, and I'm not sure when I thought it up first.
 
 Or hell, speaking of cybernetics, try embracing cybernetics in the old Russian sense.  Set up complex cybernetic programming scenarios, expose them to the public, and hold prize contests for the best solutions.  If we're specifically bankrupt on the logistical skills needed to organize big interventions, *target the development of that skill*.  As meta-technological insights go, this one isn't even especially advanced.
 
