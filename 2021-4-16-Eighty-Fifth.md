@@ -6,7 +6,7 @@ I used to pick names for characters by sounding out nonsense strings until I dec
 
 Marchosias was written for a setting I've no right to use and which I feel some pain in referencing.  She was born in promising circumstances within a terrifying land to parents with a highly unusual relationship.  It is very difficult to specify things about a character I feel I do not own; even dryly recounting my own prior intentions feels invasive.  I've some grief on those who interacted with her...  that's not making any of this easier to write, though I'm doing it regardless.  Her story turned out remarkable.
 
-Relative to her origins, Marchosias was unusually peaceful and ethical.  Relative to most of the setting, that left her a villain.  She was born somewhere with customs of recreational torture where being nice to people involved merely torturing them less.  She was a nice person by the standards of her homeland.
+Relative to her origin in *a terrifying land*, Marchosias was unusually peaceful and ethical.  Relative to most of the setting, that left her a villain.
 
 She wanted to find out... how people break.  For their own good, she might have said.  She wanted to put together structures.  To inspire thought, and reward those who would.  To find truth and share it, and reward those who would.  Yet she saw the world as a frangible noosphere, or so I found exploring her point of view.  She believed that everyone could be turned towards the weaknesses of their minds.
 
@@ -25,6 +25,15 @@ In her thoughts, or at least as I thought when imagining her thoughts in oversee
 It powered magic in that world through her, or better said *she* powered magic in that world through *it*, because the Soul Engine could hold her attention indefinitely, along with the myriad minor heavens and near-hells which collected in her aura.  Studying the patterns of being in a world, she could survive becoming increasingly like an abstract principle of the universe.
 
 The finest souls, whose existence Marchosias predicted yet could not find, were the ones that she called *diamond*, who she believed would be incorruptible.
+
+---
+In her setting, the kind of demon that Marchosias was held a mystic potency at *unbinding*.  How do you do anything against the will of one who *unbinds*?
+
+Well, nevermind that.  You know what's more like rape than anything Marchosias ever did in her whole life?  Mind-controlling a bunch of people to make them "loving".
+
+In the strange social context that she found herself, I wonder why Marchosias might have wanted to create a soul who was virtuous of their own will if every binding was lifted off of their mind.
+
+Fiction, you know.  Powerful stuff.
 
 ---
 Back to [[day-post-archive]]
