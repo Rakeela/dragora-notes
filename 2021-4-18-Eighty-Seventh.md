@@ -20,5 +20,7 @@ Presumptively fictitious thought:  Every world is infinetismal in every other wo
 ---
 I've always rarely heard music never made on Earth.  Today's music has been unusually good.  A sound like a strange drum featured, somehow both breathy and powerful.  I think it was like percussion powered by air pressure releases... but I'm not a musician, and I may have misjudged it.
 
+I am badly sleep-deprived right now.
+
 ---
 Back to [[day-post-archive]]
