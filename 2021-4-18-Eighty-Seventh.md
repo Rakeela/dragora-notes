@@ -15,4 +15,10 @@ Potentially nonsensical thoughts: is it possible to construct something which on
 Related nonsensical thought:  Can machines be made of virtual particles?
 
 ---
+Presumptively fictitious thought:  Every world is infinetismal in every other world.
+
+---
+I've always rarely heard music never made on Earth.  Today's music has been unusually good.  A sound like a strange drum featured, somehow both breathy and powerful.  I think it was like percussion powered by air pressure releases... but I'm not a musician, and I may have misjudged it.
+
+---
 Back to [[day-post-archive]]
