@@ -10,4 +10,9 @@ I'm attributing this to Kettikita, because even though I can readily conceive of
 A lot of fantasies skip to the objective without thinking of the 'how'.  Writing a story from an objective then involves a lot of thinking back from the objective to reconstruct the method.
 
 ---
+Potentially nonsensical thoughts: is it possible to construct something which only probably exists, within the overlapping fields of particles whose relative position is stabilized by a crystalline structure?  What patterns can exist in the fields that surround each particle?  How are those patterns modified by interaction with nearby particles?
+
+Related nonsensical thought:  Can machines be made of virtual particles?
+
+---
 Back to [[day-post-archive]]
