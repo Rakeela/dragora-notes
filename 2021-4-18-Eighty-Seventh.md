@@ -7,4 +7,7 @@ No results are guaranteed.  It's just a source of hypotheses.  How does electric
 I'm attributing this to Kettikita, because even though I can readily conceive of testable hypotheses from this concept, it's off the edge of the map that I want to explore.
 
 ---
+A lot of fantasies skip to the objective without thinking of the 'how'.  Writing a story from an objective then involves a lot of thinking back from the objective to reconstruct the method.
+
+---
 Back to [[day-post-archive]]
