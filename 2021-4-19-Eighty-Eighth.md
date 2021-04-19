@@ -17,5 +17,7 @@ Once, when a teacher asked me to write a poem for an assignment, I wrote it with
 
 I don't remember the exact poem and I doubt it was published anywhere, but it had been a poem about sharks.
 
+I told my classmates that I had cried because I was convinced that the poem was terrible, and they reassured me that it was good.  I didn't tell them that I didn't want to share anything with them ever, because of the way that they abused me.  I hated the violence of my school; I hated that apparently most of the student body could watch me get ambushed and then be counted on to tell the teachers that I started it.  The way people also tried to "make friends" made it worse.  I didn't want to be attacked and then invited into the clique of violent bullies.  I refused those invitations repeatedly.  I didn't want to be involved in sports, either!  I didn't want to befriend jocks.  I wanted a safe, peaceful, and studious environment.
+
 ---
 Back to [[day-post-archive]]
