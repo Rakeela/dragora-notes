@@ -18,7 +18,7 @@ These defy the sorting method used for the rest of the rankings, so I'll list se
  * Panarchic Symposium
  * Industrial Overseer
  * Distributed Desalination
-(Yes, I estimate the Industrial Overseer AI as also being non-dystopic.  It's a specialist multiplier lacking intrinsic activation; if it starts making things worse, people will just stop working with it...)
+(Yes, I estimate the Industrial Overseer AI as also being non-dystopic.  It's a specialist multiplier lacking intrinsic activation, and unlike the Lord Industrial on the other side of the graph it isn't described as taking control from anyone in particular; if it starts making things worse, people will surely just stop working with it...)
 
 ---
 Back to [[The-Viceroy]]
