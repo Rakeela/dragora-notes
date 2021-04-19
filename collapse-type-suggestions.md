@@ -179,7 +179,7 @@ Blandeur (This district's culture is austere, magnificent, and painfully short o
 Panarchic Wargames (The Panarchy has assigned large contingents of military forces to this planet for training, research, and recreational purposes.  While these are technically allied forces operating lawfully, their presence is both expensive and disruptive, increasing supply and maintenance costs planet-wide.  Upkeep penalty.)  4
 Reclusive AI Utopia  (This system has become dominated by powerful AI who claim that they wish to avoid influencing galactic culture.  As a result of their efforts, a great fraction of the population is comprised of sapient machinery and upload cluster residents who are incapable of or resistant to providing cultural exports through the gates, but who claim to seek contentment in trading real goods for cultural imports.   Culture base penalty.)  5
 Anti-Statisticians  (Long-term economic planning has been crushed on this planet by competitively-designed AI bankers whose attempts to subvert all exploitable patterns render the local market impenetrable and incomprehensible.  Rate of return penalty.)  6
-Rubbish Imports  (Additionally to the trade flows tracked by the Commonwealth as productive, this planet is signed on to many galactic trade pacts with the cumulative impact that its markets are flooded with inferior goods.  The resulting 'low quality society' has an infamy not conducive to high revenues in cultural exports, though the local cuisine is pretty good.  Culture base penalty.)  7
+Rubbish Imports  (Additionally to the trade flows tracked by the Commonwealth as productive, this planet is signed on to many galactic trade pacts with the cumulative impact that its markets are flooded with inferior imports.  The resulting 'low quality society' has an infamy not conducive to high revenues in cultural exports, though the local cuisine is pretty good.  Culture base penalty.)  7
 Zero Birth Culture (Stock.  Reproductive penalty.)  8
 Formerly Important. (Stock.  Happiness penalty.)  9
 Special Features:
@@ -256,6 +256,21 @@ Law of Love  (The highly developed strictures of romantic and sexual ethics in t
 (6 Unset)
 Special features:
 May not have beyonder bank platforms.
+
+Eighteenth Suggestion:  (Incomplete)
+Commonwealth Fanatics
+This territory's very nationalistic government "fully implemented" the democracy of the Commonwealth Consensus... temporarily.  The resulting conflicts typify the broader reluctance to monoculturalism in galactic society, as a dangerously boredom-prone and novelty-seeking society convinced that they are the only way to achieve anything novel in a stagnant galaxy has been at each others' throats ever since.
+Challenges:
+Gerontologic Suicide  (In order to ensure that there would remain space for new children to be born into, which per Commonwealth ideology is the only way to ensure new ideas, this planet practices population control through harassing very old people until they kill themselves if they ever become in any way maimed or incompetent.  The locals present this as necessary; immortal society is outraged.  Influence penalty.)  1
+Melange File (One of the less safe narcoalgorithmic cognitive adjustment nanotechnologies is permanently 'in vogue' in this district.  Known as a melange file, it renews the hedonic treadmill via partial personality overwrite.  Overuse of melange files leads to on-going personality drift, scrambling galactic society's ability to give these people permanent roles in a larger culture.  Influence penalty.)  2
+Violent Culture  (Stock.  Reproduction penalty.)  3
+Drinkers of Nepenthe (Unlearning medications aka 'Nepenthe' are common in advanced societies, because they are necessary for accelerated skill redevelopment and the indefinite maintenance of psychological health.  Some individuals become drawn to the drugs recreationally, and the resulting constant unlearning reverses the skill-developing intentions of Nepenthe.  This planet's ability to contribute to advanced technological development is crippled by just how often the public is wallowing in Nepenthe.  Science penalty.)  4
+Anti-Panarchicism (Stock.  Influence penalty.)  5
+Common Culture (Stock.  Cultural base penalty.)  6
+(3 Unset)
+Special features:
+(Unset)
+
 
 ---
 Challenge concepts that I don't have anywhere else to put:

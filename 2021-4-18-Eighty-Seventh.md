@@ -23,4 +23,15 @@ I've always rarely heard music never made on Earth.  Today's music has been unus
 I am badly sleep-deprived right now.
 
 ---
+I have a personal setting full of stable immortals.  It is not generally possible in that setting for reproduction to occur without the consent of at least three parties, and the magics involved are one of the setting's greater dangers.  Reproduction in the setting has nothing to do with instinct and can never be a consequence of rape.
+
+One of the petty things I like about it is that it can develop no tradition of sapient sacrifice.
+
+This is because the setting contains no unplanned children and no unwanted children; it has no surplus children and no unsustainable children.  Sacrificing humans is something that human cultures did, because the rate at which they produced humans was not controllable.  It's best not to think too hard about what this implies for the sexual mores of prior human societies... and concomitantly, it's best not to think too hard about what kind of things historically kept human populations from increasing, nor what kind of things societies took up in the evolutionarily favored struggle to outreproduce each other.  Child sacrifice was one of those adaptations in both senses: it was a technology of population control.  By sacrificing children, human societies could be more natalistic.
+
+If every child was a miracle...  Well, as a metaphor, it's an excuse and a lie.  I don't approve of state religion and I don't think it protects the well-being of children.  Could it be literal, it would be paradisic.
+
+My currently favored personal setting is not governed by the commandment of "go forth and multiply," it is instead governed by the commandment of "find meaning in eternal life."  So the populations barely grow, but they love each other, and they develop a lot of artisans.
+
+---
 Back to [[day-post-archive]]
