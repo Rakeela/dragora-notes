@@ -9,12 +9,16 @@ Secondly, each technology strikes me as having an implied position on a notional
 I was thinking that I could assemble a list of technologies by their order of virtue in these senses: how many people their pole of protection covers, and where they are on the bureaucracy-to-disaster scale.  The result wouldn't necessarily be an optimal order of implementation in the game; the mechanical effects of the technologies would be disregarded for this purpose.
 
 Purely bureaucratics:
-These defy the sorting method used for the rest of the rankings, so I'll list separately the technologies whose downside I consider purely bureaucratic.  These technologies become pathetic rather than dystopic in the event that their host territory collapses.
-1.  Holistic Industrialization
-2.  Common Suffrage
-3.  Panarchic Retreat
-4.  Frictionless Highways
-5.  Planned Urbanization
+These defy the sorting method used for the rest of the rankings, so I'll list separately the technologies whose downsides I consider purely bureaucratic.  I estimate these technologies as becoming pathetic rather than dystopic in the event that their host territory collapses.  This list is not 'ordered', and it may also be incomplete.
+ * Holistic Industrialization
+ * Common Suffrage
+ * Panarchic Retreat
+ * Frictionless Highways
+ * Planned Urbanization
+ * Panarchic Symposium
+ * Industrial Overseer
+ * Distributed Desalination
+(Yes, I estimate the Industrial Overseer AI as also being non-dystopic.  It's a specialist multiplier lacking intrinsic activation; if it starts making things worse, people will just stop working with it...)
 
 ---
 Back to [[The-Viceroy]]
