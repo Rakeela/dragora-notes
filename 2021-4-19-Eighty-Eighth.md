@@ -15,5 +15,7 @@ I also cried when asked to write creative material for my classmates.  I didn't 
 
 Once, when a teacher asked me to write a poem for an assignment, I wrote it without difficulty.  When it was revealed only after the poems had all been submitted to the teacher that everyone was supposed to read their poem to class, I burst into tears.  I refused to do that and the teacher threatened me with a zero if I didn't submit to reading it aloud.  I couldn't really respond at that point, because I was sobbing.  Eventually the teacher decided to "compromise" by giving me 50% and taking the poem away from me to have someone else read it aloud.  I didn't stop crying until it was handed back to me.  I felt deeply violated.
 
+I don't remember the exact poem and I doubt it was published anywhere, but it had been a poem about sharks.
+
 ---
 Back to [[day-post-archive]]
