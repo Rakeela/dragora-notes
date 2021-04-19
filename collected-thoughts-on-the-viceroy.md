@@ -10,7 +10,7 @@ Preserved fragments:
 /\ - 1
 "Ignoring the question of sustainability at other levels, what do YOU need to most nearly approximate stability at YOUR level?"
 
-"Administrators.  Give me people who can motivate others to follow protocols exactly.  For all the complaints against bureaucracy, people never understand the degree to which they are complaining about specifically faulty bureaucracies.  Fifty excellent middle managers can nigh-indefinitely operate the immortality protocols for a mid-sized territory.  Any less excellent structure will be unsustainable, while any structure trying to achieve that end with fewer truly excellent bureaucrats is a pure false economy - at least at THIS level."
+"Administrators.  Give me people who can motivate others to follow protocols exactly.  For all the complaints against bureaucracy, people never understand the degree to which they are complaining about specifically faulty bureaucracies.  Fifty excellent middle managers can nigh-indefinitely operate the immortality protocols for a mid-sized territory.  Any less excellent structure will be unsustainable, while any structure trying to achieve that end with fewer truly excellent bureaucrats is a pure false economy - at least at THIS level.  Note also that no territory runs immortality protocols alone; fifty excellent managers will suffice for no territory."
 \/ - 1
 
 ---
