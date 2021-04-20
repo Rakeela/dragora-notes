@@ -23,4 +23,13 @@ I told my classmates that I had cried because I was convinced that the poem was 
 Back then, I couldn't talk about miserable things, so people misunderstood.  Today, I don't have that mental barrier anymore.
 
 ---
+I wonder...  I sometimes wonder why I generally can't cry.  Was it because crying did so little good then?  I couldn't express myself through tears, and I couldn't think clearly; crying only made people misunderstand me more.  Yet in the years since, being able to cry would have done much good for helping people understand when I was miserable!  It would have impaired my tendency to try to like stuff I can't avoid.
+
+Tears and the regenerative hedonic threshold...  Oh!  They contradict.  I can't "like the struggle" on stuff that makes me cry.
+
+I wish I could find the balance.  Regenerative hedonic threshold is a nice trait, but crying is also necessary.  I want to be an emotionally complete person.  I would've been better-served retaining the inclination to cry, while improving my ability to accurately express myself while crying, than to stop crying.
+
+Not that I had such an option.  I never refused myself permission to cry.  People talk about how men don't "let" themselves cry...  Nah.  It was never like that.  I don't consider myself masculine, and I don't value strength in that sense.  I don't remember being unwilling to cry.  I just eventually stopped crying when I was very upset, and I think I've always wished that hadn't happened.
+
+---
 Back to [[day-post-archive]]
