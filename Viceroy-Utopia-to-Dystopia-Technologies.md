@@ -13,7 +13,6 @@ These defy the sorting method used for the rest of the rankings, so I'll list se
  * Holistic Industrialization
  * Common Suffrage
  * Panarchic Retreat
- * Frictionless Highways
  * Planned Urbanization
  * Panarchic Symposium
  * Industrial Overseer
