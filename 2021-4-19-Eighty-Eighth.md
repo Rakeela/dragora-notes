@@ -25,7 +25,7 @@ Back then, I couldn't talk about miserable things, so people misunderstood.  Tod
 ---
 I wonder...  I sometimes wonder why I generally can't cry.  Was it because crying did so little good then?  I couldn't express myself through tears, and I couldn't think clearly; crying only made people misunderstand me more.  Yet in the years since, being able to cry would have done much good for helping people understand when I was miserable!  It would have impaired my tendency to try to like stuff I can't avoid.
 
-Tears and the regenerative hedonic threshold...  Oh!  They contradict.  I can't "like the struggle" on stuff that makes me cry.
+Tears and the regenerative hedonic threshold...  Oh!  They contradict.  I can't "like the struggle" on stuff that makes me cry.  But that's important!  I need that signal of unsustainability.
 
 I wish I could find the balance.  Regenerative hedonic threshold is a nice trait, but crying is also necessary.  I want to be an emotionally complete person.  I would've been better-served retaining the inclination to cry, while improving my ability to accurately express myself while crying, than to stop crying.
 
