@@ -13,4 +13,9 @@ I love this picture.  I can imagine it in motion, kaleidoscopic.  I can also alm
 I've made a lot of nonsense images, but I still consider visual arts to be the skill I've envied and never had.
 
 ---
+My shipment of agar powder arrived too late in the evening for me to make mung gels today.  Maybe tomorrow!
+
+In other news, I've been contemplating psoriasis as another experimental target.  I'm recording a note to myself here to open an experimental proposal node for it, formalizing my hypothesis about psoriasis and mental health comorbidities.  If psoriasis is also a target for immunological treatment, that could be another source of medical productivity in working with dendritic cells.
+
+---
 Back to [[day-post-archive]]
