@@ -12,4 +12,7 @@ That last one is stunning, because my father is the only person I've ever met wh
 The biggest problem in our society is that we do not honor the law of love consistently enough.
 
 ---
+Thus born of the Commonwealth and taught that I was to revere its ideals, I fell down a flight of punches in childhood and learned that I should be rejecting the Commonwealth in favor of a greater pacifism found elsewhere.  I reject the idea that the nature of humanity is warlike and I do not believe that God's commandment to reproduce should take priority over the law of love.
+
+---
 Back to [[day-post-archive]]
