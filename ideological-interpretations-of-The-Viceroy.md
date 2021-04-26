@@ -152,10 +152,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	5.  Apologia:  There might not be such a point...  The galaxy in this game's setting really needs *a lot* more humble immortals!  This tech finds them.  A pure influence boost works the same way whether the public is happy or miserable.
 	6.  Mechanism proposal:  Panarchic retreats are also bases from which panarchic anti-hackers can unlock Imperial augments so that the Commonwealth's "robots" (the Imperials) can have their free will back.  These are bastions of freedom set up by the Panarchic Ritualists, which operate within the letter of Commonwealth law despite Commonwealth accusations that the Panarchy is made of utterly chaotic criminals.
 	7.  Mechanism proposal:  Since the Commonwealth prefers perfectly virtuous people for its immortals, the efforts by the panarchic retreats to surface humble immortals make the Commonwealth incapable of organizing the systematic oppression of panarchic retreats!  The support for leisure subsidies in the Consensus Commonwealth likewise helps to make these into very resilient positions for the Panarchy.  Commonwealth immortals are at worst uncertain about panarchic retreats, but can't really oppose them.
-	8.  Mechanism proposal:  Travel logistics also help with evacuating people should the need arise.  Furthermore, a travelling elite is more willing and able to not be in disastrous regions when they shouldn't be, and more capable of staying safe in disastrous regions when they need to be in them.  This means that building panarchic retreats increases the eventual rescue rate from regions that collapse.
+	8.  Mechanism proposal:  Travel logistics also help with evacuating people should the need arise.  Furthermore, a travelling elite is more willing and able to not be in disastrous regions when they shouldn't be, and more capable of staying safe in disastrous regions when they need to be in them.  This means that building panarchic retreats increases the eventual rescue rate from regions that collapse.  Any faction in the galaxy might build retreats for this purpose.
 	9.  Bureaucratic waste analysis:  The bureaucratic expense of running all these vacation areas is totally literal.  There's no reason to expect this to promote hatred of bureaucrats or the destruction of bureaucratic talent; on the contrary, it would promote developing marginal territories, and (long-term) contributes to surfacing/protecting bureaucratic talent.
 	10.  Utopic rating:  5/5
 	11.  Kind of person most protected:  Service workers who like their jobs
+8.  Seat of Policy
+	1.  Mechanism proposal:  The Seats of Policy engage in long-term bureaucratic meta-analysis.
+	2.  Mechanism proposal:  Since they host travelling policy analysts, the Seats of Policy encourage bureaucratic talents to travel from region to region.  This investment in travel logistics has the same general beneficial effect on survival rates as Panarchic Retreats.
+	3.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and they reduce the galaxy's inclination to all forms of incompetence and corruption.
+	4.  Utopic rating:  5/5
+	5.  Kind of person most protected:  Bureaucrats
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
@@ -185,6 +191,7 @@ Contrasting the reviled lower classes, it's worth noting that the territories do
 ---
 Related pages
 [[Qualms-per-Challenge]]
+[[Viceroy-Utopia-to-Dystopia-Technologies]]
 
 ---
 Back to [[The-Viceroy]]
