@@ -231,7 +231,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Bureaucratic waste analysis:  In one sense, it doesn't get purer than this.  The areas that start doing this develop a commitment to bureaucracy which grows to a point that probably could totally overwhelm the local bureaucratic challenges if it weren't trying to fix the galaxy.  It absolutely does not prevent the development of bureaucratic talent, and it resists any tendency that other technologies might have to do so.  In another sense, this is an abject waste of the bureaucratic talent that it develops, because it invites burnout and never does get back to local issues, even as it distorts local culture in a dreary way.
 	12.  Utopic rating:  Unrateable.  This protects talent like a utopic technology, but it is not a utopic technology.
 	13.  Public protection rating:  4/5
-	14.  Kind of person most protected:  Panarchic Ritualists
+	14.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
