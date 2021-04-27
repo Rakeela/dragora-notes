@@ -125,9 +125,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Kind of person most protected:  Automotive fans and racers.
 5.  Stasis Controller
 	1.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in agriculture, chemistry, and ecology.
-	2.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
-	3.  Utopic rating:  5/5
-	4.  Kind of person most protected:  Cheesemakers.
+	2.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
+	3.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
+	4.  Utopic rating:  5/5
+	5.  Kind of person most protected:  Cheesemakers.
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
 	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
@@ -176,11 +177,30 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Bureaucratic waste analysis:  The amount of work needed to provide everyone in the public a source of new dreams EVERY NIGHT and to make those dreams INDIVIDUALLY INFORMATIVE sounds like an unbelievable workload.  It would be impossible to keep up, and that forever workload is a literal waste of bureaucratic effort...  The farther behind its workload these systems get, the more they will then start metaphorically wasting bureaucrats as well, by interfering with their intellectual development.  The spectre of corruption will be extant throughout as well, and where corruption arises under this system, it will waste a little more of society's potential every time it mangles someone's sleep.
 	12.  Utopic rating:  2/5
 	13.  Kind of person most protected:  Princess Luna.  More seriously, this tech protects the dream reeves themselves, as the dream-crafter professions exist only where this technology is implemented.
+10.  Planned Urbanization
+	1.  Mechanism proposal:  Implementing this fixes your government's public sector logistics across the entire district.  The trains run on time, the trash gets collected, and the tapwater runs clear.  This doesn't make your government virtuous, but it's a nice investment in basic quality of life.  This encourages urbanization by making cities nicer places to live.
+	2.  Mechanism proposal:  The general ubiquitous investments that galactic society makes in extirpating contagious diseases are under this tech's aegis, too.  This encourages urbanization by making cities less sickening places to live.  Also, less contagious disease means people can safely get closer to each other in lots of ways.
+	3.  Downside analysis:  Architecture, mostly.  Exotic building plans are likely to run into bureaucratic conflicts.  Unless you have the budget for palaces, eh?
+	4.  Bureaucratic waste analysis:  You have to pay the wages for the city planning bureaucracy, and they tend thereafter to make construction a bit slower and more expensive.
+	5.  Utopic rating:  5/5
+	6.  Kind of person most protected:  Pacifistic logisticians.
+11.  Panarchic Palaces
+	1.  Mechanism proposal:  The obvious function of a palace is to be an aspirational reward for high achievers.  Palaces are gigantic lairs of the overglorified.  This is a real function.
+	2.  Mechanism proposal:  A sometimes-forgotten function of a palace is to be an administrative center.  Government archives are built in (sometimes under) palaces.  High bureaucrats have postings here, and so do their essential staff.  In the galaxy's great struggle to figure out who can govern without lying and running off with the treasury, the palace provides a place to trial staff in conditions that are luxurious yet closely observed.  This also insulates key talent from outside hostility.
+	3.  Mechanism proposal:  An *often* forgotten function of a palace is to be a bastion of defended calm, even when situations go awry beyond the walls of the palace.  In the palace's role as a fortified site of governance, the residents of a palace can continue functioning safely and sanely when safety and sanity are in short supply.  This can protect the compassion of leaders who might be tempted towards hatred, too.
+	4.  Mechanism proposal:  As with panarchic retreats and the seats of policy, there's an implied investment in travel logistics being made with the panarchic palaces.  The government will want to protect the people who have palace postings, and only moreso in an immortal society.  The bastion function of a palace also averts the brain drain side effect of a seat of policy; indeed, if chaos takes society, the palace-dwellers can safely stay beyond to document it for a little bit longer, and they can learn more about what's going wrong in the process.
+	5.  Downside analysis:  Conventionally, palaces are very much places that get fought over by would-be aristocrats even as they get hated by the public.  They're highly visible symbols of the government's wealth... and they remain highly visible symbols of the government's wealth even if somehow the government ceases to be wealthy, something that the public is at that point unlikely to understand.  This inspires intransigence in the public.
+	6.  Downside analysis:  If palaces attracts corrupt strivers into the leadership, the palace finances are likely to become a source of great awful bleeds on the treasury!
+	7.  Bureaucratic waste analysis:  Palaces are expensive investments in the bureaucracy.  This is predominantly a literal wastage, but as difficulties in government mount, it's also likely to become a source of wastage through corruption, misunderstanding, and public intransigence.  Since palaces also provide a protected observation environment, they're still a long-term investment in the bureaucratic functioning of the Commonwealth despite these faults.
+	8.  Utopic rating:  4/5
+	9.  Kind of person most protected:  Peacocks.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
 
 2021-4-20; I'm feeling better about these, although I still don't feel competent with them.  I still get the sense that the more you develop the technology of the setting, the more *literal* Imperial technologies get...  Frictionless Highways exemplify this sense, as that looks to me like it refers not to its literally described technology so much as to a kind of person who thrives at many possible technology levels while contributing to the serene industrialism of the Empire in any of them.  In a low-tech society, this guy loves racehorses...  Maybe this guy still loves racehorses when he's got cat-ear antennae in a cyberized society, too.
+
+2021-4-26; The Panarchy Ritualists say that the forms of the overlapping governments are more important than their functions, right?  That seems calculated to induce horror.  How can someone prefer form over function!?  Right?  Well, what if they aren't talking about aesthetics at all, but they mean the *bureaucratic* forms?  They could be expressing frustration that the other subcultures don't do enough to protect people who fill out paperwork correctly.
 
 ---
 The Much-Reviled Lower Classes
