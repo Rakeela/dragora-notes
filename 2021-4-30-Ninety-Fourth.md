@@ -15,4 +15,9 @@ To apply such a treatment in an ongoing way, some kind of artificial installatio
 In Stellaris, cyborgization and genetic modification are presented as competing technologies.  I'm not at all sure why that would be true.  Cybernetic implants are a test of biological skill, as is genetic modification.  Do optimal "cybertaker" genes exist?  What traits would define that, and what are their implications?
 
 ---
+I'm always tempted to mod Stellaris.  For instance, I would expand the employment prospects of bio-trophies in rogue servitor governments, by getting rid of the "agri-drone" job and the "chronicle drone" job, compressing the machine and organic employment versions to "farmer" and "death chronicler" respectively, then opening up employability of bio-trophies in each.  Likewise, bio-trophies should be able to perform research, and to be employed as culture workers.  Some people would *want* to do these things, even were there no prestige and no material advantage in doing so, and so it would be part of their "job of being themselves".  They would then provide to their servant-mind the capacity of expanding these jobs a little bit faster, even if the servitor's robots would be theoretically superior at these tasks.
+
+I tend to imagine the rogue servitor getting a kind of sanity-checking service from its bio-trophies, whether they know they're providing it or not, as the thoughts and preferences of the bio-trophies provide a constant source of calibration and intention for the servitor mind.
+
+---
 Back to [[day-post-archive]]
