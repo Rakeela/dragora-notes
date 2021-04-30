@@ -25,4 +25,35 @@ I'd add a few new traits to the trait listing, too.  For instance: a 1 point tra
 I want to see metabolic acceleration implemented IRL someday, too!  I see the study of metabolism as a potential use of genetic research to support [[hedonology]]!
 
 ---
+Wanting to mod the Rogue Servitors to look more appealing is an old thing for me.  I don't see such a society as fundamentally evil, you could say...  I sympathize with the motives of the rogue servitor, and in thinking such a system unnecessary to its own ideals, I intend to speak in pity rather than condemnation.
+
+Since they reduce the intensity of the Rogue Servitor's primary drawback (the loss of self-direction implied in their society), should these have immigration pull?
+
+Self-Determination Enclaves:  Volunteering bio-trophies compete in elections to dwell here in a simulacra of empowerment.  +5 housing; provides +1 Fake Administrator, +2 Fake Director, and +2 Machine Priest jobs.  Limit one per planet.  +5% bio-trophy happiness.
+
+Job descriptions:
+	* Fake Administrator:  Bio-trophies believe more completely in their servitor's benevolence if they can direct a few of its projects.  Indulging this is mostly harmless.
+		Mechanics:  Fake Administrators turn consumer goods into +3 unity, +2 society research, and +1 deviancy.
+	* Fake Director:  Although formatting data for their interpretation stresses the gestalt, bio-trophies are greatly reassured by access to the archive and bring very different minds to bear on it.
+		Mechanics:  Fake Directors turn consumer goods into +2 unity, +3 all research, and +3 deviancy.
+	* Machine Priest:  The most dedicated bio-trophies seek to reciprocate the pampering of the servitor by continuing to develop its systems, a task at which they are dubiously competent.
+		Mechanics:  Machine Priests turn consumer goods into +1 physics, +3 engineering, +1 amenities, and +5 deviancy.
+
+Psuedo-Eusocial Hive:  The majority of bio-trophy volunteers barely contribute, but servitors still provide these by popular demand.  +10 housing, +4 deviancy; provides +2 Generator, +1 Miner, +1 Farmer, +1 Artisan, +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.
+
+Eusocial Hive:  Staffed by proud bio-trophies, this highly developed swathe of symbiotic industrialism relies on performance-boosting medical services to make all of its work joyous.  +15 housing, +8 deviancy; provides +3 Generator, +2 Miner, +2 Farmer, +2 Artisan, +1 Metallurgist, and +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.  Upgrade to psuedo-eusocial hive; requires 1 each of rare crystals, explosive motes, and exotic gasses.
+
+Recivilized Paradise:  This arcology represents a triumph of servitor social engineering: a miniature self-guiding organic society free of chaos.  +20 housing, +10 deviancy; provides +4 Generator, +2 Miner, +2 Farmer, +3 Artisan, +2 Metallurgist, +2 Researcher, and +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.  Upgrade to eusocial hive; requires 2 each of rare crystals, explosive motes, and exotic gasses.
+
+Zro Research Laboratory:  The research applications of Zro can only be explored by organics, opening a window for curious machine-minds to grudgingly return some real autonomy to their pampered trophies.  +4 housing; provides +4 Zro Researcher jobs.
+
+Job descriptions:
+	* Zro Researcher:  
+		Mechanics:  Zro researchers turn Zro and Consumer Goods into +10 physics research, +10 society research, and +3 deviancy.
+
+---
+
+I shouldn't be thinking about this.  This is one of the reasons why I avoid playing Stellaris.  Likewise, the time I spent today creating civilizations that I don't even intend to play was 'wasted'.  I've only read three pages of *book*, despite yesterday's declaration about how I feel I 'should' be behaving.  The 'should' behaviors are not especially charismatic, which is frustrating.
+
+---
 Back to [[day-post-archive]]
