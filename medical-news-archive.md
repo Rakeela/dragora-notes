@@ -11,6 +11,8 @@ Commentary:  Since medical triage can't authorize culling the immunodeficient wi
 https://www.nytimes.com/2021/03/27/us/covid-school-teaching.html - As Pandemic Upends Teaching, Fewer Students Want to Pursue It - Retrieved 2021-3-31.
 Commentary:  The comment on this about how being online is draining is very salient.  Telepresence "isn't there yet" for humanity, because right now the internet is a very substantial barrier to getting things done for reasons that go beyond mere distraction potential.
 
+https://www.quantamagazine.org/how-the-immune-system-protects-the-brain-20210428/ - A Backdoor Lets the Immune System Monitor the Brain - Retrieved 2021-4-30.  Commentary:  This is about how the immune system doesn't constantly infiltrate brain tissue, but instead observes egress points for pathogens to learn when it needs to mount an immune response.  The immune system is too dangerous for constant neural activation.  I think that this kind of information could lead to new treatments for brain tumors and brain pathogens if researchers mapped the "spotty" coverage of the brain's immune surveillance; the same maps may also produce predictive maps for where problems are most likely to arise.
+
 ---
 Back to [[News-Archive]]
 

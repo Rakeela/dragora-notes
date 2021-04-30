@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 72.58566978193147,
+            "dimension": 29.352068696330992,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,11 +40,12 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 27.414330218068535,
+            "dimension": 70.64793130366901,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
+                "dimension": 34.36842105263158,
                 "state": {
                   "type": "graph",
                   "state": {}
@@ -53,10 +54,11 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
+                "dimension": 65.63157894736842,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The-Psychology-Workbook-for-Writers.md",
+                    "file": "medical-news-archive.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-29-Ninety-Third.md",
+                "file": "medical-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
+    "medical-news-archive.md",
+    "news-archive.md",
+    "Science-News-Archive.md",
+    "The-Psychology-Workbook-for-Writers.md",
     "Untitled.md",
     "2021-4-24-Ninety-Second.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Viceroy-Utopia-to-Dystopia-Technologies.md",
     "The-Viceroy.md",
-    "The-Psychology-Workbook-for-Writers.md",
-    "Northern-Creche-Confederation.md",
-    "Bibliography.md",
-    "2021-4-21-Ninetieth.md",
-    "2021-4-20-Eighty-Ninth.md"
+    "Northern-Creche-Confederation.md"
   ]
 }
