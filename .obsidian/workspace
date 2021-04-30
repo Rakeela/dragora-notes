@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 72.58566978193146,
+            "dimension": 72.58566978193147,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "2021-4-29-Ninety-Third.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 27.41433021806853,
+            "dimension": 27.414330218068535,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-4-29-Ninety-Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +140,13 @@
   },
   "active": "693d405295126465",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2021-4-24-Ninety-Second.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Viceroy-Utopia-to-Dystopia-Technologies.md",
     "The-Viceroy.md",
-    "2021-4-24-Ninety-Second.md",
     "The-Psychology-Workbook-for-Writers.md",
     "Northern-Creche-Confederation.md",
-    "Untitled.md",
     "Bibliography.md",
     "2021-4-21-Ninetieth.md",
     "2021-4-20-Eighty-Ninth.md"
