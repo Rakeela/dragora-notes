@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 29.352068696330992,
+            "dimension": 55.113192818110846,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-29-Ninety-Third.md",
+                    "file": "2021-4-30-Ninety-Fourth.md",
                     "mode": "source"
                   }
                 }
@@ -40,12 +40,12 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 70.64793130366901,
+            "dimension": 44.88680718188915,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
-                "dimension": 34.36842105263158,
+                "dimension": 56.94736842105264,
                 "state": {
                   "type": "graph",
                   "state": {}
@@ -54,7 +54,7 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "dimension": 65.63157894736842,
+                "dimension": 43.05263157894737,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medical-news-archive.md",
+                "file": "2021-4-30-Ninety-Fourth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "2021-4-30-Ninety-Fourth.md",
     "medical-news-archive.md",
+    "Untitled.md",
+    "2021-4-29-Ninety-Third.md",
     "news-archive.md",
     "Science-News-Archive.md",
     "The-Psychology-Workbook-for-Writers.md",
-    "Untitled.md",
     "2021-4-24-Ninety-Second.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "Viceroy-Utopia-to-Dystopia-Technologies.md",
-    "The-Viceroy.md",
-    "Northern-Creche-Confederation.md"
+    "Viceroy-Utopia-to-Dystopia-Technologies.md"
   ]
 }
