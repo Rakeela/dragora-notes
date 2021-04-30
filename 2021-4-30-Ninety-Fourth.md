@@ -17,7 +17,12 @@ In Stellaris, cyborgization and genetic modification are presented as competing 
 ---
 I'm always tempted to mod Stellaris.  For instance, I would expand the employment prospects of bio-trophies in rogue servitor governments, by getting rid of the "agri-drone" job and the "chronicle drone" job, compressing the machine and organic employment versions to "farmer" and "death chronicler" respectively, then opening up employability of bio-trophies in each.  Likewise, bio-trophies should be able to perform research, and to be employed as culture workers.  Some people would *want* to do these things, even were there no prestige and no material advantage in doing so, and so it would be part of their "job of being themselves".  They would then provide to their servant-mind the capacity of expanding these jobs a little bit faster, even if the servitor's robots would be theoretically superior at these tasks.
 
-I tend to imagine the rogue servitor getting a kind of sanity-checking service from its bio-trophies, whether they know they're providing it or not, as the thoughts and preferences of the bio-trophies provide a constant source of calibration and intention for the servitor mind.
+I tend to imagine the rogue servitor getting a kind of sanity-checking service from its bio-trophies, whether they know they're providing it or not, as the thoughts and preferences of the bio-trophies provide a constant source of calibration and intention for the servitor mind.  Bringing them into cultural and scientific work would strengthen this function.  The servitor took over by providing services in a superior manner, did it not?  Why should it be paranoid about the people it serves so well?
+
+I'd add a few new traits to the trait listing, too.  For instance: a 1 point trait called "fast metabolism" that increases food consumption while slightly increasing resource output, and a 3 point trait called "accelerated metabolism" (unlocked with the relevant genetics ascension perk) that increases food consumption more, further increases resource output, increases happiness by 5%, and causes leaders to gain experience 25% faster.  I think people would be both happier and more productive if they were reliably energetic and suffered less injury to their health from very hedonic foods.
+
+---
+I want to see metabolic acceleration implemented IRL someday, too!  I see the study of metabolism as a potential use of genetic research to support [[hedonology]]!
 
 ---
 Back to [[day-post-archive]]

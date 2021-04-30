@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-30-Ninety-Fourth.md",
+                    "file": "hedonology.md",
                     "mode": "source"
                   }
                 }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-30-Ninety-Fourth.md",
+                "file": "hedonology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "693d405295126465",
   "lastOpenFiles": [
+    "hedonology.md",
     "2021-4-30-Ninety-Fourth.md",
     "medical-news-archive.md",
     "Untitled.md",
@@ -150,7 +151,6 @@
     "Science-News-Archive.md",
     "The-Psychology-Workbook-for-Writers.md",
     "2021-4-24-Ninety-Second.md",
-    "ideological-interpretations-of-The-Viceroy.md",
-    "Viceroy-Utopia-to-Dystopia-Technologies.md"
+    "ideological-interpretations-of-The-Viceroy.md"
   ]
 }
