@@ -43,7 +43,7 @@ Psuedo-Eusocial Hive:  The majority of bio-trophy volunteers barely contribute, 
 
 Eusocial Hive:  Staffed by proud bio-trophies, this highly developed swathe of symbiotic industrialism relies on performance-boosting medical services to make all of its work joyous.  +15 housing, +8 deviancy; provides +3 Generator, +2 Miner, +2 Farmer, +2 Artisan, +1 Metallurgist, and +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.  Upgrade to psuedo-eusocial hive; requires 1 each of rare crystals, explosive motes, and exotic gasses.
 
-Recivilized Paradise:  This arcology represents a triumph of servitor social engineering: a miniature self-guiding organic society free of chaos.  +20 housing, +10 deviancy; provides +4 Generator, +2 Miner, +2 Farmer, +3 Artisan, +2 Metallurgist, +2 Researcher, and +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.  Upgrade to eusocial hive; requires 2 each of rare crystals, explosive motes, and exotic gasses.
+Recivilized Paradise:  This arcology represents a triumph of servitor social engineering: a miniature self-guiding organic society free of chaos.  Mostly.  +20 housing, +10 deviancy; provides +4 Generator, +2 Miner, +2 Farmer, +3 Artisan, +2 Metallurgist, +2 Researcher, and +5 Bio-trophy jobs.  Limit one per planet.  +5% bio-trophy happiness.  Upgrade to eusocial hive; requires 2 each of rare crystals, explosive motes, and exotic gasses.
 
 Zro Research Laboratory:  The research applications of Zro can only be explored by organics, opening a window for curious machine-minds to grudgingly return some real autonomy to their pampered trophies.  +4 housing; provides +4 Zro Researcher jobs.
 
