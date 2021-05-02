@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 55.113192818110846,
+            "dimension": 22.638563622170178,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,12 +40,12 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 44.88680718188915,
+            "dimension": 77.36143637782982,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
-                "dimension": 56.94736842105264,
+                "dimension": 49.684210526315795,
                 "state": {
                   "type": "graph",
                   "state": {}
@@ -54,7 +54,7 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "dimension": 43.05263157894737,
+                "dimension": 50.31578947368421,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-4-30-Ninety-Fourth.md",
+                "file": "medical-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,14 +140,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
+    "medical-news-archive.md",
+    "news-archive.md",
     "2021-4-30-Ninety-Fourth.md",
     "hedonology.md",
-    "medical-news-archive.md",
     "Untitled.md",
     "2021-4-29-Ninety-Third.md",
-    "news-archive.md",
     "Science-News-Archive.md",
     "The-Psychology-Workbook-for-Writers.md",
     "2021-4-24-Ninety-Second.md",

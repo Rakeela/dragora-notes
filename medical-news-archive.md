@@ -13,6 +13,8 @@ Commentary:  The comment on this about how being online is draining is very sali
 
 https://www.quantamagazine.org/how-the-immune-system-protects-the-brain-20210428/ - A Backdoor Lets the Immune System Monitor the Brain - Retrieved 2021-4-30.  Commentary:  This is about how the immune system doesn't constantly infiltrate brain tissue, but instead observes egress points for pathogens to learn when it needs to mount an immune response.  The immune system is too dangerous for constant neural activation.  I think that this kind of information could lead to new treatments for brain tumors and brain pathogens if researchers mapped the "spotty" coverage of the brain's immune surveillance; the same maps may also produce predictive maps for where problems are most likely to arise.
 
+https://phys.org/news/2019-10-mitochondria-tesla-battery.html - Mitochondria work much like Tesla battery packs, study finds - Retrieved 2021-5-1.  Commentary:  I read this, thinking about how different species have mitochondria that work differently.  If you look at hummingbird mitochondria, and then you look at cactus mitochondria, is the difference between them structural or chemical?  As DNA codes for life, I'm assuming the difference is genetic either way.  Could we (for instance) accelerate mitochondria by transplanting genes that make the inner membrane wrinklier, or do we need to transplant genes that alter the chemicals in the interior of the mitochondria?
+
 ---
 Back to [[News-Archive]]
 
