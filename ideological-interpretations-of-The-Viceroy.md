@@ -77,7 +77,7 @@ The Three Nations Semi-Allied
 		 - They say that they're tearing down the ancient oppressors, while the Commonwealth protests their sainthood.  They say that they're liberating the Empire, but they use all the talents that the Empire fears.  They ARE the same leaders in both scenarios!  The Panarchy needs no unity to stand as one!  THE MONOCULTURE IS THE MULTICULTURE!  ...and so the battle rages.
 	 - General Impetus of Panarchic Technologies
 		 - The Panarchy values diversity, thought, and liberty.  They take the galaxy's broken unified systems and dehomogenate them.  The resulting proliferation of custom solutions, competing organizations, and outright adhocracy across Panarchic space makes society get more bewildering as more of the Panarchy's technologies are implemented.
-		 - On average, society gets more trustworthy as more of these technologies are implemented, because cross-checking and competition weed out the evil vendors... but it also gets pockmarked with islands of exploited trust, where people have come to trust what they never should have trusted.  Trustworthiness increases on average, but it also gets more unequally distributed.
+		 - On average, society gets more trustworthy as more of these technologies are implemented, because cross-checking, competition, and fluid composition weed out the evil vendors... but it also gets pockmarked with islands of exploited trust, where people have come to trust what they never should have trusted.  Trustworthiness increases on average, but it also gets more unequally distributed.
 
 ---
 Potential Anomalies
