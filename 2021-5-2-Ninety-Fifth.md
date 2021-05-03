@@ -9,9 +9,11 @@ The Huel bar is too common to be a culprit, but the Lara bars are a goodly dose 
 Last night in the evening, I thought to myself that I should consider fasting today.  Had I done that, one of two things would have been true today.  Firstly, if it was my dietary choices that ruined my energy today, I would not have made the same choices.
 
 ---
-I met one of the transhumanists who previously sexually exploited me, today.  He rose up friendly-like yesterday, and was friendly again today.  He apologized, but today as well he described himself as deathly drained and out of fucks to give.
+I met one of the transhumanists who previously sexually exploited me, today.  He rose up friendly-like yesterday, and was friendly again today.  I rebuffed him, then pointed out how his prior conduct affected me.  He apologized.
 
-It sounds like karma hit him hard for misusing me.
+Today he described himself as deathly drained and out of fucks to give, but he said nothing to take back the apology.  I take it karma hit him hard for misusing me.
+
+Hearing from this guy in this way is not quite as premium as an apology from Vellos would be, but he's still someone I never expected to get an apology from.  Of course, an apology from Mel is the one that would really mean the world to me.
 
 ---
 Back to [[day-post-archive]]
