@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 22.638563622170178,
+            "dimension": 62.52927400468384,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-4-30-Ninety-Fourth.md",
+                    "file": "2021-5-2-Ninety-Fifth.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 77.36143637782982,
+            "dimension": 37.470725995316165,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -54,7 +54,7 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "dimension": 50.31578947368421,
+                "dimension": 50.315789473684205,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medical-news-archive.md",
+                "file": "2021-5-2-Ninety-Fifth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +140,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2021-4-30-Ninety-Fourth.md",
     "medical-news-archive.md",
     "news-archive.md",
-    "2021-4-30-Ninety-Fourth.md",
     "hedonology.md",
-    "Untitled.md",
     "2021-4-29-Ninety-Third.md",
     "Science-News-Archive.md",
     "The-Psychology-Workbook-for-Writers.md",
