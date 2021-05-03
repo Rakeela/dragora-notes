@@ -1,6 +1,6 @@
 #2021-5-2-Ninety-Fifth
 
-I have been entirely sick today.  I have spent much of the day hardly able to move, with my head full of unclear and useless thoughts.  I played Stellaris for a while, which I'd say is the most impressive thing I've achieved, and even that was eventually too draining to continue.  Practically, I answered one easy math question of tomorrow's homework, and redried something that was already dry.  There are wet clothes in the washer as I started a load and never had the energy to move it over.
+I have been entirely sick today.  I have spent much of the day hardly able to move, with my head full of unclear and useless thoughts.  I played Stellaris for a while, which I'd say is the most impressive thing I've achieved, and even that was eventually too draining to continue.  Practically, I answered one easy math question of tomorrow's homework, and redried something that wasn't quite dry.  There are wet clothes in the washer as I started a load and never had the energy to move it over.
 
 Exhaustion and pain, all day today.  I felt like I slept very well, and I woke up feeling good.  I proceeded to start my day with two Lara bars and a Huel bar, and I've felt terrible ever since.
 

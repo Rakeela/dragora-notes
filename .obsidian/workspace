@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 62.52927400468384,
+            "dimension": 15.690866510538642,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 37.470725995316165,
+            "dimension": 84.30913348946136,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -58,7 +58,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "medical-news-archive.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-2-Ninety-Fifth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
+    "medical-news-archive.md",
+    "2021-5-2-Ninety-Fifth.md",
     "Untitled.md",
     "2021-4-30-Ninety-Fourth.md",
-    "medical-news-archive.md",
     "news-archive.md",
     "hedonology.md",
     "2021-4-29-Ninety-Third.md",
     "Science-News-Archive.md",
-    "The-Psychology-Workbook-for-Writers.md",
-    "2021-4-24-Ninety-Second.md",
-    "ideological-interpretations-of-The-Viceroy.md"
+    "The-Psychology-Workbook-for-Writers.md"
   ]
 }
