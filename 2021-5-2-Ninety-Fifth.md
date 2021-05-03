@@ -6,7 +6,7 @@ Exhaustion and pain, all day today.  I felt like I slept very well, and I woke u
 
 The Huel bar is too common to be a culprit, but the Lara bars are a goodly dose of fructose.  I don't like fruit!  Maybe there's some sense to that.  I'm thinking I should swear off Lara bars and in the morning eat no fruit save bananas.  Starting my day with some combination of protein, fat, and nothing has a much better track record.
 
-Last night in the evening, I thought to myself that I should consider fasting today.  Had I done that, one of two things would have been true today.  Firstly, if it was my dietary choices that ruined my energy today, I would not have made the same choices.
+Last night in the evening, I thought to myself that I should consider fasting today.  Had I done that, one of two things would have been true today.  Firstly, if it was my dietary choices that ruined my energy today, I would not have made the same choices.  Secondly, had I suffered in the same way, I could still have counted on my metabolism to shed weight.  If you're overweight and exhausted, fasting is a way to accomplish something even while doing nothing, because it moves you towards a state where exhaustion will hold less sway on you.
 
 ---
 I met one of the transhumanists who previously sexually exploited me, today.  He rose up friendly-like yesterday, and was friendly again today.  I rebuffed him, then pointed out how his prior conduct affected me.  He apologized.
