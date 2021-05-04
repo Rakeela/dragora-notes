@@ -11,6 +11,8 @@ The Six Subcultures
 		 - Velocity is only a matter of perspective; slow and steady work may even get the work done faster.  Immortality does these people a great service.
 	 - The View on Collapse
 		 - The Old Empire holds the burning world in its hands.  That's an important symbol for them.  Yes, galactic society is always collapsing, and yes that means the empire is always collapsing.  The old empire is aware that they are infinitely declining forever.  They call that acknowledging entropy, and they only worry about it day to day to the extent that doing so is part of their dayjob.
+	 - The Stereotype
+		 - Placid, but occasionally surprising.
 	 - The Rebellion (Commonwealth)
 
  - The Reformed Empire -
@@ -20,30 +22,36 @@ The Six Subcultures
 			 - Well, they're happy to be alive.  They're not always good for everyone else's happiness, but they are themselves happy in all kinds of conditions.  They can be lured into a lot of ugly work while only moderately overpaying them, and if the blast radius is small enough...  Ugh...  Immortality does these people a great service.
 		 - The View on Collapse
 			 - The Reformed Empire is on fire, and it can't tell the difference between going down and going faster.  If the Empire falls, it needed to fall.  If something new rises after, great!  If the Empire itself rises after, great!  If the Empire somehow doesn't even fall?  Great!  As long as the Empire keeps MOVING and DOING STUFF, the Empire is Great!
+		 - The Stereotype
+			 - Strong, ambitious, and heavily tattooed.
 		 - The Rebellion (Panarchic)
  
  - The Monocultural Commonwealth - 
 	 - The Basic
 	 - The Value of Immortality
 	 - The View on Collapse
+	 -  The Stereotype
 	 - The Rebellion (Panarchic)
 
  - The Commonwealth Democracy - 
 	 - The Basic
 	 - The Value of Immortality
 	 - The View on Collapse
+	 -  The Stereotype
 	 - The Rebellion (Imperial)
 
  - The Panarchic Purist-Preservationists - 
 	 - The Basic
 	 - The Value of Immortality
 	 - The View on Collapse
+	 - The Stereotype
 	 - The Rebellion (Commonwealth)
 
  - The Panarchic AI Collective -
 	 - The Basic
 	 - The Value of Immortality
 	 - The View on Collapse
+	 - The Stereotype
 	 - The Rebellion (Imperial)
 
 ---
@@ -51,12 +59,14 @@ The Three Nations Semi-Allied
  - The Empire - 
 	 - CYBERTAKERS
 		 - These people were willing to believe that other people are benevolent enough to be neurologists.  As a result of this inclination, they have since been hooked into a galaxy-spanning hivemind, and it has become difficult to tell if they're brilliant, stupid, or sane.  Ad hoc fragmentations of the hivemind make the problem worse.  Individualism among the Imperials varies from system to system and from individual to individual.  Their celebrities are few but extremely successful.
-		 - If society truly had no hackers, no scammers, no exploitative bosses, and no corrupt politicians, their implants would make these people hypercompetent specialists maintaining a paradise of perfect minds... but without those populations, would they still have people capable of maintaining the implants?
+		 - If society truly had no hackers, no scammers, no exploitative bosses, and no corrupt politicians, their implants would make these people hypercompetent specialists maintaining a paradise of perfect minds... but without those populations, would they still have people capable of maintaining the implants?  Nope.  Imperial technology is brittle.  Their now-perpetual inquisition is not a good research practice, and their hive-minds are prone to collective bigoted hatreds that often result in them reinventing their own menaces.
 		 - Imperial immortals move fluidly between different fragments of the Imperial hivemind, are capable of operating without confusion even in the absence of supportive imperial technologies, and often have formidable cyberdefense communities dedicated to them.  They are the architects of serenity who recreate Imperial society when the networks grow corrupted.
+		 - The hidden truth about Imperial history is that the Commonwealth is doing unto them what they were doing unto everyone else before the Commonwealth seized power.  The fringes of Imperial society have problems with rape and murder that tend to get worse as the backdoors are taken out of the hive-minds.  Near-perfect serenity offers a great deal of concealment to internal states!  Near-perfect social collaboration makes their capacity of concealment even deeper...  The liberated Imperials are awful to each other.
 		 - Leading the Commonwealth against the Panarchy, Imperial leaders proclaim their acceptance of intellects beyond their own, and their belief that the Commonwealth's superiority is so true that all the Commonwealth will eventually assent to be enfolded (as were the Imperials) in the protective embrace of Commonwealth cybernetics.  Leading the Panarchy against the Commonwealth, Imperial leaders proclaim the superiority of their ancient technology which they claim can tolerate and eventually reinclude the Panarchy's cybermarkets (see below) if the panarchists will but join the Empire in purging those who corrupted the Empire of the Elect for their own selfish gains.  These are different Imperial leaders, one hopes.
 	 - General Impetus of Imperial Technologies
-		 - The Empire values conformity, productivity, and ???  They confront, reform, and control the ancient control structures of the Galaxy, restoring their ability to ??? and ---, , with the ,,,&?!---?
-		 - On average, society gets ???
+		 - The Empire values conformity, productivity, and exploiting the honest.  They confront, reform, and control the ancient control structures of the Galaxy that their immortals and their ancestors originally built, restoring their ability to present a perfect image outwards while scheming internally with the advantage of their superior cybernetics.
+		 - On average, society gets less virtuous and less trustworthy as these technologies are implemented, although virtue and trustworthiness do get more evenly distributed courtesy of the rehabilitative tendency of their technology and the elimination of threats that the Commonwealth and the Panarchy would prefer to make untouchable.
+		 - Aside from the occasional private tragedy, Imperial society is not 'pockmarked'; it is instead VERY homogenating.  The Imperials were the original criminals who inflicted an abusive, homogenizing technology base on the galaxy.
  - The Commonwealth -
 	 - CORRUPT, BUT MOSTLY VIRTUOUS
 		 - Cybertakers are dead to these people, because they see cybertakers as an easily exploited work force who will work so they don't have to.  If they accepted any neural implants themselves, two things would occur: (1) their true attitudes would be disastrously exposed, and then thereafter (2) they would become vulnerable to their former friends hacking *them*.
