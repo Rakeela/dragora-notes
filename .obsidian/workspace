@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 48.08743169398907,
+            "dimension": 74.47306791569088,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-5-4-Ninety-Sixth.md",
+                    "file": "Monster-Girl-Encyclopedia.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 51.91256830601093,
+            "dimension": 25.526932084309134,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-4-Ninety-Sixth.md",
+                "file": "Monster-Girl-Encyclopedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,8 @@
   },
   "active": "693d405295126465",
   "lastOpenFiles": [
+    "Monster-Girl-Encyclopedia.md",
+    "Bibliography.md",
     "2021-5-4-Ninety-Sixth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Untitled.md",
@@ -149,8 +151,6 @@
     "medical-news-archive.md",
     "2021-4-30-Ninety-Fourth.md",
     "news-archive.md",
-    "hedonology.md",
-    "2021-4-29-Ninety-Third.md",
-    "Science-News-Archive.md"
+    "hedonology.md"
   ]
 }
