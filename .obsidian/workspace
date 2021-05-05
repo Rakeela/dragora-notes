@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 74.47306791569088,
+            "dimension": 55.65964090554254,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,12 +40,12 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 25.526932084309134,
+            "dimension": 44.340359094457455,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
-                "dimension": 49.684210526315795,
+                "dimension": 49.630891538898354,
                 "state": {
                   "type": "graph",
                   "state": {}
@@ -54,7 +54,7 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "dimension": 50.315789473684205,
+                "dimension": 50.36910846110164,
                 "state": {
                   "type": "markdown",
                   "state": {
