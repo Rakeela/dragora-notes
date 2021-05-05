@@ -21,4 +21,7 @@ Under sufficiently perfected conditions, I would take that gamble.  Primarily, m
 I was treated deeply abusively in childhood by a very deceptive environment, when all I wanted was to study peacefully.  My opposition to blind natalism was demonized by a rape culture who defended their right to be bigoted anti-intellectuals with a violent society.  I call out to a higher power for protection from rape culture, if there is indeed any such higher power; I will never reproduce without extensive assurances that any child of mind will be treated better than I was.
 
 ---
+If it didn't have an ugly beepy motif in the opening, "A Candle's Fire" by Beirut on the album The Rip Tide might be my favorite song.  The artist's choice to use beepy bits in this song was a terrible mistake.
+
+---
 Back to [[day-post-archive]]
