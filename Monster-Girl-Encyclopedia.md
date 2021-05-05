@@ -13,4 +13,11 @@ It's like we live in the world where conservatives learned to draw the most maxi
 Anyways, I don't mind this.  People should have the freedom to make all the uncharismatic porn, too.  Liberals just need to reclaim the freedom to have taste in porn without accepting the framing that they're fake liberals if they do.  We don't accept the bad restoration of *Behold the Man* as the equal of the original, and we also don't have to accept that all representations of sexuality are equal.
 
 ---
+My experiences while reading this book were also mentioned in the following day-posts:
+[[2021-4-9-Seventy-Ninth]]
+[[2021-4-11-Eighty-First]]
+[[2021-4-12-Eighty-Second]]
+[[2021-5-5-Ninety-Seventh]]
+
+---
 Back to [[Bibliography]]
