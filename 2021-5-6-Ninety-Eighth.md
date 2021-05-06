@@ -28,4 +28,7 @@ I shouldn't spend too much time on it today, but I'm looking forward to adding a
 I hope that as we expand that potential, we also have an organization such as the one that I imagine the Panarchy to be, too.  As humanity's technological potentials become metatechnological potentials enhancing cognition itself, the steadfast dehomogenization of control systems is likely to be necessary for preventing the rise of central control by malicious actors.  In this, free and regulated markets (both) reassure me, as numerous overlapping organizations of differing ideology proliferate and persist in the private sectors (and sometimes even the public sectors) of societies with free or regulated markets.  That seems like a good ground for something like the Panarchy to come into existence as wealth and technology continue ascending.
 
 ---
+I just realized that I've almost never voluntarily done more math than I strictly needed to do.  Although I'm capable of performing mathematical operations, I've always been oriented aversively towards them.
+
+---
 Back to [[day-post-archive]]
