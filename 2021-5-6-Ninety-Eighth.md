@@ -37,4 +37,7 @@ I wonder if the trait of volunteer enthusiasm for math has an identifiable genet
 Imagine a future society where waves of different genomes occasionally ripple across the public as people temporarily adopt new gene-therapeutic packages targeted for the development of different aptitudes.  People could keep things fresh for the long-term by changing their entire personalities in a way that would operate under their own control.  Gene therapy shops might open up clinics in shopping malls claiming that such-and-such gene package corresponds to particular aptitudes, making different kinds of effort fun so that would-be scholars could perform better at their studies!
 
 ---
+I find that math has a sense of inappropriate obviousness to me.  Before I've actually memorized the equations, I feel like I've memorized the equations.  My recall for facts is good, but it's not THAT good; there's still a self-observable overshoot here.  I think part of the problem is that I start to remember words and textual descriptions faster and more reliably than I start to remember equations, such that what functions as an overshoot in mathematics is less over-optimistic for a task such as memorizing the deck of a new card game.  Recognizing the overshoot is uncomfortably distinct from being able to readily correct it; even knowing that I have this problem, my eyes still glaze over sometimes when I'm looking at "familiar" equations that I have not actually memorized.
+
+---
 Back to [[day-post-archive]]
