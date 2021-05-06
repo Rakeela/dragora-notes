@@ -30,5 +30,11 @@ I hope that as we expand that potential, we also have an organization such as th
 ---
 I just realized that I've almost never voluntarily done more math than I strictly needed to do.  Although I'm capable of performing mathematical operations, I've always been oriented aversively towards them.
 
+If I were as excited to do the exercises in this book as I am to contemplate fictional worlds, I would find the midterm very easy.  Yet I've actually *always* had the trait of doing as little homework as reasonably achievable, despite maintaining perfect grades through fifth grade and presenting a studious appearance.  It's certainly not that I didn't spend all my time reading, writing, and thinking; it's that I put that effort into reading SF&F novels or studying the construction of human societies.
+
+I wonder if the trait of volunteer enthusiasm for math has an identifiable genetic basis which could be shared horizontally through gene therapies.  I love my society-and-fantasy focus and I would not consent to permanent modification in this way, but as long as I had access to my prior genome for trait reversion at some future date, I would be very happy to volunteer for trying on a math enthusiast genome.  They'd be like 'natural physicist' genes.  Physics *is* already interesting to me.
+
+Imagine a future society where waves of different genomes occasionally ripple across the public as people temporarily adopt new gene-therapeutic packages targeted for the development of different aptitudes.  People could keep things fresh for the long-term by changing their entire personalities in a way that would operate under their own control.  Gene therapy shops might open up clinics in shopping malls claiming that such-and-such gene package corresponds to particular aptitudes, making different kinds of effort fun so that would-be scholars could perform better at their studies!
+
 ---
 Back to [[day-post-archive]]
