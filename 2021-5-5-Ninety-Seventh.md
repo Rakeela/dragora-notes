@@ -31,5 +31,7 @@ Whereas if I wrote the gryphon genethief story, sure I'd try to make the sex sce
 ---
 My tendency to obsessions isn't as creatively functional as it would be, because I'm specifically prone to melancholic obsessions.  I wish I could cry more easily, even though I would spend a lot of time crying if I could.  I think it would be healthy, but at the very least it would be good for my self-esteem.  I would feel more artistically capable that way... I think I really would be.
 
+I'd feel more free to express more of the risky stuff.  Being able to cry would be liberating.
+
 ---
 Back to [[day-post-archive]]
