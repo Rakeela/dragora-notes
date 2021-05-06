@@ -7,4 +7,9 @@ My review is pretty dire, but I'm glad I read the book.  Permitting more of the 
 I hope the author of the books is prosperous.
 
 ---
+Note to self:  Review the log from my conversation on this date with Kistaro.  I've realized that the Whore/Hitler Dichotomy to which I was subject may be an important radicalization psychology dynamic which can be used by manipulative people who are willing to "accept" either archetype.  This could be important for sociological research against authoritarianism.
+
+Right now I'm just putting up a note-to-self because I've invested a lot of thought into this today already, and I NEED to find a way to change my mental context, drop this, and do math.  I've recorded enough into the conversation with Kistaro that I can pick it up from that basis later.
+
+---
 Back to [[day-post-archive]]
