@@ -14,7 +14,7 @@ Right now I'm just putting up a note-to-self because I've invested a lot of thou
 ---
 Speaking of notes to self, there's a "gryphon genethief" story that I've been noodling over.  There is finally nobody requiring me to do it in any way whatsoever, and no possible gain for me to achieve in making it.  I'm thinking about whether I can creatively channel some of my frustrations.  For instance, the gryphon genethief concept relies on "men never turn down free sex" - can I strike that concept in some artistic way?  It's also about "hypergamy", which I think is a very loveless concept that denigrates both men and women by denigrating affectionate attachment between people.
 
-I think the concept of the story hits so many points of awfulness that I probably can't do it justice, but I've been thinking about it for a while.  I'll keep thinking about it.
+I think the concept of the story hits so many points of awfulness that I probably can't do it justice, but I've been thinking about it for a while.  I'll keep thinking about it.  I wonder if I can tie it to the Whore/Hitler Dichotomy that I was thinking about - could that help me make any of the points I would wish for the story to make?
 
 ---
 Back to [[day-post-archive]]
