@@ -17,4 +17,9 @@ Speaking of notes to self, there's a "gryphon genethief" story that I've been no
 I think the concept of the story hits so many points of awfulness that I probably can't do it justice, but I've been thinking about it for a while.  I'll keep thinking about it.  I wonder if I can tie it to the Whore/Hitler Dichotomy that I was thinking about - could that help me make any of the points I would wish for the story to make?
 
 ---
+I was thinking about it more in the shower, and of course there's a way that I could use the Whore/Hitler Dichotomy in a gryphon genethief story.  I could have the genethieves teach it as a method of gaining sexual compliance.  They would be focusing on the Whore side of the Dichotomy and emphasizing the Hitler side as authoritarian, prettifying the Whore side as a pure celebration of liberation even though they engage in an exceedingly loveless manner.
+
+I could even have them be 'helping' people fulfill a reproductive mandate.  After all, people who don't reproduce are wholly meaningless, and the non-reproducers have to do *something* to deserve rights.  The genethieves are merciful and liberating!
+
+---
 Back to [[day-post-archive]]
