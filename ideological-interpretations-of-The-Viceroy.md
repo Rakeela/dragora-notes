@@ -254,6 +254,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Utopic rating:  Unrateable.  This protects talent like a utopic technology, but it is not a utopic technology.
 	13.  Public protection rating:  4/5
 	14.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
+14.  Beyonder Engine
+	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; there's no reason to suspect that they fall apart when the region does, too.  Once society stops drawing on them, they still remain out there in the deep black, patiently accumulating energy.
+	2.  Mechanism proposal:  Any kind of unsustainable stored energy reserve might be represented by this technology.  The purists of the Old Empire are (or believe they are, or can convince others that they are) patient enough to use these dwindling reservoirs sustainably.
+	3.  Mechanism proposal:  As long as energy efficiency rises faster than depletion, your effective energy reserves actually grow.
+	4.  Narrative indicator:  The amount of time that passes every time you hit end turn is never really clarified in-game.  As utilization of Beyonder Engines increases, those clicks represent larger amounts of time.
+	5.  Narrative indicator:  This society invests in resource efficiency, considering such efficiency an essential part of its wealth.  It tabulates its reserves and potentials, then tries not to use them.  It could be much wealthier by operating unsustainably, but it tries to put that potential away in favor of being slightly wealthier in a sustainable way.  This discipline eventually fails or proves inadequate.
+	6.  Downside analysis:  How do you slow society this much, this reliably?  Industrialists often want to make things happen NOW, and pride themselves on having massive throughput.  How do you rearrange things enough to make effective use of a infinite input that is very, very slow?  Some of your industry needs to be managed by people who are content operating in near-stasis.
+	7.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controllers, but it requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of the bureaucracy.
+	8.  Utopic rating:  4/5
+	9.  Public protection rating:  2/5
+	10.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
