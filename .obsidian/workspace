@@ -10,11 +10,12 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 55.65964090554254,
+            "dimension": 55.42544886807181,
             "children": [
               {
                 "id": "93ca72a09fd26144",
                 "type": "leaf",
+                "dimension": 50.36910846110164,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -26,10 +27,11 @@
               {
                 "id": "693d405295126465",
                 "type": "leaf",
+                "dimension": 49.630891538898354,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-5-5-Ninety-Seventh.md",
+                    "file": "2021-5-6-Ninety-Eighth.md",
                     "mode": "source"
                   }
                 }
@@ -40,12 +42,12 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 44.340359094457455,
+            "dimension": 44.57455113192818,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
-                "dimension": 49.630891538898354,
+                "dimension": 49.51731970471323,
                 "state": {
                   "type": "graph",
                   "state": {}
@@ -54,7 +56,7 @@
               {
                 "id": "c7e462257a486797",
                 "type": "leaf",
-                "dimension": 50.369108461101646,
+                "dimension": 50.48268029528676,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-5-Ninety-Seventh.md",
+                "file": "Northern-Creche-Confederation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +142,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "93ca72a09fd26144",
   "lastOpenFiles": [
+    "Northern-Creche-Confederation.md",
+    "Untitled.md",
     "2021-5-5-Ninety-Seventh.md",
     "2021-4-9-Seventy-Ninth.md",
     "Monster-Girl-Encyclopedia.md",
@@ -149,8 +153,6 @@
     "2021-4-11-Eighty-First.md",
     "2021-4-12-Eighty-Second.md",
     "2021-4-13-Eighty-Third.md",
-    "2021-4-14-Eighty-Fourth.md",
-    "2021-4-16-Eighty-Fifth.md",
-    "2021-4-17-Eighty-Sixth.md"
+    "2021-4-14-Eighty-Fourth.md"
   ]
 }
