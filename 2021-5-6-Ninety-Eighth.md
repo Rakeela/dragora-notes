@@ -23,7 +23,9 @@ I expect deep space ZPE arrays will someday be important to civilization.  If yo
 ---
 I've continued to work on my [[ideological-interpretations-of-The-Viceroy]].  The game is such a beautiful structure of implied narrative.  I can't yet follow the full extent of the narratives that its technological and building structures imply; I'm working on building up my ability to imagine it as a setting.  I'm a little suspicious about the game and its developer, but I can't help admiring it as a successful world-building project.
 
-I can't spend too much on it today, but I'm looking forward to adding a section about the game's "pervasive digitization" technology.  The setting in The Viceroy is one that I see as including some impressively seamless and otherworldly telepresence environments.  Humanity has only begun reaching towards the full potential of telepresence.
+I shouldn't spend too much time on it today, but I'm looking forward to adding a section about the game's "pervasive digitization" technology.  The setting in The Viceroy is one that I see as including some impressively seamless and otherworldly telepresence environments.  Humanity has only begun reaching towards the full potential of telepresence.
+
+I hope that as we expand that potential, we also have an organization such as the one that I imagine the Panarchy to be, too.  As humanity's technological potentials become metatechnological potentials enhancing cognition itself, the steadfast dehomogenization of control systems is likely to be necessary for preventing the rise of central control by malicious actors.  In this, free and regulated markets (both) reassure me, as numerous overlapping organizations of differing ideology proliferate and persist in the private sectors (and sometimes even the public sectors) of societies with free or regulated markets.  That seems like a good ground for something like the Panarchy to come into existence as wealth and technology continue ascending.
 
 ---
 Back to [[day-post-archive]]
