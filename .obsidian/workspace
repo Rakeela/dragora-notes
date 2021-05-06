@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 26.61982825917252,
+            "dimension": 68.07181889149102,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -42,7 +42,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 73.38017174082748,
+            "dimension": 31.92818110850898,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-5-6-Ninety-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,11 +142,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "2021-5-6-Ninety-Eighth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Monster-Girl-Encyclopedia.md",
-    "2021-5-6-Ninety-Eighth.md",
     "Northern-Creche-Confederation.md",
     "Untitled.md",
     "2021-5-5-Ninety-Seventh.md",

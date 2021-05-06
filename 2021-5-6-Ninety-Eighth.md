@@ -21,4 +21,9 @@ Maybe deep space ZPE arrays are a mod that should be made for Stellaris.  It'd b
 I expect deep space ZPE arrays will someday be important to civilization.  If you combine very profound patience with an infinite energy source, you can not only power systems arbitrarily far away from everything else, you can also accumulate power sufficient for elemental synthesis.  The catch is, who has that kind of supernal patience?  The people capable of inventing such a thing may have no overlap with people who have a psychology capable of utilizing it.
 
 ---
+I've continued to work on my [[ideological-interpretations-of-The-Viceroy]].  The game is such a beautiful structure of implied narrative.  I can't yet follow the full extent of the narratives that its technological and building structures imply; I'm working on building up my ability to imagine it as a setting.  I'm a little suspicious about the game and its developer, but I can't help admiring it as a successful world-building project.
+
+I can't spend too much on it today, but I'm looking forward to adding a section about the game's "pervasive digitization" technology.  The setting in The Viceroy is one that I see as including some impressively seamless and otherworldly telepresence environments.  Humanity has only begun reaching towards the full potential of telepresence.
+
+---
 Back to [[day-post-archive]]
