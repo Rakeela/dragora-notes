@@ -19,7 +19,14 @@ I think the concept of the story hits so many points of awfulness that I probabl
 ---
 I was thinking about it more in the shower, and of course there's a way that I could use the Whore/Hitler Dichotomy in a gryphon genethief story.  I could have the genethieves teach it as a method of gaining sexual compliance.  They would be focusing on the Whore side of the Dichotomy and emphasizing the Hitler side as authoritarian, prettifying the Whore side as a pure celebration of liberation even though they engage in an exceedingly loveless manner.
 
-I could even have them be 'helping' people fulfill a reproductive mandate.  After all, people who don't reproduce are wholly meaningless, and the non-reproducers have to do *something* to deserve rights.  The genethieves are merciful and liberating!
+I could even have them be 'helping' people fulfill a reproductive mandate.  After all, people who don't reproduce are wholly meaningless, and the non-reproducers have to do *something* to deserve rights.  The genethieves are merciful and liberating!  However, this might be going too far.
+
+The basic idea of building the Whore/Hitler Dichotomy into a story and having an organization of dubious ethics wield it might be something to work with.  On the other hand, since I'm not trying to impress anyone, I may not use this idea for a very long time.
+
+---
+It's kind of nice to have a porn idea and not be expected to be WILDLY ENTHUSIASTIC about it.  People around me demanded the right of unchallenged satire that could be neither criticized nor pointed out, even as they denied me the right of making any satire at all by treating me as authoritarian or dishonest if I ever expressed disliking things.  I was always supposed to be 10/10-positive about everything if I wrote anything faintly appealing about it.
+
+Whereas if I wrote the gryphon genethief story, sure I'd try to make the sex scenes hot.  It'd be up to the reader to notice the story's dearths... unless or until the protagonist stopped playing along.
 
 ---
 Back to [[day-post-archive]]
