@@ -29,4 +29,7 @@ It's kind of nice to have a porn idea and not be expected to be WILDLY ENTHUSIAS
 Whereas if I wrote the gryphon genethief story, sure I'd try to make the sex scenes hot.  It'd be up to the reader to notice the story's dearths... unless or until the protagonist stopped playing along.
 
 ---
+My tendency to obsessions isn't as creatively functional as it would be, because I'm specifically prone to melancholic obsessions.  I wish I could cry more easily, even though I would spend a lot of time crying if I could.  I think it would be healthy, but at the very least it would be good for my self-esteem.  I would feel more artistically capable that way... I think I really would be.
+
+---
 Back to [[day-post-archive]]
