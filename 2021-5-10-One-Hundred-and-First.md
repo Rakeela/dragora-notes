@@ -26,4 +26,7 @@ New methods of dietary regulation should help.  I doubt I can eat two days worth
 I'm disappointed in my health textbook for promoting abstinence and monogamy as risk-reducing behaviors.  Abstinence, especially; poly-friendly textbooks may still be too much to hope for, but abstinence education is not a successful thing AFAIK.
 
 ---
+If I could schlep a piece of culture back to the [[Northern-Creche-Confederation]], I think I'd bring the idea of the personal world-building project.  It's something that I've enjoyed quite a bit which I think would fit with that hyperliterate dragon culture.  Where every dragon is a sovereign nation, arguing about the details of fictional nations would be analogous to a common past-time as it was, where we argued over hypothetical business ventures with little intent of pursuing them, studying relevant subjects and writing documents together.  That was "Contract", which was a game to us, though named for its occasional output of actual business ventures and/or additions to the local structures of codified social contract.  Personal world-building projects don't have quite the same level of potential real-world applicability, but they would be good for teaching young dragons to think in a similar way.  It would give people something to play Contract about before they had a territory with which to occasionally reify it.
+
+---
 Back to [[day-post-archive]]
