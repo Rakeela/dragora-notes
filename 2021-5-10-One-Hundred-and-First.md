@@ -10,4 +10,9 @@ People who are very localist are not very good at health policy.  Health effects
 I think this course material focuses a bit overmuch on the developing world.  I do understand that they are the most deeply deprived and that their health is as important as everyone else's.  My issue is that I feel like the developed world has lost some amount of its verve and vivacity, and could use new thinking as well; our concept of good health has become a little too much like grimness and privation, and I'm not sure we're exporting good health very effectively as a result.
 
 ---
+I didn't eat for two days.  That was depressive reluctance to eat rather than health-maintaining fasting this time.  I set my fasting timer, but I didn't give it a target.  It just ticked upwards.
+
+I broke my fast for a meal, because I was struggling badly with a math assignment, and Kistaro convinced me to.  Then I set the fasting timer again!  I'm considering trying alternate day fasting again.  It didn't work before; I discovered that I can quite happily eat two days worth of calories per day.  This time, I think that I'll try it with eating only one meal on the days where I'm "not fasting", so that the fasting timer will only be interrupted briefly.
+
+---
 Back to [[day-post-archive]]
