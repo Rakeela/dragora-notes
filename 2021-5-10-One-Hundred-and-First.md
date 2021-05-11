@@ -15,4 +15,7 @@ I didn't eat for two days.  That was depressive reluctance to eat rather than he
 I broke my fast for a meal, because I was struggling badly with a math assignment, and Kistaro convinced me to.  Then I set the fasting timer again!  I'm considering trying alternate day fasting again.  It didn't work before; I discovered that I can quite happily eat two days worth of calories per day.  This time, I think that I'll try it with eating only one meal on the days where I'm "not fasting", so that the fasting timer will only be interrupted briefly.
 
 ---
+I may have a fungal infection of my scalp.  I've previously had fungal infections of my armpits.  I think my immune system is fungal-tolerant in a way that may have saved my life as a kid (direct exposure to a highly toxic fungus without apparent consequence), but which has since predisposed me to profoundly annoying issues.
+
+---
 Back to [[day-post-archive]]
