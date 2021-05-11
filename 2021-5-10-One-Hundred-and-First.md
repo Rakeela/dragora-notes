@@ -18,4 +18,12 @@ I broke my fast for a meal, because I was struggling badly with a math assignmen
 I may have a fungal infection of my scalp.  I've had other scalp infections before, and I've previously had fungal infections of my armpits.  I think my immune system is fungal-tolerant in a way that may have saved my life as a kid (direct exposure to a highly toxic fungus without apparent consequence), but which has since predisposed me to profoundly annoying issues.
 
 ---
+My weight loss efforts plateau'd hard when I got under 230 pounds.  For a while I was frustrated at it, and I slightly still am.  Yet I think I know why it happened.  I no longer 'feel' massive.  This is a threshold at which moving becomes easier, and the health benefits of continued weight loss start to feel more abstract.
+
+New methods of dietary regulation should help.  I doubt I can eat two days worth of calories at one meal.
+
+---
+I'm disappointed in my health textbook for promoting abstinence and monogamy as risk-reducing behaviors.  Abstinence, especially; poly-friendly textbooks may still be too much to hope for, but abstinence education is not a successful thing AFAIK.
+
+---
 Back to [[day-post-archive]]
