@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 69.24277907884465,
+            "dimension": 23.73145979703357,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -42,7 +42,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 30.757220921155348,
+            "dimension": 76.26854020296643,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-10-One-Hundred-and-First.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,12 +142,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-5-10-One-Hundred-and-First.md",
     "Untitled.md",
     "2021-5-8-One-Hundredth.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-5-7-Ninety-Ninth.md",
     "2021-5-6-Ninety-Eighth.md",
     "The-Only-World-Building-Workbook-You'll-Ever-Need.md",

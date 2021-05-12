@@ -289,6 +289,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-4-26; The Panarchy Ritualists say that the forms of the overlapping governments are more important than their functions, right?  That seems calculated to induce horror.  How can someone prefer form over function!?  Right?  Well, what if they aren't talking about aesthetics at all, but they mean the *bureaucratic* forms?  They could be expressing frustration that the other subcultures don't do enough to protect people who fill out paperwork correctly.
 
+2021-5-12; I'm extremely reluctant to record what I think the Prenatal Education technology refers to in the above list, but I'm planning to list its "Kind of person most protected:" as "people whose genetic potential for intelligence is extremely resistant to abuse".  Note that the basic instinctual grasp of math and language which prenatal education cites is *the exact same thing* that the Lyceum relies upon among the Panarchy, and the Panarchy puts that stuff up near the AI collectives while the Commonwealth squelches it down under nationalism.  Furthermore, while the Panarchy is denigrated as supposedly producing incomprehensibility thereby, we're supposed to expect that the reproduce-or-else natalism of the Commonwealth is virtuous with the same stuff.  It looks more to me like "Prenatal Education" refers to "with enough effort, we can rehabilitate some of the people who our other technologies victimize"...  It's like...  if you weren't being natalists, you could get *that* technological advantage just by listening to people and working harder to include them in society (as does the Lyceum on the opposite side of the tech graph).
+
 ---
 The Much-Reviled Lower Classes
 
