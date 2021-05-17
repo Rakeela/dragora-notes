@@ -53,7 +53,7 @@ On completion of the 'unexpected biochemistry' special project from the toxicity
 Wonderful! - Gain Vitality Boosters research option with +10% if not already unlocked, otherwise gain next level of Cell Revitalization with +5%.
 
 On completion of the 'new poisons' special project from the toxicity event:
-"A foul poison gets spat out, but some people will accept death to eat a delicious poison, and that's more true for miserable people than comfortable ones.  We've refined some unusual bioactive molecules into poisons that we can distribute cheaply for pro-stability 'differential impacts'.  The poisons from these ancient spices are not in strong enough (in palatable doses) to kill people outright, but we can get people who hate the government to take unhealthy doses as easily as by telling the public that loyal citizens don't eat them."
+"A foul poison gets spat out, but some people will accept death to eat a delicious poison, and that's more true for miserable people than comfortable ones.  We've refined some unusual bioactive molecules into poisons that we can distribute cheaply for pro-stability 'differential impacts'.  The poisons from these ancient spices are not strong enough (in palatable doses) to kill people outright, but we can get people who hate the government to take unhealthy doses as easily as by telling the public that loyal citizens don't eat them."
 Wonderful! - 'Self-poisoning rebels' modifier for 60 months on all colonies, +15% governing ethics attraction, +5 emigration push.
 
 When 'ancient spices fad' expires:
