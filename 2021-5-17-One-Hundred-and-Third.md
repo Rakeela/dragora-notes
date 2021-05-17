@@ -49,7 +49,7 @@ Assign a scientist to study the unexpected biochemistry.  - Spawns a 120 month s
 {Requires Authoritarian}  Refine the 'spices' for new poisons.  - Spawns a 30 month special project requiring a science ship on the starbase.  No time limit; does not expire at end of event.
 
 On completion of the 'unexpected biochemistry' special project from the toxicity event:
-"The dose makes the poison.  Any compound that our biologists did not expect would damage consumers must have unusual applications in cellular biology, and these are no exception.  In addition to issuing new safe consumption guidelines for our more exotic spices, new research crops have become of interest to biochemistry."
+"The dose makes the poison.  Any compound that our biologists did not expect would damage consumers must have unusual applications in cellular biology, and these are no exception.  In addition to achieving the issuance of new safe consumption guidelines for our more exotic spices, new research crops have become of interest to biochemistry."
 Wonderful! - Gain Vitality Boosters research option with +10% if not already unlocked, otherwise gain next level of Cell Revitalization with +5%.
 
 On completion of the 'new poisons' special project from the toxicity event:
