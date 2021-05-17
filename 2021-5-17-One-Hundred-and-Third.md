@@ -39,7 +39,7 @@ Otherwise (if 'Wait, don't give it ALL to them!'):
 That said, there's a substantial income from the exotic spices being sold by {starbase name}, and the crimped supply is nowhere close to meeting demand."
 Lucrative.  - Monthly energy production increases by 12 for 240 months.  End event chain.
 
-Starting seven months after the construction project completes, but only before any 'end of the event chain' occurs, with mean time to happen of 120 months (which therefore might not happen before the event ends):
+Starting seven months after the construction project completes, but only before any 'end of the event chain' occurs, with mean time to happen of 120 months:
 "The old world spices grown on {starbase name} have proven something of a medical blunder.  Long-term consumption has proven cumulative toxicity and produced a few fatalities among the most dedicated fans of the new old spices.  The popularity of the {citizen's initiative/subsidiary corporation/minor lord and {his/her} court} has dropped substantially as a result."
 Egh.  Cancel the project. - 'Chronic toxicity' modifier for 36 months, -5% happiness, -10% xenophile ethics attraction.  Ends all other modifiers from this event chain.  End event chain.
 Cull the poisonous spices and issue reparations. - 'Chronic toxicity' modifier for 24 months, -5% happiness, -10% xenophile ethics attraction.  -250 energy credits.  No effect on other modifiers from this event chain.
