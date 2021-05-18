@@ -314,7 +314,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	1.  Mechanism proposal:  The most simple, literal technology in the tech tree.  Hire people who study district specialties and connect the district's industry to the needs of the broader economy.
 	2.  Mechanism proposal:  Deeply boring managers with gentle voices...
 	3.  Narrative indicator:  As holistic industrialization spreads through a territory, productive industrial centralization increases bit by bit, linking small artisans together into the service of a larger whole.
-	4.  Narrative indicator:  Unions get founded and expand in the territory, too.  Concern for the workers is part of the technology.  Work stoppages and peaceful resistance become more probable as people become aware of the resources of the broader economy, and how they could potentially organize to claim a greater share of them.
+	4.  Narrative indicator:  Unions get founded and expand in the territory, too.  Work stoppages and peaceful resistance become more probable as people become aware of the resources of the broader economy, and how they could potentially organize to claim a greater share of them.
 	5.  Mechanism proposal:  You could do this productively at ANY technology level.  It says NOTHING about what technologies are being implemented.
 	6.  Bureaucratic waste analysis:  Literal.  Very literal.  It's just a bureaucratic technology.  Even union work stoppages are a form of literal bureaucratic waste.
 	7.  Utopic rating:  This is the original 5/5 utopic tech.  It might still be a mistake, but it's never worse than wasteful.  Trying to do this is virtuous!
