@@ -44,7 +44,7 @@ Starting seven months after the construction project completes, but only before 
 "The old world spices grown on {starbase name} have proven something of a medical blunder.  Long-term consumption has proven cumulative toxicity and produced a few fatalities among the most dedicated fans of the new old spices.  The popularity of the {citizen's initiative/subsidiary corporation/minor lord and {his/her} court} has dropped substantially as a result.
 
 Maybe it was for the best that people stopped using all of these spices a long time ago."
-Egh.  Cancel the project. - 'Chronic toxicity' modifier for 36 months, -5% happiness, -10% xenophile ethics attraction.  Ends all other modifiers from this event chain.  End event chain.
+Ugh.  Cancel the project. - 'Chronic toxicity' modifier for 36 months, -5% happiness, -10% xenophile ethics attraction.  Ends all other modifiers from this event chain.  End event chain.
 Cull the poisonous spices and issue reparations. - 'Chronic toxicity' modifier for 24 months, -5% happiness, -10% xenophile ethics attraction.  -250 energy credits.  No effect on other modifiers from this event chain.
 Assign a scientist to study the unexpected biochemistry.  - Spawns a 120 month special project requiring a science ship on the home world.  No time limit; does not expire at end of event.
 {Requires Authoritarian}  Refine the 'spices' for new poisons.  - Spawns a 30 month special project requiring a science ship on the starbase.  No time limit; does not expire at end of event.
@@ -73,6 +73,9 @@ Seems like there's always a new flavor to try. - End event chain.
 
 ---
 Looking at Stellaris modding guides, I'm not sure that an event can refer to a starbase like that, so I don't know how to implement the above.
+
+---
+Lately I've been using my fasting app not for fasting, but just to mark periods where I'm not eating.  I've been using it as an anti-snacking app.  It shows me intervals in which I was snacking-okay and intervals in which I was snacking-not.  If I went without eating long enough to spend time in ketosis, it tells me that.
 
 ---
 Back to [[day-post-archive]]
