@@ -2,6 +2,7 @@
 
 I had an idea for a Stellaris event.  Based on human history, though I can't recall enough about the IRL event to reference it right now.
 
+---
 Occurring at a MTTH of 420 months (35 years) after the completion of its prerequisites (some of the farming techs, plus a starbase with a greenhouse module), the following would occur:
 
 "Early in recorded history, there was a spice crop on {homeworld} named {plant name}.  This was originally a wild plant which was gathered for its flavor.  It grew poorly in the wild, and harvests struggled to keep up with demand.  Suppliers in one nation turned it into a cash crop to exploit its value, and for some time in the historical record thereafter it is well-attested in many ancient recipes.
@@ -55,6 +56,7 @@ Wonderful! - Gain Vitality Boosters research option with +10% if not already unl
 On completion of the 'new poisons' special project from the toxicity event:
 "A foul poison gets spat out, but some people will accept death to eat a delicious poison, and that's more true for miserable people than comfortable ones.  We've refined some unusual bioactive molecules into poisons that we can distribute cheaply for pro-stability 'differential impacts'.  The poisons from these ancient spices are not strong enough (in palatable doses) to kill people outright, but we can get people who hate the government to take unhealthy doses as easily as by telling the public that loyal citizens don't eat them."
 Wonderful! - 'Self-poisoning rebels' modifier for 60 months on all colonies, +15% governing ethics attraction, +5 emigration push.
+(Note to self: Consider making this an edict "Flavors of Malevolence" which costs 200 influence to issue, is +10% more impactful, and lasts for a default 10 years.)
 
 When 'ancient spices fad' expires:
 "The initial buzz around {plant name} being grown on {starbase name} has worn off, and it's become an expected minor part of {empire name}'s cuisine.  Public appreciation and experimentation hasn't entirely faded, but the response is less exuberant than it used to be.  Spice supplies are going strong and variously spiced dishes are still being widely enjoyed."
@@ -68,6 +70,9 @@ Profit-sharing would keep this sensible for us. - Monthly energy production incr
 120 months after 'Spice renews life' expires, or 240 months after first harvest if 'Lucrative' option was chosen:
 "The lease on {starbase name}'s agricultural module' has ended, and it has been returned to the use of {empire name}.  The {citizen's initiative/subsidiary corporation/minor lord and {his/her} court} have thanked {empire name} for their generosity in permitting them to run a de-extinction experiment on ancient spices.  The crops they've brought back will be produced elsewhere in {empire name} now, but no further headline effects are expected."
 Seems like there's always a new flavor to try. - End event chain.
+
+---
+Looking at Stellaris modding guides, I'm not sure that an event can refer to a starbase like that, so I don't know how to implement the above.
 
 ---
 Back to [[day-post-archive]]
