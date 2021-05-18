@@ -78,4 +78,7 @@ Looking at Stellaris modding guides, I'm not sure that an event can refer to a s
 Lately I've been using my fasting app not for fasting, but just to mark periods where I'm not eating.  I've been using it as an anti-snacking app.  It shows me intervals in which I was snacking-okay and intervals in which I was snacking-not.  If I went without eating long enough to spend time in ketosis, it tells me that.
 
 ---
+Random thought:  The ideal for a dating sim shouldn't be to impress the player with what's in the game.  The ideal for a dating sim should be to impress the player with what it inspires the player to imagine.  A wildly successful dating sim would be measured by its fanfic community.
+
+---
 Back to [[day-post-archive]]
