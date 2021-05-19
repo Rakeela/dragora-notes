@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 59.40671350507416,
+            "dimension": 25.839188134270103,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -42,7 +42,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 40.59328649492584,
+            "dimension": 74.1608118657299,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-17-One-Hundred-and-Third.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,10 +142,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
-    "2021-5-17-One-Hundred-and-Third.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "2021-5-17-One-Hundred-and-Third.md",
     "Untitled.md",
     "2021-5-14-One-Hundred-and-Second.md",
     "2021-5-10-One-Hundred-and-First.md",
