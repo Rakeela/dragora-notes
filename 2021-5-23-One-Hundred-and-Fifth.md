@@ -15,4 +15,7 @@ If we set up automated systems to clean the water towers and make them a standar
 It's strange to think that humanity owes anything in its quality of life to the threat of infectious disease, but it's true.  We don't solely like hygiene for its antipathogenicity, but also because it makes life better.  It's a good idea to act in advance to protect aesthetic hygiene from things that will lose force as medical technology advances... and it would itself be a form of medical progress.
 
 ---
+I still do think prostitution should be legal, but like... classy prostitution.  Clean, safe, and well-regulated.  It should be part of a charismatic sexuality free of misinformation.
+
+---
 Back to [[day-post-archive]]
