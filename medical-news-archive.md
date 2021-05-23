@@ -15,6 +15,8 @@ https://www.quantamagazine.org/how-the-immune-system-protects-the-brain-20210428
 
 https://phys.org/news/2019-10-mitochondria-tesla-battery.html - Mitochondria work much like Tesla battery packs, study finds - Retrieved 2021-5-1.  Commentary:  I read this, thinking about how different species have mitochondria that work differently.  If you look at hummingbird mitochondria, and then you look at cactus mitochondria, is the difference between them structural or chemical?  As DNA codes for life, I'm assuming the difference is genetic either way.  Could we (for instance) accelerate mitochondria by transplanting genes that make the inner membrane wrinklier, or do we need to transplant genes that alter the chemicals in the interior of the mitochondria?
 
+https://www.usatoday.com/in-depth/news/investigations/2021/05/21/infrastructure-neglect-water-towers-add-millions-illnesses/6769259002/ - Dead snakes and mice, toxic sludge: How pathogens go unnoticed in America's water towers - Retrieved 2021-5-23.  Commentary:  [[2021-5-23-One-Hundred-and-Fifth]]
+
 ---
 Back to [[News-Archive]]
 
