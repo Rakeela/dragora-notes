@@ -331,6 +331,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Utopic rating:  2/5
 	9.  Public protection rating:  5/5
 	10.  Kind of person most protected:  Advertisers.
+20.  Panarchic War Memorials
+	1.  Mechanism proposal:  Panarchic war memorials train pacifists and warmongers to be indistinguishable from each other.  They're an educational investment in making deeply peaceful people indistinguishable as much as possible from deeply violent people.
+	2.  Downside analysis:  Who would *do* that?  This is likely to see people fixate on "If we can't tell peaceful people from murderers, won't the murder rate rise?"  After all, 'everyone knows' that a great mass of infiltrating potential soldiers is a lethal hazard!  There could be violent people hiding ANYWHERE!
+	3.  Mechanism proposal:  On average, the concern about warriors in hiding is an error.  Not only are most people inclined towards peace, most people who believe that violence is acceptable for *some* reason do not believe that violence is acceptable for *any* reason.  Furthermore, a consistent inclination towards war is a rare thing that becomes *less* acceptable as panarchic war memorials spread, because society begins to expect that people are capable of understanding both sides of conflicts.
+	4.  Mechanism proposal:  Teaching people the ways of peace and war is fundamentally rehabilitative.  It inclines people to be respectful of each other across a classification of social divides where violence and disrespect are often linked, and it achieves that respect without demeaning pacifism.  Encouraging respectful discussion about the causes of conflict gives people more opportunity to be forgiven when they wish to come clean about their misdeeds and turn their backs on them.  Society gets broader.
+	6.  Downside analysis:  Even if the headline fear of murderers is wrong, the social stress of knowing that this is *being done* is probably not fun.  People will use it to mistreat each other.  Think cannibal humor and genocidal fictions.
+	7.  Mechanism proposal:  At a large-scale, public recognition that war is politics by other means may encourage scary political deliberations... but it will also tend to expose those deliberations, and to encourage negotiations.
+	8.  Narrative indicator:  On average, pacifism rises, but it becomes more unequally distributed.
+	9.  Mechanism proposal:  The Panarchy doesn't approve of warring nations, because it doesn't approve of *territorial authorities*.  The many overlapping governments of the Panarchy are non-territorial entities.  When it pushes talent into a zone, it tries to erode systems of territorial control, and to persuade people to abandon territorial exclusivity in leadership.  The borders don't open... they dissolve, leaving people where they are.
+	10.  Bureaucratic waste analysis:  I can't really evaluate this.  I've written all that I've just written... and I don't know what the actual mechanism is.  I believe I know what this technology *attempts* to accomplish, but I don't know how that thing can be achieved.  It's not that it's beyond my ideological range, either...  I just... don't know how it can be done.
+	11.  Utopic Rating:  ???
+	12.  Public Protection Rating:  ???
+	13.  Kind of person most protected:  Fake militarists
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
