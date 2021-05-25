@@ -344,6 +344,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Utopic Rating:  ???
 	12.  Public Protection Rating:  ???
 	13.  Kind of person most protected:  Fake militarists
+21.  Eternal Bank Tower
+	1.  Mechanism Proposal:  If someone wants to spend their whole life wonking out about banking regulations, that makes no sense from a conventional time-bound perspective; they end up spending absurd amounts of time contemplating wholly theoretical considerations with little or no real-world applicability.  Yet they often *can* improve on the quality of banking regulations... *semi*-permanently.  Every new regulatory scheme in banking is eventually exploited beyond all reason or usefulness, but with sufficient administrative talent backing it that can take a long time.
+	2.  Mechanism proposal:  The Old Empire is probably lying about having access to atemporal intelligences... but they're not lying about having access to people who love totally abstract financial matters that are *beyond* most people.
+	3.  Downside analysis:  Economic inequality is likely to rise.  It's not certain to rise, but society's equality levels become more dependent on the charity of people with massive financial resources, so it's likely that society becomes more financially unequal.  The average person becomes more economically powerless.  This technology does *not* protect irrelevant people, or perhaps better said it only *temporarily* protects irrelevant people.
+	4.  Mechanism proposal:  The Old Empire is extensively willing to trust people to tamper with regulations and they are willing to contest the quality of regulations past and future.  The key phrase in that sentence was "extensively willing to trust".
+	5.  Bureaucratic waste analysis:  Fairly literal.  Staying ahead of regulatory exploitation is an administrative challenge.  However, it loses points for being a *hostile* regulatory challenge, as there will be more people actively trying to defang or derange the regulatory authority, and the system is thus more likely to fall into a dystopic state.
+	6.  Utopic Rating:  3/5, +1 in Planned Economies, -1 in Feudal Economies
+	7.  Public Protection Rating:  1/5, +1 in Regulated or Planned Economies
+	8.  Kind of person most protected:  Greedy mathematicians.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.

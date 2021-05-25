@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 56.92307692307692,
+            "dimension": 42.02429149797571,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -42,7 +42,7 @@
           {
             "id": "4ffd91da03a67890",
             "type": "split",
-            "dimension": 43.07692307692308,
+            "dimension": 57.97570850202429,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -60,7 +60,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "medical-news-archive.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-24-One-Hundred-and-Sixth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +142,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "c7e462257a486797",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
+    "medical-news-archive.md",
+    "2021-5-24-One-Hundred-and-Sixth.md",
     "Untitled.md",
     "2021-5-23-One-Hundred-and-Fifth.md",
-    "medical-news-archive.md",
     "news-archive.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "Northern-Creche-Confederation.md",
     "2021-5-21-One-Hundred-and-Fourth.md",
     "2021-5-17-One-Hundred-and-Third.md",
-    "2021-5-14-One-Hundred-and-Second.md",
-    "2021-5-10-One-Hundred-and-First.md"
+    "2021-5-14-One-Hundred-and-Second.md"
   ]
 }
