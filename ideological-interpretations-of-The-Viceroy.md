@@ -112,10 +112,13 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     7.  Mechanism proposal:  The 'hyperspace link' could also refer to an inclination to try to establish rational trust with outsiders, which seems to be part of the theme of the Old Empire.  In-setting, this could be an FTL knowledge-sharing link-up implemented across the Empire, such as the one that is in-universe mediated by the Library Relay.  It could even be "this planet has been equipped so that the general public can use the Imperial Library Relay network the way it was originally designed to be used".
     9.  Mechanism synthesis:  I believe the correct understanding is, "All simultaneous understandings are valid to the extent that they can be held in a noncontradictory fashion."  All of this sounds like stuff the Old Empire might try - possibly with different focii at different levels of economic development and with different other technologies being implemented in the same area.
     9.  Mechanism synthesis:  Distributed thought rescues the foundering.  What does it mean if your society is protecting the ability to contribute of people who definitely do have minds, but who are deep down in that 'general intellects' pool?  Stupidity preservation, intelligence augmentation, successfully establishing trust with unusual minds, and transhumanist civil rights...  These are rehabilitative technologies.
-    10.  Bureaucratic waste analysis:  The bureaucratic wastage here has two components.  The literal component which arises in the utopic phase and persists throughout is that society has to hire more social scientists, more fact checkers, and more neurologists than it would otherwise require.  The metaphorical component arises from the mental homogenization and the promotion of questionable intelligence that this society engages in, which may prevent the rise of effective bureaucrats, particularly in societies which have begun to develop the hatred of bureaucracy.
-    11.  Utopic rating:  4/5
-    12.  Public protection rating:  5/5
-    13.  Kind of person most protected:  Dumb but technophilic people.
+    10.  Narrative indicator:  This is a smooth and extremophilic technology.  It works at many tech levels and progresses sensibly with other technologies (smooth) and it also suggests that this society would eventually become willing and able to engage in radical technological experiments (extremophilic).  I was contemplating this technology when I decided to add the smoothness and extremophilia ratings.
+    11.  Bureaucratic waste analysis:  The bureaucratic wastage here has two components.  The literal component which arises in the utopic phase and persists throughout is that society has to hire more social scientists, more fact checkers, and more neurologists than it would otherwise require.  The metaphorical component arises from the mental homogenization and the promotion of questionable intelligence that this society engages in, which may (eventually) prevent the rise of effective bureaucrats, particularly in societies which have begun to develop the hatred of bureaucracy due to other technologies.
+    12.  Utopic rating:  4/5
+    13.  Public protection rating:  5/5
+    14.  Technological smoothness:  5/5
+    15.  Technological extremophilia:  5/5
+    16.  Kind of person most protected:  Dumb but technophilic people.
 2.  Telepathic Dust
 	1.  Mechanism proposal:  As described, telepathic dust involves setting up the infrastructure to manufacture and distribute temporary clouds of empathy-dust across the public.  It sets up ad-hoc transmissions between people in the area of effect so that they can feel each others' emotions and get a transient sense of one anothers' thoughts.  It's a kind of super-tech toy for enhancing other kinds of play and encouraging people to trust each other.
 	2.  Downside analysis:  This technology is so literally described, that the wonder isn't so much how it works, but how it breaks.  As telepathic dust proliferates in society, more of its social spaces would be afflicted by a haze of nanites in which empathy deficits temporarily evaporate.  Are people who are only empathetic due to telepathic dust actually empathetic at all?  Well...  no, they aren't.  The sense of trustworthiness created by the dust is only locally rational.
@@ -127,7 +130,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Bureaucratic waste analysis:  The bureaucratic wastage from this technology arises from three factors.  Firstly, it's a toy.  People will spend more time playing with each other as it gets more abundant.  Secondly, it's good for reinforcing understanding between people, which is mostly a good empathetic function, yet may also strengthen conspiratorial social organizations which rely on unspoken "understandings".  Thirdly, manufacturing and distributing a product also literally requires the organizations which manufacture and distribute it, thus directly requiring the dedication of people and funds in an ongoing way.
 	9.  Utopic rating:  3/5
 	10.  Public protection rating:  3/5
-	11.  Kind of person most protected:  People with weird emotional processing
+	11.  Technological smoothness:  1/5  (Singularitan.)
+	12.  Technological extremophilia:  5/5
+	13.  Kind of person most protected:  People with weird emotional processing
 3.  Panarchialization Policy
 	1.  Mechanism proposal:  Presenting panarchism as being up-front about the search for MEANING IN CONTRADICTION sounds kind of mean at first, but it also sounds better than the stuffy search for unity around some set of ideals that will only be defined by specialists in ivory towers.  Panarchialization supports the prosperity of society very broadly by acknowledging great sweeps of government projects that are all worth prosperity to *someone*.
 	2.  Mechanism proposal:  The experimental factor in panarchialization should not be missed.  Panarchic social experimentation is trying to aggregate and implement data about effective governing practices from across the galaxy.  That's why this technology leads into 'Panarchic Data Posts'.  Governments that are panarchializing are pulling on this data well and trying to add new experiments of their own to it.
@@ -137,7 +142,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis.  The way this encourages mass recruitment into 'cool' government projects makes it unlikely to promote the hatred of bureaucrats!
 	7.  Utopic rating:  4/5
 	8.  Public protection rating:  3/5
-	9.  Kind of person most protected:  Sociologists
+	9.  Technological smoothness:  4/5
+	10.  Technological extremophilia:  4/5?
+	11.  Kind of person most protected:  Sociologists
 4.  Frictionless Highways
 	1.  Mechanism proposal:  This isn't a technology at all.  This is a person who exists at many levels of technology.  Their great interest in attaining high velocities makes them fun, while their calm control of fast-moving systems makes them competent in many roles.  Furthermore, access to consumer goods is strongly motivating to them, especially goods related to their interests.
 	2.  Mechanism proposal:  This is also a technology in a social technology sense, being a possible governing practice: specifically the practice of reaching out to and including this kind of person in society.
@@ -147,15 +154,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Bureaucratic waste analysis:  The literalism of this technology's bureaucratic waste varies according to the economic system that is implementing it.  It is most literal in planned economies and least literal in feudal economies.  The inclusion of people who love attaining calm control of fast-moving systems is no more (but no less) bureaucratically expensive than maintaining good roadways, recreational vehicle arenas, and vehicle fabrication organizations.  Should a society engaging in these practice grow extremely unfit for bureaucratic life, these individuals may take up the hatred of bureaucracy, which intrinsically operates at a different pace than they would prefer.  Furthermore, investing excessively in roads and vehicles is potentially injurious to public health due to pollution and vehicular accident risks, which may damage the productivity of skilled bureaucrats as well as injuring the assurance of safety that they prefer.
 	7.  Utopic rating:  5/5 (Planned Economy), 4/5 (Regulated Economy), 3/5 (Free Economy), 2/5 (Feudal Economy)
 	8.  Public protection rating:  2/5
-	9.  Kind of person most protected:  Automotive fans and racers.
+	9.  Technological smoothness:  5/5
+	10.  Technological extremophilia:  3/5
+	11.  Kind of person most protected:  Automotive fans and racers.
 5.  Stasis Controller
 	1.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
 	2.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
 	3.  Narrative indicator:  Although it contributes little to the headline productive potential of stasis controller technologies, a society that has implemented these is probably better at giving people time and space to recover when they need it, because under this rule more of the economy is built in a way that treats the passage of time as a good thing.  "Time heals all wounds," may be wholly true with sufficiently advanced technology.
 	4.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
 	5.  Utopic rating:  5/5
-	6.  Public protection rating:  4/5
-	7.  Kind of person most protected:  Cheesemakers.
+	6.  Public protection rating:  5/5
+	7.  Technological smoothness:  5/5
+	8.  Technological extremophilia:  1/5  (Potentially luddistic.)
+	9.  Kind of person most protected:  Cheesemakers.
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
 	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
@@ -165,7 +176,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Downside analysis:  This technology tests parental investment in no way whatsoever.  If the people who use the branching facilities remain reproductively active in other senses as well, there's a risk that bad parenting will increase.  This risk exists in both interpretations.
 	7.  Apologia:  In the Separatist interpretation, this technology reduces sexual pressure and preserves asexual genes.
 	8.  Downside analysis:  In the Unionist interpretation, this technology starkly privileges the genes for abusive hypersexuality, exemplifying one of the reasons why preserving asexual genes is desirable in the first place...
-	9.  Ideological context analysis:  I think it's not a coincidence that this technology exists where Imperial ideology and Commonwealth ideology touch each other.  This is the Empire showing off how dark the Commonwealth Reproductive Mandate really is.
+	9.  Ideological context analysis:  I think it's not a coincidence that the Old Empire rises where Imperial ideology and Commonwealth ideology touch each other.  I tend to imagine that the adjacent tech trees hybridize fluidly, and this bit is the Empire showing off how dark the Commonwealth Reproductive Mandate really is.
 	10.  Downside analysis:  Violent supremacists could branch themselves to become ineradicable collectives of themselves!
 	11.  Mechanism proposal:  In the Unionist interpretation, this technology opposes blood cults in the sense that it involves encouraging women to not abort children conceived of rape, but to accept what happened to them and commit to protecting the new lifeform.  This does at least promote parental investment, dubious as it is...
 	12.  Mechanism proposal:  In the Separatist interpretation, this technology opposes blood cults by requiring all sacrificees to be 'branched' before sacrificing them.  Thus, people both get sacrificed and observe themselves getting sacrificed.  This erodes the societal control potential of blood cults; their formal promotion of suicide can no longer permanently alter the destiny of society, but is reduced to a novelty for a particular kind of weirdo.
@@ -173,7 +184,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being about as bureaucratically expensive as a low-tech doctor's office.  There are no facilities required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in not only misfiled paperwork, but an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although it HAS theoretical paradisic applications, this technology starts bad and gets worse, being likely one of the first technologies to become dystopic.
 	15.  Utopic rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies)
 	16.  Public protection rating:  1/5, +2 in territories challenged by blood cults
-	17.  Kind of person most protected:  People who REALLY want to exist.
+	17.  Technological smoothness:  4/5
+	18.  Technological extremophilia:  ???
+	19.  Kind of person most protected:  People who REALLY want to exist.
 7.  Panarchic Retreat
 	1.  Mechanism proposal:  The Commonwealth has some rule governing when people can be rated as stable immortals deserving of unlimited free movement privileges and territory-independent access to rejuvenation technologies.  The panarchic retreats are a scheme set up by the Panarchy to help a whole bunch of people get access to those privileges even though they would ordinarily be "beneath the notice" of the Commonwealth.
 	2.  Mechanism proposal:  The literally described process of building vacation areas and then having Panarchs praise the people who run them is exactly what's going on here.  It builds up the records of people who would otherwise be too totally unnoticable by the Commonwealth to be dubbed stable immortals.  Panarchists don't unperson service workers.
@@ -185,14 +198,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Bureaucratic waste analysis:  The bureaucratic expense of running all these vacation areas is totally literal.  There's no reason to expect this to promote hatred of bureaucrats or the destruction of bureaucratic talent; on the contrary, it would promote developing marginal territories, and (long-term) contributes to surfacing/protecting bureaucratic talent.
 	10.  Utopic rating:  5/5
 	11.  Public protection rating:  5/5
-	12.  Kind of person most protected:  Service workers who like their jobs
+	12.  Technological smoothness:  4/5
+	13.  Technological extremophilia:  Territory average.
+	14.  Kind of person most protected:  Service workers who like their jobs
 8.  Seat of Policy
 	1.  Mechanism proposal:  The Seats of Policy engage in long-term bureaucratic meta-analysis.
 	2.  Mechanism proposal:  Since they host travelling policy analysts, the Seats of Policy encourage bureaucratic talents to travel from region to region.  This investment in travel logistics has the same general beneficial effect on survival rates as Panarchic Retreats.
 	3.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
 	4.  Utopic rating:  5/5
 	5.  Public protection rating:  4/5
-	6.  Kind of person most protected:  Bureaucrats
+	6.  Technological smoothness:  5/5
+	7.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
+	8.  Kind of person most protected:  Bureaucrats
 9.  Subconscious Education
 	1.  Mechanism proposal:  The literally described technology turns dreams into an edutainment system, using interfaces between the panarchic nanotechnologies and the setting's cybernetics.  Data-organization is what dreams are for, right?  This makes them BETTER at it.
 	2.  Downside analysis:  This sounds dreary and de-individuating... why would the panarchy do this..?  How could it possibly contribute to their development as competent cultural individuals?
@@ -205,18 +222,27 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Downside analysis:  If the Panarchy is breaking into a pre-existing automatic system to do this, it's likely that what they're breaking was already the most efficient tool for the purpose, even if it was a tool that didn't work nearly as well as the diverse market that they replace it with.  Is such a chaotic 'upgrade' worth its pricetag?  The more administrative talent the regional government brings to the table, the more that answer is "yes", but part of the game is that eventually every administration gets overwhelmed.
 	10.  Mechanism proposal:  The existence of subconscious education systems in some parts of the galaxy may account for part of the Commonwealth's consistent demand for cultural exports.  Dream reeves might exist in many planetary populations as a class of cultural worker.
 	11.  Downside analysis:  I've had some very cognitively extraordinary dreams before, but I've also not been the most useful person in any conventional sense.  Would overworking peoples' brains in their sleep lead to an elevated rate of burn-out and neurological disorder?  This seems like a technology that could've been implemented for +Happiness or +Science, and the Panarchy chose +Science.
-	12.  Bureaucratic waste analysis:  The amount of work needed to provide everyone in the public a source of new dreams EVERY NIGHT and to make those dreams INDIVIDUALLY INFORMATIVE sounds like an unbelievable workload.  It would be impossible to keep up, and that forever workload is a literal waste of bureaucratic effort...  The farther behind its workload these systems get, the more they will then start metaphorically wasting bureaucrats as well, by interfering with their intellectual development.  The spectre of corruption will be extant throughout as well, and where corruption arises under this system, it will waste a little more of society's potential every time it mangles someone's sleep.
-	13.  Utopic rating:  2/5
-	14.  Public protection rating:  3/5
-	15.  Kind of person most protected:  Princess Luna.  More seriously, this tech protects the dream reeves themselves, as the dream-crafter professions exist only where this technology is implemented.
+	12.  Narrative indicator:  This technology would be 5/5 extremophilic, but the risk of overworked or overspecified dream reeve services archetypalizing the public *drains* some of its ability to push towards extreme evolutions.  What thoughts are lost when you meddle with dreams?
+	13.  Downside analysis:  Dreams may also have an *un*learning function.  If so, this meddles with that.  There's a risk of 'diseases of salience' increasing in the population that implements this from stressing the performance of the sleep function, which is a mental health hazard.  The Panarchy really ought to be using this technology to protect the public's happiness...  I may yet hack this game to modify its mechanics and put a +Happiness "Dream Reeve" technology in this slot, as the Panarchy needs it and this would be a great thing to reform into a happiness buff.  Wouldn't it be better to have an advanced society... where nightmares are rare, good dreams are common, and most people are well-rested?
+	14.  Apologia:  To be fair, if the subconscious education system *can* make people more well-rested on average, that *itself* could contribute to them getting effectively smarter (and thus more scientifically competent)... but unless I can manage to tweak the game to make a +Happiness buff out of this, I don't think this interpretation should be considered to override the hazards.  Hah!
+	15.  Bureaucratic waste analysis:  The amount of work needed to provide everyone in the public a source of new dreams EVERY NIGHT and to make those dreams INDIVIDUALLY INFORMATIVE sounds like an unbelievable workload.  It would be impossible to keep up, and that forever workload is a literal waste of bureaucratic effort...  The farther behind its workload these systems get, the more they will then start metaphorically wasting bureaucrats as well, by interfering with their intellectual development.  The spectre of corruption will be extant throughout as well, and where corruption arises under this system, it will waste a little more of society's potential every time it mangles someone's sleep.
+	16.  Utopic rating:  2/5
+	17.  Public protection rating:  3/5
+	18.  Technological smoothness:  2/5
+	19.  Technological extremophilia:  4/5
+	20.  Kind of person most protected:  Princess Luna.  More seriously, this tech protects the dream reeves themselves, as the dream-crafter professions exist only where this technology is implemented.
 10.  Planned Urbanization
 	1.  Mechanism proposal:  Implementing this fixes your government's public sector logistics across the entire district.  The trains run on time, the trash gets collected, and the tapwater runs clear.  This doesn't make your government virtuous, but it's a nice investment in basic quality of life.  This encourages urbanization by making cities nicer places to live.
 	2.  Mechanism proposal:  The general ubiquitous investments that galactic society makes in extirpating contagious diseases are under this tech's aegis, too.  This encourages urbanization by making cities less sickening places to live.  Also, less contagious disease means people can safely get closer to each other in lots of ways.
 	3.  Downside analysis:  Architecture, mostly.  Exotic building plans are likely to run into bureaucratic conflicts.  Unless you have the budget for palaces, eh?
-	4.  Bureaucratic waste analysis:  You have to pay the wages for the city planning bureaucracy, and they tend thereafter to make construction a bit slower and more expensive.  The waste here is nearly wholly literal, though there's some wiggle room for corruption to be playing a role.
-	5.  Utopic rating:  5/5
-	6.  Public protection rating:  5/5
-	7.  Kind of person most protected:  Street musicians & pacifist logisticians.
+	4.  Downside analysis:  Street musicians.  Denser urbanization.  Also increases the survival rate of homeless people, unless your government is REALLY dystopic.
+	5.  Mechanism proposal:  By condensing the population a little more effectively, this also permits more people per 'crowding level' in the sense of better preserving natural areas when people want to get *away* from the crowding.
+	6.  Bureaucratic waste analysis:  You have to pay the wages for the city planning bureaucracy, and they tend thereafter to make construction a bit slower and more expensive.  The waste here is nearly wholly literal, though there's some wiggle room for corruption to be playing a role.
+	7.  Utopic rating:  5/5
+	8.  Public protection rating:  5/5
+	9.  Technological smoothness:  5/5
+	10.  Technological extremophilia:  Territory average
+	11.  Kind of person most protected:  Street musicians & pacifist logisticians.
 11.  Panarchic Palaces
 	1.  Mechanism proposal:  The obvious function of a palace is to be an aspirational reward for high achievers.  Palaces are gigantic lairs of the overglorified.  This is a real function.
 	2.  Mechanism proposal:  A sometimes-forgotten function of a palace is to be an administrative center.  Government archives are built in (sometimes under) palaces.  High bureaucrats have postings here, and so do their essential staff.  In the galaxy's great struggle to figure out who can govern without lying and running off with the treasury, the palace provides a place to trial staff in conditions that are luxurious yet closely observed.  This also insulates key talent from outside hostility.
@@ -227,7 +253,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Bureaucratic waste analysis:  Palaces are expensive investments in the bureaucracy.  This is predominantly a literal bureaucratic expense, but as difficulties in government mount, it's also likely to become a source of wastage through corruption, misunderstanding, and public intransigence.  Since palaces also provide a protected observation environment, they're still a long-term investment in the bureaucratic functioning of the Commonwealth despite these faults.
 	8.  Utopic rating:  4/5
 	9.  Public protection rating:  1/5
-	10.  Kind of person most protected:  Peacocks.
+	10.  Technological smoothness:  4/5
+	11.  Technological extremophilia:  Territory average
+	12.  Kind of person most protected:  Peacocks.
 12.  Panarchic Naval Ports
 	1.  Mechanism proposal:  The hyperspace navy is the most respectable e-sports league in the Panarchy, bar none.  The catch is, if you die in a live-fire exercise, you REALLY die.  It's only usually a game.  Sometimes it is deadly serious.  These people stress like crazy about every match; unfathomably, they *want* to do that.
 	2.  Mechanism proposal:  The Commonwealth doesn't respect the league as much and is sometimes terrified or furious at the Panarchy's "militarism", but they participate on the same terms.  Some of them go for ultimate-intensity leisure as well.
@@ -240,7 +268,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Bureaucratic waste analysis:  Except when the ports flash into open conflict, this is an extremely normal bureaucratic operation, magnified only slightly by the productivity drain (and occasional stress-linked trauma) that results from drawing people into competitive leagues with skills relevant to the naval crews.  Most people don't even go for that.
 	10.  Utopic rating:  5/5 unless it explodes
 	11.  Public protection rating:  5/5 unless it explodes
-	12.  Kind of person most protected:  Adrenaline junkies & game theorists
+	12.  Technological smoothness:  2/5  (Military infrastructure shared between allies is possible at every tech level, but this tech's Influence mechanics as I imagine them only make sense in a deeply interconnected society.)
+	13.  Technological extremophilia:  ???
+	14.  Kind of person most protected:  Adrenaline junkies & game theorists
 13.  Panarchic Capitol
 	1.  Mechanism proposal:  This is the ultimate crossed-quills expression of the panarchic ritualists' dedication to the forms of government.  They pull on ALL THE BUREAUCRACIES and try to establish a galactic nexus of influence by tackling EVERYONE'S bureaucratic problems!  ALL HAIL THE FORMS!  DEATH TO THE BACKLOG!
 	2.  Mechanism proposal:  If it worked, this would be the apotheosis of the Panarchic Ritualists.  This is raw bureaucratic supremacism.  The administration that has started doing this can influence policy galaxy-wide in very direct ways.
@@ -256,19 +286,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Bureaucratic waste analysis:  In one sense, it doesn't get purer than this.  The areas that start doing this develop a commitment to bureaucracy which grows to a point that probably could totally overwhelm the local bureaucratic challenges if it weren't trying to fix the galaxy.  It absolutely does not prevent the development of bureaucratic talent, and it resists any tendency that other technologies might have to do so.  In another sense, this is an abject waste of the bureaucratic talent that it develops, because it invites burnout and never does get back to local issues, even as it distorts local culture in a dreary way.  Ultimately, the bureaucratic waste of this technology is, indeed, from sheer bureaucracy... but the usual implications of that are kind of broken off.
 	13.  Utopic rating:  Unrateable.  This protects talent like a utopic technology, but it is not a utopic technology.
 	14.  Public protection rating:  3/5
-	15.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
+	15.  Technological smoothness:  1/5  (It's a switch.)
+	16.  Technological extremophilia:  ???
+	17.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
 14.  Beyonder Engine
-	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless, and there isn't even reason to suspect that they fall apart when the territory does.  Once society stops drawing on the ZPE arrays, they still remain out there in the deep black, patiently accumulating energy.
+	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
 	2.  Mechanism proposal:  At a lower tech level, any kind of unsustainable stored energy reserve might be represented by this technology.  The purists of the Old Empire are (or believe they are, or can convince others that they are) patient enough to use these dwindling reservoirs sustainably.
-	3.  Mechanism proposal:  As long as energy efficiency rises faster than depletion, your effective energy reserves actually grow.  Thus, even though you are using up a resource, as long as your use increases in efficiency you can show in your reports that your time-to-reserve-depletion is increasing over time.
+	3.  Mechanism proposal:  As long as energy efficiency rises faster than depletion, your effective energy reserves actually grow.  Thus, even though you are using up a resource, as long as your use increases in efficiency you can show in your reports that your time-to-reserve-depletion is increasing over time.  This is a contradiction; it's also a literal truth.
 	4.  Narrative indicator:  The amount of time that passes every time you hit end turn is never really clarified in-game.  As utilization of Beyonder Engines increases, those clicks represent larger amounts of time.
-	5.  Mechanism proposal:  This society invests in resource efficiency, considering such efficiency an essential part of its wealth.  It tabulates its reserves and potentials, then tries not to use them.  It could be much wealthier by operating unsustainably, but it tries to put that potential away in favor of being slightly wealthier in a "sustainable" way.  This discipline eventually fails or proves inadequate.
+	5.  Mechanism proposal:  This society invests in resource efficiency, considering such efficiency an essential part of its wealth.  It tabulates its reserves and potentials, then tries not to use them.  It could be much wealthier by operating unsustainably, but it tries to put that potential away in favor of being *slightly* wealthier in a "sustainable" way.  This discipline eventually fails or proves inadequate, but the Empire knows this will happen; the Empire is perpetually collapsing, and the Old Empire holds the burning world in its hands.
 	6.  Downside analysis:  How do you slow society this much, this reliably?  Industrialists often want to make things happen NOW, and pride themselves on having massive throughput.  How do you rearrange things enough to make effective use of an infinite input that is very, very slow?  Making this work requires that some of your industry should be managed by people who are content operating in near-stasis, with *unvarying* output.  More total work gets done, but the individual tasks take longer.
 	7.  Mechanism proposal:  Although this is an industrial technology, ecological protection gets more fully funded under this rule, as it benefits from investments in sustainability and efficiency.
-	8.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are being "wasted" just "sitting there" because the bureacrats and industrialists are "doing nothing"!
-	9.  Utopic rating:  4/5
-	10.  Public protection rating:  2/5
-	11.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
+	8.  Narrative indicator:  That reliance on specifically structuring high leadership reduces the public protection rating of this technology.  It's not that a very patient society is bad for anyone in particular.  Patience backed by real advantage is quite healthy.  It's just that the system leadership must implicitly get a little more restrictive about who is considered important enough to influence the local economy... so the public is a bit disempowered if they aren't in or near the protection pole.
+	9.  Narrative indicator:  This technology changes around the definitions of 'the public' somewhat, as it exalts a few people who wouldn't be VIPs in most systems.
+	10.  Narrative indicator:  There isn't really reason to suspect that ZPE arrays intended to be used rarely and slowly would fall apart when the territory does.  Once society stops drawing on the ZPE arrays, they'll still remain out there in the deep black, patiently accumulating energy for a future administration to tap into.
+	11.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are being "wasted" just "sitting there" because the bureacrats and industrialists are "doing nothing"!
+	12.  Utopic rating:  4/5
+	13.  Public protection rating:  2/5, +1 in planned economies
+	14.  Technological smoothness:  5/5
+	15.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
+	16.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
 15.  Panarchic Courts
 	1.  Mechanism proposal:  One of the services that the Panarchy provides is to flush planets with panarchic arbitrators.  The galactic arbitration service ostensibly exists to maximize access to judicial resources and fast-track society towards a fully consensual basis of law.  They dive into the disputes and legal ambiguities of the planet's society to find ways to bring people towards agreement.
 	2.  Downside analysis:  The most charismatic lawyers in the galaxy are very charismatic indeed, and can blind the unwary.  Panarchic courts sometimes bind people to 'voluntary' agreements that they would rather not have gotten involved with.
@@ -281,13 +318,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Bureaucratic waste analysis:  These courts accelerate the development of bureaucracies and pressure them to work more quickly towards the fulfilment of their ever-expanding obligations.  The ritualists defend this as an investment in the bureaucracies of tomorrow, but it makes the bureaucracies of today a good bit more miserable without making them much better at what they do.  The best work of the panarchic arbitrators has a place in paradise, but when systems start overloading, the panarchic courts develop a tendency to promote errors and intensify them.
 	10.  Utopic rating:  3/5
 	11.  Public protection rating:  4/5
-	12.  Kind of person most protected:  Charismatic lawyers.
+	12.  Technological smoothness:  3/5
+	13.  Technological extremophilia:  Territory average
+	14.  Kind of person most protected:  Charismatic lawyers.
 16.  Three Shift Society
 	1.  Mechanism proposal:  Facially, this is one of the wonders of literalism in the game.  Increasing utilization of infrastructure during off-peak hours, and generally shifting peak demand to off-peak demand, *is* a way to increase efficiency and population density.  So what goes wrong?  Why is it so expensive?
 	2.  Downside analysis:  Most people can't do this.  More of the public is stressed-out and insomniac as a result of spreading these schedules widely.  Resentment against the bureaucracy increases as a source of suffering is generated with an obvious cause.
 	3.  Narrative indicator:  The three shift society inherently invests in the development (and population growth) of neurodivergent populations.  Diversity increases most directly as a result of favoring the otherwise disfavored minority of people who can keep these schedules comfortably, but it also increases indirectly as a result of cultural divergence according to the different schedule blocks.
 	4.  Mechanism proposal:  More people are capable of working productively with each other without conflict, even if they don't realize this is going on, because more of their vital coworkers are working on different schedules.  Not only does the density of population increase, but also the frequency with which people of divergent personalities are capable of productive interface.
-	5.  Narrative indicator:  Global coordination improves as services centralized in different parts of the planet no longer ever "go dark" for the night.  Despite an increased risk that you'll be dealing with insomniac support staff, average service quality increases in customer support work (most notably tech support), and businesses or other organizations facing unexpected emergencies are more likely to be able to find competent help from their peers.
+	5.  Narrative indicator:  Global coordination improves as services centralized in different parts of the planet cease to "go dark" at night.  Despite an increased risk that you'll be dealing with insomniac support staff, global average service quality increases in customer support work (most notably tech support), and businesses or other organizations facing unexpected emergencies are more likely to be able to find competent help from their peers.
 	6.  Mechanism proposal:  24/7 public activity means 24/7 staffing of emergency services.  Emergency services ordinarily run with insomniacs at night; now they can run with excellent staff at night.  Fewer people die in disasters as a result, be those disasters personal or large.
 	7.  Mechanism proposal:  The homicide rate drops.  Firstly, this is because emergency services are better able to respond at night, but secondly for a more macabre reason.  Fewer people die "in broad daylight" than in times and places where there'll be no witnesses.  More of the hours of the day are "broad daylight" in this society, and swathes of the night no longer have people out of sight.
 	8.  Downside analysis:  Night-time traffic disrupts sleep more.  Processes which were set to run "at night, when they won't get in the way" also have to schedule actual disruptions in order to operate.  For better and for worse, one of the ways that people can be out of each others' way is disrupted.
@@ -295,7 +334,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Bureaucratic waste analysis:  This is an extremely bureaucratic intervention, AND it promotes the hatred of bureaucracy.  Even though it does work by protecting the public and increasing public sector competency, people aren't likely to be grateful.
 	11.  Utopic rating:  3/5; +1 in planned economies, -1 in free markets, -2 in feudal economies
 	12.  Public protection rating:  4/5
-	13.  Kind of person most protected:  Night owls.
+	13.  Technological smoothness:  2/5
+	14.  Technological extremophilia:  ???
+	15.  Kind of person most protected:  Night owls.
 17.  Artificial Wombs
 	1.  Authorial protest:  The description describes this as cloning en masse.  I don't believe it.  Ontogenic control is too dear to my heart, and I know very well that it wouldn't work as cloning en masse.  This is a technology that I would seriously consider revising if I were able to mod The Viceroy, since I don't think +1% population growth is at all the right thing for it to do.  That said, I do think it would increase populations...  Increasing the crowding limit would be a better effect for this to have.
 	2.  Mechanism proposal:  The power to synthesize tissues is very substantially a medical technology.  It would make the promise of immortality considerably more real by providing substrates for experimentation and synthesis of medically necessary tissues.
@@ -309,7 +350,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Bureaucratic waste analysis:  ...complicated.  The purity of this technology's bureaucratism is the average purity of the government implementing it.  Maybe a bit better than that, because the system itself provides genetic archives that will be functionally protective of talent, and because the system's own literally employed talents should be insulated from the hatred of bureaucracy.  Even if someone seizes a cloning lab, they're only likely to hurt the scientists operating it if they have a pure hatred of cloning labs as such, and every technology intrinsically implies the protection of itself against such direct oppositions.
 	12.  Utopic rating:  This technology's utopic rating is the same as the average utopic rating of the territory plus one, maximum 5/5.
 	13.  Public protection rating:  This technology's public protection rating is the same as the average public protection rating of the territory.
-	14.  Kind of person most protected:  Biologists
+	14.  Technological smoothness:  2/5  (No low tech analogue.)
+	15.  Technological extremophilia:  5/5
+	16.  Kind of person most protected:  Biologists
 18.  Holistic Industrialization
 	1.  Mechanism proposal:  The most simple, literal technology in the tech tree.  Hire people who study district specialties and connect the district's industry to the needs of the broader economy.
 	2.  Mechanism proposal:  Deeply boring managers with gentle voices...
@@ -319,7 +362,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Bureaucratic waste analysis:  Literal.  Very literal.  It's just a bureaucratic technology.  Even union work stoppages are a form of literal bureaucratic waste.
 	7.  Utopic rating:  This is the original 5/5 utopic tech.  It might still be a mistake, but it's never worse than wasteful.  Trying to do this is virtuous!
 	8.  Public protection rating:  5/5
-	9.  Kind of person most protected:  Serene industrialists... which in *this* setting means *Imperials*!  Even though this is a Commonwealth tech very far away from Imperial thought, this *always* best protects Imperials!
+	9.  Technological smoothness:  5/5
+	10.  Technological extremophilia:  3/5
+	11.  Kind of person most protected:  Serene industrialists... which in *this* setting means *Imperials*!  Even though this is a Commonwealth tech very far away from Imperial thought, this *always* best protects Imperials!
 19.  Palace of the Arts
 	1.  Mechanism proposal:  When the description talks about the palaces as though they were a single structure each, it's obviously talking about a general pattern of a kind of structures.  In this case, mega-museums oriented towards commercialization of local culture.
 	2.  Downside analysis:  These structures try to unify, codify, and centralize the artistic traditions of the district.  It's similar to the intention of holistic industrialization, but applying this attitude to culture is considerably less virtuous than applying this attitude to industry.  Artisans working with industrial goods know they're working with commodities and they're proud of the commodities they work with.  Artisans working with cultural goods are much less likely to be happy about getting their work commodified.
@@ -330,7 +375,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Bureaucratic waste analysis:  Depressingly non-literal.  Running commercial culture complexes is not a bureaucratically expensive endeavor.  It's largely self-funding.  Yet I agree that this 'technology' would promote 'bureaucratic waste', because I think it would promote public intransigence.  Peaceful resistance, civil unrest, depression in the public... even boredom and revulsion, because codified commercial culture takes few risks and is more likely to adopt an ugly attitude for controversy than an incisive one.
 	8.  Utopic rating:  2/5
 	9.  Public protection rating:  5/5
-	10.  Kind of person most protected:  Advertisers.
+	10.  Technological smoothness:  4/5
+	11.  Technological extremophilia:  1/5
+	12.  Kind of person most protected:  Advertisers.
 20.  Panarchic War Memorials
 	1.  Mechanism proposal:  Panarchic war memorials train pacifists and warmongers to be indistinguishable from each other.  They're an educational investment in making deeply peaceful people indistinguishable as much as possible from deeply violent people.
 	2.  Downside analysis:  Who would *do* that?  This is likely to see people fixate on "If we can't tell peaceful people from murderers, won't the murder rate rise?"  After all, 'everyone knows' that a great mass of infiltrating potential soldiers is a lethal hazard!  There could be violent people hiding ANYWHERE!
@@ -343,7 +390,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Bureaucratic waste analysis:  I can't really evaluate this.  I've written all that I've just written... and I don't know what the actual mechanism is.  I believe I know what this technology *attempts* to accomplish, but I don't know how that thing can be achieved.  It's not that it's beyond my ideological range, either...  I just... don't know how it can be done.
 	11.  Utopic Rating:  ???
 	12.  Public Protection Rating:  ???
-	13.  Kind of person most protected:  Fake militarists
+	13.  Technological smoothness:  4/5
+	14.  Technological extremophilia:  ???
+	15.  Kind of person most protected:  Fake militarists
 21.  Eternal Bank Tower
 	1.  Mechanism Proposal:  If someone wants to spend their whole life wonking out about banking regulations, that makes no sense from a conventional time-bound perspective; they end up spending absurd amounts of time contemplating wholly theoretical considerations with little or no real-world applicability.  Yet they often *can* improve on the quality of banking regulations... *semi*-permanently.  Every new regulatory scheme in banking is eventually exploited beyond all reason or usefulness, but with sufficient administrative talent backing it that can take a long time.
 	2.  Mechanism proposal:  The Old Empire is probably lying about having access to atemporal intelligences... but they're not lying about having access to people who love totally abstract financial matters that are *beyond* most people.
@@ -352,7 +401,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	5.  Bureaucratic waste analysis:  Fairly literal.  Staying ahead of regulatory exploitation is an administrative challenge.  However, it loses points for being a *hostile* regulatory challenge, as there will be more people actively trying to defang or derange the regulatory authority, and the system is thus more likely to fall into a dystopic state.
 	6.  Utopic Rating:  3/5, +1 in Planned Economies, -1 in Feudal Economies
 	7.  Public Protection Rating:  1/5, +1 in Regulated or Planned Economies
-	8.  Kind of person most protected:  Greedy mathematicians.
+	8.  Technological smoothness:  2/5
+	9.  Technological extremophilia:  1/5
+	10.  Kind of person most protected:  Greedy mathematicians.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
@@ -370,6 +421,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-5-21; Likely to be towards the end of the list before I get Vacuum-Based Life reviewed, or else it'll see a lot of updates.  That is a very heavy investment in morphological alteration.  Definitely one of the uplift techs.  Strange implications though, as I think some of the biological productivity boost from Vacuum-Based Life is due to the way that having that much biological control permits redesigning metabolisms.  I think it may be possible to supply both oxygen and nutrients via fluid injection, for instance, and such may be the 'fuel' of a vacuum-based life form.
 
 2021-5-22; I know why Prenatal Education upsets me so much.  It's the sheer presumption.  If I reach for the brightest potential and assume that the technology is being implemented by saints, it's still being implemented by people who assume that **their own** sex life proves that **their children** are willing to live under similar conditions.  It's still being implemented by people who are assuming that they know the mind of the unborn, precognitively.  If they're right, that makes them more effective, but that's an 'if'!  If they're wrong, then they're miring the unborn in circumstances beyond their control.  And I'm really extra bothered by seeing this show up near nationalism and natalism, because it's like...  The natalist presumption that the unborn are always going to be interested in sex is horrifying.  Not only has humanity has always had a substantial rate of people who don't want sex and shouldn't be forced into it, even people who *are* interested in sex should never have that presumed of them.  It's rape culture.  This tech is frankly less terrifying if it gets implemented after panarchic cognitechnologies, because then there are nanotech interfaces involved to take away the precognitive aspect.
+
+2021-5-24; Some of these technologies give me an impression of offering a smooth gradient across different "tech levels".  Holistic industrialization (for instance) never really goes obsolete and doesn't really have prerequisites.  Instead of requiring specific tools or methods in society, it requires the existence of a particular kind of mind, and it's fairly straightforward to imagine that mind adapting in the use of a wide range of technologies.  The Imperial technology of Distributed Intelligence offers an even more extreme form of the same thing, because a society that believes strongly "of course everyone is thinking, they're all capable of being smart" (even if sometimes they're not) *would* have scientific advantages at low tech levels, and the same inclination would then lead (at higher tech levels) towards serious investments in extending technological assistance across the whole population.  So it's the same population and the same motive force, but it leads to a radical progression when you consider it across increasingly advanced technology levels.  I could possibly come up with some kind of ratings for...  technological smoothness and extremophilia?  To contrast, Eternal Bank Towers sort of presume your society builds towards a certain level of economic sophistication, but they don't imply a continuous progression and they don't suggest any particular pattern of extremeophilic development, so they'd have a low rating on both smoothness and extremophilia.
+
+2021-5-25;  I'm not looking forward to eventually doing a write-up on Jaunting Grids.  How do I interpret that..?  I have some ideas for what it means at extreme tech levels, but I feel like I should come up with at least one low-tech analogue explanation for it.  Preferably two.  Thinking about what someone could be referring to non-literally with that technology's description makes my head hurt.
 
 ---
 The Much-Reviled Lower Classes
