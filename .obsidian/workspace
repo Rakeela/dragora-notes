@@ -10,7 +10,7 @@
           {
             "id": "45377aaac77d3352",
             "type": "split",
-            "dimension": 42.02429149797571,
+            "dimension": 59.179019384264535,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-5-24-One-Hundred-and-Sixth.md",
+                    "file": "2021-5-25-One-Hundred-and-Seventh.md",
                     "mode": "source"
                   }
                 }
@@ -40,29 +40,24 @@
             "direction": "vertical"
           },
           {
-            "id": "4ffd91da03a67890",
+            "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 57.97570850202429,
+            "dimension": 40.820980615735465,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
-                "dimension": 49.51731970471323,
                 "state": {
                   "type": "graph",
                   "state": {}
                 }
               },
               {
-                "id": "c7e462257a486797",
+                "id": "7f6923b144f16420",
                 "type": "leaf",
-                "dimension": 50.48268029528676,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
-                    "mode": "source"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
@@ -125,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-5-25-One-Hundred-and-Seventh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,17 +137,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c7e462257a486797",
+  "active": "693d405295126465",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "2021-5-24-One-Hundred-and-Sixth.md",
+    "Northern-Creche-Confederation.md",
+    "Untitled.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "medical-news-archive.md",
-    "2021-5-24-One-Hundred-and-Sixth.md",
-    "Untitled.md",
     "2021-5-23-One-Hundred-and-Fifth.md",
     "news-archive.md",
-    "Northern-Creche-Confederation.md",
     "2021-5-21-One-Hundred-and-Fourth.md",
-    "2021-5-17-One-Hundred-and-Third.md",
-    "2021-5-14-One-Hundred-and-Second.md"
+    "2021-5-17-One-Hundred-and-Third.md"
   ]
 }
