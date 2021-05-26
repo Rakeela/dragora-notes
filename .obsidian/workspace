@@ -58,7 +58,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "city-quirks.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-26-One-Hundred-and-Eighth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +140,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d405295126465",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2021-5-25-One-Hundred-and-Seventh.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "city-quirks.md",
+    "2021-5-26-One-Hundred-and-Eighth.md",
+    "Untitled.md",
+    "2021-5-25-One-Hundred-and-Seventh.md",
     "Untitled 1.md",
     "2021-5-24-One-Hundred-and-Sixth.md",
     "Northern-Creche-Confederation.md",
     "medical-news-archive.md",
-    "2021-5-23-One-Hundred-and-Fifth.md",
-    "news-archive.md"
+    "2021-5-23-One-Hundred-and-Fifth.md"
   ]
 }
