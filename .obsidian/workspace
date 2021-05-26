@@ -8,14 +8,13 @@
         "type": "split",
         "children": [
           {
-            "id": "45377aaac77d3352",
+            "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 54.170040485829965,
+            "dimension": 57.81376518218624,
             "children": [
               {
                 "id": "93ca72a09fd26144",
                 "type": "leaf",
-                "dimension": 50.36910846110165,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -25,9 +24,8 @@
                 }
               },
               {
-                "id": "693d405295126465",
+                "id": "66c4ef1bf798ecc9",
                 "type": "leaf",
-                "dimension": 49.63089153889835,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -42,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 45.829959514170035,
+            "dimension": 42.18623481781377,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-26-One-Hundred-and-Eighth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
+    "Northern-Creche-Confederation.md",
     "2021-5-26-One-Hundred-and-Eighth.md",
     "Monster-Girl-Encyclopedia.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "the-ethical-slut.md",
     "city-quirks.md",
     "Untitled.md",
     "2021-5-25-One-Hundred-and-Seventh.md",
     "Untitled 1.md",
-    "2021-5-24-One-Hundred-and-Sixth.md",
-    "Northern-Creche-Confederation.md"
+    "2021-5-24-One-Hundred-and-Sixth.md"
   ]
 }
