@@ -18,4 +18,7 @@ I wanted the Panarchy upbringing.  I preferred my father's conversations, *and* 
 God, why was my childhood self not allowed to exist in this world?  If I fail at bringing immortality to this world and have to suffer reincarnation, I hope I get born to parents who will talk a lot and teach me their worldview.
 
 ---
+Maybe the Panarchy's bird symbol is right.  Maybe I'm a bird.  I like the always-talking world.  Socializing isn't expressions, it's talking.
+
+---
 Back to [[day-post-archive]]
