@@ -17,6 +17,8 @@ https://phys.org/news/2019-10-mitochondria-tesla-battery.html - Mitochondria wor
 
 https://www.usatoday.com/in-depth/news/investigations/2021/05/21/infrastructure-neglect-water-towers-add-millions-illnesses/6769259002/ - Dead snakes and mice, toxic sludge: How pathogens go unnoticed in America's water towers - Retrieved 2021-5-23.  Commentary:  [[2021-5-23-One-Hundred-and-Fifth]]
 
+https://www.livescience.com/diabetes-vaccine-shows-promise-early-trial-subset-patients.html - Diabetes vaccine shows promise for some patients in early trial - Retrieved 2021-5-27.  Commentary:  Tolerogenic dendritic cells should do even better.
+
 ---
 Back to [[News-Archive]]
 
