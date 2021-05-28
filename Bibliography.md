@@ -42,6 +42,7 @@ Sections;
    10) [[Glory-Lane-by-Piers-Anthony]] (genericity)
    11) [[Mr.-Popper's-Penguins]]
    12) [[Monster-Girl-Encyclopedia]]
+   13) [[Battlefield-Earth]]
 
 3) Pairs (Fiction) (These are one book and a sequel!  Always listed together) (I think I haven't actually read a lot of paired books.)
    1) [[Waiting-for-the-Galactic-Bus]] (1)

@@ -9,7 +9,7 @@ I really disliked my mother constantly trying to take me places, but not as much
 
 Mom thought I was treating her as "fun Mom" obligated to entertain me...  but I thought of it as being obligated to entertain *her*, and tag along after her whether I wanted to or not.
 
-If I'd spent all summer every summer reading books, the "what did you do over the summer" essays would've just been extemporaneous book reports.  I would've been happy about that.  I was really happy about the summer where I read [[Battlefield Earth]]...  I need to add that to my [[Bibliography]], as I profoundly did read it.
+If I'd spent all summer every summer reading books, the "what did you do over the summer" essays would've just been extemporaneous book reports.  I would've been happy about that.  I was really happy about the summer where I read [[Battlefield-Earth]]...  I need to add that to my [[Bibliography]], as I profoundly did read it.
 
 Thinking about this in terms of The Viceroy, I think it leans me against "Leisure Subsidies" as a technology.  No, don't subsidize leisure, or at least not in the same tech block as natalism!  That stuff is for adults who need novelty to keep their brains sharp.  If everything is already new...  everything is already new.  A lot of adults seem to stagnate awfully and could use being reminded that life can be good.
 
