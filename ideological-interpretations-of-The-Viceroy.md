@@ -417,6 +417,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Public protection rating:  2/5  (This'd be 1/5 for public threat, but it does forgive some people who would otherwise be driven out of society.)
 	11.  Technological smoothness:  3/5
 	12.  Technological extremophilia:  3/5
+	13.  Kind of person most protected:  ???
 23.  Adaptive Antipsychotics
 	1.  Mechanism proposal:  Like with fertility drugs, this proposes drugging the water supply for the public's own good.  Unlike with fertility drugs, it doesn't propose drugging the water supply for any purpose other than the public's *subjective* good.  If done very excellently, this is... only barely an intrusion on the public's liberties.
 	2.  Mechanism proposal:  This is likely to be pursued simultaneously to massive investments in public healthcare.  It doesn't make sense to cure mental illness entirely through the water that people drink.  It might make sense to research drugs that improve mental performance and then mass-administrate them.
@@ -440,6 +441,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Public protection rating:  4/5
 	21.  Technological smoothness:  3/5
 	22.  Technological extremophilia:  2/5
+	23.  Kind of person most protected:  Mentally ill people.
+24.  Orbital Hospitals
+	1.  Mechanism proposal:  Take it literally.  It's both most horrifying and most attractive when it's literal.
+	2.  Mechanism proposal:  I don't even disagree with the idea that radical investments in lowering the death rate would increase population growth.  Galactic society always tries to lower the death rate.  When you invent this, galactic society tries VERY HARD to lower the death rate.
+	3.  Narrative indicator:  This technology redeems some of the vilest people in existence.  As society becomes more competent to make virtuous use of people who aren't otherwise virtuous at all, average virtue drops, but becomes more equally distributed.  How committed to redemption are you, really?
+	4.  Mechanism proposal:  Since society is more likely to be able to survive risk-taking, risk-taking people survive more as well.  Moral hazard creeps up.  This contributes to the policy's bureaucratic waste... but I'm not willing to demerit the utopianism of this policy for it, because *it still works solely by lowering the death rate*.
+	5.  Narrative indicator:  Implementing this creates a weird specific inequality between people who live in deep habitations and people who live everywhere else, because the people who live in deep habitations can't benefit much.  On the other hand, whatever genetic implications this may or may not have, they won't apply to people who live in deep habitations.  Deep habitations accordingly insulate planets from the negative side effects of this policy.
+	6.  Mechanism proposal:  Orbital habitats become more hospitable and well-supplied with healthcare services as a result of this.  The orbital hospital staff who stay in orbit are wholly likely to be compassionate people, too.
+	7.  Mechanism proposal:  Rural medical care improves as the difference between fast response times in urban areas and fast response times in rural areas vanishes.  Rural population densities rise accordingly.  If crowding is low (<5x crowding multiplier), populations are likely to spread out more on average; otherwise this accelerates total urbanization.
+	8.  Authorial protest:  I understand that I'm supposed to hate this as dysgenic overall, which is imbecilic.  This is eugenic and talent-preserving policy.  Why am I supposed to lie about something that preserves talent and develops society's medical skills?  Despite its promotion of moral hazard and preservation of a sociopathic 'virtuous' population, this level of investment in medicine is likely to suppress sociopathy everywhere else.  Rejuvenation therapy itself is powerfully suppressive of sociopathy as eliminating aging must necessarily include the restoration of hippocampal erosion.  A society with heavy investment in medicine ensures that people will get rejuvenation therapies on schedule and (with the biology focus of the orbital surveyors tech tree) also gene therapies that further reduce their risk factors.  No, that won't totally suppress risk-taking behaviors; people who aren't sociopaths will still respond to risk-safe environments by doing wild, exciting things.
+	9.  Mechanism proposal:  Some of the people who do the wild, exciting things that this technology makes more survivable will be more reproductively attractive as a result.
+	10.  Narrative indicator:  Ever wanted to drop from orbit with a scalpel in your hand, eager and ready to cut someone up?  If you can get through enough training and you're willing to cut people for their own good, congratulations; galactic society will no longer want to cure you of sociopathy.
+	11.  Moral question:  This tech is kind of horrifying in one final sense: it represents a potential triumph of a grim and risky utilitarianism.  The promise it makes is *true*.  The price it charges is *obvious*.  Will you accept a blatantly labeled population of obviously evil people, if you can be very confident that *on average* they are saving lives and making society safer?
+	12.  Narrative indicator:  Invent artificial wombs or genetic specialization first within the same tech tree, and your society can start optimizing away from sociopathy.  If you refine reaction times enough in an empathetic population, you don't *need* the people who this technology otherwise preserves, and you can *ignore* its protection pole.  Outside of this tech tree, consider enlightened policing or AI overseers as damage mitigations.
+	13.  Bureaucratic waste analysis:  ...it's not purely literal, but there is *probably* no particular kind of talent that is lost.  You get more talent on average.  This develops galactic society's ability to protect people.
+	14.  Utopic rating:  5/5
+	15.  Public protection rating:  5/5
+	16.  Technological smoothness:  2/5
+	17.  Technological extremophilia:  5/5
+	18.  Kind of person most protected:  Sociopaths
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
