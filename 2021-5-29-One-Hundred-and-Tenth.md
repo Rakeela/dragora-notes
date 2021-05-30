@@ -60,4 +60,7 @@ After all, in Yggdrasil, it does not matter what people simulate, as long as the
 For that "lie", I was marked for limitless punishment.  Liberalism was not more powerful than that.  I lost to the people who have the power of God, and God wants to abuse children.  End of story.
 
 ---
+Well...  Not quite end of story.  I think the morphogenic field is worth investigating.
+
+---
 Back to [[day-post-archive]]
