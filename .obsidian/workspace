@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 53.036437246963565,
+            "dimension": 40.89068825910931,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 46.963562753036435,
+            "dimension": 59.10931174089069,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-5-27-One-Hundred-and-Ninth.md",
+                    "file": "2021-5-29-One-Hundred-and-Tenth.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-5-29-One-Hundred-and-Tenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "2021-5-29-One-Hundred-and-Tenth.md",
+    "Untitled.md",
     "2021-5-27-One-Hundred-and-Ninth.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "Battlefield-Earth.md",
     "2021-4-29-Ninety-Third.md",
     "Bibliography.md",
     "2021-5-23-One-Hundred-and-Fifth.md",
     "medical-news-archive.md",
-    "Untitled.md",
-    "2021-5-26-One-Hundred-and-Eighth.md",
-    "Northern-Creche-Confederation.md"
+    "2021-5-26-One-Hundred-and-Eighth.md"
   ]
 }
