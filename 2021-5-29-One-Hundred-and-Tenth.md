@@ -50,7 +50,14 @@ All throughout history, you also see their children crying, and their societies 
 
 I don't think it's coincidental that massive bigotry rose up when people turned too hard towards Commonwealth ideology IRL.  I think the nationalist/natalist complex is an authentic danger of human psychology.  I think if we work too hard to empower 'the virtuous people', we will create over-authoritarian states again and again.  It's better to advance by libertarianism and voluntary order as much as possible.
 
+---
 Parents who say the sky is falling when the wrong government is in power traumatize their kids, while panarchists know how to say that *every* ideology is right about *something*.  To a panarchist, everyone is valuable.  Children deserve that.
+
+Yet I understand that I lost.  The culminating sin of the people who sexually exploited me was to press me towards pedophilic stories featuring dragons.  That was the expression of what my entire life had been for since adolescence: sexually entertaining people of the same sort as the father of Lisa Montgomery.  This crushed me with depression, for in childhood I had been a liberal transhumanist longing to found a company which would advance biotechnology.  I tried my best to entertain the people who had always presented themselves as my friends.
+
+After all, in Yggdrasil, it does not matter what people simulate, as long as they do not simulate sapient minds at their mercy.  I could harm minimize for pedophiles so they would not prey on real children.  I wanted to be able to do it, but I ultimately could not.  Attempting to do that destroyed me with depression, and I wanted out.  I wanted to be instead the anti-authoritarian that my childhood self wanted to be, which is also the kind of anti-authoritarian that I was in prior lifetimes.  I wanted to be the asexual child, for I had learned in adulthood what I did not know in childhood: that asexuality is real.
+
+For that "lie", I was marked for limitless punishment.  Liberalism was not more powerful than that.  I lost to the people who have the power of God, and God wants to abuse children.  End of story.
 
 ---
 Back to [[day-post-archive]]
