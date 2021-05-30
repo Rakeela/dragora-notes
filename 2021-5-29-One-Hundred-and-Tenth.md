@@ -50,5 +50,7 @@ All throughout history, you also see their children crying, and their societies 
 
 I don't think it's coincidental that massive bigotry rose up when people turned too hard towards Commonwealth ideology IRL.  I think the nationalist/natalist complex is an authentic danger of human psychology.  I think if we work too hard to empower 'the virtuous people', we will create over-authoritarian states again and again.  It's better to advance by libertarianism and voluntary order as much as possible.
 
+Parents who say the sky is falling when the wrong government is in power traumatize their kids, while panarchists know how to say that *every* ideology is right about *something*.  To a panarchist, everyone is valuable.  Children deserve that.
+
 ---
 Back to [[day-post-archive]]
