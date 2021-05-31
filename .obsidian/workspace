@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-5-30-One-Hundred-and-Eleventh.md",
+                    "file": "environmental-news-archive.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-5-30-One-Hundred-and-Eleventh.md",
+                "file": "environmental-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "7f6923b144f16420",
   "lastOpenFiles": [
+    "environmental-news-archive.md",
+    "news-archive.md",
+    "2021-5-30-One-Hundred-and-Eleventh.md",
     "Untitled.md",
     "2021-5-29-One-Hundred-and-Tenth.md",
     "2021-5-27-One-Hundred-and-Ninth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Battlefield-Earth.md",
     "2021-4-29-Ninety-Third.md",
-    "Bibliography.md",
-    "2021-5-23-One-Hundred-and-Fifth.md",
-    "medical-news-archive.md",
-    "2021-5-26-One-Hundred-and-Eighth.md"
+    "Bibliography.md"
   ]
 }
