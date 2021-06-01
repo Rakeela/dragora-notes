@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 69.29065743944636,
+            "dimension": 54.75778546712803,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "2021-6-1-One-Hundred-and-Twelth.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 30.709342560553633,
+            "dimension": 45.24221453287197,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-6-1-One-Hundred-and-Twelth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,12 +140,12 @@
   },
   "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2021-5-30-One-Hundred-and-Eleventh.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "environmental-news-archive.md",
     "news-archive.md",
     "Economic-News-Archive.md",
-    "2021-5-30-One-Hundred-and-Eleventh.md",
-    "Untitled.md",
     "2021-5-29-One-Hundred-and-Tenth.md",
     "2021-5-27-One-Hundred-and-Ninth.md",
     "Battlefield-Earth.md",
