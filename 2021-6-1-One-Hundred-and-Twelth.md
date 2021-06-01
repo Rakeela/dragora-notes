@@ -10,5 +10,7 @@ I think that's missing from a lot of sexuality.  I think the desire for anonymou
 
 If I can have my privacy back someday, maybe I should add Swaivshon porn to the list of things I could make.  Fluffy dragon porn.  I imagine their society as cuddly and high-trust.  It could dip into bondage, too.  I appreciate it for this, even if it's not quite my thing.  String together something in Twine that has a character joining a Swaivshon community.
 
+Evades the reproductive politics, too.  Swaivshon are a Theoma species.  People on Theoma have century romances more often than they have kids.  That's how people ought to be.
+
 ---
 Back to [[day-post-archive]]
