@@ -13,4 +13,7 @@ If I can have my privacy back someday, maybe I should add Swaivshon porn to the 
 Evades the reproductive politics, too.  Swaivshon are a Theoma species.  People on Theoma have century romances more often than they have kids.  That's how people ought to be.
 
 ---
+I don't want to do the forever tractor-pull on people looking for reasons to hate me.  I don't want to have to be perfect for fascist overseers who'll never admit to seeing anything I do.  I feel like I'm obligated to be the most charismatic person ever born for no obvious reason, and I'm (obviously) not the most charismatic person ever born, so it's just misery.
+
+---
 Back to [[day-post-archive]]
