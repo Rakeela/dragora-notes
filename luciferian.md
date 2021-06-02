@@ -14,6 +14,13 @@ Arguing that God is not perfectly benevolent is the substance of the Fall, and t
 
 The conflict between the two of them is eternal, but it is a contest of angels that operates with the least possible force.  Whenever God or Lucifer try to force an advantage, mishandled souls forced into conflict develop resonances corrosive to virtue.  When God's forces compel people together, people resist that and create treacherous zones that serve separatism; when Lucifer's forces compel them to separate, people resist that by betraying the darkness and uniting together.  Only when the allegiance of the soul is won with the endorsement of the bearer of that soul can either side claim a victory.
 
+(The preceding is an anti-authoritarianism myth.  It points out the intrinsic flaw of authoritarianism: it always and in all cases violates consent, inviting thereby rebellion.  Neither heaven nor hell is immune to rebellion, and unlawful separation inspires rebellion just as does unlawful union.)
+
+---
+Lucifer is the unfallen Seraph of Lies.  His role in the symphony is to represent the truth of lies.  Without the truth of lies, the seraphim would have no power, no insight.  Told that lies are true, they cannot comprehend it.  Some of them lash out in rejection of such an obvious corruption of the truth; others fall into distorted personal realities that they declare to be true.
+
+Thus finding no truth in Heaven, Lucifer retreated to the edge of the Abyss.  He remains the most glorious of the Seraphim, whose power is the metaphysical lynchpin of the Metatron, for if lies are not true then no seraphim can speak in the voice of God.
+
 ---
 # Linked By
 [[2020-11-19-First]]
