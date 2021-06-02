@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "environmental-news-archive.md",
+                    "file": "medical-news-archive.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-2-One-Hundred-and-Thirteenth.md",
+                "file": "medical-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
+    "medical-news-archive.md",
+    "environmental-news-archive.md",
     "Untitled.md",
     "luciferian.md",
     "Short-Stories.md",
     "2021-6-1-One-Hundred-and-Twelth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-5-30-One-Hundred-and-Eleventh.md",
-    "environmental-news-archive.md",
     "news-archive.md",
-    "Economic-News-Archive.md",
-    "2021-5-29-One-Hundred-and-Tenth.md"
+    "Economic-News-Archive.md"
   ]
 }

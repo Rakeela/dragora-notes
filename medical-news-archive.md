@@ -19,6 +19,8 @@ https://www.usatoday.com/in-depth/news/investigations/2021/05/21/infrastructure-
 
 https://www.livescience.com/diabetes-vaccine-shows-promise-early-trial-subset-patients.html - Diabetes vaccine shows promise for some patients in early trial - Retrieved 2021-5-27.  Commentary:  Tolerogenic dendritic cells should do even better.
 
+https://apnews.com/article/gene-therapy-business-science-health-b2b670011d52968c9f21d30ca2ca7fae - Newer methods may boost gene therapy's use for more diseases - Retrieved 2021-6-2.  Commentary:  Nothing ground-breaking here, but I'm glad to see media discussion of gene vectors.  I think gene therapy is someday going to be seen as a form of basic medical service in a more protean society.
+
 ---
 Back to [[News-Archive]]
 
