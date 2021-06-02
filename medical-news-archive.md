@@ -21,6 +21,8 @@ https://www.livescience.com/diabetes-vaccine-shows-promise-early-trial-subset-pa
 
 https://apnews.com/article/gene-therapy-business-science-health-b2b670011d52968c9f21d30ca2ca7fae - Newer methods may boost gene therapy's use for more diseases - Retrieved 2021-6-2.  Commentary:  Nothing ground-breaking here, but I'm glad to see media discussion of gene vectors.  I think gene therapy is someday going to be seen as a form of basic medical service in a more protean society.
 
+https://www.foxnews.com/health/israeli-scientists-extend-mices-lives-aim-humans-next - Israeli scientists extend mice's lives by 23%, aim for humans next - Retrieved 2021-6-2.  Commentary:  I feel obligated to record this.  It's about the use of SIRT-6 to improve aging metabolisms.  Anti-aging isn't just one thing, and all the different things it is have to be advanced.
+
 ---
 Back to [[News-Archive]]
 
