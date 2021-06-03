@@ -28,7 +28,7 @@ Since modern political thinkers successfully installed an honesty taboo, nobody 
 Posting this stuff is fundamentally sexual exhibitionism.  It was my first fetish.  I didn't want to have a sex life that I couldn't talk about or share around.  The thing is, this kind of sharing was *supposed* to be voluntary.  I got stalked by a rape cult who made it involuntary.  They didn't care about my consent.  Involuntary exhibitionism just isn't the same sex act as voluntary exhibitionism.
 
 ---
-People DO use porn games to prove that other people deserve to be hated.  It happened to me personally.  I was supposed to provide cybersexual services to people or else, then I was supposed to program porn games or else, then I was supposed to submit to a reputation for sexual desperation when I... refused to provide sexual services.  I was hated for playing porn games, something I only did because I was trying to obey the 'or else' rules on my life.
+People DO use porn games to prove that other people deserve to be hated.  It happened to me personally.  I was supposed to provide cybersexual services to people or else, then I was supposed to program porn games or else, then I was supposed to submit to a reputation for sexual desperation when I... refused to provide sexual services.  I was hated for playing porn games, something I mostly did because I was trying to obey the 'or else' rules on my life.
 
 There's nothing liberal about that.
 
