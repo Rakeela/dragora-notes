@@ -6,5 +6,7 @@ https://www.theguardian.com/us-news/2021/feb/14/toxic-plant-chicago-minority-nei
 
 https://www.theguardian.com/environment/2021/may/25/a-huge-surprise-as-giant-river-otter-feared-extinct-in-argentina-pops-up-aoe - ‘A huge surprise’ as giant river otter feared extinct in Argentina pops up - Retrieved 5-31-2021 - Commentary:  Giant otters are cute.  They're very charismatic.  Even though they're giant carnivores, I've read that most of the animal world has no fear of them, as giant otters are far more likely to play with other animals than eat them.  With their thumbs and playful attitudes, I've sometimes wondered if they would evolve sapience in the absence of humanity.
 
+https://www.npr.org/2021/06/02/1002484499/sri-lanka-faces-environmental-disaster-as-ship-full-of-chemicals-starts-sinking - Sri Lanka Faces An Environmental Disaster As A Ship Full Of Chemicals Starts Sinking - Retrieved 6-2-2021 - Commentary:  25 tons of nitric acid... and a leaking hazardous materials container.  Sometimes I feel like the whole world is falling apart.  So then, should we now switch to nuclear tankers, to reduce global warming emissions?  ...yes.  Painfully enough.  Even though some of those will also someday sink.
+
 ---
 Back to [[news-archive]]

@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 47.318339100346016,
+            "dimension": 47.31833910034602,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 52.681660899653984,
+            "dimension": 52.68166089965398,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "medical-news-archive.md",
+                    "file": "environmental-news-archive.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medical-news-archive.md",
+                "file": "environmental-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +140,8 @@
   },
   "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "medical-news-archive.md",
     "environmental-news-archive.md",
+    "medical-news-archive.md",
     "Untitled.md",
     "luciferian.md",
     "Short-Stories.md",
