@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 47.31833910034602,
+            "dimension": 60.38062283737025,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 52.68166089965398,
+            "dimension": 39.61937716262976,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environmental-news-archive.md",
+                "file": "2021-6-2-One-Hundred-and-Thirteenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,9 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "2021-6-2-One-Hundred-and-Thirteenth.md",
     "environmental-news-archive.md",
     "medical-news-archive.md",
     "Untitled.md",
@@ -148,7 +149,6 @@
     "2021-6-1-One-Hundred-and-Twelth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-5-30-One-Hundred-and-Eleventh.md",
-    "news-archive.md",
-    "Economic-News-Archive.md"
+    "news-archive.md"
   ]
 }
