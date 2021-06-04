@@ -8,5 +8,7 @@ https://www.theguardian.com/environment/2021/may/25/a-huge-surprise-as-giant-riv
 
 https://www.npr.org/2021/06/02/1002484499/sri-lanka-faces-environmental-disaster-as-ship-full-of-chemicals-starts-sinking - Sri Lanka Faces An Environmental Disaster As A Ship Full Of Chemicals Starts Sinking - Retrieved 6-2-2021 - Commentary:  25 tons of nitric acid... and a leaking hazardous materials container.  Sometimes I feel like the whole world is falling apart.  So then, should we now switch to nuclear tankers, to reduce global warming emissions?  ...yes.  Painfully enough.  Even though some of those will also someday sink.
 
+https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/ - Pesticides Are Killing the World's Soils - Retrieved 6-4-2021 - Commentary:  I wonder if some of the most essential subterranean organisms could be engineered to resist key pesticides, thereby enhancing those pesticides' ability to protect the desired crop environment.
+
 ---
 Back to [[news-archive]]
