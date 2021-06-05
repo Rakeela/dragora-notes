@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 32.09342560553633,
+            "dimension": 58.99653979238755,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-3-One-Hundred-and-Fourteenth.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 67.90657439446368,
+            "dimension": 41.003460207612456,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environmental-news-archive.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
-    "environmental-news-archive.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-3-One-Hundred-and-Fourteenth.md",
+    "environmental-news-archive.md",
     "Untitled.md",
     "2021-6-2-One-Hundred-and-Thirteenth.md",
     "medical-news-archive.md",
     "luciferian.md",
     "Short-Stories.md",
     "2021-6-1-One-Hundred-and-Twelth.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-5-30-One-Hundred-and-Eleventh.md"
   ]
 }
