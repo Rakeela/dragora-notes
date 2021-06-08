@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 58.99653979238755,
+            "dimension": 41.43598615916955,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,14 +40,17 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 41.00346020761245,
+            "dimension": 58.564013840830455,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "character-gallery.md",
+                    "mode": "source"
+                  }
                 }
               },
               {
@@ -121,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-8-One-Hundred-and-Seventeenth.md",
+                "file": "character-gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +141,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "e3a05ab15e43024d",
   "lastOpenFiles": [
+    "character-gallery.md",
+    "Warlockisms.md",
+    "privacy.md",
     "2021-6-8-One-Hundred-and-Seventeenth.md",
     "Untitled.md",
     "2021-6-7-One-Hundred-and-Sixteenth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-3-One-Hundred-and-Fourteenth.md",
     "environmental-news-archive.md",
-    "2021-6-2-One-Hundred-and-Thirteenth.md",
-    "medical-news-archive.md",
-    "luciferian.md",
-    "Short-Stories.md"
+    "2021-6-2-One-Hundred-and-Thirteenth.md"
   ]
 }

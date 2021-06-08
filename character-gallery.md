@@ -40,6 +40,15 @@ I may add more later.  I may try to add every character I can recall, eventually
 Yoet was something of a first and last.  In hindsight, she was almost prophetic.  She felt pressured to keep herself in a pleasant state for lovers in a sexualized eternity... and lo, that was where I encountered bonobianism.  So it was like...  that was supposed to be the answer, huh?  Yoet couldn't put to words why that was dissatisfying to her, nor then could I.  I don't think I ever used her in a sexual scene, but I put away her qualms as I'd put away my own a few years earlier in pushing myself to adopt the presumption that sex would have true value.
 
 ---
+Some of the characters I've only written about in private could use a space here, too.
+
+_Private Writing Character Gallery_
+  * **'Warlock':**
+	  * A serene yet distractible fire elemental who resembles a weasel.  Her mind is brilliant, but disordered.  Is it disordered?  She misses nothing.  She burns, but is yet peaceful.  Her life is a waking dream.
+	  * A summon set free.  Give her no orders.  She moves at her whims.  Fast.  Stillness.  Fast again.
+	  * [[Warlockisms]]
+
+---
 I can't use any of the following without transplanting them.  I will not likely use again the settings that they are from.  I have thought about this in the context of Amadea first, but I have realized that every character I add to this gallery has a kind of transplantation requirement profile as well.  I'm going to write that out here.
 
 _Transplant Profile Gallery 1_
