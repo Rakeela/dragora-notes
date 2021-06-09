@@ -8,5 +8,7 @@ My [[character-gallery]] is a little too sacred.  I find it hard to produce mino
 ---
 Dinner tonight:  Onions and mushrooms cooked in butter, mixed with collard greens and soynuts.  A buttery salad.  Keto, I think.  *Checks nutrition on soynuts.*  Yeah, keto.
 
+Which is about to be ruined by ordering ice cream.  Birthdays, alas.  Terrible on every diet.
+
 ---
 Back to [[day-post-archive]]
