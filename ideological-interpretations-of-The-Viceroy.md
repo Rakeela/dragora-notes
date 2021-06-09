@@ -33,7 +33,7 @@ The Six Subcultures
 	 -  The Stereotype
 	 - The Rebellion (Panarchic)
 
- - The All-Imprisoning Commonwealth "Democracy" of "Not-"Authoritarianism whose Violent Nationalists are Very Happy People who have Certainly Never Committed Genocide - 
+ - The Commonwealth "Democracy"
 	 - The Basic
 		 - They completely reject serenity, despite which they want to have kids constantly, a determination that they're willing to enforce with the authority of the government.  As they're willing to enforce everything else with the authority of the government.  If left to run completely unchecked, they install all-monitoring omnipresent surveillance, and god save you if they catch you being unhappy about it.  Unhappy people might be serial killers.
 		 - Their society has a problem with would-be serial killers for some reason.  If they were to loosen their grasp, the consequences would be terrible.  Nobody knows what's wrong.
