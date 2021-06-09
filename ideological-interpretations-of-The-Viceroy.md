@@ -33,7 +33,7 @@ The Six Subcultures
 	 -  The Stereotype
 	 - The Rebellion (Panarchic)
 
- - The Commonwealth Democracy - 
+ - The All-Imprisoning Commonwealth "Democracy" of "Not-"Authoritarianism whose Violent Nationalists are Very Happy People who have Certainly Never Committed Genocide - 
 	 - The Basic
 	 - The Value of Immortality
 	 - The View on Collapse
