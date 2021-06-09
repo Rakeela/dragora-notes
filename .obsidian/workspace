@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 50.60553633217994,
+            "dimension": 72.14532871972318,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-9-One-Hundred-and-Eighteenth.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 49.39446366782007,
+            "dimension": 27.854671280276815,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-9-One-Hundred-and-Eighteenth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,10 +139,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 304
   },
   "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-9-One-Hundred-and-Eighteenth.md",
     "exogenous-mitochondria.md",
     "Untitled.md",
@@ -151,7 +152,6 @@
     "Warlockisms.md",
     "privacy.md",
     "2021-6-7-One-Hundred-and-Sixteenth.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-3-One-Hundred-and-Fourteenth.md"
   ]
 }
