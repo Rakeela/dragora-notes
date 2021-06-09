@@ -6,4 +6,7 @@ I still think fondly of Marchosias' soul engine.  It's a mistake, and a grievous
 My [[character-gallery]] is a little too sacred.  I find it hard to produce minor characters, and harder to record that I've produced them.
 
 ---
+Dinner tonight:  Onions and mushrooms cooked in butter, mixed with collard greens and soynuts.  A buttery salad.  Keto, I think.  *Checks nutrition on soynuts.*  Yeah, keto.
+
+---
 Back to [[day-post-archive]]
