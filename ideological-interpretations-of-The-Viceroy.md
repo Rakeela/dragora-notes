@@ -35,9 +35,21 @@ The Six Subcultures
 
  - The All-Imprisoning Commonwealth "Democracy" of "Not-"Authoritarianism whose Violent Nationalists are Very Happy People who have Certainly Never Committed Genocide - 
 	 - The Basic
+		 - They completely reject serenity, despite which they want to have kids constantly, a determination that they're willing to enforce with the authority of the government.  As they're willing to enforce everything else with the authority of the government.  If left to run completely unchecked, they install all-monitoring omnipresent surveillance, and god save you if they catch you being unhappy about it.  Unhappy people might be serial killers.
+		 - Their society has a problem with would-be serial killers for some reason.  If they were to loosen their grasp, the consequences would be terrible.  Nobody knows what's wrong.
+		 - They consider themselves the antidote to corruption even as they admit that their society is also corrupt.  God save you if you get on the wrong side of *their* criminals, because *their* criminals exist on the empowered side of their surveillance grid, and anyone who opposes the Commonwealth's criminals is clearly a criminal themselves.  The omnipresent surveillance grid can prove it!
+		 - They talk about rehabilitation, but their system of omnipresent surveillance doesn't *talk* about itself.  It doesn't operate openly, since that would result in it being successfully evaded.  It doesn't directly challenge people on what they did wrong.  It just treats people as presumptive criminals who better be superheroes if they want to survive.
+		 - They consider themselves the *only* scientific subculture, except *maybe*, very reluctantly, the Panarchic Informalists.  Everyone else is some kind of primitive subsapient parrot who never thinks of anything new.
+		 - All this, and they're the most fun society!  The purpose to life is to be happy!  Lets throw a party!  Can't you just feel the absolute liberation?  Big sister only clenches her fist because you *enjoy* it!
+		 - Oh, and they plan out their kids' lives before they're born.  Knowing the minds of people who haven't been born yet is just another part of their sciences.  Can't you just imagine the joyous childhoods of kids born to parents who reject serenity, always want to have fun, *and* believe that they deserve absolute control?  You better imagine a lot of that, because these people have lots of kids.  They think mandatory reproduction is a really good thing.
 	 - The Value of Immortality
+		 - If it weren't for the ethical issues of farming prison planets to extract a few people who an all-powerful corrupted surveillance grid decides are virtuous, I'd be enthusiastic about the Commonwealth Consensus.  The problem is that the sociopaths who run their subculture try to reject immortality for almost everyone.  They build massive populations to extract marginal numbers of saints, while wishing death on everyone else.
+		 - Some of these people are good cops, but not as many of them as think of themselves as good cops. Some of these people are good scientists, but not as many of them as think of themselves as good scientists.  Some of these people are really fun, but not as many as think of themselves as really fun.  A lot of these people are discarded as disappointments, and their "extremely happy" society suffers from outbreaks of suicidal violence courtesy of its rejectees.
+		 - The people who do survive all of this are absolute gems, and immortality does them a great service.  But at what cost?
 	 - The View on Collapse
+		 - The Commonwealth Consensus doesn't collapse!  They think that the fall of their system of government would be the fall of society forever.  So it... doesn't fall.  Supposedly.  It just sort of slumps.  A lot.  They cling together and shuttle talent around.  I mean sure, the afterparty can be a drain, but things always get going again.
 	 -  The Stereotype
+		 -  Smart happy blood cultists doing what their parents told them.  If they can.  While they can.  Holding up all of galactic society as the only civilized people.  So *happy*.
 	 - The Rebellion (Imperial)
 
  - The Panarchic Purist-Preservationists - 
