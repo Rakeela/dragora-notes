@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 60.12110726643599,
+            "dimension": 37.11072664359862,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-12-One-Hundred-and-Twenty-First.md",
+                    "file": "2021-6-13-One-Hundred-and-Twenty-Second.md",
                     "mode": "source"
                   }
                 }
@@ -40,17 +40,14 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 39.878892733564015,
+            "dimension": 62.88927335640139,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "character-gallery.md",
-                    "mode": "source"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               },
               {
@@ -59,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "imagine-a-brain-implant.md",
+                    "file": "news-archive.md",
                     "mode": "source"
                   }
                 }
@@ -108,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385
   },
   "right": {
     "id": "4acc096315081380",
@@ -124,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imagine-a-brain-implant.md",
+                "file": "2021-6-13-One-Hundred-and-Twenty-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +138,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "2021-6-13-One-Hundred-and-Twenty-Second.md",
+    "Difficulty-of-Self-Monitoring.md",
+    "character-gallery.md",
+    "Untitled.md",
+    "2021-6-12-One-Hundred-and-Twenty-First.md",
+    "news-archive.md",
+    "medical-news-archive.md",
     "imagine-a-brain-implant.md",
     "environmental-news-archive.md",
-    "2021-6-12-One-Hundred-and-Twenty-First.md",
-    "Northern-Creche-Confederation.md",
-    "2021-6-10-One-Hundred-and-Nineteenth.md",
-    "Untitled.md",
-    "2021-6-11-One-Hundred-and-Twentieth.md",
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-6-9-One-Hundred-and-Eighteenth.md",
-    "exogenous-mitochondria.md"
+    "Northern-Creche-Confederation.md"
   ]
 }
