@@ -7,4 +7,9 @@ Mung beans don't need to be softened overnight.  Softening mung beans for cookin
 Mung bean sweets may be a good way to get people to associate a planty flavor with deliciousness.  Try some!
 
 ---
+I made another batch of keto fudge to try using mascarpone this time in place of some of the cashew butter.  The resulting texture was very smooth and soft, but I could kind of tell that I was eating sweetened cheese.  On the other hand, sweetened cheese is not so bad.
+
+Are there a lot of cheeses that sweeten and resolidify nicely?  Does cacao butter help them do so?  If I reduce the sweetener and just use this to create a more solid cheese product, I wonder if I could mix it with savory ingredients instead.  I wonder if partially softened mung beans could be served embedded in a spicy cheese wedge.
+
+---
 Back to [[day-post-archive]]
