@@ -11,5 +11,7 @@ I made another batch of keto fudge to try using mascarpone this time in place of
 
 Are there a lot of cheeses that sweeten and resolidify nicely?  Does cacao butter help them do so?  If I reduce the sweetener and just use this to create a more solid cheese product, I wonder if I could mix it with savory ingredients instead.  I wonder if partially softened mung beans could be served embedded in a spicy cheese wedge.
 
+Trying to look this up, I see a lot has been written about how resolidifying cheese goes *wrong*, but it didn't really go wrong here.  I got a consistent, homogenous product.  Now I want to see if I can use cacao butter to make savory keto dishes with cheese, too.
+
 ---
 Back to [[day-post-archive]]
