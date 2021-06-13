@@ -19,7 +19,7 @@ Imagine a brain implant that:
 	3.  This is an integrated neural mesh concept.  If the output from these implants was generalizable, it could enable advances in business methods and rehabilitative medicine.
 	4.  The flow stabilizer (idea #10) is a pared down version of this concept.
 7.  Links minds together for experiential purposes, such as viewing art together.
-	1.  I'm not the happiest with technotelepathy concepts in general, but I know it's a necessary technology.
+	1.  I'm unhappy with technotelepathy concepts in general, but I know it's a necessary technology.  Any sufficiently advanced neural augmentation technology will (as a side effect) result in technotelepathic connectivity being possible.
 	2.  I liked the CEL Cradles from Beyond Earth... especially if we can avoid corrupting them with intelligence agency exploitation IRL.  CEL Cradles in Beyond Earth were used for intelligence purposes.  Awful!
 8.  An implant that scans for and blocks recall of annoying songs.  More generally, something that scans for and blocks annoying thoughts.  This has been suggested by other people before and I agree that it'd be nice.  I also think it would have major psychotherapeutic applications generally beneficial for public order.
 	1.  This proposal has a major public safety issue.  It could be used to resolve certain patterns of psychological scarring typical in individuals who've committed murders.  That sounds good and rehabilitative until you realize that it would also make them more competent *as* murderers.  To prevent that, I'd recommend that consumer implementations of this hardware obligate publishing the thought-block list to an online server, and that the implant should always disengage for part of the day while reporting to the person wearing it about which of its blocks were active during the day, and when.
@@ -30,6 +30,7 @@ Imagine a brain implant that:
 	1.  This may serve as a general intelligence enhancer.  Working memory is strongly associated with intelligence.  If that's correlative, this implant would not increase intelligence.  If that's causative, artificially enhancing working memory would directly increase intelligence.
 10.  Flow stabilizer:  an implant that analyzes flow states and nudges the brain to better perform them when the brain is in or near a state of flow.
 	1.  As a research tool, this could also be used for analyzing brain states to improve hedonological process design, as the flow state is itself both productive and psychologically hedonic.
+	2.  This is a pared back version of concept 6, which is likely to require significantly less advanced understanding, depending on what exactly constitutes a flow state.
 
 ---
 Is this [[authors-ideals]]?  It's not fiction or nonfiction, but it's also not idealism.  I'm not sure how to categorize this kind of speculation.  It's sci-fi thought, but maybe it IS a kind of [[authors-fiction]]?  On the other hand, I actually do want mind-machine interfaces.
