@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 60.46712802768166,
+            "dimension": 60.12110726643599,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 39.53287197231834,
+            "dimension": 39.878892733564015,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "environmental-news-archive.md",
+                    "file": "imagine-a-brain-implant.md",
                     "mode": "source"
                   }
                 }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-12-One-Hundred-and-Twenty-First.md",
+                "file": "imagine-a-brain-implant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +141,10 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
+    "imagine-a-brain-implant.md",
+    "environmental-news-archive.md",
     "2021-6-12-One-Hundred-and-Twenty-First.md",
     "Northern-Creche-Confederation.md",
     "2021-6-10-One-Hundred-and-Nineteenth.md",
@@ -150,8 +152,6 @@
     "2021-6-11-One-Hundred-and-Twentieth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-9-One-Hundred-and-Eighteenth.md",
-    "exogenous-mitochondria.md",
-    "2021-6-8-One-Hundred-and-Seventeenth.md",
-    "character-gallery.md"
+    "exogenous-mitochondria.md"
   ]
 }
