@@ -532,6 +532,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-6-9;  One of the themes of The Viceroy seems to be that these technologies are cool, but they eventually crush society.  Distributed Thought gives people too much control over how smart other people are (or aren't).  With ethical leadership and strong administrative talent, that's *awesome*, and it has very favorable implications for society.  If the government is unethical and/or faltering, that's *terrifying*.  Even some of the benevolent ones are like that; I'm averse to creche education (f'rex), because my public school experiences were a hell that actually damaged my intellectual potential.  Sufficiently bad school environments are prisons that mistreat kids "for their own good".
 
+2021-6-13;  Imperial technologies seem to minimize the nightmare of the rapesplosion at high wealth.  If you have dyson swarms and massive buildings and orbital habitats and extremely advanced transportation systems, it stops seeming unfathomable that extreme populations could be sustained.  The technologies that would give people living space even at extreme populations make it stop seeming like it would *be* a rapesplosion.  Yet I'd still like to remake this game's model to get rid of the population boom at high Wealth.
+
 ---
 The Much-Reviled Lower Classes
 
