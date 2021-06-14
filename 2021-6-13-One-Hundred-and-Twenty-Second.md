@@ -15,4 +15,7 @@ First attempt at citrus fudge is in the freezer.  Looks like it won't work.  Non
 While I was in there, I pulled out my cheese-and-mung-bean thing.  It's a proper abomination; I took two bites and threw it out.  I'll try again with different cheeses and more experience someday.
 
 ---
+My first attempt at citrus fudge is... flawed.  It's edible, but I'd be pretty dissatisfied if I bought this from the store.  It has a good first bite and there are perceptible traces of the aftertaste it should ideally have.  I think an 'ideal' citrus fudge would melt away into a lingering citrus aftertaste.  This however, I can't linger on, it doesn't taste good to have it melting in my mouth.
+
+---
 Back to [[day-post-archive]]

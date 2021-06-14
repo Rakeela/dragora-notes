@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 46.97231833910035,
+            "dimension": 25.17301038062284,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 53.02768166089965,
+            "dimension": 74.82698961937716,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -141,8 +141,8 @@
   "active": "7f6923b144f16420",
   "lastOpenFiles": [
     "ideological-interpretations-of-The-Viceroy.md",
-    "news-archive.md",
     "2021-6-13-One-Hundred-and-Twenty-Second.md",
+    "news-archive.md",
     "Difficulty-of-Self-Monitoring.md",
     "character-gallery.md",
     "Untitled.md",
