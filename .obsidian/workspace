@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "news-archive.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-13-One-Hundred-and-Twenty-Second.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "2021-6-13-One-Hundred-and-Twenty-Second.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "news-archive.md",
+    "2021-6-13-One-Hundred-and-Twenty-Second.md",
     "Difficulty-of-Self-Monitoring.md",
     "character-gallery.md",
     "Untitled.md",
     "2021-6-12-One-Hundred-and-Twenty-First.md",
     "medical-news-archive.md",
     "imagine-a-brain-implant.md",
-    "environmental-news-archive.md",
-    "Northern-Creche-Confederation.md"
+    "environmental-news-archive.md"
   ]
 }
