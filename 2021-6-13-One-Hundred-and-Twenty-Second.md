@@ -18,4 +18,14 @@ While I was in there, I pulled out my cheese-and-mung-bean thing.  It's a proper
 My first attempt at citrus fudge is... flawed.  It's edible, but I'd be pretty dissatisfied if I bought this from the store.  It has a good first bite and there are perceptible traces of the aftertaste it should ideally have.  I think an 'ideal' citrus fudge would melt away into a lingering citrus aftertaste.  This however, I can't linger on, it doesn't taste good to have it melting in my mouth.
 
 ---
+It's not true that everything I cook is keto.  I like mung beans.  They're not really keto-friendly.  If I needed to be keto for medical reasons, they'd be a violation of it.
+
+---
+I feel like I'm not hard enough in some ways.  Mostly, I feel like I should harden my rejection of meat.  I don't believe that all meat-eating is uncompassionate, as I don't believe all farmers are evil... but if I don't avoid meat completely, I have no practical way to evade consuming factory-farmed meat.
+
+As I was thinking about the above I thought that I should include rejecting sugar in there, but I really resent that sugar is as unhealthy as it is.  I think pleasure should be less... unhealthy.  I don't think sugarcane suffers in the harvest, so I don't feel like it has the same virtue impetus on it.
+
+I have bacon in the fridge.  I'm not sure if I should have bacon in the fridge, but I do.
+
+---
 Back to [[day-post-archive]]
