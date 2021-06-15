@@ -534,6 +534,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-6-13;  Imperial technologies seem to minimize the nightmare of the rapesplosion at high wealth.  If you have dyson swarms and massive buildings and orbital habitats and extremely advanced transportation systems, it stops seeming unfathomable that extreme populations could be sustained.  The technologies that would give people living space even at extreme populations make it stop seeming like it would *be* a rapesplosion.  Yet I'd still like to remake this game's model to get rid of the population boom at high Wealth.
 
+2021-6-15;  I think in general the crowding enhancers increase the number of people who can live peacefully with each other.  Larger buildings, more separation between developments, better planning, and greater temporal dispersion: *all* of these give people more space to live in, without requiring less dense development.  People who need more personal space get more comfortable as more of these are implemented.  I hardly want to say this, but I think the death rates are likely to go down as these are implemented.  High-functioning separations permitting collaboration between people with very different minds gets more valid as protections for personal space get more valid.  I understand it as a gameism and as a thought-provoking warning to consider the potential downsides of all technologies, but in some ways I think The Viceroy's "everything is too expensive and eventually falls apart" game model is too bleak.  Anti-crowding technologies seem especially functional to me.
+
 ---
 The Much-Reviled Lower Classes
 
