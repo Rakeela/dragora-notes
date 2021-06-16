@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 60.726643598615915,
+            "dimension": 43.42560553633218,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 39.273356401384085,
+            "dimension": 56.57439446366782,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Videogame-Wishlist.md",
+                    "file": "2021-6-16-One-Hundred-and-Twenty-Fourth.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-15-One-Hundred-and-Twenty-Third.md",
+                "file": "2021-6-16-One-Hundred-and-Twenty-Fourth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,13 +138,13 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "2021-6-15-One-Hundred-and-Twenty-Third.md",
+    "Untitled.md",
     "Videogame-Wishlist.md",
+    "2021-6-15-One-Hundred-and-Twenty-Third.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Northern-Creche-Confederation.md",
-    "Untitled.md",
     "2021-6-13-One-Hundred-and-Twenty-Second.md",
     "news-archive.md",
     "Difficulty-of-Self-Monitoring.md",
