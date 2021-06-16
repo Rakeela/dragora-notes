@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 31.66089965397924,
+            "dimension": 60.726643598615915,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 68.33910034602077,
+            "dimension": 39.273356401384085,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Videogame-Wishlist.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-6-15-One-Hundred-and-Twenty-Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +138,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-15-One-Hundred-and-Twenty-Third.md",
+    "Videogame-Wishlist.md",
+    "ideological-interpretations-of-The-Viceroy.md",
+    "Northern-Creche-Confederation.md",
     "Untitled.md",
     "2021-6-13-One-Hundred-and-Twenty-Second.md",
     "news-archive.md",
     "Difficulty-of-Self-Monitoring.md",
     "character-gallery.md",
-    "2021-6-12-One-Hundred-and-Twenty-First.md",
-    "medical-news-archive.md",
-    "imagine-a-brain-implant.md"
+    "2021-6-12-One-Hundred-and-Twenty-First.md"
   ]
 }
