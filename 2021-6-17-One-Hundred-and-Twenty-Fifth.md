@@ -33,5 +33,16 @@ Lavina was really at her best as a priestess, and some of those scenes *did* hap
 
 The people on FFa didn't have enough sense of... drama without hatred, of collaboratively designed narrative.  Marshe told me the only way to plan scenes with anyone was to be in their typefucking clique; relatedly, I resent him more than most of the people on FFa.
 
+Lavina was a cool character who was wasted on FFa.  They ate her, and blamed me for eating her.  If that space had been able to value me nonsexually, I could've enjoyed Lavina more.  I don't have to consign her to the void just because she wasn't appreciated in one space; her concept should be adaptable for my [[character-gallery]].  I'm a little reluctant to add her before I've sorted out which of her faith in predestination vs her faith in faith itself are more central to her character.  I think it might be her faith in faith itself, and yet...
+
+Lavina's faith that her own life was planned in advance fits her status as my first character on FurryFaire, because she expressed in her faith something that I myself longed for in order to roleplay fearlessly: scenes planned out in advance.  Scene-planning like that on FFa didn't happen, and, y'know, Marshe told me that the only way to plan scenes with anyone was...
+
+The players in that place didn't understand me, they punished me for offering complaint about misunderstandings, and they considered me evil for being such as they misunderstood.  The playerbase of FFa tried to eat Lavina, and they hated me for it.  I don't hate the people who played FurryFaire.  I wish they hadn't hated me, because that hatred didn't stop them from sexually exploiting me with deceptiveness; I am speaking of an environment that treated me very much as a lying slut, yet lied to me extensively.  The spreading hatred in that place empowered something nasty and deeply authoritarian.  They got away with it, too; I'm the villain of the story!
+
+I'm the villain of the story, supposedly revictimizing people whose trust I abused while trying to extract sexual pleasure from them.  Meanwhile, today's major activity really has been crying about sexual traumas.  Yay.  Such pleasure.
+
+---
+I did also complain about being disallowed to complain!  There have been a *lot* of things in my life that people didn't understand because they forbade me to speak of them.  Like part of why I was supposedly an ever-eager slut with nothing in my mind but sex *is because sex was the only not-authoritarian thing*.  Complaints were ANGER.  Anger was authoritarian.  Sex was not-anger.  Sex was not-authoritarian.  So I was to be sexual, not complain-y.  I tried!
+
 ---
 Back to [[day-post-archive]]
