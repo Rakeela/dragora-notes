@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 64.70588235294117,
+            "dimension": 37.37024221453287,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 35.294117647058826,
+            "dimension": 62.629757785467135,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "character-gallery.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-17-One-Hundred-and-Twenty-Fifth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,11 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "7f6923b144f16420",
   "lastOpenFiles": [
-    "2021-6-17-One-Hundred-and-Twenty-Fifth.md",
-    "character-gallery.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "character-gallery.md",
+    "2021-6-17-One-Hundred-and-Twenty-Fifth.md",
     "Untitled.md",
     "2021-6-15-One-Hundred-and-Twenty-Third.md",
     "Videogame-Wishlist.md",
