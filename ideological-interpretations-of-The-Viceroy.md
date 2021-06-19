@@ -515,6 +515,37 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Technological smoothness:  5/5
 	15.  Technological extremophilia:  4/5
 	16.  Kind of person most protected:  Art snobs.
+27.  Natalist Policies
+	1.  Authorial protest:  If I hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.
+	2.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
+	3.  Downside analysis:  Treating population growth as something they can and should weaponize in the name of "virtue" is fascistic.  It is overtly something that fascist governments have always attempted on Earth.  It's a hallmark of every genocidal authoritarian ideology that was ever invented.  Nazi Germany did this very literally.
+	4.  Narrative indicator:  This technology is proximate to nationalist indoctrination in the tech tree.
+	5.  Narrative indicator:  The attitude that children are a tool of conquest is why the Commonwealth can't bring peace to warring nations.
+	6.  Downside analysis:  Since people who don't want to breed and who aren't loyal to the Commonwealth are liabilities to the "Consensus", the expansion of this technology increases the rate of at which society produces maladapted ejectees.
+	7.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
+	8.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
+	9.  Mechanism proposal:  A blind eye attitude to child molestation promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and force rape victims to marry their rapists, just like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
+	10.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
+	11.  Utopic rating:  0/5
+	12.  Public protection rating:  2/5
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  1/5
+	15.  Kind of person most protected:  People who want to raise kids for the glory of their race.
+28.  Reproductive mandate
+	1.  Authorial protest:  This breaks the law of love!
+	2.  Mechanism proposal:  Muslim prohibitions against degeneracy, plus taxes on the faithless and the childless.
+	3.  Downside analysis:  Note that Muslim-dominated areas IRL have the highest rates of child molestation on the planet.
+	4.  Mechanism proposal:  Everything that works in natalist policies is simply intensified.
+	5.  Downside analysis:  Everything wrong with natalist policies increases.   Note that historic humanity has had a very high rate of wifebeating, random violence, rape, etc.
+	6.  Apologia:  The Commonwealth's "Consensus" in favor of horrific destructions of sexual ethics are why they believe enlightened policing is necessary.  They would *prefer* to do all these things *without* the rape and murder...
+	7.  Narrative indicator:  ...but note that Muslims literally murder sexual liberals, too.  This policy set destroys the populations that natively oppose rape and replaces them with populations that reliably "oppose" rape only when closely watched by an omniscient security state.
+	8.  Mechanism proposal:  If you quietly ruin rape victims who protest too much and don't turn conservative on demand, you can have a more reproductive society thanks to the ones who "integrate" after sexualizing early.  Sexually abusive community leaders are excellent for this.  Few people will believe they've done what they're supposed to have done.  Some of those who do believe nevertheless will insist that raising up those specific leaders is necessary to the community, because of all the other good things they've done.
+	9.  Bureaucratic waste analysis:  Assigning a few supernumerary taxes is not bureaucratically expensive.  Arranging your society to destroy non-reproductive inclinations is horrifically expensive.
+	10.  Utopic rating:  0/5
+	11.  Public protection rating:  1/5
+	12.  Technological smoothness:  4/5
+	13.  Technological extremophilia:  2/5
+	14.  Kind of person most protected:  "Virtuous" religious authorities who certainly don't molest kids.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
