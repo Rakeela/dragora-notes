@@ -9,4 +9,9 @@ I committed the sin of having actual emotions without hiding them behind a mask 
 I wish liberalism had been stronger when I was young on Earth, so that I wouldn't have been molested.  But "live and let live" is apparently boring to people who think it's exciting to punish disobedient thought and victimize those who don't obey them... and seemingly it's "not liberal" to oppose people who get bored if they're not allowed to abuse others.
 
 ---
+I bought some cherry liquor, two kinds of food-grade wax, and a double boiler.  I also have xantham gum.  Between the lot of these, I'm hoping that I can make a solid cherry chocolate.  I know the alcohol is a solvent that will be inclined to dissolve the bonds that hold together the chocolate.  I'll see if I can outdo that.
+
+Prediction:  Boozy sludge.  I expect to fail first.
+
+---
 Back to [[day-post-archive]]
