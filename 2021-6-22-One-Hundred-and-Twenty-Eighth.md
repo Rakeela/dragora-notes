@@ -18,4 +18,7 @@ Pouring is a good enough strategy for initial experimentation, but since I don't
 Mung tabs!
 
 ---
+I've been playing the demo for The Fermi Paradox heavily lately.  I like that it (unlike The Viceroy) doesn't tie technology, wealth, and population together so much.  The utopian horse species in the Fermi Paradox is small and has growth problems.  That is so much more appealing!
+
+---
 Back to [[day-post-archive]]
