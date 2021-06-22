@@ -21,4 +21,11 @@ Mung tabs!
 I've been playing the demo for The Fermi Paradox heavily lately.  I like that it (unlike The Viceroy) doesn't tie technology, wealth, and population together so much.  The utopian horse species in the Fermi Paradox is small and has growth problems.  That is so much more appealing!
 
 ---
+I'm properly studying for my last tests today... and I have been progressing on that, I swear.  Yet here I'm going to post again on another adventure in cooking, because while taking one of my excessively-numbered breaks from studying, I prepped a prototype beeswax-encased sweet from a container of chyawanprash I recently acquired.
+
+Unlike a lot of my prototypes, it worked!  For flavor.  The flavor worked; it was a delicious piece of candy.  The beeswax casing, I clearly need to figure out how to do better.  Most of all, I think I need to innovate on my tools.  If I could produce thin flat sheets of beeswax, I could cut it apart into little squares, sandwich the chyawanprash between them, and then melt the beeswax with a heat gun to seal up around them.
+
+I'm not sure how to produce thin flat sheets of beeswax, but that seems like a doable thing.
+
+---
 Back to [[day-post-archive]]
