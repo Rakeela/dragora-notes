@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 31.314878892733567,
+            "dimension": 51.64359861591695,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-19-One-Hundred-and-Twenty-Seventh.md",
+                    "file": "2021-6-22-One-Hundred-and-Twenty-Eighth.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 68.68512110726644,
+            "dimension": 48.35640138408305,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-6-22-One-Hundred-and-Twenty-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,11 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7f6923b144f16420",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-6-19-One-Hundred-and-Twenty-Seventh.md",
     "Untitled.md",
+    "2021-6-19-One-Hundred-and-Twenty-Seventh.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-6-17-One-Hundred-and-Twenty-Fifth.md",
     "character-gallery.md",
     "2021-6-15-One-Hundred-and-Twenty-Third.md",
