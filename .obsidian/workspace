@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 69.55017301038062,
+            "dimension": 58.564013840830455,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-27-One-Hundred-and-Thirty-First.md",
+                    "file": "Chives-of-Wrath.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 30.44982698961938,
+            "dimension": 41.43598615916955,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Otter-Labs.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-27-One-Hundred-and-Thirty-First.md",
+                "file": "Chives-of-Wrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2021-6-25-One-Hundred-and-Thirtieth.md",
-    "2021-6-23-One-Hundred-and-Twenty-Ninth.md",
-    "# the-most-unethical-possible-act.md",
-    "2021-6-22-One-Hundred-and-Twenty-Eighth.md",
+    "Chives-of-Wrath.md",
+    "Everloathing-Agritechnologies.md",
+    "Otter-Labs.md",
+    "Business-Ambitions.md",
+    "Black-Rose-Beverages.md",
+    "authors-nonfiction.md",
+    "springboard-company.md",
+    "authors-writing.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "2021-6-19-One-Hundred-and-Twenty-Seventh.md",
-    "2021-6-17-One-Hundred-and-Twenty-Fifth.md",
-    "character-gallery.md",
-    "2021-6-15-One-Hundred-and-Twenty-Third.md"
+    "Northern-Creche-Confederation.md"
   ]
 }
