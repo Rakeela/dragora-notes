@@ -30,7 +30,7 @@ Materials needed:
 
 I'm not sure how I'll manage irrigation in my garage.  This should involve a fairly large amount of water.  I want to control the growing temperature by controlling the temperature of the soil, and I want to do that by pumping temperature-controlled water through the grow boxes.
 
-I'm also bad at spatial planning, and I have to build my own grow rig.  There should be software for this...
+I'm also bad at spatial planning, and I have to build my own grow rig.  There should be software for this...  No.  Better.  Legos!
 
 ---
 Back to [[Everloathing-Agritechnologies]]
