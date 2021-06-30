@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 46.280276816608996,
+            "dimension": 37.28373702422145,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "39d64659ff9d494e",
             "type": "split",
-            "dimension": 53.719723183391,
+            "dimension": 62.71626297577855,
             "children": [
               {
                 "id": "e3a05ab15e43024d",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-6-29-One-Hundred-and-Thirty-Third.md",
+                    "file": "2021-6-30-One-Hundred-and-Thirty-Fourth.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-6-29-One-Hundred-and-Thirty-Third.md",
+                "file": "2021-6-30-One-Hundred-and-Thirty-Fourth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,14 +141,14 @@
   "active": "7f6923b144f16420",
   "lastOpenFiles": [
     "Untitled.md",
-    "2021-6-28-One-Hundred-and-Thirty-Second.md",
+    "2021-6-29-One-Hundred-and-Thirty-Third.md",
     "Chives-of-Wrath.md",
+    "2021-6-28-One-Hundred-and-Thirty-Second.md",
     "mitochondrial-experimental-proposals.md",
     "Black-Rose-Beverages.md",
     "Otter-Labs.md",
     "Everloathing-Agritechnologies.md",
     "Business-Ambitions.md",
-    "authors-nonfiction.md",
-    "springboard-company.md"
+    "authors-nonfiction.md"
   ]
 }
