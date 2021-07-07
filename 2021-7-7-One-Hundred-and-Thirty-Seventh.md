@@ -11,4 +11,7 @@ I've been exercising more lately!  Daily cross-town scooter usage.  I've also bo
 I'm going to go visit a soup kitchen this evening and ask about volunteering opportunities.  I may do Kairn's thing after all, too; I was thinking today that I miss hymns.
 
 ---
+Would it be possible to cure Crohn's Disease by producing a vaccine for the biofilm characteristic to its pathogenicity?  If the immune system could competently break up those biofilms, the gut would be less hospitable to the lingering accumulations of microbes which bring on symptoms in Crohn's.
+
+---
 Back to [[day-post-archive]]
