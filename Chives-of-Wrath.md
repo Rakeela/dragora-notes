@@ -33,4 +33,7 @@ I'm not sure how I'll manage irrigation in my garage.  This should involve a fai
 I'm also bad at spatial planning, and I have to build my own grow rig.  I'm poking at FreeCAD and it's really a lesson in how little I know about constructing stuff.  Every piece of the design is a struggle.
 
 ---
+I gave up making my own and decided to buy a premade solution.  I've bought a tower garden device and a grow tent.  Together, they'll provide an isolated, climate-controlled grow environment in which I will attempt to grow a first control population of chives.  If this works, I'll buy a second tower-tent combo in which to try the experiment proper.
+
+---
 Back to [[Everloathing-Agritechnologies]]

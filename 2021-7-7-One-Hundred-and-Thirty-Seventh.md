@@ -5,4 +5,7 @@ Liberalism thrives in light.  An openly operating surveillance system tends to b
 Concealed surveillance systems do not tend liberal.  Consider the classical conservative judgmental community... and look at the Arab world, where liberal activists get murdered.
 
 ---
+I've been exercising more lately!  Daily cross-town scooter usage.  I've also bought a walking treadmill and I've converted my standing desk to a treadmill desk.
+
+---
 Back to [[day-post-archive]]
