@@ -22,9 +22,11 @@ I feel emotionally overwhelmed by this assignment.  "I've always had trouble acc
 ---
 
 This is important to me, and my default headspace isn't brandishing a diamond saw.  We don't have good personality editing tools available IRL (this reminds me of a story I wrote, [[The-Personality-Scavenge-Service]]), so I've been using cannabis instead.  It's a chaotic influence, but it's the only immediately available tool.  It does seem to be helping.  I've been at least holding at this task and I certainly feel like I'm developing a better response to it as I continue to record my thought processes ranging the vicinity.  The citation-lookup step has been very pleasant in my coursework generally, and it focuses on a task which I consider especially desirable both presently and historically in my life.  Here I have written an essay speaking of joy, and every citation it points towards is a citation for the possibility of a brighter future.  This is the silver lining and why the problem is getting better!  This is the good news!
+
 ---
 
 Would it feel better if I redrafted it impersonally?  I think it would be incomprehensible.  It would go from impactful to barely relevant, *while* losing emotional coherency.   The good post here admits to pain, even if it's harder to write.
+
 ---
 
 ...maybe I need to take more steps to decompose the material.  If I take every citable claim and individually copy it into my notes below in this section, can I address them in a better way by removing them from the contextual weight of their paragraph?  Let's try it.

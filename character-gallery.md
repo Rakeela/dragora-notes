@@ -1,4 +1,4 @@
-#character gallery 
+#Character-Gallery 
 
 This is a gallery of some of the past characters that I've used for roleplaying.  This is only a small fraction of the characters I've played, focusing on a few that I consider especially worth preserving.
 
