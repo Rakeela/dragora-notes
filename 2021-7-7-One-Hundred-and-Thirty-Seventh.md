@@ -13,5 +13,7 @@ I'm going to go visit a soup kitchen this evening and ask about volunteering opp
 ---
 Would it be possible to cure Crohn's Disease by producing a vaccine for the biofilm characteristic to its pathogenicity?  If the immune system could competently break up those biofilms, the gut would be less hospitable to the lingering accumulations of microbes which bring on symptoms in Crohn's.
 
+Investigating the gut-adhesion properties of blastocystis may also be relevant.  Eliminating undesirable microbial stickiness in the gut could achieve therapeutic ends in both disorders.  This path of investigation could also lead to non-vaccine treatments based upon the chemistry involved, which could be suitable for more conventional drug therapies.
+
 ---
 Back to [[day-post-archive]]
