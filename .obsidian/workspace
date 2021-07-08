@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 69.03114186851211,
+            "dimension": 18.166089965397923,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "79ce6b590109695a",
             "type": "split",
-            "dimension": 30.96885813148789,
+            "dimension": 81.83391003460207,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-7-7-One-Hundred-and-Thirty-Seventh.md",
+                    "file": "Simplified-Guide-to-Aeroponics-Tower-Gardening.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-7-7-One-Hundred-and-Thirty-Seventh.md",
+                "file": "Simplified-Guide-to-Aeroponics-Tower-Gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "b81b05a54a80069c",
   "lastOpenFiles": [
+    "Simplified-Guide-to-Aeroponics-Tower-Gardening.md",
+    "Bibliography.md",
+    "envs100disc4-pandemicblues.md",
     "2021-7-7-One-Hundred-and-Thirty-Seventh.md",
     "Chives-of-Wrath.md",
     "Northern-Creche-Confederation.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
     "character-gallery.md",
     "Black-Rose-Beverages.md",
-    "authors-writing.md",
-    "2021-7-3-One-Hundred-and-Thirty-Sixth.md",
-    "after-the-empire.md",
-    "algae-farming-for-soil-quality.md"
+    "authors-writing.md"
   ]
 }
