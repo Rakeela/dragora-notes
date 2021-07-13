@@ -19,5 +19,10 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3942274/ (corresponding author Andr
 
 This research from 2014 attributes to speculative evolutionary mechanisms under alloplasmic conditions what the 2016 paper above suggests are more specifically attributable to plant mitochondrial recombination under alloplasmic conditions.  To its credit, the possibility of mitochondria recombination is here mentioned specifically.  This paper is of particular importance to me as it mentions substoichiometric shifting, something with which I have not previously been acquainted, which may be relevant to my efforts to create new cultivars with different dominant mitochondria.
 
+Based on my current (potentially premature) understanding, manipulating substoichiometric shifting involves the identification and replacement of nuclear genes which activate specific mitochondria.
+
+---
+It would lack... a certain ambition, but attempting to edit chives with a known mitochondria controlling gene would probably be easiest to achieve success on.  Whether differential metabolic traits would be readily demonstrated from that is not clear to me
+
 ---
 Back to [[day-post-archive]]
