@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 56.22837370242214,
+            "dimension": 36.67820069204152,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "79ce6b590109695a",
             "type": "split",
-            "dimension": 43.77162629757785,
+            "dimension": 63.32179930795848,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-7-13-One-Hundred-and-Fortieth.md",
+                    "file": "Dragon-Kingdom-of-Wrenly.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-7-13-One-Hundred-and-Fortieth.md",
+                "file": "Dragon-Kingdom-of-Wrenly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,8 @@
   },
   "active": "b81b05a54a80069c",
   "lastOpenFiles": [
+    "Dragon-Kingdom-of-Wrenly.md",
+    "Bibliography.md",
     "2021-7-13-One-Hundred-and-Fortieth.md",
     "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination.md",
@@ -147,8 +149,6 @@
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
     "Chives-of-Wrath.md",
     "2021-7-12-One-Hundred-and-Thirty-Ninth.md",
-    "Untitled.md",
-    "Simplified-Guide-to-Aeroponics-Tower-Gardening.md",
-    "Bibliography.md"
+    "Untitled.md"
   ]
 }
