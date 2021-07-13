@@ -2,6 +2,8 @@
 
 First Draft:
 
+---
+Tch.  I'm not really working on this right now, after all.  It's still my long-term ambition, but it's been caught up in yak-shaving, as I think I'll need a fairly impressive research budget.
 
 ---
 Back to [[Author's Nonfiction]]
