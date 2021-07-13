@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 36.67820069204152,
+            "dimension": 67.38754325259517,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                    "file": "Chives-of-Wrath.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "79ce6b590109695a",
             "type": "split",
-            "dimension": 63.32179930795848,
+            "dimension": 32.61245674740484,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-7-13-One-Hundred-and-Fortieth.md",
+                "file": "Chives-of-Wrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,16 +138,16 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "b81b05a54a80069c",
+  "active": "66c4ef1bf798ecc9",
   "lastOpenFiles": [
+    "Chives-of-Wrath.md",
+    "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "2021-7-13-One-Hundred-and-Fortieth.md",
     "Dragon-Kingdom-of-Wrenly.md",
     "Bibliography.md",
-    "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination.md",
     "authors-nonfiction.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
-    "Chives-of-Wrath.md",
     "2021-7-12-One-Hundred-and-Thirty-Ninth.md",
     "Untitled.md"
   ]
