@@ -24,5 +24,11 @@ Based on my current (potentially premature) understanding, manipulating substoic
 ---
 It would lack... a certain ambition, but attempting to edit chives with a known mitochondria controlling gene would probably be easiest to achieve success on.  Whether differential metabolic traits would be readily demonstrated from that is not clear to me
 
+...hmm, should I put this stuff in the 'Chives of Wrath' page itself?
+
+https://www.pnas.org/content/100/10/5968 (Ricardo V. Abdelnoor, Ryan Yule, Annakaisa Elo, Alan C. Christensen, Gilbert Meyer-Gauen, and Sally A. Mackenzie.  (May 13, 2003.) Substoichiometric shifting in the plant mitochondrial genome is influenced by a gene homologous to MutS. *Proceedings of the National Academy of Sciences of the United States of America*.  Retrieved 2021-7-13.)
+
+This one mostly just shows off how far I am from an ideal knowledge base for experimentation.  It talks of using biolistic delivery... of arabidopsis leaves... with tungsten particles... into arabidopsis leaves.  What?  How do you deliver leaves into leaves?  What was the gene target?  I'm almost certain a better geneticist than I could parse this paper into something salient... and not certain at all what if any of this should go into the project notes itself.  Bleh.
+
 ---
 Back to [[day-post-archive]]
