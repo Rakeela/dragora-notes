@@ -20,7 +20,7 @@ I'm going to try to scrape superficial stem grafts from donor plants and apply t
 
 Hypothesis:  Mitochondria will move between the cells in the donor tissue and the cells of the chive sprouts, recombining with the mitochondria in the chive sprouts and spreading through the chive plants as they grow.
 
-TBD:  Donor plant source, specific environmental stresses applied between control chives and experimental chives (if any).
+TBD:  Donor plant source, specific environmental stresses applied between control chives and experimental chives (if any).  I'm not going to worry about substoichiometric shifting just yet, but I'll put a note here for the future.
 
 ---
 Grow rig planning
