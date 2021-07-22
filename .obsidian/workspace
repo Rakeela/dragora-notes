@@ -10,7 +10,7 @@
           {
             "id": "4edf39a5f02aef05",
             "type": "split",
-            "dimension": 46.10726643598616,
+            "dimension": 46.10726643598617,
             "children": [
               {
                 "id": "93ca72a09fd26144",
@@ -40,7 +40,7 @@
           {
             "id": "79ce6b590109695a",
             "type": "split",
-            "dimension": 53.89273356401384,
+            "dimension": 53.89273356401383,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-7-20-One-Hundred-and-Forty-First.md",
+                    "file": "2021-7-22-One-Hundred-and-Forty-Second.md",
                     "mode": "source"
                   }
                 }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-7-20-One-Hundred-and-Forty-First.md",
+                "file": "2021-7-22-One-Hundred-and-Forty-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   "active": "b81b05a54a80069c",
   "lastOpenFiles": [
     "Untitled.md",
+    "2021-7-20-One-Hundred-and-Forty-First.md",
     "2021-7-13-One-Hundred-and-Fortieth.md",
     "Volumetrics-Feel-Full-on-Fewer-Calories.md",
     "Bibliography.md",
@@ -148,7 +149,6 @@
     "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "Dragon-Kingdom-of-Wrenly.md",
     "Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination.md",
-    "authors-nonfiction.md",
-    "a-general-protocol-for-tolerogenic-rna-vaccination.md"
+    "authors-nonfiction.md"
   ]
 }
