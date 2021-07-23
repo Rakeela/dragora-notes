@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chives-of-Wrath.md",
+                "file": "2021-7-22-One-Hundred-and-Forty-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,9 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "b81b05a54a80069c",
   "lastOpenFiles": [
+    "2021-7-22-One-Hundred-and-Forty-Second.md",
     "Chives-of-Wrath.md",
     "Volumetrics-Feel-Full-on-Fewer-Calories.md",
     "Untitled.md",
@@ -148,7 +149,6 @@
     "Bibliography.md",
     "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "Dragon-Kingdom-of-Wrenly.md",
-    "Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination.md",
-    "authors-nonfiction.md"
+    "Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination.md"
   ]
 }

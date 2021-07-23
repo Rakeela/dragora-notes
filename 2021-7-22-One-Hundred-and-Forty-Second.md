@@ -10,4 +10,9 @@ My first round of chive seeds have been planted.  This is just a test grow to tr
 I do feel like I just got a lesson in why religion survived throughout history.  The seeds are so small as to be immaterial themselves.  I would drop them into the rockwool, and in nearly every case I instantly lost sight of the seeds.  I just have to believe that they're there and will react appropriately to the conditions they find.
 
 ---
+I also feel like I ought to be working a whole greenhouse.  Putting in a few seeds just doesn't feel like real work.  Maybe it's part of a path to having a real greenhouse environment?  Everloathing Agritechnologies will want that.
+
+Will the seeds really sprout?  What about the one bit of rockwool where I accidentally dropped in three, will those plants be okay?
+
+---
 Back to [[day-post-archive]]
