@@ -48,4 +48,10 @@ The first aeroponic device I bought was poorly designed.  I've given it to my SO
 A new aeroponic device has been ordered.  I'll start with a test grow to learn how to use it.  If the test grow goes well, the current plan is that I'll order two further aeroponic devices for actual experimental use.
 
 ---
+2021-7-22:
+My first round of chive seeds have been planted.  This is for my test grow to try to overcome my total inexperience at farming.  We'll see if the seedlings sprout; if they don't, we'll see if I can learn why they didn't.  I need a certain basic level of skill in order to produce the plant mitochondria research that is my eventual objective, and I don't think I've got it on native talent.
+
+The new aeroponic device was set up without issue, I'll note.  I should've added that to my log before.
+
+---
 Back to [[Everloathing-Agritechnologies]]
