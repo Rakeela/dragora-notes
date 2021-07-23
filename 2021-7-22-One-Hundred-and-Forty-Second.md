@@ -5,4 +5,9 @@ Omelas relies on a system of perfect policing.  The child of Omelas is a boast t
 As in all other ways, Omelas is a paradise, so it catches all the other petty offenders.  The purse-snatchers get caught, the randomly violent people get caught, the vandals and the killers get caught.  There are no petty tyrants in Omelas.  Surely this is correct in a utilitarian sense!  They are providing more happiness for everyone this way.  Good or evil, none can violate the law of Omelas.
 
 ---
+My first round of chive seeds have been planted.  This is just a test grow to try to overcome my total inexperience at farming.  We'll see if the seedlings sprout; if they don't, we'll see if I can learn why they didn't.  I need a certain basic level of skill in order to produce the plant mitochondria research that is my eventual objective, and I don't think I've got it on native talent.
+
+I do feel like I just got a lesson in why religion survived throughout history.  The seeds are so small as to be immaterial themselves.  I would drop them into the rockwool, and in nearly every case I instantly lost sight of the seeds.  I just have to believe that they're there and will react appropriately to the conditions they find.
+
+---
 Back to [[day-post-archive]]
