@@ -7,4 +7,7 @@ I mention this to establish a point: consensus alone cannot safeguard justice.  
 This isn't apropos of anything in particular.  I just think about this stuff.
 
 ---
+I'm considering studying the kaballah more, and contemplating it as a metaphorical flow of energy.  As a system not of something to invoke, but of potential (postulated) interconnections.
+
+---
 Back to [[day-post-archive]]
