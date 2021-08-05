@@ -1,6 +1,6 @@
 #Northern-Creche-Confederation 
 
-The Northern Creche Confederation, or more properly "the Defensive Alliance of the Northern Creche Confederation", was the single most widely signed treaty among the [[dragon]]s of my homeworld.  Generally signed in childhood, it was arguably the foundation of our system of explicit social contracts.  'Everyone' was signatory to the alliance pact of the Northern Creche Confederation, and whosoever lived in the Northern Creche Confederation did so in their true forms.  It was our homeland.
+The Northern Creche Confederation, or more properly "the Defensive Alliance of the Northern Creche Confederation", was the single most widely signed treaty among the [[dragon]]s of my homeworld.  Generally signed in childhood, it was arguably the foundation of our system of explicit social contracts.  'Everyone' was signatory to the alliance pact of the Northern Creche Confederation, and whosoever lived within the territory of the Northern Creche Confederation itself did so in their true forms.  It was our homeland.
 
 In most of that world, dragons were few and secretive.  We were very long-lived shapeshifters.  We lived everywhere, but not as ourselves.  Not as great dragons, but mostly as 'humans'...  Dragons who lived openly, such as the priesthood of the wind goddess, were seen as crazy risk-takers who were probably going to die.
 

@@ -54,4 +54,8 @@ My first round of chive seeds have been planted.  This is for my test grow to tr
 The new aeroponic device was set up without issue, I'll note.  I should've added that to my log before.
 
 ---
+2021-8-05:
+My chives have mostly sprouted.  I don't really know how to judge their growth.  I know to transplant them when they've outgrown their rockwool and can therefore gain sustenance from the aeroponics system.  I don't know how long that will take.  I don't know how deep chive roots even are.  Did I use the right amount of rock wool?  I'm self-conscious about my own ignorance.
+
+---
 Back to [[Everloathing-Agritechnologies]]
