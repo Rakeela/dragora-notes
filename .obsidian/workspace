@@ -8,12 +8,12 @@
         "type": "split",
         "children": [
           {
-            "id": "4edf39a5f02aef05",
+            "id": "3ee417095b2dfb2a",
             "type": "split",
             "dimension": 46.10726643598617,
             "children": [
               {
-                "id": "93ca72a09fd26144",
+                "id": "66c4ef1bf798ecc9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -24,7 +24,7 @@
                 }
               },
               {
-                "id": "66c4ef1bf798ecc9",
+                "id": "916cb216d2543ece",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-8-05-One-Hundred-and-Fifty-Ninth.md",
+                    "file": "2021-8-07-One-Hundred-and-Sixtieth.md",
                     "mode": "source"
                   }
                 }
@@ -100,6 +100,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "93ca72a09fd26144",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-8-07-One-Hundred-and-Sixtieth.md",
+                "mode": "source"
+              }
+            }
           }
         ]
       }
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Northern-Creche-Confederation.md",
+                "file": "2021-8-07-One-Hundred-and-Sixtieth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +149,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "93ca72a09fd26144",
+  "active": "b81b05a54a80069c",
   "lastOpenFiles": [
+    "2021-8-07-One-Hundred-and-Sixtieth.md",
     "Northern-Creche-Confederation.md",
-    "day-post-archive.md",
+    "Dragon-Kingdom-of-Wrenly.md",
     "2021-8-05-One-Hundred-and-Fifty-Ninth.md",
-    "Chives-of-Wrath.md",
     "Untitled.md",
+    "Chives-of-Wrath.md",
+    "day-post-archive.md",
     "2021-8-02-One-Hundred-and-Fifty-Eighth.md",
     "2021-7-30-One-Hundred-and-Fifty-Seventh.md",
-    "2021-7-29-One-Hundred-and-Fifty-Sixth.md",
-    "2021-7-27-One-Hundred-and-Forty-Fourth.md",
-    "2021-7-26-One-Hundred-and-Forty-Third.md"
+    "2021-7-29-One-Hundred-and-Fifty-Sixth.md"
   ]
 }
