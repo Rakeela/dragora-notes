@@ -1,0 +1,16 @@
+#2021-8-08-One-Hundred-and-Sixtieth 
+
+I've been writing another story... for two days.  The first 9,999 words passed in a blink, metaphorically speaking, and that is where the story stands.  I feel like I can only hope helplessly for that inspiration to continue.  It has so far!
+
+I want to express my gratitude for the text generating applications which are available online.  The two I've used so far have been AI Dungeon and HoloAI, both of which have good traits that I've enjoyed.
+
+I've used AI Dungeon to salutary effect before, and it has what strikes me as the best generative capacity.  I can really feel like I'm collaborating with the AI in AI Dungeon, and a lot of what it puts out stands up with only a little editing.  It makes for a better game, too; it's better at facilitating exploration of an unknown environment.  The downside is that it's a little too... uh... opinionated.  AI Dungeon once stonewalled a story at an insulting point, and there was another time that AI Dungeon broke the fourth wall to cuss at me personally about my writing.  I don't see such things among its documented features and they're unsettling behaviors.  I'm also unsure about the privacy of what I write with AI Dungeon, as I know the whole story database has leaked before.
+
+For this project, I've been making my first use of HoloAI.  The immediate point of superiority for HoloAI is that it has a better, more responsive text-editing interface.  It's a better word processor.  The devs claim everything is encrypted, and I've personally already filed bugs against the site which they claimed were caused by errors in encryption handling, specifically that the text encrypted and decrypted in a lossy manner.  That's promising; I feel I can reasonably hope my privacy is better with HoloAI. Now, the generator is unfortunately not as good.  I can't use a tenth of what it outputs.  Yet I'm finding that top-quality generation is not really necessary for the inspiration-generating function of the text generators to work, as what they really provide is a kind of creative lubricant.  When I get stuck, I can tell HoloAI to produce twelve continuations.  I may then be able to use one, to adapt prose/concepts from one of them, or just to think of the scene in a new way based on them that helps me see where I would like to go with it next.  I think that contributed to my producing nearly ten thousand words in two days.
+
+One other thing.  I've been using concepts of sex in the story, but under my own terms and without explicit content.  I'm really seeing the literalism of the term "explicit" in the phrase "explicit sexual content", and I'm glad that I'm no longer under social pressures that would demand that I get IKEA about it.  Working with implicit high sexuality doesn't feel quite as awful, and I can move on from it more easily.
+
+The story I'm writing is really about a small society.  A cast of just under forty people is setting up to explore a high-tech ruin.  There's a worthy novel in the concept; what remains to be seen is whether I can bring it out, or whether I'll mistrike my chisel and shatter another good sculpture.
+
+---
+Back to [[day-post-archive]]
