@@ -21,5 +21,10 @@ Identity:
 [[pacifist]]
 
 ---
+Longings:
+[[imagine-a-brain-implant]]
+[[Imagine-a-body-implant]]
+
+---
 Trivia:
 [[paprika]]
