@@ -567,6 +567,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Note on synergy:  If I believed that enlightened policing actually protected the public more than it protected corrupt people from miserable dissidents, I'd believe it defended the utopianism of creche education services more...
 	14.  Bureaucratic waste analysis:  Mostly literal.  The schools are 'unnecessary' expenses that require large amounts of administrative talent for marginal returns.  Also, you occasionally get cases like mine; my childhood opposition to public schooling was seen as "primitive", but it was rooted in my high-tech ideals, as my school did not serve them very well at all!
 	15.  Utopic rating:  2/5, +1 in Imperial-majority populations (serenity), +1 if mental transcription services are present, +1 if aging is curable, -2 with nationalist indoctrination, -1 with panarchic indoctrination
+	16.  Public protection rating: 4/5
+	17.  Technological smoothness: 5/5
+	18.  Technological extremophilia: 4/5
+	19.  Kind of person most protected: Schoolteachers.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
@@ -608,6 +612,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-6-18;  Maybe I really will hack this game eventually.  I've been thinking about how many of the technologies synergize with each other in various ways.  Maybe the game needs a synergies system.  Something like this:  Each tech is 50% synergistic with the technologies in its own ideology block, and 50% synergistic with technologies across the board.  The proportion of a project's synergies that you've built in a district is subtracted from the technology's bureaucratic waste in that district, so that synergistic technologies are more cost-effective in one anothers' proximity, and thematically focused strategies create less bureaucratic overhead.
 
 2021-6-20;  I don't think a Happiness increase is the right effect for Enlightened Policing.  I think that it should actually be a Science improvement (reflecting the scary oversight technologies used to perfect policing), or else it should be a Cultural improvement.  Policing as a cultural improvement requires some explanation.  It doesn't refer to cultural products ABOUT police, certainly; rather, it reflects the more liberated culture that arises when petty abusers are no longer free to control others through unlawful means.  That more liberated culture is not necessarily happier... it's likely to be *boredom-prone*, and to include a lot of "annoying" dissident types who would just be murdered in a more violently primitive environment.  So that society which invests in protecting people will have more of its bizarre cultural producers survive.  I would still retain the prison planet tech as a +Happiness tech, but I'd reflavor it to Paternalistic Surveillance and come up with some way to briefly describe it as the surveillance system being used to try to solve people's problems.  I don't think such policies are ideal... but I bet people who are keen on absolute policing would think such policies are ideal, savvy?
+
+2021-8-09;  I think the Old Empire's "hyperspace links" are (generally) technologies that can be mathematically proven to work if people believe in them.  This includes their "technologies" for managing financial markets.  If people just believe in stable markets and keep putting money away for the purpose...  This also demonstrates the basic failure of their "technology" for managing financial markets.
 
 ---
 The Much-Reviled Lower Classes
