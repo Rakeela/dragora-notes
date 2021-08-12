@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-8-11-One-Hundred-and-Sixty-Second.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-8-11-One-Hundred-and-Sixty-Second.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,19 +147,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
   },
   "active": "b81b05a54a80069c",
   "lastOpenFiles": [
-    "Untitled.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "2021-8-11-One-Hundred-and-Sixty-Second.md",
+    "Untitled.md",
     "Imagine-a-body-implant.md",
     "authors-ideals.md",
     "imagine-a-brain-implant.md",
     "2021-8-07-One-Hundred-and-Sixtieth.md",
     "Northern-Creche-Confederation.md",
     "Dragon-Kingdom-of-Wrenly.md",
-    "2021-8-05-One-Hundred-and-Fifty-Ninth.md",
-    "Chives-of-Wrath.md"
+    "2021-8-05-One-Hundred-and-Fifty-Ninth.md"
   ]
 }
