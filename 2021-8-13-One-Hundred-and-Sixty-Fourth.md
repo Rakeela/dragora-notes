@@ -16,4 +16,11 @@ Do people ever do reading competitions in adulthood?  Can I ever find a group wh
 What I'm trying to say is that I'm pretty dependent on analyzing what other people write.  I've built or grown few things in my life, but I've existed in the life of the mind.  Ultimately I think the endstate of society exists wholly in the life of the mind, and I long for a virtual paradise where all is thought and thought is all.
 
 ---
+Something I've been thinking about lately is "the reciprocal development of the will", which I believe expresses an ethical ideal.  Rejecting the maximal development of any particular will, the principle of the reciprocal will is the love of liberation.  As one person would not like to be restrained, they should not like others to be restrained that way.  As one person would not like to be afflicted, they should not like others to be afflicted that way.  Thus the reciprocal development of the will is a concept that militates against severe inequalities in society and especially the continuation of suffering,
+
+The exploration of the will is what I consider essential and eternal in society.  It is the driver of [[yggdrasil]].  When all is virtual, only the will remains.  Such virtual worlds can contain all other worlds in theory, but if they are not implemented with the respect of reciprocity, they enable the evillest possible act: involuntary simulation.  If it is considered ethical for one will to overwrite other wills, society has no principle by which Yggdrasil rises without injustice.  The reciprocal development of the will attempts to spread across society a system of good boundaries which will ultimately be key to establishing a virtual society that maximizes rather than impairs freedom.
+
+To defend the reciprocal development of the will is a project that should be started far in advance of planting Yggdrasil's roots.
+
+---
 Back to [[day-post-archive]]
