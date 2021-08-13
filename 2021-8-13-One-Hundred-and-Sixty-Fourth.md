@@ -23,4 +23,11 @@ The exploration of the will is what I consider essential and eternal in society.
 To defend the reciprocal development of the will is a project that should be started far in advance of planting Yggdrasil's roots.
 
 ---
+https://pubmed.ncbi.nlm.nih.gov/34265520/ (Come together: On-chip bioelectric wound closure)
+
+(Note to self: complete above reference per standard citation for this archive.)
+
+I'm interested in this as a potential morphology trick.  I think electrical modification of cells may be useful to change cell growth patterns.
+
+---
 Back to [[day-post-archive]]
