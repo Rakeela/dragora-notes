@@ -24,10 +24,8 @@ To defend the reciprocal development of the will is a project that should be sta
 
 ---
 Bioelectric wound modification:
-https://pubmed.ncbi.nlm.nih.gov/34265520/ (Come together: On-chip bioelectric wound closure)
-https://pubmed.ncbi.nlm.nih.gov/32534380/ (Application of stable continuous external electric field promotes wound healing in pig wound model)
-
-(Note to self: complete above reference per standard citation for this archive.)
+Zajdel, T.J.  Shim, G.  Cohen, D.J.  (2021, Jul. 8)  Come together: On-chip bioelectric wound closure.  Biosensors and Bioelectronics.  Retrieved 2021-8-13 from https://pubmed.ncbi.nlm.nih.gov/34265520/
+Yi Liang, Hao Tian, Jie Liu, YanLing Lv, Yuan Wang, JiaPing Zhang, YueSheng Huang.  (2020, Oct.) Application of stable continuous external electric field promotes wound healing in pig wound model.  Retrieved 2021-8-13 from https://pubmed.ncbi.nlm.nih.gov/32534380/
 
 I'm interested in this as a potential morphology trick.  I think electrical modification of cells may be useful to change cell growth patterns.
 
