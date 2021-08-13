@@ -23,11 +23,18 @@ The exploration of the will is what I consider essential and eternal in society.
 To defend the reciprocal development of the will is a project that should be started far in advance of planting Yggdrasil's roots.
 
 ---
+Bioelectric wound modification:
 https://pubmed.ncbi.nlm.nih.gov/34265520/ (Come together: On-chip bioelectric wound closure)
+https://pubmed.ncbi.nlm.nih.gov/32534380/ (Application of stable continuous external electric field promotes wound healing in pig wound model)
 
 (Note to self: complete above reference per standard citation for this archive.)
 
 I'm interested in this as a potential morphology trick.  I think electrical modification of cells may be useful to change cell growth patterns.
+
+---
+Snake scales could be important for advancing the acceptance of morphological freedom.  Snakes have smooth, appealing, and often colorful scales.  That good look could result in more charismatic morphs.
+
+I'm thinking here about some of the things I learned from snake handlers during school field trips in youth, too.  The appealing texture of snake scales sometimes takes people from surprise, because they've never looked closely at them, nor had the chance to pet a docile snake.  Snake-morphs would be docile enough to pet more often than actual snakes!
 
 ---
 Back to [[day-post-archive]]
