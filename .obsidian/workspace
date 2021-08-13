@@ -38,7 +38,7 @@
             "direction": "vertical"
           },
           {
-            "id": "79ce6b590109695a",
+            "id": "39274a998c0e6ae8",
             "type": "split",
             "dimension": 53.89273356401383,
             "children": [
@@ -51,12 +51,12 @@
                 }
               },
               {
-                "id": "b81b05a54a80069c",
+                "id": "7a3178b850a00218",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "cannabis.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "cannabis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "width": 304,
     "collapsed": true
   },
-  "active": "b81b05a54a80069c",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "cannabis.md",
+    "cannibalism.md",
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+    "authors-nonfiction.md",
+    "news-archive.md",
+    "medical-news-archive.md",
+    "Untitled.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "dragon.md",
-    "Northern-Creche-Confederation.md",
-    "2021-8-11-One-Hundred-and-Sixty-Second.md",
-    "Untitled.md",
-    "Imagine-a-body-implant.md",
-    "authors-ideals.md",
-    "imagine-a-brain-implant.md",
-    "2021-8-07-One-Hundred-and-Sixtieth.md",
-    "Dragon-Kingdom-of-Wrenly.md"
+    "Northern-Creche-Confederation.md"
   ]
 }
