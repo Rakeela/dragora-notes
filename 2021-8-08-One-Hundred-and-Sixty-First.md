@@ -1,4 +1,4 @@
-#2021-8-08-One-Hundred-and-Sixtieth 
+#2021-8-08-One-Hundred-and-Sixty-First
 
 I've been writing another story... for two days.  The first 9,999 words passed in a blink, metaphorically speaking, and that is where the story stands.  I feel like I can only hope helplessly for that inspiration to continue.  It has so far!
 
