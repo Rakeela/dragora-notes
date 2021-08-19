@@ -58,4 +58,8 @@ The new aeroponic device was set up without issue, I'll note.  I should've added
 My chives have mostly sprouted.  I don't really know how to judge their growth.  I know to transplant them when they've outgrown their rockwool and can therefore gain sustenance from the aeroponics system.  I don't know how long that will take.  I don't know how deep chive roots even are.  Did I use the right amount of rock wool?  I'm self-conscious about my own ignorance.
 
 ---
+2021-8-18:
+My chives look kind of terrible.  I'm not sure what I've done wrong in tending them.  They're not dead yet, so I'll keep going, but I think botany classes may be an important part of my educational future.
+
+---
 Back to [[Everloathing-Agritechnologies]]
