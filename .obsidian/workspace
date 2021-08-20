@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 46.10726643598617,
+            "dimension": 15.885623510722796,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 53.89273356401383,
+            "dimension": 84.1143764892772,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Videogame-Wishlist.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chives-of-Wrath.md",
+                "file": "Videogame-Wishlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "width": 304,
     "collapsed": true
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
-    "Chives-of-Wrath.md",
+    "Videogame-Wishlist.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "Chives-of-Wrath.md",
     "Untitled.md",
     "Northern-Creche-Confederation.md",
     "2021-8-13-One-Hundred-and-Sixty-Fourth.md",
     "envs100disc1-introduction.md",
     "authors-nonfiction.md",
     "cannabis.md",
-    "2021-8-08-One-Hundred-and-Sixtieth.md",
-    "dragon.md"
+    "2021-8-08-One-Hundred-and-Sixtieth.md"
   ]
 }
