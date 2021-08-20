@@ -688,6 +688,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-8-16;  I'm starting to doubt my initial generalization of inequality going up with the vertical on the graph.  I've noticed now that Artificial Dreamtime and Holistic Industrialization are pro-egalitarian technologies (at the very peak of the graph), whereas I noticed before that the Eternal Bank Tower (on the lower right of the graph) is anti-egalitarian in its probable implications.  On the basis of these three examples, this would suggest that egalitarian rises with the vertical, but changing this would require me to completely redo a lot of the Imperial-perspective writeups.  NBD if so, my intent is that barring a published book from my hands, this material is all mutable hobby-stuff.
 
+2021-8-20; A general factor producing non-literal "bureaucratic waste" with pro-science investments could be the recursive application of "scientific productivity optimizations" producing a population whose concept of "recreation" is...  cerebral beyond applicability.  Someone once commented about "end-stage societies calculating ever-finer approximations for pi just to enjoy the experience of being" and I think that may have been a conceivably applicable insight when applied here.  If you consider the implications of recursively applied mind modifications (I assume these societies have cybernetics), the possibility of self-modifying beyond the productive scope becomes worth considering.
+
 ---
 The Much-Reviled Lower Classes
 
