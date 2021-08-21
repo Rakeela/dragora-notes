@@ -643,13 +643,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.  Downside analysis:  The conviction that people react predictably can be misused by those who would control society as though reprogramming it.  This technology invokes that, too.
 	5.  Downside analysis:  The gibberish rate rises in culture.  Impenetrably "refined" interpretations proliferate as people try to explore the limits of communication.  This happens under 'Sapience Axioms', too.
 	6.  Downside analysis:  I went through hell as a niche artistic performer with an audience who were dead sure I wanted to be doing what I was doing... and nobody could rescue me until that social environment fell apart completely.  This happened because people were sure that they understood what other minds were like, and they interpreted everything about me through that lens, including my complaints.  This is one of the things that can go wrong with Mental Unity.
-	7.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
-	8.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
-	9.  Utopic rating:  4/5, -2 in feudal societies
-	10.  Public protection rating:  4/5, -2 in feudal societies
-	11.  Technological smoothness:  5/5
-	12.  Technological extremophilia:  4/5
-	13.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
+	7.  Downside analysis:  If what people think is universal is reproductive desire, the utopianism of this technology falls farther.  This is another thing that I am judging from my own experiences, for which I am giving this -1 utopianism where natalist policies are active.
+	8.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
+	9.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
+	10.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
+	11.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
+	12.  Technological smoothness:  5/5
+	13.  Technological extremophilia:  4/5
+	14.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
