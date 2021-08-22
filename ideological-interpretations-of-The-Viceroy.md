@@ -657,12 +657,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	3.  Mechanism proposal:  This tech is kind of grim.  It sounds like... public healthcare failures repainted into successes, as the survivors of plagues are the people who believed that they (or their lineages) would survive plagues.  The DNA of such failed geneticists would be riddled with introns and inclusions from the viruses that ran rampant in their society.  But they would be more optimistic on average.  Yay?
 	4.  Narrative indicator:  Plague.  Filth.  A society rotting apart in the control of sociopathic geneticists.  This is the kind of thing that would take over society if we let old school bigots have all their eugenics projects forever.  Their anti-compassionate misunderstandings of genetics would fail them forever.
 	5.  Authorial protest:  I'm just gonna say it again, this slot really needs to belong to "Horizontal Eugenics".  Sure, the statwise effect is just +Happiness either way, but...  we can do better than... failures which naturally select for happiness.
-	6.  Bureaucratic waste proposal:  Zero literalism.  This is (as described in the base game) a dystopian technology that reduces bureaucratic talent by killing bureaucrats.  Horizontal eugenics would be a much more literal bureaucratic waste, with non-literal components arising only from hedonic pursuit of irrelevant specialties... but Engineered Optimism?  Oh yeah, it just kills off people who the state needs.
-	7.  Utopia rating:  1/5
-	8.  Public protection rating:  1/5
-	9.  Technological smoothness:  5/5
-	10.  Technological extremophilia:  Territory average +1 (max 5/5)
-	11.  Kind of person most protected:  People with really good innate immune systems.
+	6.  Mechanism proposal:  This society is probably also riddled with gene plagues as contagious "updates" to their genomes spread.
+	7.  Apologia:  There could be some theoretical utility from contagious DNA updating.  That's why orbital hospitals and urban planning make it suck less - as those strengthen, the public health authorities get more competent and have more ability to do sane things with this bad idea.  It's still a bad idea though.  Come on, this should be Horizontal Eugenics in this slot!
+	8.  Bureaucratic waste proposal:  Zero literalism.  This is (as described in the base game) a dystopian technology that reduces bureaucratic talent by killing bureaucrats.  Horizontal eugenics would be a much more literal bureaucratic waste, with non-literal components arising only from hedonic pursuit of irrelevant specialties... but Engineered Optimism?  Oh yeah, it just kills off people who the state needs.
+	9.  Utopia rating:  1/5,  +1 with orbital hospitals, +1 with urban planning
+	10.  Public protection rating:  1/5, +1 with orbital hospitals, +1 with urban planning
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  Territory average +1 (max 5/5)
+	13.  Kind of person most protected:  People with really good innate immune systems.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
