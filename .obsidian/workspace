@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 61.000794281175544,
+            "dimension": 34.55123113582208,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 38.99920571882446,
+            "dimension": 65.44876886417792,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feather-Integument.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,13 @@
     "width": 304,
     "collapsed": true
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "Feather-Integument.md",
     "authors-nonfiction.md",
     "Chives-of-Wrath.md",
     "Everloathing-Agritechnologies.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "Untitled.md",
     "Videogame-Wishlist.md",
     "Northern-Creche-Confederation.md",
