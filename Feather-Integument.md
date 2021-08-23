@@ -4,7 +4,5 @@ I'm pretty sure I'm not supposed to put my notes on this in the public.  I'll ha
 
 Preliminary discussion on the approval looks promising.  So I'll record one thought, at the least.  It looks to me like getting feathers to take root in human skin could be done with homogenized integument transplants from suitable avian donors, if the human recipient had first been genetically modified to have skin whose protein constitution is supportive rather than suppressive of feather development.  That gene modification package would also cause all the hair on the body of the human in question to fall out, both head and body hair, so that the bearer of the modifications would have smooth, hairless skin.  Figuring out which genes map to which suppressive effects sounds like a twenty year research project working with microfluidics chips to test different gene modification packages... and I'm concerned that the resulting body would need new implants every time a feather fell out... but the metamorphosis looks theoretically possible to me.
 
-Maybe greys are plucked birds trying to emphasize their connection to past humanity by presenting themselves without feathers.  (This line will be deleted, but Github will preserve it.)
-
 ---
 Back to [[authors-nonfiction]]
