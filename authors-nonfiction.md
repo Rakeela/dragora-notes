@@ -24,6 +24,8 @@ Notes for potential essays:
 
 Experimental proposals:
 * [[Universal-tolerogenic-dendritic-cell-experiment-1]]
+* [[Chives-of-Wrath]]
+* [[Feather-Integument]]
 
 Back to [[authors-writing]]
 
