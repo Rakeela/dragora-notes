@@ -8,7 +8,7 @@ Anyways, I've not decided if I should upload the Theoma archive to the public or
 
 Draco Cretel has been showing off his ability to write about child dragons without child molestation.  Good for him, if he's actually a single person, and not (as I suspect) a collective psuedonym for a group of stalkers who hate me for rejecting the pedophile simulations they had me doing.  I'm Ihroun as one of my psuedonyms, because Ihroun expressed part of my frustration over being valued only for sex by people who acted like they were superior creatives with superior empathy even though all they wanted out of me was cybersex.
 
-Marchosias expressed another part of that frustration, but I can't be 'Marchosias'.  I'd rather not adopt a psuedonym drawn directly from the Goetia.  I don't feel that source material gives me enough sense of what the characters *should* be... and anyways, 'Marchosias' is more someone who taught me than someone I am, because I learned such surprising things from playing that character in her own mind.
+Marchosias expressed another part of that frustration (particularly as there was *no rescue for her* in a childhood scenario written to involve clear molestation), but I can't be 'Marchosias'.  I'd rather not adopt a psuedonym drawn directly from the Goetia.  I don't feel that source material gives me enough sense of what the characters *should* be... and anyways, 'Marchosias' is more someone who taught me than someone I am, because I learned such surprising things from playing that character in her own mind.
 
 ---
 Back to [[day-post-archive]]
