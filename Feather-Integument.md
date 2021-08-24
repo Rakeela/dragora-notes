@@ -7,4 +7,17 @@ Preliminary discussion on the approval looks promising.  So I'll record one thou
 Should I list every possible conflicting gene?  That's my intuition for how to proceed from here.  I haven't yet gotten a formal response on whether I *may*...
 
 ---
+I've gotten permission to begin recording here as long as I am listing specifically links to research and descriptions of research, but not 'secondary analysis' of research data.  I am somewhat unclear of the meaning of that.
+
+https://www.ncbi.nlm.nih.gov/books/NBK10037/ =
+Gilbert SF. (2000). *Developmental Biology: 6th edition*. Sinauer Associates.
+
+This is from a textbook.  I looked this up while searching for information about how the integument initially forms.  My basic knowledge level is pretty low, so I'm still studying the integument itself to find potential intervention points for the generation of hypotheses.  This notably mentions reaction-diffusion process for patterning of integument.
+
+---
+Mingke Yu, Zhicao Yue, Ping Wu, Da-Yu Wu, Julie-Ann Mayer, Marcus Medina, Randall B. Widelitz, Ting-Xin Jiang, and Cheng-Ming Chuong. (2015, March 31). The developmental biology of feather follicles. *International Journal of Developmental Biology*, *48*(0), 181-191. ncbi.nlm.nih.gov/pmc/articles/PMC4380223/
+
+This is about the specific formation of feathers.  It has some pretty stellar diagrams that I wanted to include a link to.  The authors also mention producing a transgenic feather in the abstract.  I haven't read a great deal of it (at the time of first updating the file with this content).
+
+---
 Back to [[authors-nonfiction]]
