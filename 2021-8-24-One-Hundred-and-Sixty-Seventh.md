@@ -11,4 +11,13 @@ Draco Cretel has been showing off his ability to write about child dragons witho
 Marchosias expressed another part of that frustration (particularly as there was *no rescue for her* in a childhood scenario written to involve clear molestation), but I can't be 'Marchosias'.  I'd rather not adopt a psuedonym drawn directly from the Goetia.  I don't feel that source material gives me enough sense of what the characters *should* be... and anyways, 'Marchosias' is more someone who taught me than someone I am, because I learned such surprising things from playing that character in her own mind.
 
 ---
+I've bought a small collection of Christian books today from a local bookstore called McDonald's Book Exchange.  The owner was working the register herself.  She complained of a lack of business and gave me an advertising flier that I've promised to post up somewhere at my college.  I don't plan to ask permission; it's a minor offense and harmless enough.  (I know it's practically littering, but I also do unpaid cleanup work in areas that I frequent.)
+
+The store's selection is in most respects not stand-out.  It's rather a hole-in-the-wall.  Still, it saddens me to think that they cannot survive in our area.  I love that Redmond *has* a hole-in-the-wall bookshop.  I would like it to remain.
+
+There is one sense in which the selection at McDonald's Book Exchange stands out.  For Christian books specifically they have the best selection in the area.  I don't exactly mean bibles and books about the Christian canon.  I mean books inspired by Christianity, whose authors are proud of the origin of their thought in religious contemplation and the values of religious communities.
+
+My historic engagement with Christianity has been abstract and reclusive.  I contemplate the life of Christ on a near-daily basis, though I am not Christian I consider Christ to have been a forerunner of modern ethics from a surprisingly early point in history.  Yet I am not... actually a prolific reader.  It's strange to admit, but I'm more of a book hoarder than a reader.  My desk is cluttered with partially read books all of which I intend to finish 'eventually', and I've just added a grocery bag full of books to the backlog.  If I ever get deep into my backlog... I intend to learn more about the Christian perspective from within that perspective, as it is seen by people with the wherewithal to write books.  I respect authorship.
+
+---
 Back to [[day-post-archive]]

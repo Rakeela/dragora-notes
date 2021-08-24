@@ -19,5 +19,7 @@ This is about the specific formation of feathers.  It has some pretty stellar di
 
 ...the interaction of genetics and ontogeny is stupidly complex.  Studying this gives the semblance of impossibility.  It's all secretory chaos with chemicals diffusing across the interstitial spaces of a multicellular organism.  Do the patterns cancel out in different ways at different growth stages?  (This line marked for later deletion.)
 
+There's not a lot of genetics information here, but it's a good background in how the feathers develop.  This mentions something I haven't seen before: that the central ("medulla") cells in the feather become "empty" and thereby give feathers "stronger architecture".  What does that mean?  Do the cells become keratinized vacuoles?  Where can I find more information on the process that creates "empty" cells?
+
 ---
 Back to [[authors-nonfiction]]
