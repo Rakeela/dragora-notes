@@ -17,5 +17,7 @@ Mingke Yu, Zhicao Yue, Ping Wu, Da-Yu Wu, Julie-Ann Mayer, Marcus Medina, Randal
 
 This is about the specific formation of feathers.  It has some pretty stellar diagrams that I wanted to include a link to.  The authors also mention producing a transgenic feather in the abstract.  I haven't read a great deal of it (at the time of first updating the file with this content).
 
+...the interaction of genetics and ontogeny is stupidly complex.  Studying this gives the semblance of impossibility.  It's all secretory chaos with chemicals diffusing across the interstitial spaces of a multicellular organism.  Do the patterns cancel out in different ways at different growth stages?  (This line marked for later deletion.)
+
 ---
 Back to [[authors-nonfiction]]
