@@ -17,9 +17,19 @@ Mingke Yu, Zhicao Yue, Ping Wu, Da-Yu Wu, Julie-Ann Mayer, Marcus Medina, Randal
 
 This is about the specific formation of feathers.  It has some pretty stellar diagrams that I wanted to include a link to.  The authors also mention producing a transgenic feather in the abstract.  I haven't read a great deal of it (at the time of first updating the file with this content).
 
-...the interaction of genetics and ontogeny is stupidly complex.  Studying this gives the semblance of impossibility.  It's all secretory chaos with chemicals diffusing across the interstitial spaces of a multicellular organism.  Do the patterns cancel out in different ways at different growth stages?  (This line marked for later deletion.)
+...the interaction of genetics and ontogeny is stupidly complex.  Studying this gives the semblance of impossibility.  It's all secretory chaos with chemicals diffusing across the interstitial spaces of a multicellular organism.  Do the patterns cancel out in different ways at different growth stages?  There is no intelligence guiding the growth and making the decisions by which biological structures grow, but yet they grow with intense and well-ordered complexity.  (This line marked for later deletion.)
 
 There's not a lot of genetics information here, but it's a good background in how the feathers develop.  This mentions something I haven't seen before: that the central ("medulla") cells in the feather become "empty" and thereby give feathers "stronger architecture".  What does that mean?  Do the cells become keratinized vacuoles?  Where can I find more information on the process that creates "empty" cells?
+
+(Quoted from source:)
+"*In situ* hybridization and immunostaining revealed molecular expression patterns in different cell types. Using the BMP pathway as an example, *BMP4* was mainly expressed in the dermal papilla and the pulp, with expression lower toward the distal end."
+
+BMP is the Bone Morphogenetic Protein, whose name is a little more restrictive than are the applications of the protein itself.  So this source get into the pathways in a salient manner...
+
+Thinking about the objective more closely to focus better, I really want to know what creates the morphology not of the feather nor of how the feather grows, but what creates the morphology of the invaginated zone of the follicle itself.  If the conditions can be made correct for the health of the dermal papilla, certainly then something should grow, ugly as a disordered feather might be.  (Getting a disordered downy feather to grow from a transgenic human skin sample may be an early success, eh?)
+
+(Quoted from source:)
+"Using the BMP pathway as an example, *BMP4* was mainly expressed in the dermal papilla and the pulp, with expression lower toward the distal end."
 
 ---
 Back to [[authors-nonfiction]]
