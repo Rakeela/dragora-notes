@@ -9,6 +9,10 @@ Transhumanism is commonly linked to atheism, but I don't know why it's seen as s
 One of the precepts which transhumanism requires is what I call [[ontogenic-control]], of which [[vat-meat]] is an unavoidable subset application.
 
 ---
+Subtopics:
+[[pharmacoutopianism]]
+
+---
 # Linked By
 [[posthumanist]]
 [[immortalist]]
