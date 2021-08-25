@@ -25,4 +25,9 @@ Insure should be ensure.  Game devs, I am disappointed; I ran right to a typo he
 Perhaps I could convert the Deep Memory wonder into a building that could be built elsewhere, using its icon and reducing its effect.
 
 ---
+Objective Two Notes:
+I don't want to get into this right this moment, but I want to record a snippet of an idea:
+"The CEL Cradles offer such unprecedented access to the minds of their users that our researchers believe only preventative development of an application for that access has a chance to avert malevolent exploitation."
+
+---
 Back to [[Notable-Videogames]]
