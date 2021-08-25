@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 64.33677521842732,
+            "dimension": 54.24940428911835,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Library-of-Ruina.md",
+                    "file": "Feather-Integument.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 35.66322478157268,
+            "dimension": 45.750595710881655,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library-of-Ruina.md",
+                "file": "Feather-Integument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,6 +152,7 @@
   },
   "active": "916cb216d2543ece",
   "lastOpenFiles": [
+    "Feather-Integument.md",
     "Library-of-Ruina.md",
     "Notable-Videogames.md",
     "cannibalism.md",
@@ -160,7 +161,6 @@
     "transhumanist.md",
     "authors-ideals.md",
     "imagine-a-brain-implant.md",
-    "2021-8-24-One-Hundred-and-Sixty-Seventh.md",
-    "Northern-Creche-Confederation.md"
+    "2021-8-24-One-Hundred-and-Sixty-Seventh.md"
   ]
 }

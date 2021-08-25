@@ -31,5 +31,7 @@ Thinking about the objective more closely to focus better, I really want to know
 (Quoted from source:)
 "Using the BMP pathway as an example, *BMP4* was mainly expressed in the dermal papilla and the pulp, with expression lower toward the distal end."
 
+This is as much as I can find here about the biochemical environment in the proximity of the dermal papilla itself.  I was thinking that the follicle-supporting chemistry starts in the base, and I do not care so much what happens past the calamus...  If the transplant provides the right genes, I expect (potentially incorrectly) that the structure of the feather to be correct.  Yet even if the transplant tissue has the right genes, it will not provide the right biochemical environment to the follicle without engineering the recipient.  I need to figure out what to search for to find information on the feather follicle specifically.
+
 ---
 Back to [[authors-nonfiction]]
