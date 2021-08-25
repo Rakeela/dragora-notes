@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 54.24940428911835,
+            "dimension": 26.052422557585388,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 45.750595710881655,
+            "dimension": 73.94757744241461,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "imagine-a-brain-implant.md",
+                    "file": "Beyond-Earth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feather-Integument.md",
+                "file": "Beyond-Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "width": 304,
     "collapsed": true
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "Beyond-Earth.md",
+    "Notable-Videogames.md",
+    "imagine-a-brain-implant.md",
     "Feather-Integument.md",
     "Library-of-Ruina.md",
-    "Notable-Videogames.md",
     "cannibalism.md",
     "2021-8-25-One-Hundred-and-Sixty-Eighth.md",
     "pharmacoutopianism.md",
     "transhumanist.md",
-    "authors-ideals.md",
-    "imagine-a-brain-implant.md",
-    "2021-8-24-One-Hundred-and-Sixty-Seventh.md"
+    "authors-ideals.md"
   ]
 }

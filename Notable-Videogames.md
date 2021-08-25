@@ -8,6 +8,7 @@ I can make of this a category.
 
 Featured Games:
  * [[Age-of-Wonders-Planetfall]]
+ * [[Beyond-Earth]]
  * [[Sim-Earth]]
  * [[The-Viceroy]]
  * [[After-the-Empire]]
