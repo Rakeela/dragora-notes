@@ -11,4 +11,7 @@ I'm (appallingly) convinced that common biases regarding parenting quality are h
 What I'm thinking about is just a NationStates issue, but...  I think dredging up cultural commentary is something cultural products are *for*, and people are too shy to credit disreputable influences sometimes.
 
 ---
+Confession:  I'm afraid of conservative parenting the same way conservatives are afraid of liberal parenting.  Not metaphorically the same way, exactly the same way.  I am painfully aware of the intrinsic contradiction in having liberal stances due to fear, but what can I do?  I believe in what I believe in.  I'm not really a fearless person.
+
+---
 Back to [[day-post-archive]]
