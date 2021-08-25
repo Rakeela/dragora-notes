@@ -17,6 +17,12 @@ Replace the CEL Cradle building quest with one that better respects civil rights
 Objective One Notes:
 The Human Conservation tech speaks up the idea that "posthumans" are "no longer human" and that society could gain value or believe itself to gain value from retaining "what it means to be human".  I think that's... fair.  So then the replacement for Deep Memory should also fit these values, and I think I can fit them better... somehow.  I haven't yet decided what I'll do.
 
+(Quote from source:)
+"Followers of the "human conservation" philosophy seek to insure(sic) this through maintaining "pure" human culture, physiology and history through repositories and organizations scattered about this planet."
+
+Insure should be ensure.  Game devs, I am disappointed; I ran right to a typo here when I wasn't looking to do typo reviews at all.  I'm immediately disappointed by something else as well: this refers to repositories and organizations scattered about the planet, but it provides only one building: the Deep Memory wonder itself.
+
+Perhaps I could convert the Deep Memory wonder into a building that could be built elsewhere, using its icon and reducing its effect.
 
 ---
 Back to [[Notable-Videogames]]
