@@ -12,6 +12,8 @@ Objective One:
 Replace "Deep Memory"
 Objective Two:
 Replace the CEL Cradle building quest with one that better respects civil rights
+Objective Three:
+Capstone virtues that refund cultural investments as virtue-dependent productivity.
 
 ---
 Objective One Notes:
@@ -20,9 +22,17 @@ The Human Conservation tech speaks up the idea that "posthumans" are "no longer 
 (Quote from source:)
 "Followers of the "human conservation" philosophy seek to insure(sic) this through maintaining "pure" human culture, physiology and history through repositories and organizations scattered about this planet."
 
-Insure should be ensure.  Game devs, I am disappointed; I ran right to a typo here when I wasn't looking to do typo reviews at all.  I'm immediately disappointed by something else as well: this refers to repositories and organizations scattered about the planet, but it provides only one building: the Deep Memory wonder itself.
+Insure should be ensure.  Game devs, I am disappointed; I ran right to a typo here when I wasn't looking to do typo reviews at all.  I'm immediately disappointed by something else as well: this refers to repositories and organizations scattered about the planet, but it provides only one building: the Deep Memory wonder itself.  Perhaps I could convert the Deep Memory wonder into a building that could be built in many locations, using its icon and reducing its effect.
 
-Perhaps I could convert the Deep Memory wonder into a building that could be built elsewhere, using its icon and reducing its effect.
+After review of the Deep Memory wonder, my objection to it arises in its described use of ancestral brain maps to create its simulations.  This suggests to me the instrumentalization of consciousness, which is *not* ethical, and in fact is indeed the most profound violation of rights per the most unethical act.  This also suggests to me the correct replacement for the structure:  The Seeds of Yggdrasil.
+
+The purpose of creating cultural simulations of unprecedented detail and immersion can be done without violating simulated consciousnesses if it is done with one major modification: the simulations must be created by artists and experts who have been uploaded of their own volition instead of by automated systems manipulating human brain maps for the entertainment of others.
+
+There is one major issue with this replacement: it makes the "Human Conservation" aspect disappointing.  There's no question to me that this jack-in-and-run-minds system is the capacity of the seed of Yggdrasil and there's no question to me that a Yggdrasil system could be used to do this, but given its omnirepresentative potential, I don't imagine Yggdrasil being founded in "Purity".
+
+Maybe the building quest should reference that.  Perhaps an option that gives +Culture to Nodes?  What should it be opposed by?  The other option should be just as empowering.  The Dome is the Purity improvement; the Biowell is the Harmony improvement.
+
+Since this is considered a Purity building, it would be thematic to have it provide +1 culture from Domes as its base effect, but then players who aren't building Domes would pass it up, as would players building Terrascapes heavily to create a 'New Earth'.  Oh, and then there are all the basic balance issues with Beyond Earth in general... tch...  Perfecting old cultural properties is more trouble than it's worth!  Maybe the base effect should be to refund Cultural production to the tune of 10% of Culture converted into Food and Health, representing that people could 'live' in perfect Seed of Yggdrasil simulations while still contributing to society, with an efficacy dependent on cultural production.
 
 ---
 Objective Two Notes:

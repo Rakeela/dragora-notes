@@ -31,7 +31,14 @@ Thinking about the objective more closely to focus better, I really want to know
 (Quoted from source:)
 "Using the BMP pathway as an example, *BMP4* was mainly expressed in the dermal papilla and the pulp, with expression lower toward the distal end."
 
-This is as much as I can find here about the biochemical environment in the proximity of the dermal papilla itself.  I was thinking that the follicle-supporting chemistry starts in the base, and I do not care so much what happens past the calamus...  If the transplant provides the right genes, I expect (potentially incorrectly) that the structure of the feather to be correct.  Yet even if the transplant tissue has the right genes, it will not provide the right biochemical environment to the follicle without engineering the recipient.  I need to figure out what to search for to find information on the feather follicle specifically.
+This is as much as I can find here about the biochemical environment in the proximity of the dermal papilla itself.  I was thinking that the follicle-supporting chemistry starts in the base, and I do not (initially) care what happens past the calamus...  If the transplant provides the right genes, I expect (potentially incorrectly) that the structure of the feather will be correct.  Yet even if the transplant tissue has the right genes, it will not provide the right biochemical environment to the follicle without engineering the recipient.  I need to figure out what to search for to find information on the feather follicle specifically.
+
+---
+I have something to present to the meeting.  I think the current document subsection 'feathers' is misprioritized.  I understand the current goal of the project as eventually developing a human transgenic integument which is capable of supporting the growth of feathers.  To that end, genes governing feather morphology are not as important as genes governing feather follicle morphology, and we need to assemble human genes of interest as well.
+
+I suspect that a human who wants to have feathers will first need genes that cause all their hair to fall out.  This may also be relevant to putting scales on someone.
+
+I would ultimately like to service it as well, but the 'gryphon' case is rather advanced.  Fur and feathers appear to contradict.  They need very different follicles.  It may be easier to engineer a 'dracogryph' than a classic leogryph, as scales and feathers contradict less than fur and feathers.
 
 ---
 Back to [[authors-nonfiction]]
