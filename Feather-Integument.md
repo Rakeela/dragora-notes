@@ -34,11 +34,14 @@ Thinking about the objective more closely to focus better, I really want to know
 This is as much as I can find here about the biochemical environment in the proximity of the dermal papilla itself.  I was thinking that the follicle-supporting chemistry starts in the base, and I do not (initially) care what happens past the calamus...  If the transplant provides the right genes, I expect (potentially incorrectly) that the structure of the feather will be correct.  Yet even if the transplant tissue has the right genes, it will not provide the right biochemical environment to the follicle without engineering the recipient.  I need to figure out what to search for to find information on the feather follicle specifically.
 
 ---
-I have something to present to the meeting.  I think the current document subsection 'feathers' is misprioritized.  I understand the current goal of the project as eventually developing a human transgenic integument which is capable of supporting the growth of feathers.  To that end, genes governing feather morphology are not as important as genes governing feather follicle morphology, and we need to assemble human genes of interest as well.
+I have something to present to the next meeting.  I think the current document subsection 'feathers' is misprioritized.  I understand the current goal of the project as eventually developing a human transgenic integument which is capable of supporting the growth of feathers.  To that end, genes governing feather morphology are not as important as genes governing feather follicle morphology, and we need to assemble human genes of interest as well.
 
 I suspect that a human who wants to have feathers will first need genes that cause all their hair to fall out.  This may also be relevant to putting scales on someone.
 
 I would ultimately like to service it as well, but the 'gryphon' case is rather advanced.  Fur and feathers appear to contradict.  They need very different follicles.  It may be easier to engineer a 'dracogryph' than a classic leogryph, as scales and feathers contradict less than fur and feathers.
+
+---
+I found something that showed how the feather morphology could be variously mangled by genetic modifications and I need to find it again.  It helps make the point that we don't *immediately* need to solve what happens past the calamus, because the feather will still grow (albeit incorrectly) if the feather follicle itself is biologically well-supported (as it is in a natural bird that has just had one of its feather morphology genes messed up).  Ugly mutant feathers are not the objective, but they'd be a great 'midpoint' result.
 
 ---
 Back to [[authors-nonfiction]]
