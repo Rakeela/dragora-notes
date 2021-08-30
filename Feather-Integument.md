@@ -44,4 +44,9 @@ I would ultimately like to service it as well, but the 'gryphon' case is rather 
 I found something that showed how the feather morphology could be variously mangled by genetic modifications and I need to find it again.  It helps make the point that we don't *immediately* need to solve what happens past the calamus, because the feather will still grow (albeit incorrectly) if the feather follicle itself is biologically well-supported (as it is in a natural bird that has just had one of its feather morphology genes messed up).  Ugly mutant feathers are not the objective, but they'd be a great 'midpoint' result.
 
 ---
+Theagarten Lingham-Soliar. (2017). Microstructural tissue-engineering in the rachis and barbs of bird feathers.  *Scientific Reports*.  Retrieved 2021-8-30 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5366878/
+
+Mostly included for interest.  This doesn't discuss genes, but I found it interesting for what it provided to the visualization of feather structure.  The syncitial barbule fibres of which the rachis is constructed extend unbroken from the base of the feather, being long straight strands until they deviate into the barbs.
+
+---
 Back to [[authors-nonfiction]]
