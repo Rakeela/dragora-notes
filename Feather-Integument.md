@@ -49,4 +49,9 @@ Theagarten Lingham-Soliar. (2017). Microstructural tissue-engineering in the rac
 Mostly included for interest.  This doesn't discuss genes, but I found it interesting for what it provided to the visualization of feather structure.  The syncitial barbule fibres of which the rachis is constructed extend unbroken from the base of the feather, being long straight strands until they deviate into the barbs.
 
 ---
+Ang Li, Seth Figueroa, Ting-Xin Jiang, Ping Wu, Randall Widelitz, Qing Nie, Cheng-Ming Chuong.  (2016, Jul 8).  Diverse feather shape evolution enabled by coupling anisotropic signalling modules with self-organizing branching programme.  *Nature Communications*.  Retrieved 2021-8-30 from https://www.nature.com/articles/ncomms14139.pdf?origin=ppub
+
+I found this while searching for information on GREM1.  It looks like GREM1 activity in the epithelium is essential, meaning it's a hit for both feather morphology and feather follicle biochemistry.
+
+---
 Back to [[authors-nonfiction]]
