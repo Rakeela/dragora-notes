@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 69.57903097696585,
+            "dimension": 57.66481334392375,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 30.420969023034157,
+            "dimension": 42.33518665607625,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-8-29-One-Hundred-and-Seventieth.md",
+                    "file": "paprika.md",
                     "mode": "source"
                   }
                 }
@@ -132,14 +132,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feather-Integument.md",
+                "file": "paprika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "allergy",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -147,20 +147,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304,
-    "collapsed": true
+    "width": 304
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
-    "Feather-Integument.md",
+    "paprika.md",
+    "2021-8-30-One-Hundred-and-Seventy-First.md",
     "Untitled.md",
+    "2021-8-29-One-Hundred-and-Seventieth.md",
+    "Feather-Integument.md",
     "2021-8-25-One-Hundred-and-Sixty-Eighth.md",
     "2021-8-20-One-Hundred-and-Sixty-Sixth.md",
     "2021-8-24-One-Hundred-and-Sixty-Seventh.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "Beyond-Earth.md",
-    "Notable-Videogames.md",
-    "imagine-a-brain-implant.md",
-    "Library-of-Ruina.md"
+    "Beyond-Earth.md"
   ]
 }
