@@ -678,7 +678,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Technological extremophilia:  2/5
 	10.  Kind of person most protected:  Serene panarchists and people who can become panarchists if the panarchy can be serene.
 35.  Panarchic Indoctrination
-	1.  Authorial protest:  It seems stressful, doesn't it?  I'm starting to settle into the idea that maybe I should improve the entire tech tree, but I'm not sure how to improve on this.  I'm just... making a note here.  This seems very stressful and high-pressure.
+	1.  Authorial protest:  It seems stressful, doesn't it?  I'm starting to settle into the idea that maybe I should improve the entire tech tree, but I'm not sure how to improve on this.  I'm... making a note here mostly to establish the pattern of starting off with a protest of each one.  My protest here is that this seems very stressful and high-pressure.
 	2.  Mechanism proposal:  Heavy public funding for artistic education.  Colleges of the arts.  A society of parents who press their kids to make artistic masterpieces...  This is one of the most nakedly authoritarian pieces of Panarchic policy, as alluded to by its use of the word 'Indoctrination'.  While it leads to a more tolerantly diverse society, it does so through stressful methods.
 	3.  Authorial protest:  Implementing this would tend to cast me personally out of the Panarchy as a failed artist.  I have very little artistic skill; I can just barely manage my own style and I have no ability to copy widely diverse styles.
 	4.  Downside analysis:  This is one of the pieces of policy structure which gets the Panarchy labeled as infiltrators.  These people are more capable of producing fakes and knock-offs, and they're more capable of making themselves useful to arbitrary organizations with arbitrary rhetoric.
@@ -693,6 +693,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Technological Smoothness:  5/5
 	14.  Technological Extremophilia:  4/5, +1 with Seasteading, Orbital Habitats, Dyson Swarm, or Vacuum-Based Life
 	15.  Kind of person most protected:  "Undiscoverable" artists whose talents would never be found without this due to poverty or criminal records.
+36.  Colonial Office:
+	1.  Authorial protest:  TBD.
+	2.  Mechanism proposal:  These encourage bidirectional migration.  They do not encourage net migration unless they cause an increase in wealth levels.
+	3.  Narrative indicator:  One of the things that happens in every subculture while one plays the game is that the lower classes vanish while the upper classes develop.  The colonial offices make that process seem more likely to be peaceful, because they suggest that people leave peacefully.
+	4.  Downside analysis:  Standard anti-multiculturalism arguments that everything gets watered down, blah blah blah, I don't believe in this criticism.  It may also encourage misappropriation and distortion of cultural ideas as they are trafficked across vast differences and applied to the lives and artistic careers of people far from where they started.  I see these kinds of complaint as very similar to each other...
+	5.  Mechanism proposal:  By discouraging hatred and encouraging self-selected residence (bidirectional migration!), some of the Colonial Office's cultural gains are the result of the lack of hatred breaking up the unity of the local culture.  I like this a lot better than Panarchic Indoctrination for its likely implications on cultural stress.
+	6.  Bureaucratic waste analysis:  Literal, but occasionally corrupt.  All these cultural ambassador positions are very non-work roles that only contribute to the colonial office's ambitions on average.
+	7.  Utopia rating:  5/5
+	8.  Public protection rating:  5/5
+	9.  Technological smoothness:  5/5
+	10.  Technological extremophilia:  5/5
+	11.  Kind of person most protected:  People who would rather be somewhere else.
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
