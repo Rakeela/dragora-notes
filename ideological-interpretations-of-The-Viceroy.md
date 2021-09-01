@@ -727,7 +727,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence
 	17.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
 	18.  Special categories:  Anti-Popular, Homogenizing, Nightmare
-	19.  Conversion potential:  Empire<->Panarchy (with distributed intelligence)
+	19.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
 31.  Artificial Dreamtime
 	1.  Mechanism proposal:  Blocks all lies.
 	2.  Mechanism proposal:  Reveals the desires of all people to all people.
