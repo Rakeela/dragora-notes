@@ -724,7 +724,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
 	14.  Technological smoothness:  2/5
 	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence
+	16.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
 	17.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
 	18.  Special categories:  Anti-Popular, Homogenizing, Nightmare
 	19.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
