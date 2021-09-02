@@ -464,15 +464,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Warning note:  Relatedly, this technology amplifies MOST heritability errors.  The society that has them is greatly empowered to fix heritability errors, but it can also make them much faster than a natural society could.  Genetic quality fluctuations are likely to occur at a faster-than-generational rate.  *On average*, genetic quality should increase, but that may not be the effect over any given interval.
 	10.  Mechanism proposal:  By providing test substrates for exotic genetic modifications, this technology should accelerate genetics research.  This is a morphological freedom technology, and even an animal uplift technology.  Society could grow radically more diverse as a result of implementing artificial wombs.
 	11.  Categorization:  I'm filing this under both homogenizing and diversifying.  Ontogenic control removes normal restrictions on the development of diversity, but it can also intensify sameness if used uncreatively or in a specifically homogeneity-valuing way.
-	12.  Bureaucratic waste analysis:  ...complicated.  The purity of this technology's bureaucratism is the average purity of the government implementing it.  Maybe a bit better than that, because the system itself provides genetic archives that will be functionally protective of talent, and because the system's own literally employed talents should be insulated from the hatred of bureaucracy.  Even if someone seizes a cloning lab, they're only likely to hurt the scientists operating it if they have a pure hatred of cloning labs as such, and every technology intrinsically implies the protection of itself against such direct oppositions... or can at least be credited with making a fair attempt at it.
-	13.  Utopic rating:  This technology's utopic rating is the same as the average utopic rating of the territory plus one, maximum 5/5.
-	14.  Public protection rating:  This technology's public protection rating is the same as the average public protection rating of the territory.
-	15.  Technological smoothness:  2/5  (No low tech analogue.)
-	16.  Technological extremophilia:  5/5
-	17.  Stress/Boredom rating:  1 (Dull)
-	18.  Kind of person most protected:  Biologists
-	19.  Special categories:  Homogenizing, Diversifying, Asexual
-	20.  Conversion potential:  Panarchy<->Empire
+	12.  Categorization:  Wait, no.  This is about how I would structure things, isn't it?  Not only do I know how to run diversified cloning programs even if the public fails to comprehend that, this level of ontogenic control is also an animal uplift technology.  It bolsters morphological freedom.
+	13.  Bureaucratic waste analysis:  ...complicated.  The purity of this technology's bureaucratism is the average purity of the government implementing it.  Maybe a bit better than that, because the system itself provides genetic archives that will be functionally protective of talent, and because the system's own literally employed talents should be insulated from the hatred of bureaucracy.  Even if someone seizes a cloning lab, they're only likely to hurt the scientists operating it if they have a pure hatred of cloning labs as such, and every technology intrinsically implies the protection of itself against such direct oppositions... or can at least be credited with making a fair attempt at it.
+	14.  Utopic rating:  This technology's utopic rating is the same as the average utopic rating of the territory plus one, maximum 5/5.
+	15.  Public protection rating:  This technology's public protection rating is the same as the average public protection rating of the territory.
+	16.  Technological smoothness:  2/5  (No low tech analogue.)
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  1 (Dull)
+	19.  Kind of person most protected:  Biologists
+	20.  Special categories:  Animal Uplift, Diversifying, Asexual
+	21.  Conversion potential:  Panarchy<->Empire
 18.  Holistic Industrialization
 	1.  Mechanism proposal:  The most simple, literal technology in the tech tree.  Hire people who study district specialties and connect the district's industry to the needs of the broader economy.
 	2.  Mechanism proposal:  Deeply boring managers with gentle voices...
