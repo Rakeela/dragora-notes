@@ -9,9 +9,9 @@ I've decided that I should add [[Polis-Diamonil]] to this archive as a cluster i
 Estimate revision:  Time taken revised to 5 hours, suggesting velocity: 4.4 mph.
 
 ---
-I'm writing something based on a dream that I had, and it's making a *certain nonexistent cast of characters* freak out wildly.  And painfully.  This makes my head hurt quite literally.  There's an icepick pain stabbing into my skull just behind and to the left from the top of my head.
+I had an annoying dream last night that was too filthy to be appealing.  I tried writing something based on it despite the basic ugliness of the dream, and it made a *certain nonexistent cast of characters* freak out wildly.  And painfully.  This makes my head hurt quite literally.  There's an icepick pain stabbing into my skull just behind and to the left from the top of my head.
 
-My dreams seem tampered with as it is; come on, let me also make something creative out of them if I want to!  Ow.  Why should I have to suffer this pain?  I felt very good earlier while thinking about writing exactly what I'm working on right now for the First Community of the Steelfeather Rapture.
+My dreams seem tampered with as it is; come on, let me also make something creative out of them if I want to!  Ow.  Why did I have to suffer that pain?  I felt very good earlier while thinking about writing exactly what I tried to work on for the First Community of the Steelfeather Rapture, but the pain itself successfully drove me away from the writing.
 
 ---
 Back to [[day-post-archive]]
