@@ -6,4 +6,7 @@ I've decided that I should add [[Polis-Diamonil]] to this archive as a cluster i
 22 mile scoot completed.  Time taken: 4 hours, 40 minutes.  Velocity:  4.7 mph
 
 ---
+Estimate revision:  Time taken revised to 5 hours, suggesting velocity: 4.4 mph.
+
+---
 Back to [[day-post-archive]]
