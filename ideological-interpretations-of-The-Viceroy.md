@@ -904,6 +904,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-8-30;  I've forgotten what the first tech in the Commonwealth Unifiers tech tree is named, which is obnoxious as I feel I've distilled a great analysis of it...  Hmf.  Also, I think I need to break down the 'Utopia' score into 'Boredom' and 'Talent Protection' scores.  Orbital Hospitals are 1/5 Boredom, which is actually bad; they're a screaming stress point.  Stasis Controllers are 5/5 Boredom, which is also bad; most people don't appreciate society moving that slowly.  3/5 Boredom is "eustress", which most people appreciate, while 4/5 Boredom is ordinary serenity...  Actually, come to think about it...  I could use an 'Always Wrong' scoring system, since these vary inversely.  Techs would be either Stressful (3-5) or Boring (3-5)... and since there's only three points of variance, I can make it Stressful (1-3) and Boring (1-3)...
 
+2021-09-06;  I feel like my format has invited an error into this.  Perhaps instead of a singular bureaucrat waste analysis, I should include all sources of waste that occur to me?  While writing something elsewhere this... morning...  I realized that some of the bad social dynamics that start in American public schools may be contributing to entrenched hatreds in American adults.  That would be non-literal bureaucratic waste on the Creche Schools.
+
 ---
 The Much-Reviled Lower Classes
 
