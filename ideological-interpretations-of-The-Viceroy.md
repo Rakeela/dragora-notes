@@ -840,6 +840,46 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Kind of person most protected:  People who would rather be somewhere else.
 	16.  Special categories:  Diversifying, Hedonological, Galactic Politics
 	17.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
+37.  Hydroponic Farms
+	1.  Mechanism proposal:  Wow, literalism.
+	2.  Mechanism proposal:  There's no reason to assume this technology is anything but what it says on the tin.  It's so straightforward!
+	3.  Downside analysis:  This is so much less impressive than the other technologies in the game - I'm not saying it wouldn't work like it says! - that it comes off as boring and unmarvelous.
+	4.  Trivia:  The icon for this technology is a dome in space with fields and trees inside of it, suggesting that this is a distrct-by-district version of the massive structures used for Zero Gravity Farms.
+	5.  Mechanism proposal:  This technology likely extends into vertifarming and urban agriculture in general, which some people (such as me!) do consider futuristic and awesome.
+	6.  Bureaucratic waste analysis:  Literal, although I guess it could inspire intransigence for sheer boringness.  There could also be concern that the galaxy has tons of biological production already.  Not sure though.
+	7.  Utopia rating:  5/5
+	8.  Public protection rating:  5/5
+	9.  Technological smoothness:  4/5
+	10.  Technological extremophilia:  2/5
+	11.  Stress/Boredom rating:  1/5 (Dull)
+	12.  Kind of person most protected:  Verticulturalists
+	13.  Special categories:  Anti-Popular, Failsafe
+38.  Distributed Desalination
+	1.  Mechanism proposal:  Also literal.
+	2.  Downside analysis:  These systems really are marginal in productivity.  They could work wonders... if tended for centuries...  We could green deserts with this tech!  Eventually...  The description says, "the ability to produce fresh water in nearly limitless quantities,"  but that's not a reasonable expectation.  Like with the Beyonder Engines, I suspect that this technology requires playing a trick with temporality to understand: *with sufficient patience*, you can get infinite water out of distributed desal.
+	3.  Trivia:  A nasty joke once occurred to me based on this tech.  I'm honestly trying to remember it right now, but I'm not succeeding.  Something about desalinating tears?  I don't think it should factor into how we would expect this to be implemented.
+	4.  Bureaucratic waste analysis:  Almost literal.  It's even more dull than hydroponic farms.  Like some of the really good Imperial technologies, implementing this tries the patience of people.
+	5.  Utopia rating:  5/5
+	6.  Public protection rating:  4/5
+	7.  Technological smoothness:  2/5
+	8.  Technological extremophilia:  3/5
+	9.  Stress/Boredom rating:  1/5 (Dull)
+	10.  Kind of person most protected:  Moisture farmers
+	11.  Special categories:  Anti-Popular, Failsafe
+39.  Seasteading
+	1.  Mechanism proposal:  This is part of a great little triad of literalism in the Orbital Observers tech tree.  Unlike a lot of the literal technologies, this doesn't suggest homogenization at all.  (I may have to redefine the homogenization schtick I wrote about the Empire before.)  This suggests a bit of a local ideological countermeasure to the dullness of the Hydroponic Farms and Distributed Desal linkage... and it suggests a kind of community that could *really* use those distributed desal plants, too.
+	2.  Trivia:  This is something people have proposed IRL.  We *have* hydroponic farms in the real world, and people are working on distributed desal techs, too.  The reason why seasteading hasn't taken off is that it is "too expensive".  In this game, it's presented as a planet-wide development project, so maybe humanity will get there when we manage to unify our planetary government.
+	3.  Mechanism proposal:  By encouraging literal wide separations between communities, more diverse and fractious people can live in society without friction or hatred.  The description of the tech in-game references this potential, although I think it also has some general (and beautiful) applicability to the anti-crowding technologies.
+	4.  Categorization:  I'm making a note here, I may want to include an "overlocalist" category.  This would be one of the potential overlocalist technologies.  Sure, it's a planet-wide tech... but it speckles the oceans with communities that are defined by disagreeing with each other.
+	5.  Bureaucratic waste analysis:  Very literal.  Unless those border communities turn feral, but that's as likely as modern cities breaking away from their nations IMO.  Good for stories, not likely to really happen.
+	6.  Utopia rating:  5/5
+	7.  Public protection rating:  3/5 +2 with Distributed Desalination
+	8.  Technological smoothness:  2/5
+	9.  Technological extremophilia:  5/5
+	10.  Stress/Boredom rating:  2/5 (Calm)
+	11.  Kind of person most protected:  Weirdoes.
+	12.  Special categories:  Diversifying
+
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
@@ -905,6 +945,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-8-30;  I've forgotten what the first tech in the Commonwealth Unifiers tech tree is named, which is obnoxious as I feel I've distilled a great analysis of it...  Hmf.  Also, I think I need to break down the 'Utopia' score into 'Boredom' and 'Talent Protection' scores.  Orbital Hospitals are 1/5 Boredom, which is actually bad; they're a screaming stress point.  Stasis Controllers are 5/5 Boredom, which is also bad; most people don't appreciate society moving that slowly.  3/5 Boredom is "eustress", which most people appreciate, while 4/5 Boredom is ordinary serenity...  Actually, come to think about it...  I could use an 'Always Wrong' scoring system, since these vary inversely.  Techs would be either Stressful (3-5) or Boring (3-5)... and since there's only three points of variance, I can make it Stressful (1-3) and Boring (1-3)...
 
 2021-09-06;  I feel like my format has invited an error into this.  Perhaps instead of a singular bureaucrat waste analysis, I should include all sources of waste that occur to me?  While writing something elsewhere this... morning...  I realized that some of the bad social dynamics that start in American public schools may be contributing to entrenched hatreds in American adults.  That would be non-literal bureaucratic waste on the Creche Schools.
+
+2021-09-08;  I'm not sure how I'll rework it exactly, but my current ratings system is not going to survive to the final product.  I may however wait until I've done all the basic profiles by this system to define a different one.
 
 ---
 The Much-Reviled Lower Classes
