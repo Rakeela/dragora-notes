@@ -722,16 +722,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Note on synergy:  The artificial dreamtime technology is, as I imagine it, the only way the potentialities overseer ever gets to sleep and dream at all...  That might help ward off the existential terror... and help it to understand the people who it is trying to help, too.
 	9.  Mechanism proposal:  The potentialities overseer doesn't strictly have to achieve omniscience to carve out some of the upkeep in the system.  Indeed, the bureaucratic waste from its operation could be from setting up all the sensors and analysis systems that it needs in order to function.  So the literal description could be just an oversell.  Ubiquitous overselling seems to be a theme of The Viceroy.
 	10.  Mechanism proposal:  One of the technologies implied to be in the game's setting (but not implemented entirely competently) is superconducting fibre.  In theory, superconducting wire can save money by reducing transmission costs, and (in theory) superconductors may already be good enough to attain this.  In practice, this seems to be an example of something that humanity can't calculate how to do with present technology, and most interest in fixing that focuses on improving superconductors rather than trying to do a total world calculation of how transmission costs affect electricity costs to see if there are edge-cases to snip off with better wires.  One of the functions of potentialities overseers (and other upkeep-reducing technologies) may be to do more of the edge-case calculations necessary to figure out when marginal technologies could (theoretically) save money during implementation (if one ignored the bureaucratic cost of calculating all the marginalia).
-	11.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
-	12.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
-	13.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
-	14.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
-	15.  Technological smoothness:  2/5
-	16.  Technological extremophilia:  5/5
-	17.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
-	18.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
-	19.  Special categories:  Anti-Popular, Homogenizing, Nightmare
-	20.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
+	11.  Mechanism proposal:  Have you ever lost something small that you needed for work?  The potentialities overseer could point out where it is.  This is a correction too small for a human overseer to experience anything but frustration over, but surely it wouldn't bother an AI!  ...there are reasons I feel sorry for Potentialities Overseers.
+	12.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
+	13.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
+	14.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
+	15.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
+	16.  Technological smoothness:  2/5
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
+	19.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
+	20.  Special categories:  Anti-Popular, Homogenizing, Nightmare
+	21.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
 31.  Artificial Dreamtime
 	1.  Mechanism proposal:  Blocks all lies.
 	2.  Mechanism proposal:  Reveals the desires of all people to all people.
@@ -856,6 +857,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Stress/Boredom rating:  1/5 (Dull)
 	12.  Kind of person most protected:  Verticulturalists
 	13.  Special categories:  Anti-Popular, Failsafe
+	14.  Conversion potential:  Unknown.
 38.  Distributed Desalination
 	1.  Mechanism proposal:  Also literal.
 	2.  Downside analysis:  These systems really are marginal in productivity.  They could work wonders... if tended for centuries...  We could green deserts with this tech!  Eventually...  The description says, "the ability to produce fresh water in nearly limitless quantities,"  but that's not a reasonable expectation.  Like with the Beyonder Engines, I suspect that this technology requires playing a trick with temporality to understand: *with sufficient patience*, you can get infinite water out of distributed desal.
@@ -868,19 +870,41 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Stress/Boredom rating:  1/5 (Dull)
 	10.  Kind of person most protected:  Moisture farmers
 	11.  Special categories:  Anti-Popular, Failsafe
+	12.  Conversion potential:  Unknown.
 39.  Seasteading
 	1.  Mechanism proposal:  This is part of a great little triad of literalism in the Orbital Observers tech tree.  Unlike a lot of the literal technologies, this doesn't suggest homogenization at all.  (I may have to redefine the homogenization schtick I wrote about the Empire before.)  This suggests a bit of a local ideological countermeasure to the dullness of the Hydroponic Farms and Distributed Desal linkage... and it suggests a kind of community that could *really* use those distributed desal plants, too.
 	2.  Trivia:  This is something people have proposed IRL.  We *have* hydroponic farms in the real world, and people are working on distributed desal techs, too.  The reason why seasteading hasn't taken off is that it is "too expensive".  In this game, it's presented as a planet-wide development project, so maybe humanity will get there when we manage to unify our planetary government.
 	3.  Mechanism proposal:  By encouraging literal wide separations between communities, more diverse and fractious people can live in society without friction or hatred.  The description of the tech in-game references this potential, although I think it also has some general (and beautiful) applicability to the anti-crowding technologies.
 	4.  Categorization:  I'm making a note here, I may want to include an "overlocalist" category.  This would be one of the potential overlocalist technologies.  Sure, it's a planet-wide tech... but it speckles the oceans with communities that are defined by disagreeing with each other.
-	5.  Bureaucratic waste analysis:  Very literal.  Unless those border communities turn feral, but that's as likely as modern cities breaking away from their nations IMO.  Good for stories, not likely to really happen.
-	6.  Utopia rating:  5/5
-	7.  Public protection rating:  3/5 +2 with Distributed Desalination
-	8.  Technological smoothness:  2/5
-	9.  Technological extremophilia:  5/5
-	10.  Stress/Boredom rating:  2/5 (Calm)
-	11.  Kind of person most protected:  Weirdoes.
-	12.  Special categories:  Diversifying
+	5.  Conversion potential:  By protecting dissidents from misrule (including by each other), this is a potent connection between Imperial and Panarchic ideology.  For protecting dissidents from unification and unifiers from dissidents, it's also a weak connection between Imperial and Commonwealth ideology.
+	6.  Bureaucratic waste analysis:  Very literal.  Unless those border communities turn feral, but that's as likely as modern cities breaking away from their nations IMO.  Good for stories, not likely to really happen.
+	7.  Utopia rating:  5/5
+	8.  Public protection rating:  3/5 +2 with Distributed Desalination
+	9.  Technological smoothness:  2/5
+	10.  Technological extremophilia:  5/5
+	11.  Stress/Boredom rating:  2/5 (Calm)
+	12.  Kind of person most protected:  Weirdoes.
+	13.  Special categories:  Diversifying
+	14.  Conversion potential:  Empire<->Panarchy; Empire<->Commonwealth (limited)
+40.  Seat of Justice
+	1.  Authorial protest:  I think humanity built one of these on Earth - so to speak - in the dawn of civilization.  While I don't contest its mechanical effects, and I'm about to rate it a solid 5/5 utopianist, I also don't think that it comprises... the entirety of utopia.
+	2.  Mechanism proposal:  The concern for justice is both primordial and valid.  It's also been subject to ongoing change throughout history.  The Seat of Justice equips society to change and experiment over time in ways that make it more just.  This always leads to a good society, but it might take a long time.
+	3.  Note on Synergy:  I think this has a special synergy with the Panarchic Symposium.  The symposia give voice to people who might otherwise be voiceless, and would help develop a long-term concept of justice which actually *is* just.
+	4.  Trivia:  Some of the ancient Greeks thought that justice meant being fair to one's friends and punishing to one's enemies.  They just... thought that was very accurate.  It took a long time for humanity to go from "trying to achieve justice" to "understanding the importance of fairness", and I wouldn't say we've reached the pinnacle of justice yet.
+	5.  Mechanism proposal:  I don't think people *can* reach the pinnacle of justice.  People will always be arguing, and in this case the argument is virtuous.  The last iota of justice is worth reaching for.
+	6.  Categorization:  Like a lot of the Commonwealth Unifier technologies, the Seats of Justice suggest nothing at all about the technological development of the societies that build them, and is therefore hypersmooth.  Unlike other hypersmooth technologies, they also don't contribute to technological development in themselves.  I suspect the Seats of Justice actually pin back dubious advances while checking to make sure that they're being used in the defense of the public weal... and to be very clear, though I categorize that as luddistic, I support it.
+	7.  Categorization:  I want to classify these as hedonological, as I truly believe that hedonological structuring is the most just way of organizing society... but I'm not sure, and there are other categorizations that I'm more sure this serves.
+	8.  Mechanism proposal:  Viewed as a true galactic technology, the Seats of Justice are probably a truly essential piece of infrastructural investment.  This modernizes the courts... and very likely not just the courts, but the whole government.
+	9.  Conversion:  Since each ideology presumably has very, VERY well-developed arguments about why they are The Most Justful Righteous Ideology Ever, the Seats of Justice are a weak omniconverter for surfacing the most virtuous of these arguments and their most virtuous proponents.  It would encourage the public to go along with whatever shifts are occurring (and it would help make those shifts actually a good thing, too).  Since many people would surely not listen, it's only a weak omniconverter... but for the record, omniconverters are also virtuous IMO.  It IS better to try to change people's minds through appeals to justice and influence on education than, say, force.
+	10.  Bureaucratic waste analysis:  Super-literal.  I'd say this even makes the wastage from other technologies *more literal*, because it pushes society off of bad things that waste talent in bad ways.
+	11.  Utopia rating:  5/5
+	12.  Public protection rating:  5/5
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  1/5
+	15.  Stress/Boredom rating:  3/5 (Eustress)
+	16.  Kind of person most protected:  Varies.
+	17.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	18.  Conversion potential: Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 
 
 ---
