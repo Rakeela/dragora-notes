@@ -618,15 +618,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Mechanism proposal:  It's really petty, but another thing this could refer to is a greater tolerance for couriers and errand-runners in organizations.  If there are some people whose specialty is moving, other people can have more sedentary specialties.  Large-scale and small, the link between the miniaturized gate and the jaunting grid is logistics...
 	10.  Narrative indicator:  All of this promotes both better, denser developments, and greater divides of underdevelopment between centers of development.  If this coexists with protected wilderness areas, this technology's investment in transportation efficiency and the study of distant places suggests that those wilderness areas would be better protected.
 	11.  Mechanism proposal:  I think this technology risks the destruction of wilderness areas by simultaneously equipping society with excellent transportation WHILE leaving the wilderness areas "too uncontrolled".  It pulls back society towards dense centers of development, but it gives society better tools to stomp on wilderness areas at the same time.  That relatively more distant wilderness far from the highly developed central transport arteries threatens to become a haven for crime and dissidence... giving leadership (if that leadership is notably authoritarian) an incentive to go stomping through urbanizing everything.  Which is awful, frankly.  I have more sympathy for this technology when it's *not* being used to destroy protected wilderness areas; I don't like destroying protected wilderness areas *at all*.
-	12.  Bureaucratic waste analysis:  Mostly literal.  This technology pushes society to overspend on transportation, which is literal bureaucratic waste.  The attempts to create more efficient practices succeed only with truly stellar administration.  However, the efficiency-seeking and centralization that is promoted also discourages "inappropriate" use of transportation in a potentially stultifying way, and overreliance on central solutions also creates brittle single points of failure.  These are potential sources of metaphorical waste.
-	13.  Utopic rating:  2/5, +1 per each of:  dyson swarm, orbital habitat, pervasive digitization, protected wilderness area (limit 5/5)
-	14.  Public protection rating:  4/5
-	15.  Technological smoothness:  5/5
-	16.  Technological extremophilia:  4/5
-	17.  Stress/Boredom rating:  2/5 (Calm)
-	18.  Kind of person most protected:  Encyclopedia fans and transportation engineers.
-	19.  Special categories:  Homogenizing
-	20.  Conversion potential:  Unknown
+	12.  Mechanism proposal:  I've thought of something else that Jaunting Grids could be: bike paths!  It doesn't sound very high-tech, does it?  Yet it's a kind of creative urban planning that does promote denser construction.  Imperial cities could be connected by flying pathways intended to be used by low-tech means such as walking or the use of manual vehicles.  Super-connected systems can negate the day-to-day need of bulky road vehicles.
+	13.  Trivia:  I'm more convinced than ever that the advocates of the Old Empire are superbly creative and intelligent.
+	14.  Bureaucratic waste analysis:  Mostly literal.  This technology pushes society to overspend on transportation, which is literal bureaucratic waste.  The attempts to create more efficient practices succeed only with truly stellar administration.  However, the efficiency-seeking and centralization that is promoted also discourages "inappropriate" use of transportation in a potentially stultifying way, and overreliance on central solutions also creates brittle single points of failure.  These are potential sources of metaphorical waste.
+	15.  Utopic rating:  2/5, +1 per each of:  dyson swarm, orbital habitat, pervasive digitization, protected wilderness area (limit 5/5)
+	16.  Public protection rating:  4/5
+	17.  Technological smoothness:  5/5
+	18.  Technological extremophilia:  4/5
+	19.  Stress/Boredom rating:  2/5 (Calm)
+	20.  Kind of person most protected:  Encyclopedia fans and transportation engineers.
+	21.  Special categories:  Homogenizing
+	22.  Conversion potential:  Unknown
 26.  Seat of Beauty
 	1.  Mechanism proposal:  Despite their stated purpose (and functional effect) of promoting the arts, seats of beauty actually operate in *restraint* of cultural productivity.  Specifically, they suppress, censor, and disrupt the promulgation of ugly art.  This is a judicial system of the art world, making cases against crimes of art!  They have their prosecutors, defenders, and judges, though unless they get called into courts of law, the proceedings almost never look anything like a real courtroom.
 	2.  Mechanism proposal:  As the Commonwealth Palaces of Art protect marketers and promote the commodification of culture for profit, so do the Seats of Beauty.  They try to work between what is beautiful and what is profitable.  Artists tend to be novelty-seekers, too.  This concentration of experts scours the system for saleable artwork.
@@ -947,6 +949,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-09-06;  I feel like my format has invited an error into this.  Perhaps instead of a singular bureaucrat waste analysis, I should include all sources of waste that occur to me?  While writing something elsewhere this... morning...  I realized that some of the bad social dynamics that start in American public schools may be contributing to entrenched hatreds in American adults.  That would be non-literal bureaucratic waste on the Creche Schools.
 
 2021-09-08;  I'm not sure how I'll rework it exactly, but my current ratings system is not going to survive to the final product.  I may however wait until I've done all the basic profiles by this system to define a different one.
+
+2021-09-09;  I'm eventually going to have to edit a lot of these for brevity.  Right now I'm still gathering material and performing first-pass analysis.  My intention is that eventually, every technology's commentary will fit on a two-page spread in a book...  I really like the Imperial Processions of the Arts.  I adore the idea of seven hundred year art exhibitions.  It shows off to me that the Imperials truly understand the love of immortality.
 
 ---
 The Much-Reviled Lower Classes
