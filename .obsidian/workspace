@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 28.991262907069103,
+            "dimension": 44.47974583002382,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-9-06-One-Hundred-and-Seventy-Sixth.md",
+                    "file": "2021-9-09-One-Hundred-and-Seventy-Seventh.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 71.0087370929309,
+            "dimension": 55.52025416997617,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-9-09-One-Hundred-and-Seventy-Seventh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,11 +149,11 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7a3178b850a00218",
+  "active": "916cb216d2543ece",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-9-06-One-Hundred-and-Seventy-Sixth.md",
     "Untitled.md",
+    "2021-9-06-One-Hundred-and-Seventy-Sixth.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "Feather-Integument.md",
     "2021-8-31-One-Hundred-and-Seventy-Second.md",
     "2021-8-30-One-Hundred-and-Seventy-First.md",
