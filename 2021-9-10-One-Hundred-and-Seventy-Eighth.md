@@ -20,4 +20,9 @@ I have a mixed history with exercise.  I can do a lot of it, in theory.  I've al
 I have a mixed history with exercise for another reason, too.  It maximizes my species dysphoria.  I hate the human body.  There's no pleasure in pushing my limits.  I don't want to focus on moving it.  Ever, preferably.  This psychology may be part of my exertion cap.  It may be that I exhaust when I'm working hard enough that exercise starts requiring focus, because focusing on exercise is repulsive to me.  Whereas at lower intensities, I can move in a regular manner without thinking about it, and so continue for very long periods of time.  This is all just speculation though.  It could be a biological issue that I'm inappropriately considering as psychology.
 
 ---
+I'm considering changing my morphological desire towards something non-draconic: becoming a bird.  I think people would intuitively understand my relationship with touch if I were a bird.  I like gentle, rare touches.  Most people who are affectionate are *too* affectionate.  If I had a beak and feathers, I think most humans would be drawn to touch me the way I want to be touched, and would otherwise keep the distance I want them to keep.  Also, I could give people feathery hugs.
+
+There are still species dysphoria issues with it.  Maybe I should try for the morphology that I gave to the peacock gryphonesses in [[Polis-Diamonil]].  They're a bit 'dracogryphon' in that they have long, strong tails.  If I aim for some kind of personally-defined species rather than... matching the kind of dragon that I was in my prior lifetime... I think I can produce something that resolves the bodily differences that inflict the most species dysphoria *and* covers me in feathers.  I can aim for 'dragon-bird'... though I wonder if the beak and earfin combination looks good.  Maybe I should commission an artist to produce such a look.
+
+---
 Back to [[day-post-archive]]

@@ -57,5 +57,7 @@ I've continued studying this.  RA is "retinoic acid".  Figure 5, titled "RA sign
 
 The feathers still grew, but the test feathers were scruffy, disorganized, and symmetrical, without the broad medial-favoring asymmetry that is necessary for remiges to be flightworthy.
 
+I don't understand the point that this is making about retinoic acid signalling *at all*.  There's a model that they've developed enough to produce simulated I/O in figure 7.  I understand the concept of "steeper RA gradient" to "shallower RA gradient".  That's conceptually simple I/O.  Yet I don't know how to use this.  How does it differ from human retinoic acid signalling?  What useful hypotheses can I produce from this for wet lab research?  I would like to see the Freedom of Form Foundation doing wetlab work with feathers; the idea of culturing feather follicles from explant epithelial cells is so fascinating to me that it makes me want to grow my own coat of feathers.
+
 ---
 Back to [[authors-nonfiction]]
