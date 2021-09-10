@@ -53,5 +53,9 @@ Ang Li, Seth Figueroa, Ting-Xin Jiang, Ping Wu, Randall Widelitz, Qing Nie, Chen
 
 I found this while searching for information on GREM1.  It looks like GREM1 activity in the epithelium is essential, meaning it's a hit for both feather morphology and feather follicle biochemistry.
 
+I've continued studying this.  RA is "retinoic acid".  Figure 5, titled "RA signalling modulates vane morphology and epithelial cell shapes." speaks of RCAS-DNRAR-beta infection.  RCAS is a viral vector (replication competent avian sarcoma) that is used for genetics experiments in avians.  In this case, it replaced the beta-variant retinoic acid receptors (RAR) with dominant-negative genes (DNRAR) which were inactive (negative) and prevented the normal function of functional genes for the same receptors (dominant).  Thus the experiment was of knocking out a retinoic acid signal and seeing how it changed the development of remiges (flight feathers) in the chicken.
+
+The feathers still grew, but the test feathers were scruffy, disorganized, and symmetrical, without the broad medial-favoring asymmetry that is necessary for remiges to be flightworthy.
+
 ---
 Back to [[authors-nonfiction]]
