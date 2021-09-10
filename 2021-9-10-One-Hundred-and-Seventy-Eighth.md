@@ -11,4 +11,13 @@ That watcher-of-loyalties act is an example of why loyalist gatekeepers are symp
 I have a sworn oath against loyalty, as I believe that loyalty *is* corruption.  People aren't *loyal* to their friends.  They're kind and honest to them, which makes people want to stick together when they find it.  Loyalty is a subpar replacement for honesty for people who can't find honesty.  It's most valued among criminals, as they need to know who will degrade themselves violating others.  Corrupt people who betray corruption are totally useless.
 
 ---
+I've been favoring my right leg today.  I've been exercising to try to get to the point of being able to bike to college daily.  I don't think I can climb that hill, literally or metaphorically, because there's a literal awful hill between me and the college.  Right now I've got what appears to be a minor injury to one of the muscles in my left leg.  It only hurts when the muscle tenses, but it's one of the muscles that does tense to support my weight when I'm standing on it.
+
+Fortunately, my balance is good enough that I can stand on my right leg all day.  I've trained for that, too!
+
+I have a mixed history with exercise.  I can do a lot of it, in theory.  I've always had good endurance, yet I exhaust quickly at high intensity.  Very quickly.  High intensity exercise exhausts me so quickly that people don't believe it and think I'm faking in laziness.  I can also do mild-to-moderate exercises from dawn til' dusk.  People don't believe that, either.  As long as I don't go over my exertion cap, it seems like I can exhaust most people, whereas above the cap of how much effort I can put out, nearly anyone can exhaust me.  I've no idea what the biological underpinnings of such an exertion cap are.
+
+I have a mixed history with exercise for another reason, too.  It maximizes my species dysphoria.  I hate the human body.  There's no pleasure in pushing my limits.  I don't want to focus on moving it.  Ever, preferably.  This psychology may be part of my exertion cap.  It may be that I exhaust when I'm working hard enough that exercise starts requiring focus, because focusing on exercise is repulsive to me.  Whereas at lower intensities, I can move in a regular manner without thinking about it, and so continue for very long periods of time.  This is all just speculation though.  It could be a biological issue that I'm inappropriately considering as psychology.
+
+---
 Back to [[day-post-archive]]

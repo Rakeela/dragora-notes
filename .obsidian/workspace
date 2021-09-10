@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 84.1143764892772,
+            "dimension": 27.79984114376489,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 15.885623510722796,
+            "dimension": 72.2001588562351,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Northern-Creche-Confederation.md",
+                "file": "2021-9-10-One-Hundred-and-Seventy-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "916cb216d2543ece",
   "lastOpenFiles": [
-    "Northern-Creche-Confederation.md",
+    "2021-9-10-One-Hundred-and-Seventy-Eighth.md",
     "Feather-Integument.md",
+    "Northern-Creche-Confederation.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Untitled.md",
     "2021-9-09-One-Hundred-and-Seventy-Seventh.md",
     "2021-9-06-One-Hundred-and-Seventy-Sixth.md",
     "2021-8-31-One-Hundred-and-Seventy-Second.md",
     "2021-8-30-One-Hundred-and-Seventy-First.md",
-    "2021-9-01-One-Hundred-and-Seventy-Third.md",
-    "2021-9-02-One-Hundred-and-Seventy-Fourth.md"
+    "2021-9-01-One-Hundred-and-Seventy-Third.md"
   ]
 }
