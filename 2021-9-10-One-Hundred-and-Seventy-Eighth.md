@@ -2,7 +2,7 @@
 
 I don't really respect people who make decisions in secret, nor who overreact to inputs, creating embarrassments that they must later conceal in secret.
 
-I once feared that I'd learned of the death of someone I knew, and when I spoke to them they proceeded to *magnanimously* inform an entire community of concerns that I'd intended for them alone.  This was of course dreary as they were therefore informing the community of an unknown death.  There was no cause to do that.  They later removed me from that community without speaking to me, an obvious consequence of the basic embarrassment that they inflicted on themselves and blamed me for.
+I once feared that I'd learned of the death of someone I knew, and when I spoke to them they proceeded to *magnanimously* inform an entire community of concerns that I'd intended for them alone.  This was of course dreary as they were therefore informing the community of an unknown death.  There was no cause to do that.  They later removed me from that community without speaking to me, an obvious consequence of the basic embarrassment that they inflicted on me and blamed me for.
 
 They were retaliating against me as though my personal concern were an infiltration attempt against the entire community... when it's like... dude, I never cared for anyone else in that community, just you, the one guy I'd actually spoken to.  It was your own demoralization action against the community that you treated me as having originated.  God, congrats on protecting your position.
 
