@@ -132,7 +132,7 @@ The Three Nations Semi-Allied
 "The Commonwealth lies, the Panarchy loves misery, and the Empire is a glitching hive-mind!"
 
 ---
-Potential Anomalies
+Anomalies
  - The Orbital Surveyors -
 Do any of the ideology groups give the orbital survey technology?
 
@@ -169,7 +169,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     23.  Technological extremophilia:  5/5
     24.  Stress/Boredom:  2/5 (Calm)
     25.  Kind of person most protected:  Dumb but technophilic people.
-    26.  Special categories:  Hypersmooth, Diversifying, Mind Control
+    26.  Special categories:  Rehabilitative, Diversifying, Mind Control
     27.  Conversion potential:  Unknown
 2.  Telepathic Dust
 	1.  Mechanism proposal:  As described, telepathic dust involves setting up the infrastructure to manufacture and distribute temporary clouds of empathy-dust across the public.  It sets up ad-hoc transmissions between people in the area of effect so that they can feel each others' emotions and get a transient sense of one anothers' thoughts.  It's a kind of super-tech toy for enhancing other kinds of play and encouraging people to trust each other.
@@ -221,22 +221,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Technological extremophilia:  3/5
 	11.  Stress/Boredom rating:  3/5 (Eustress)
 	12.  Kind of person most protected:  Automotive fans and racers.
-	13.  Special categories:  Hypersmooth
+	13.  Special categories:  Hypersmooth, Rehabilitative
 	14.  Conversion potential:  Unknown
 5.  Stasis Controller
-	1.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
-	2.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
-	3.  Narrative indicator:  Although it contributes little to the headline productive potential of stasis controller technologies, a society that has implemented these is probably better at giving people time and space to recover when they need it, because under this rule more of the economy is built in a way that treats the passage of time as a good thing.  "Time heals all wounds," may be wholly true with sufficiently advanced technology.
-	4.  Categorization:  This is the first 'Failsafe' technologies that I've described.  There's nothing about the Failsafe technologies that is likely to fail destructively, which isn't to say that they don't create their own risks of failure.  Systems of stasis control are just likely to come apart gently as people get bored of them.
-	5.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
-	6.  Utopic rating:  5/5
-	7.  Public protection rating:  5/5
-	8.  Technological smoothness:  5/5
-	9.  Technological extremophilia:  1/5
-	10.  Stress/Boredom rating:  1/5 (Dull)
-	11.  Kind of person most protected:  Cheesemakers.
-	12.  Special categories:  Hypersmooth, Luddistic, Failsafe
-	13.  Conversion potential:  Unknown
+	1.  Challenge cured:  Biological embargo
+	2.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.
+	3.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
+	4.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
+	5.  Narrative indicator:  Although it contributes little to the headline productive potential of stasis controller technologies, a society that has implemented these is probably better at giving people time and space to recover when they need it, because under this rule more of the economy is built in a way that treats the passage of time as a good thing.  "Time heals all wounds," may be wholly true with sufficiently advanced technology.
+	6.  Categorization:  This is the first 'Failsafe' technologies that I've described.  There's nothing about the Failsafe technologies that is likely to fail destructively, which isn't to say that they don't create their own risks of failure.  Systems of stasis control are just likely to come apart gently as people get bored of them.
+	7.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
+	8.  Utopic rating:  5/5
+	9.  Public protection rating:  5/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  1/5
+	12.  Stress/Boredom rating:  1/5 (Dull)
+	13.  Kind of person most protected:  Cheesemakers.
+	14.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	15.  Conversion potential:  Unknown
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
 	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
@@ -352,7 +354,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Stress/Boredom rating:  1/5 (Dull)
 	14.  Technological extremophilia:  Territory average
 	15.  Kind of person most protected:  Peacocks.
-	16.  Special categories:  Detached, Galactic Politics
+	16.  Special categories:  Detached, Anti-Popular, Galactic Politics
 	17.  Conversion potential:  Unknown
 12.  Panarchic Naval Ports
 	1.  Challenge cured:  Terrorism
@@ -396,7 +398,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Stress/Boredom rating: 1 (Dull)
 	19.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
 	20.  Special categories:  Detached, Nightmare, Galactic Politics
-	21.  Conversion potential:  Commonwealth->Panarchy (unidirectional)
+	21.  Alternate (Voluntary Order) categories:  Hedonological, Rehabilitative, Failsafe
+	22.  Conversion potential:  Commonwealth->Panarchy (unidirectional)
 14.  Beyonder Engine
 	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
 	2.  Mechanism proposal:  At a lower tech level, any kind of unsustainable stored energy reserve might be represented by this technology.  The purists of the Old Empire are (or believe they are, or can convince others that they are) patient enough to use these dwindling reservoirs sustainably.
@@ -418,7 +421,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
 	19.  Stress/boredom:  1/5 (Dull)
 	20.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
-	21.  Special categories:  Detached, Failsafe
+	21.  Special categories:  Detached, Failsafe, Rehabilitative
 	22.  Conversion potential:  Commonwealth<->Empire
 15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
@@ -592,31 +595,34 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.  Technological extremophilia:  3/5
 	23.  Stress/Boredom rating:  1 (Dull)
 	24.  Kind of person most protected:  Mentally ill people.
-	25.  Special categories:  Detached, Homogenizing, Hedonological
+	25.  Special categories:  Rehabilitative, Homogenizing, Hedonological
 	26.  Conversion potential:  Unknown
 24.  Orbital Hospitals
-	1.  Mechanism proposal:  Take it literally.  It's both most horrifying and most attractive when it's literal.
-	2.  Mechanism proposal:  I don't even disagree with the idea that radical investments in lowering the death rate would increase population growth.  Galactic society always tries to lower the death rate.  When you invent this, galactic society tries VERY HARD to lower the death rate.
-	3.  Narrative indicator:  This technology redeems some of the vilest people in existence.  Check the 'protected' line down-file.  As society becomes more competent to make virtuous use of people who aren't otherwise virtuous at all, average virtue drops, but becomes more equally distributed.  How committed to redemption are you?
-	4.  Mechanism proposal:  Since society is more likely to be able to survive risk-taking, risk-taking people survive more as well.  Moral hazard creeps up.  This contributes to the policy's bureaucratic waste... but I'm not willing to demerit the utopianism of this policy for it, because *it still works solely by lowering the death rate*.
-	5.  Narrative indicator:  Implementing this creates a weird specific inequality between people who live in deep habitations and people who live everywhere else, because the people who live in deep habitations can't benefit much.  On the other hand, whatever genetic implications this may or may not have, they won't apply to people who live in deep habitations.  Deep habitations accordingly insulate planets from the side effects of this policy.
-	6.  Mechanism proposal:  Orbital habitats also become more hospitable and well-supplied with healthcare services as a result of this.  The orbital hospital staff who stay in orbit are plenty likely to be compassionate people, too.  The people who aren't doing the whole orbital insertion thing don't benefit much from having the particular dysfunction of timing and empathy that makes life so boring to sociopaths (while making them better at both surgery and orbital insertions).
-	7.  Narrative indicator:  Rural medical care improves as the difference between fast response times in urban areas and fast response times in rural areas vanishes.  Rural population densities rise accordingly.  If crowding is low (<5x crowding multiplier), populations are likely to spread out more on average; otherwise this accelerates total urbanization.
-	8.  Authorial protest:  I believe I'm that I am in some sense supposed to hate this as dysgenic overall, which is imbecilic.  This is eugenic and talent-preserving policy.  Why am I supposed to lie about something that preserves talent and develops society's medical skills?  Despite its promotion of moral hazard and preservation of a sociopathic 'virtuous' population, this level of investment in medicine is likely to suppress sociopathy everywhere else.  Rejuvenation therapy itself is powerfully suppressive of sociopathy as eliminating aging must necessarily include the restoration of hippocampal erosion.  A society with heavy investment in medicine ensures that people will get rejuvenation therapies on schedule and (with the biology focus of the orbital surveyors tech tree) also gene therapies that further reduce their risk factors.  The implication that the orbital surveyors can also *cure* sociopathy doesn't mean they can totally suppress risk-taking behaviors; people who aren't sociopathic will also still respond to risk-safe environments by doing wild, exciting things.  That's *fun*.
-	9.  Mechanism proposal:  Some of the people who do the wild, exciting things that this technology makes more survivable will be more reproductively attractive as a result.
-	10.  Narrative indicator:  Ever wanted to drop from orbit with a scalpel in your hand, eager and ready to cut someone up?  If you can get through enough training and you're willing to cut people for their own good, congratulations; galactic society might no longer want to cure you of sociopathy.
-	11.  Moral question:  This tech is kind of horrifying in one final sense: it represents a potential triumph of a grim and risky utilitarianism.  The promise it makes is *true*.  The price it charges is *obvious*.  Will you accept a blatantly labeled population of obviously evil people, if you can be very confident that *on average* they are saving lives and making society safer?
-	12.  Narrative indicator:  Invent artificial wombs or genetic specialization first within the same tech tree, and your society can start optimizing away from sociopathy.  If you refine reaction times enough in an empathetic population, you don't *need* the people who this technology otherwise preserves, and you can *ignore* its protection pole.  Outside of this tech tree, consider enlightened policing or AI overseers as damage mitigations.
-	13.  Advice:  Stop flinching and go for it.  Don't quibble over the fractional points between this and 5 utopianism, come on!  Historic societies were like 0 points utopia.
-	14.  Bureaucratic waste analysis:  ...it's not purely literal, but there is *probably* no particular kind of talent that is lost.  You get more talent on average.  This develops galactic society's ability to protect people.  It's considerably more protective than the average technology, come on.
-	15.  Utopic rating:  4/5, increases gradually to 5 based on the number of other technologies from the orbital observers tree implemented
-	16.  Public protection rating:  4/5, increases gradually to 5 based on the number of other technologies from the orbital observers tree implemented
-	17.  Technological smoothness:  3/5
-	18.  Technological extremophilia:  5/5
-	19.  Stress/boredom rating:  5/5 (Screaming)
-	20.  Kind of person most protected:  Sociopaths
-	21.  Special categories:  Detached, Asexual, Failsafe
-	22.  Conversion potential:  Panarchy<->Imperial (limited); Empire<->Commonwealth (limited)
+	1.  Challenge cured:  Systemwide Quarantine
+	2.  Challenge cure interpretation:  I don't know a literal interpretation for this one... or rather, I don't know how Orbital Hospitals would literally contribute to resolving a systemwide quarantine against, say, a microbial pathogen.
+	3.  Alternative cure interpretation:  I think it's a very grim kind of... not a joke.  A deception.  As orbital hospitals use sociopaths and contribute to eventually curing them, perhaps galactic society enforces "biological" quarantines against systems where the local leaders are deranged and corrupted in a particular way that makes their "talents" useless and inimical to galactic society until they've reorganized to make productive use of sociopathy at this level.  Given the historic behaviors of human societies...  Given the amount of corruption and hatred that rises to the top of our societies...  Perhaps Earth IRL is part of a fringe system under just such a "biological" quarantine!  Corollary: Maybe we need infrastructure IRL to use sociopaths productively at this level.
+	4.  Mechanism proposal:  Take it literally.  It's both most horrifying and most attractive when it's literal.
+	5.  Mechanism proposal:  I don't even disagree with the idea that radical investments in lowering the death rate would increase population growth.  Galactic society always tries to lower the death rate.  When you invent this, galactic society tries VERY HARD to lower the death rate.
+	6.  Narrative indicator:  This technology redeems some of the vilest people in existence.  Check the 'protected' line down-file.  As society becomes more competent to make virtuous use of people who aren't otherwise virtuous at all, average virtue drops, but becomes more equally distributed.  How committed to redemption are you?
+	7.  Mechanism proposal:  Since society is more likely to be able to survive risk-taking, risk-taking people survive more as well.  Moral hazard creeps up.  This contributes to the policy's bureaucratic waste... but I'm not willing to demerit the utopianism of this policy for it, because *it still works solely by lowering the death rate*.
+	8.  Narrative indicator:  Implementing this creates a weird specific inequality between people who live in deep habitations and people who live everywhere else, because the people who live in deep habitations can't benefit much.  On the other hand, whatever genetic implications this may or may not have, they won't apply to people who live in deep habitations.  Deep habitations accordingly insulate planets from the side effects of this policy.
+	9.  Mechanism proposal:  Orbital habitats also become more hospitable and well-supplied with healthcare services as a result of this.  The orbital hospital staff who stay in orbit are plenty likely to be compassionate people, too.  The people who aren't doing the whole orbital insertion thing don't benefit much from having the particular dysfunction of timing and empathy that makes life so boring to sociopaths (while making them better at both surgery and orbital insertions).
+	10.  Narrative indicator:  Rural medical care improves as the difference between fast response times in urban areas and fast response times in rural areas vanishes.  Rural population densities rise accordingly.  If crowding is low (<5x crowding multiplier), populations are likely to spread out more on average; otherwise this accelerates total urbanization.
+	11.  Authorial protest:  I believe I'm that I am in some sense supposed to hate this as dysgenic overall, which is imbecilic.  This is eugenic and talent-preserving policy.  Why am I supposed to lie about something that preserves talent and develops society's medical skills?  Despite its promotion of moral hazard and preservation of a sociopathic 'virtuous' population, this level of investment in medicine is likely to suppress sociopathy everywhere else.  Rejuvenation therapy itself is powerfully suppressive of sociopathy as eliminating aging must necessarily include the restoration of hippocampal erosion.  A society with heavy investment in medicine ensures that people will get rejuvenation therapies on schedule and (with the biology focus of the orbital surveyors tech tree) also gene therapies that further reduce their risk factors.  The implication that the orbital surveyors can also *cure* sociopathy doesn't mean they can totally suppress risk-taking behaviors; people who aren't sociopathic will also still respond to risk-safe environments by doing wild, exciting things.  That's *fun*.
+	12.  Mechanism proposal:  Some of the people who do the wild, exciting things that this technology makes more survivable will be more reproductively attractive as a result.
+	13.  Narrative indicator:  Ever wanted to drop from orbit with a scalpel in your hand, eager and ready to cut someone up?  If you can get through enough training and you're willing to cut people for their own good, congratulations; galactic society might no longer want to cure you of sociopathy.
+	14.  Moral question:  This tech is kind of horrifying in one final sense: it represents a potential triumph of a grim and risky utilitarianism.  The promise it makes is *true*.  The price it charges is *obvious*.  Will you accept a blatantly labeled population of obviously evil people, if you can be very confident that *on average* they are saving lives and making society safer?
+	15.  Narrative indicator:  Invent artificial wombs or genetic specialization first within the same tech tree, and your society can start optimizing away from sociopathy.  If you refine reaction times enough in an empathetic population, you don't *need* the people who this technology otherwise preserves, and you can *ignore* its protection pole.  Outside of this tech tree, consider enlightened policing or AI overseers as damage mitigations.
+	16.  Advice:  Stop flinching and go for it.  Don't quibble over the fractional points between this and 5 utopianism, come on!  Historic societies were like 0 points utopia.
+	17.  Bureaucratic waste analysis:  ...it's not purely literal, but there is *probably* no particular kind of talent that is lost.  You get more talent on average.  This develops galactic society's ability to protect people.  It's considerably more protective than the average technology, come on.
+	18.  Utopic rating:  4/5, increases gradually to 5 based on the number of other technologies from the orbital observers tree implemented
+	19.  Public protection rating:  4/5, increases gradually to 5 based on the number of other technologies from the orbital observers tree implemented
+	20.  Technological smoothness:  3/5
+	21.  Technological extremophilia:  5/5
+	22.  Stress/boredom rating:  5/5 (Screaming)
+	23.  Kind of person most protected:  Sociopaths
+	24.  Special categories:  Rehabilitative, Asexual, Failsafe
+	25.  Conversion potential:  Panarchy<->Imperial (limited); Empire<->Commonwealth (limited)
 25.  Jaunting Grid
 	1.  Mechanism proposal:  One of the themes of the Old Empire is that 'instantaneous' is relative, and another theme seems to be that redefinitions aren't necessarily dishonest.  Cultivating a population that is comfortable taking its time and trusting in immortality also yields increasing time-tolerance for transit.  Developing a population that enjoys 'relatively instantaneous' travel systems may be advantageous in some ways.
 	2.  Mechanism proposal:  Given the creative dishonesty of the Old Empire, people who "travel" via jaunting grid also may not be going *anywhere*.  They might just have active imaginations.  They study other people and other places.  The information is probably valid.  People who are content to "travel" in this fashion put relatively less burden on air travel and other logistical systems.  More books get shipped, but fewer people.  If society is very trustworthy, people who 'travel' this way are also better at providing services to places they've never met and people who are from them.  Being able to comprehend very distant places increases the degree to which society can increase in scale.
@@ -638,7 +644,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Technological extremophilia:  4/5
 	19.  Stress/Boredom rating:  2/5 (Calm)
 	20.  Kind of person most protected:  Encyclopedia fans and transportation engineers.
-	21.  Special categories:  Homogenizing
+	21.  Special categories:  Homogenizing, Rehabilitative
 	22.  Conversion potential:  Unknown
 26.  Seat of Beauty
 	1.  Mechanism proposal:  Despite their stated purpose (and functional effect) of promoting the arts, seats of beauty actually operate in *restraint* of cultural productivity.  Specifically, they suppress, censor, and disrupt the promulgation of ugly art.  This is a judicial system of the art world, making cases against crimes of art!  They have their prosecutors, defenders, and judges, though unless they get called into courts of law, the proceedings almost never look anything like a real courtroom.
@@ -734,16 +740,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Mechanism proposal:  The potentialities overseer doesn't strictly have to achieve omniscience to carve out some of the upkeep in the system.  Indeed, the bureaucratic waste from its operation could be from setting up all the sensors and analysis systems that it needs in order to function.  So the literal description could be just an oversell.  Ubiquitous overselling seems to be a theme of The Viceroy.
 	10.  Mechanism proposal:  One of the technologies implied to be in the game's setting (but not implemented entirely competently) is superconducting fibre.  In theory, superconducting wire can save money by reducing transmission costs, and (in theory) superconductors may already be good enough to attain this.  In practice, this seems to be an example of something that humanity can't calculate how to do with present technology, and most interest in fixing that focuses on improving superconductors rather than trying to do a total world calculation of how transmission costs affect electricity costs to see if there are edge-cases to snip off with better wires.  One of the functions of potentialities overseers (and other upkeep-reducing technologies) may be to do more of the edge-case calculations necessary to figure out when marginal technologies could (theoretically) save money during implementation (if one ignored the bureaucratic cost of calculating all the marginalia).
 	11.  Mechanism proposal:  Have you ever lost something small that you needed for work?  The potentialities overseer could point out where it is.  This is a correction too small for a human overseer to experience anything but frustration over, but surely it wouldn't bother an AI!  ...there are reasons I feel sorry for Potentialities Overseers.
-	12.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
-	13.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
-	14.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
-	15.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
-	16.  Technological smoothness:  2/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
-	19.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
-	20.  Special categories:  Anti-Popular, Homogenizing, Nightmare
-	21.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
+	12.  Categorization (Alternate): The Collapse Overseer would probably be more popular than the Potentialities Overseer, but not VERY popular.  A Collapse Overseer is a massive computer system with a specialized bureaucracy serving it, and the whole organization exists to tell people what they did wrong in exhaustive detail.  Nope.  Not gonna be popular, even if it's useful.  Much, much safer than the Potentialities Overseer, though.
+	13.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
+	14.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
+	15.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
+	16.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
+	17.  Technological smoothness:  2/5
+	18.  Technological extremophilia:  5/5
+	19.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
+	20.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
+	21.  Special categories:  Anti-Popular, Homogenizing, Nightmare
+	22.  Alternate (Collapse Overseer) categories:  Anti-Popular, Rehabilitative, Failsafe
+	23.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
 31.  Artificial Dreamtime
 	1.  Mechanism proposal:  Blocks all lies.
 	2.  Mechanism proposal:  Reveals the desires of all people to all people.
@@ -800,7 +808,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Stress/Boredom rating:  4/5 (Stressful), -2 with Horizontal Eugenics interpretation
 	15.  Kind of person most protected:  People with really good innate immune systems.
 	16.  Special categories:  Homogenizing, Nightmare, Failsafe
-	17.  Alternate categories:  Asexual, Hedonological, Failsafe
+	17.  Alternate (Horizontal Eugenics) categories:  Asexual, Hedonological, Failsafe
 	18.  Conversion potential:  Empire<->Commonwealth
 34.  Panarchic Cathedral
 	1.  Authorial protest:  I'm biased.  This reminds me of being Kairn, the secretly secular dragon priest of the wind.  I lived in a cathedral and sang for the people, trying to prove that dragons could be harmless pacifists.  That was like...  three centuries.  It was good, but frustrating.  I lived a boring life and I made gains so slowly.  I thought, if only I could live forever, I could surely win...  I took a grevious soul-deep risk to try to gain what I needed, and for that I was killed by a mind-controlling inquisitor who puppeteered others to lynch me.
@@ -836,7 +844,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Technological Extremophilia:  3/5, +1 per two of:  Seasteading, Orbital Habitats, Dyson Swarm, or Vacuum-Based Life
 	17.  Stress/Boredom rating: 4/5 (Stressful) 
 	18.  Kind of person most protected:  "Undiscoverable" artists whose talents would never be found without this due to poverty or criminal records.
-	19.  Special categories:  Diversifying, Anti-Popular, Galactic Politics
+	19.  Special categories:  Diversifying, Anti-Popular, Rehabilitative
 	20.  Conversion potential:  Unknown
 36.  Colonial Office:
 	1.  Authorial protest:  TBD.
@@ -857,20 +865,22 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Special categories:  Diversifying, Hedonological, Galactic Politics
 	17.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 37.  Hydroponic Farms
-	1.  Mechanism proposal:  Wow, literalism.
-	2.  Mechanism proposal:  There's no reason to assume this technology is anything but what it says on the tin.  It's so straightforward!
-	3.  Downside analysis:  This is so much less impressive than the other technologies in the game - I'm not saying it wouldn't work like it says! - that it comes off as boring and unmarvelous.
-	4.  Trivia:  The icon for this technology is a dome in space with fields and trees inside of it, suggesting that this is a distrct-by-district version of the massive structures used for Zero Gravity Farms.
-	5.  Mechanism proposal:  This technology likely extends into vertifarming and urban agriculture in general, which some people (such as me!) do consider futuristic and awesome.
-	6.  Bureaucratic waste analysis:  Literal, although I guess it could inspire intransigence for sheer boringness.  There could also be concern that the galaxy has tons of biological production already.  Not sure though.
-	7.  Utopia rating:  5/5
-	8.  Public protection rating:  5/5
-	9.  Technological smoothness:  4/5
-	10.  Technological extremophilia:  2/5
-	11.  Stress/Boredom rating:  1/5 (Dull)
-	12.  Kind of person most protected:  Verticulturalists
-	13.  Special categories:  Anti-Popular, Failsafe
-	14.  Conversion potential:  Unknown.
+	1.  Challenge cured:  Photosynthetic Plague
+	2.  Challenge cure interpretation:  Closed environment farming permits crops to be grown despite the plague and brings in the appropriate research talent to research curing it.
+	3.  Mechanism proposal:  Wow, literalism.
+	4.  Mechanism proposal:  There's no reason to assume this technology is anything but what it says on the tin.  It's so straightforward!
+	5.  Downside analysis:  This is so much less impressive than the other technologies in the game - I'm not saying it wouldn't work like it says! - that it comes off as boring and unmarvelous.
+	6.  Trivia:  The icon for this technology is a dome in space with fields and trees inside of it, suggesting that this is a distrct-by-district version of the massive structures used for Zero Gravity Farms.
+	7.  Mechanism proposal:  This technology likely extends into vertifarming and urban agriculture in general, which some people (such as me!) do consider futuristic and awesome.
+	8.  Bureaucratic waste analysis:  Literal, although I guess it could inspire intransigence for sheer boringness.  There could also be concern that the galaxy has tons of biological production already.  Not sure though.
+	9.  Utopia rating:  5/5
+	10.  Public protection rating:  5/5
+	11.  Technological smoothness:  4/5
+	12.  Technological extremophilia:  2/5
+	13.  Stress/Boredom rating:  1/5 (Dull)
+	14.  Kind of person most protected:  Verticulturalists
+	15.  Special categories:  Anti-Popular, Failsafe
+	16.  Conversion potential:  Unknown.
 38.  Distributed Desalination
 	1.  Mechanism proposal:  Also literal.
 	2.  Downside analysis:  These systems really are marginal in productivity.  They could work wonders... if tended for centuries...  We could green deserts with this tech!  Eventually...  The description says, "the ability to produce fresh water in nearly limitless quantities,"  but that's not a reasonable expectation.  Like with the Beyonder Engines, I suspect that this technology requires playing a trick with temporality to understand: *with sufficient patience*, you can get infinite water out of distributed desal.
@@ -897,7 +907,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Technological extremophilia:  5/5
 	11.  Stress/Boredom rating:  2/5 (Calm)
 	12.  Kind of person most protected:  Weirdoes.
-	13.  Special categories:  Diversifying
+	13.  Special categories:  Diversifying, Rehabilitative
 	14.  Conversion potential:  Empire<->Panarchy; Empire<->Commonwealth (limited)
 40.  Seat of Justice
 	1.  Authorial protest:  I think humanity built one of these on Earth - so to speak - in the dawn of civilization.  While I don't contest its mechanical effects, and I'm about to rate it a solid 5/5 utopianist, I also don't think that it comprises... the entirety of utopia.
@@ -916,7 +926,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Technological extremophilia:  1/5
 	15.  Stress/Boredom rating:  3/5 (Eustress)
 	16.  Kind of person most protected:  Varies.
-	17.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	17.  Special categories:  Hypersmooth, Luddistic, Rehabilitative
 	18.  Conversion potential: Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 41.  Local Government
 	1.  Mechanism proposal:  Does galactic politics really need to interact with every detail of a local government?  No.  Not even faintly.
@@ -950,6 +960,43 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Technological extremophilia:  5/5
 	16.  Kind of person most protected:  Sensor technicians
 	17.  Special categories:  Diversifying, Nightmare
+	18.  Conversion potential:  Unknown
+43.  Orbital Surveyor
+	1.  Challenge cured: Invasive Organisms
+	2.  Challenge cure interpretation:  The orbital surveyors look like they have the largest ecologist contingent.  This technology brings in the ecologists who can deal with invasive organizations.
+	3.  Mechanism proposal:  The literally described mechanism works... more or less.  Like all the -Upkeep techs in the game, it's a total waste of resources unless one of two things is true: 1) you have excessively awesome administrators and no bureaucratic waste, or 2) your administration has basically collapsed from bureaucratic waste and you're just clinging until you get reassigned.
+	4.  Narrative indicator:  A network of observation satellites probably gives a pretty good idea of what's going wrong... but it doesn't necessarily give much power to *do* anything about it.  Every time you build these, a few more of your society's leaders are getting high and laughing as systems collapse.  Only literally getting high, of course... probably.
+	5.  Apologia:  That really doesn't make things any worse.
+	6.  Narrative indicator:  This does uphold high-tech development, and it changes the *kind* of lurking disasters that would be building up.  Stuff that's obviously visible from orbit would be less troubling once you've got these built up.
+	7.  Downside analysis:  I don't know why, but I've got the sense that these systems could end up being used by creeps.  Maybe any kind of closed omniscience system would have that problem.  The more the general public has access to the grid, the better, but even were the sensors public access the public wouldn't have access to the institutional analyses.  Maybe I shouldn't worry about this.
+	8.  Bureaucratic waste analysis:  Launch systems, sensor grids, logisticians.  I don't think this wastes anyone in the bad way.
+	9.  Utopia rating:  Territory Average, +1 (Max 5/5)
+	10.  Public protection rating:  Territory Average, +1 (Max 5/5)
+	11.  Technological smoothness:  2/5
+	12.  Technological extremophilia:  Territory Average, +1 (Max 5/5)
+	13.  Kind of person most protected:  Sensor technicians, People who like watching trees grow from orbit
+	14.  Special categories:  Detached, Failsafe
+	15.  Conversion potential:  Empire<->Panarchy (Limited); Empire<->Commonwealth (Limited)
+44.  Orbital Habitats
+	1.  Challenge Cured:  Ice Age
+	2.  Challenge Cure Interpretation:  I'm not sure.  Controlled global warming due to numerous space launches?  Replacement of groundside farms with orbital farms?  Both?  The Orbital Surveyors (I refer to them by their capstone) do like farming in orbit.
+	3.  Alternative cure interpretation:  If the orbital observers settle preferentially in weird and sparsely populated areas, perhaps they can also be directed to sink waste heat pipes into the permafrost so that precipitation increases and atmospheric water vapor retains more heat.
+	4.  Mechanism proposal:  This is pretty obviously literal.  I'd have to stretch to come up with a non-literal interpretation; it could for instance also refer to a pattern of smaller rural population centers 'orbiting' big population centers groundside.
+	5.  Mechanism proposal:  Like all the +Crowding techs, this implicitly reduces all-causes mortality.  Better policing, sanitation, medical services.  More peaceful populations.  I want to talk about that one, because I think it's substantial here.  An orbital colony would need to be a compact, highly cooperative society due to the intrinsic hazards of its location.
+	6.  Mechanism proposal:  Imagine a place where a steadying hand is never far away... and there's nowhere for bullies to gang up on kids they hate.  I consider this tech to be associated with the most top-quality childrearing environments of any tech on the tech tree.  Kids need the gentleness of serenity more than the force of unity, too...  This is the childrearing tech that natalist policies wish they were!
+	7.  Downside analysis:  These colonies fail far more horrifyingly than groundside colonies.
+	8.  Downside analysis:  Even in the alternative low-tech interpretation (rural population centers 'orbiting' major urban areas), rural communities are often considerably more dysfunctional than urban areas.  The low-tech interpretation is probably not the correct one...  It suggests a 1/5 extremophilia too strongly, as rural areas with ugly bubble cultures infamously resist technology.
+	9.  Author appeal:  Seriously, these are great!  Until they're not.   But they're great until then!
+	10.  Categorization:  Since orbital habitats fail dangerously, this is a nightmare tech.  Sorry!  Stay on top of bureaucratic waste!
+	11.  Apologia:  Come on, real societies never develop into incomprehensible messes that lose literally ALL of their tax money in bureaucratic waste.  Don't worry about it.  It's just a gameism.  Total absolute paralysis only happens in The Viceroy.  Real leaders know: stay on top of bureaucratic waste!
+	12.  Bureaucratic waste analysis:  The low-tech interpretation would be likely to entrench some amount of hatred of bureaucracy and create horrible bubbles of vile rural 'culture'... but I'm going to ignore that.  The high-tech interpretation is pretty pure, though painfully so; you can't exactly let the life support requisitions slip.  Nor any of the other requisitions.  Every neglected orbital habitat is an entire city full of people doomed to die horrifically.  This dings its utopianism and there is NO FIX.  Stay on top of bureaucratic waste!
+	13.  Utopia rating:  4/5
+	14.  Public protection rating:  4/5
+	15.  Technological smoothness:  3/5
+	16.  Technological extremophilia:  5/5
+	17.  Kind of person most protected:  Children & life support technicians
+	18.  Special categories:   Diversifying, Nightmare
+	19.  Conversion potential:  Empire<->Commonwealth
 
 
 ---
@@ -1020,6 +1067,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-09-08;  I'm not sure how I'll rework it exactly, but my current ratings system is not going to survive to the final product.  I may however wait until I've done all the basic profiles by this system to define a different one.
 
 2021-09-09;  I'm eventually going to have to edit a lot of these for brevity.  Right now I'm still gathering material and performing first-pass analysis.  My intention is that eventually, every technology's commentary will fit on a two-page spread in a book...  I really like the Imperial Processions of the Arts.  I adore the idea of seven hundred year art exhibitions.  It shows off to me that the Imperials truly understand the love of immortality.
+
+2021-09-11;  I'm introducing a new Rehabilitative classification for technologies that I think would tend to rehabilitate people who might otherwise be useless to society.  We'll see how many of the techs in each ideology qualify...
 
 ---
 The Much-Reviled Lower Classes
