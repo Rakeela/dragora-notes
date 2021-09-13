@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Chives-of-Wrath.md",
                     "mode": "source"
                   }
                 }
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Legendary-Souls-of-Diamonil.md",
+                    "file": "Feather-Integument.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "Chives-of-Wrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "916cb216d2543ece",
   "lastOpenFiles": [
+    "Chives-of-Wrath.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "Faiths-of-Diamonil.md",
-    "Legendary-Souls-of-Diamonil.md",
-    "Legendary-Souls.md",
-    "Polis-Diamonil.md",
     "Feather-Integument.md",
+    "Legendary-Souls-of-Diamonil.md",
+    "Polis-Diamonil.md",
+    "Faiths-of-Diamonil.md",
+    "Legendary-Souls.md",
     "Old-Diamonil.md",
     "Rapture-Communities.md",
-    "First-Community-of-the-Steelfeather-Rapture.md",
-    "2021-8-31-One-Hundred-and-Seventy-Second.md"
+    "First-Community-of-the-Steelfeather-Rapture.md"
   ]
 }

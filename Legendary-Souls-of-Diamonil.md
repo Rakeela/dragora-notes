@@ -1,6 +1,6 @@
 #Legendary-Souls-of-Diamonil
 
-A general practice of writing for Polis Diamonil is that I resist naming characters.  I picked this up from my resentment for Nationstates' "random" name picker, which has stuck my own name on issues a few too many times in a few too many coincidentally insulting locations... and other insulting names, too.  So there aren't a lot of named peacock gryphons in Diamonil's history...  but there are some.
+A general practice of writing for Polis Diamonil is that I resist naming characters.  I picked this up from my resentment for Nationstates' "random" name picker, which has stuck my own name on issues a few too many times in a few too many coincidentally insulting locations... and other insulting names, too.  So there aren't a lot of named peacock gryphons in Diamonil's history...  but there are some.  These are closely linked to the [[Faiths-of-Diamonil]].
 
 ---
 Teyzaw - Originally a science fiction writer, Teyzaw was posthumously deified by her over-dedicated fanbase.  They were polite and productive people, so a community built up around them and never dispersed.
