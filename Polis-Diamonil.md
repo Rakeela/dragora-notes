@@ -4,7 +4,7 @@ This is a stub, but I've worked on this project so much it will surely expand in
 (Unsorted) Subtopics:
 [[Old-Diamonil]]
 [[Rapture-Communities]]
-[[Legendary-Souls]]
+[[Legendary-Souls-of-Diamonil]]
 [[Faiths-of-Diamonil]]
 [[Factions-of-Diamonil]]
 

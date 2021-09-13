@@ -5,5 +5,9 @@ What is now referred to as "Old Diamonil" is the original Polis Diamonil, which 
 I've still much to write about Old Diamonil, and I may eventually dredge the archive for what I've written already.
 
 ---
+Fictional Books of Old Diamonil
+(This is a placeholder for the most important archive-dredging project; the book publishing industry has always been essential to Diamonil's politics.)
+
+---
 Back to [[Polis-Diamonil]]
 

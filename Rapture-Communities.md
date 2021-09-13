@@ -5,7 +5,7 @@ Polis Diamonil developed a long and sometimes awful history.  It got too much to
 Specific rapture community pages:
 [[First-Community-of-the-Zintrothian-Rapture]]
 [[Second-Community-of-the-Zintrothian-Rapture]]
-[[First-Community-of-the-Steelfeather-Rapture]]
+[[First-Community-of-the-Steelfeather-Rapture]]  (Current!)
 
 ---
 Back to [[Polis-Diamonil]]

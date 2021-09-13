@@ -4,6 +4,8 @@ Note to self:  Do a writeup on "The Scourging of the Flame" in ten days when Kav
 
 Just taking a note for myself of something I'm worried that I'll forget.  One of my pettier projects has an externally-imposed schedule.
 
+(Edited 2021-09-12; This was written before I created the [[Polis-Diamonil]] page, and needs a crosslink added.)
+
 ---
 I've tried a lot of stuff, mentally.  I've thought through a lot of oddities.  The opportunity to do so is one of the treasures of being a writer.  I'm not a good performative writer; I'm 'a writer with no output'.  Yet I still think through a ton of stories to myself.
 

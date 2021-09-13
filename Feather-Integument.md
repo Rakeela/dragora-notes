@@ -61,5 +61,7 @@ I don't understand the point that this is making about retinoic acid signalling 
 
 I do not understand how the follicle pulp forms the internal gradient distributing the different factors.  In theory those factors *are* what controls the distribution, but I do not understand it.  They're using reaction-diffusion mechanisms...  According to page 7, these researchers have assembled reaction-diffusion equations for extracellular RA, WNT, GDF10, and GREM1, but the mathematical models on pages 11 and 12 are nearly totally opaque to me.  At least I understand algebra...
 
+Figures 4a, 5a, and 2c have standout similarities that I need to understand in order to fully present figure 5a.  I understand that these present mesenchymal (pulp) cells.  I'm trying to find the methodology by which they prepared these samples for observation.  Were they processed according to the methodology described on pages 10 and 11, involving separation of the mesenchyme from epithelium in 2xCMF solution (RNA-seq) or dissociation of the mesenchyme from epithelium via 0.35% collagenase digestion followed by "formaldehyde cross-linking" (ChIP-seq)?
+
 ---
 Back to [[authors-nonfiction]]

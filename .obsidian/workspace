@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 64.57505957108816,
+            "dimension": 52.184273232724394,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Faiths-of-Diamonil.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 35.42494042891183,
+            "dimension": 47.81572676727562,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Feather-Integument.md",
+                    "file": "Legendary-Souls-of-Diamonil.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "Legendary-Souls-of-Diamonil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-9-10-One-Hundred-and-Seventy-Eighth.md",
+    "Legendary-Souls-of-Diamonil.md",
+    "Faiths-of-Diamonil.md",
+    "Legendary-Souls.md",
+    "Polis-Diamonil.md",
     "Feather-Integument.md",
-    "Northern-Creche-Confederation.md",
-    "Untitled.md",
-    "2021-9-09-One-Hundred-and-Seventy-Seventh.md",
-    "2021-9-06-One-Hundred-and-Seventy-Sixth.md",
+    "Old-Diamonil.md",
+    "Rapture-Communities.md",
+    "First-Community-of-the-Steelfeather-Rapture.md",
     "2021-8-31-One-Hundred-and-Seventy-Second.md",
-    "2021-8-30-One-Hundred-and-Seventy-First.md",
     "2021-9-01-One-Hundred-and-Seventy-Third.md"
   ]
 }
