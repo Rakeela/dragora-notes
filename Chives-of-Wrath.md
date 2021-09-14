@@ -62,8 +62,12 @@ My chives have mostly sprouted.  I don't really know how to judge their growth. 
 My chives look kind of terrible.  I'm not sure what I've done wrong in tending them.  They're not dead yet, so I'll keep going, but I think botany classes may be an important part of my educational future.
 
 ---
-2021-9-13:
+2021-9-13;
 I did my first four transplants to my aeroponics rig yesterday.  My chives have been doing much better lately; I discovered that I'd been underwatering them.  I've grown oddly attached to my smallest, weakest chive...  It is half an inch tall and I can't quite believe it will ever grow enough to flower, but it looked more dead two days ago than it does today.  It is still a living plant.
+
+---
+2021-9-14;
+Two more chives ready for transplant.  Due to assembly errors in putting together my aeroponics tower, there's some water accumulation on and around the tower, plus my ventilation unit isn't working.  Kistaro believes that it's the fault of the blower and/or a misconfiguration issue, but I think our nonstandard installation caused it to unbalance.
 
 ---
 Back to [[Everloathing-Agritechnologies]]
