@@ -69,6 +69,8 @@ I did my first four transplants to my aeroponics rig yesterday.  My chives have 
 2021-9-14;
 Two more chives ready for transplant.  Due to assembly errors in putting together my aeroponics tower, there's some water accumulation on and around the tower, plus my ventilation unit isn't working.  Kistaro believes that it's the fault of the blower and/or a misconfiguration issue, but I think our nonstandard installation caused it to unbalance.
 
+I'm slowly realizing how much information I could be gathering that I am not.  The per-plant details of how fast the plants are growing may be a hint of their underlying traits.  The exact amounts that I'm watering and feeding them could be recordable.  Instead, I'm presently only picking up generalities.  "The aerogarden chives seem to be outperforming the rockwool chives," for instance.  *Seem* to be.  That is an unseemly observation in science.
+
 ---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
