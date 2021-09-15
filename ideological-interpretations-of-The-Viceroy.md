@@ -1073,6 +1073,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Kind of person most protected:  Wannabe speechwriters
 	19.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
 	20.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
+46.  Prenatal Education
+	1.  Author protest:  I think this possibly should be Ancestral Recording.  I wrote below that Ancestral Recording should be where the University is; I'm not sure.  I don't see Prenatal Education as a 'real' technology unless it's a *Panarchic* technology, and the rest of what I write about it will probably explain why.
+	2.  Mechanism proposal:  Does anyone remember those "listen to classical music so your baby will be smarter" ads?  Those were common in the 90s, and as a classical music fan in childhood, they contributed to my sense that reproduction was being treated as the entire purpose of life.  Sex was the authority I had to accept.  This is... the gentlest, most harmless version of Prenatal Education.
+	3.  Mechanism proposal:  Life-planning.  Arranged marriages.  Children being born for roles, quite literally.  Possibly even caste systems and vertical eugenics (vertical eugenics is eugenics by lineage, ie sterilizing the poor, as contrasted to horizontal eugenics, which is eugenics via gene therapy).  This tech is authoritarian.
+	4.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
+	5.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
+	6.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
+	7.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
+	8.  Liberation rating:  1/5
+	9.  Protection rating:  2/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  5/5
+	12.  Stress/Boredom rating:  4/5 (Stressful)
+	13.  Me-points:  -1/3
+	14.  Kind of person most protected:  Matchmakers
+	15.  Special categories:  Hypersmooth, Nightmare, Failsafe
+	16.  Conversion potential:  Unknown
 
 
 ---

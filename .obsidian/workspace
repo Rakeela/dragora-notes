@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 76.56870532168386,
+            "dimension": 79.18983320095315,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chives-of-Wrath.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 23.431294678316124,
+            "dimension": 20.81016679904686,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chives-of-Wrath.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "916cb216d2543ece",
   "lastOpenFiles": [
-    "Chives-of-Wrath.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "Untitled.md",
+    "Chives-of-Wrath.md",
     "Feather-Integument.md",
     "Legendary-Souls-of-Diamonil.md",
     "Polis-Diamonil.md",
     "Faiths-of-Diamonil.md",
     "Legendary-Souls.md",
     "Old-Diamonil.md",
-    "Rapture-Communities.md",
-    "First-Community-of-the-Steelfeather-Rapture.md"
+    "Rapture-Communities.md"
   ]
 }
