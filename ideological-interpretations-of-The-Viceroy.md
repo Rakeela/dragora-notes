@@ -1110,6 +1110,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Kind of person most protected:  Bibliophiles
 	17.  Special categories:  Hedonological, Failsafe, Galactic Politics
 	18.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
+48.  Mental Transcription
+	1.  Authorial protest:  This is one of the most dangerously authoritarian technologies in the tree... and yet it's also one that I see as profoundly beautiful.  I want to live in a society that does this in a manner respectful of freedom... and I never want to live in a society that does this in a manner disrespectful of freedom.  How does one create a society that can use this power in a way that liberates people?  *I don't know.*
+	2.  Mechanism proposal:  If you have enough nanotech and neuroscience, I think this can be done straightforwardly.
+	3.  Narrative indicator:  Rolling out mental transcription really develops the Panarchic Cybertechnologies market in a district.  Implants (and especially skillsofts) become more common and more awesome.
+	4.  Note on synergy:  I think that this technology is more beautiful in areas that also have creche education systems.  Children would move more swiftly through their lessons and be less overburdened by homework assignments.
+	5.  Note on synergy:  I think implementing this hires a lot of the same people as a Distributed Intelligence system, and the two technologies should work together quite efficiently.
+	6.  Categorization:  This is very much a technology in the Mind Control trio.  It's considerably more horrifying than the milder and less controlling implications of telepathic dust.
+	7.  Conversion:  This... IS an omniconverter.  A very horribly powerful one.  It gives the state the power to overwrite minds in real-time, and the requirements of being an educational database only reduce that a little bit.  It may increase population stereotypy as it increases conformance to the three 'galactic archetypes'.
+	8.  Note on Me-points:  I can't tell if I should rate this a -1 or a 3.
+	9.  Categorization:  This is also an extremely awesome rehabilitative technology.  The Panarchy's adult education system must be epic in its productivity, as a system like this would make retraining adults into something fluid and fun.
+	10.  Bureaucratic waste analysis:  Half-literal.  Like with Distributed Intelligence, this society would have to hire a lot more fact-checkers, social scientists, and neuroscientists.  Yet the social stresses that this technology imposes would create a lot of intransigence and outright violence.  A smart state would tolerate a lot of protest activities as proof that they're *not* overwriting minds, especially if it's true, but potentially even if it's not.
+	11.  Liberation rating:  2/5, +1 in presence of Creche Education (how else could this measure be increased?)
+	12.  Protection rating:  4/5
+	13.  Technological smoothness:  2/5
+	14.  Technological extremophilia:  5/5
+	15.  Stress/Boredom rating:  3/5 (Eustress)
+	16.  Me-points:  Unrateable.  Dependent on liberation rating.
+	17.  Kind of person most protected:  Neurologists
+	18.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
+	19.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 
 
 ---
