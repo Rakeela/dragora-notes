@@ -1090,6 +1090,22 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Kind of person most protected:  Matchmakers
 	15.  Special categories:  Hypersmooth, Nightmare, Failsafe
 	16.  Conversion potential:  Unknown
+47.  University
+	1.  Mechanism proposal:  WYSIWYG.
+	2.  Narrative indicator:  We already have a functioning system of universities on Earth.  It works like this.
+	3.  Author protest:  I think the Panarchy would love universities just as much as the Commonwealth if not more, and I think there's a minor ideological tension over them as both faction populations want universities on all their planets.
+	4.  Apologia:  Maybe it's not a tension, but perhaps this search for new ideas is something that the two factions share happily.
+	5.  Author appeal:  I wrote Marchosias' concept of the afterlife as including a 'university loop' as its second stage.  It was eternal for people who wanted to experience it eternally, but otherwise it was a transitional environment towards experiencing different segments of the afterlife she created.  It was also a bureaucratic layer for organizing impressions of the cosmos.
+	6.  Categorization:  I think universities draw people towards their heart's desire, helping people build specialist skills that they really want to have.  The enhanced technical skill that a university system enables also means that more of the jobs nobody wants are automated away.  These factors promote hedonological organization in society and mean that more people have jobs because they *want* those jobs.
+	7.  Bureaucratic waste analysis:  Very literal.
+	8.  Liberation rating:  5/5
+	9.  Protection rating:  5/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  4/5
+	12.  Stress/Boredom rating:  3/5 (Eustress)
+	13.  Me-points:  2/3
+	14.  Kind of person most protected:  Bibliophiles
+	15.  Special categories:  Hypersmooth, Hedonological, Failsafe
 
 
 ---
