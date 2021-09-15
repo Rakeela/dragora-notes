@@ -740,7 +740,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 29.  Creche Education
 	1.  Authorial protest: The staff at my school were so intent on treating me as a violent troublemaker that they failed to protect me from violently untrustworthy peers.  They refused to believe that I was an actual pacifist even though I was indeed an actual pacifist.  In fifth grade I was even once assaulted by a teacher!
 	2.  Mechanism proposal:  Immortal societies don't HAVE a lot of kids.  It's not sustainable to have a lot of kids, it's not necessary to have a lot of kids, and only primitive societies have to pretend that childrearing is a happy thing.  The other factions tend to trust in people getting a sufficient education across hundreds or thousands of years, and deprioritize public education.  The Commonwealth Consensus is committed to providing an extremely well-funded public education system even if there are only a handful of kids in class.
-	3.  Downside analysis:  Teachers outnumber students at some of these creches.  It can be overwhelming.
+	3.  Downside analysis:  Teachers outnumber students at some of these creches.  It can be overwhelming, but on the plus side, the high teachers-to-students ratio makes the problems I faced in public schools less likely.
 	4.  Downside analysis:  Public resentment of the Commonwealth increases due to the expense of supporting underutilized schools with tax money.
 	5.  Downside analysis:  People who are being educated when they are least powerful, are not in a position to protest any aspect of society or how they are treated.  Children are the most vulnerable people, and adult education is less likely to violate peoples' rights.  That isn't practical prior to life extension technology, but in the presence of life extension technology it becomes part of how the other factions protest against creches.
 	6.  Mechanism proposal:  Children *do* have superior uptake of information.  There are advantages to getting there early.
@@ -1080,16 +1080,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
 	5.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
 	6.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
-	7.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
-	8.  Liberation rating:  1/5
-	9.  Protection rating:  2/5
-	10.  Technological smoothness:  5/5
-	11.  Technological extremophilia:  5/5
-	12.  Stress/Boredom rating:  4/5 (Stressful)
-	13.  Me-points:  -1/3
-	14.  Kind of person most protected:  Matchmakers
-	15.  Special categories:  Hypersmooth, Nightmare, Failsafe
-	16.  Conversion potential:  Unknown
+	7.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
+	8.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
+	9.  Liberation rating:  1/5
+	10.  Protection rating:  2/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  5/5
+	13.  Stress/Boredom rating:  4/5 (Stressful)
+	14.  Me-points:  -1/3
+	15.  Kind of person most protected:  Matchmakers
+	16.  Special categories:  Hypersmooth, Nightmare, Failsafe
+	17.  Conversion potential:  Commonwealth<->Empire (limited)
 47.  University
 	1.  Mechanism proposal:  WYSIWYG.
 	2.  Narrative indicator:  We already have a functioning system of universities on Earth.  It works like this.
@@ -1097,15 +1098,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.  Apologia:  Maybe it's not a tension, but perhaps this search for new ideas is something that the two factions share happily.
 	5.  Author appeal:  I wrote Marchosias' concept of the afterlife as including a 'university loop' as its second stage.  It was eternal for people who wanted to experience it eternally, but otherwise it was a transitional environment towards experiencing different segments of the afterlife she created.  It was also a bureaucratic layer for organizing impressions of the cosmos.
 	6.  Categorization:  I think universities draw people towards their heart's desire, helping people build specialist skills that they really want to have.  The enhanced technical skill that a university system enables also means that more of the jobs nobody wants are automated away.  These factors promote hedonological organization in society and mean that more people have jobs because they *want* those jobs.
-	7.  Bureaucratic waste analysis:  Very literal.
-	8.  Liberation rating:  5/5
-	9.  Protection rating:  5/5
-	10.  Technological smoothness:  5/5
-	11.  Technological extremophilia:  4/5
-	12.  Stress/Boredom rating:  3/5 (Eustress)
-	13.  Me-points:  2/3
-	14.  Kind of person most protected:  Bibliophiles
-	15.  Special categories:  Hypersmooth, Hedonological, Failsafe
+	7.  Categorization:  Although universities do not imply any particular level of technology (I believe Earth was still very much in the feudal era when our first universities were built), I think they promote technological disruption too much to be hypersmooth.  They also promote an interface between local and galactic politics.
+	8.  Conversion:  I expect that the universities promote flux between Commonwealth and Panarchic populations quite fluidly.  To a lesser extent, they also promote fluctuations between other populations and the Empire, as people also pursue advanced specializations in universities.  Like other educational technologies, they're a good albeit imperfect omniconverter.
+	9.  Bureaucratic waste analysis:  Very literal.
+	10.  Liberation rating:  5/5
+	11.  Protection rating:  5/5
+	12.  Technological smoothness:  4/5
+	13.  Technological extremophilia:  4/5
+	14.  Stress/Boredom rating:  3/5 (Eustress)
+	15.  Me-points:  2/3
+	16.  Kind of person most protected:  Bibliophiles
+	17.  Special categories:  Hedonological, Failsafe, Galactic Politics
+	18.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
 
 
 ---
