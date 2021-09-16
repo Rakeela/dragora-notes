@@ -23,5 +23,9 @@ All of this would increase the value of the -Crowding and +Population technologi
 ---
 I've been considering a petty creative project with *no* obvious applicability to my 'real' projects.  I want to take some of the characters in my [[character-gallery]] and have them play a game of "Our Pantheon" together.  This is the thought that moved me to add Vennaveld to the gallery, something I had been considering doing, but uncertain of.
 
+I'd say it's more productive than playing The Viceroy, but it's kind of not at this point...  I've written so much about The Viceroy that I really do believe at this point that I'll publish a book of commentary on it.  It's become one of my 'real' projects.  Once I finish first-pass analysis, I'll create a typeset model book (with a lot of lorem ipsum) to define the content parameters that I have to match my prose to.  Then I'll rewrite-to-parameters.  Finally, I'll show the book to artists and commission the necessary graphics.
+
+Fittingly enough, I expect to lose money.  The Viceroy truly is a game about losing money, aye.
+
 ---
 Back to [[day-post-archive]]

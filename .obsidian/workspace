@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 24.066719618745037,
+            "dimension": 32.56552819698173,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 75.93328038125496,
+            "dimension": 67.43447180301827,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Our-Pantheon.md",
+                "file": "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,10 +149,10 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7a3178b850a00218",
+  "active": "916cb216d2543ece",
   "lastOpenFiles": [
-    "Our-Pantheon.md",
     "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
+    "Our-Pantheon.md",
     "Bibliography.md",
     "character-gallery.md",
     "ideological-interpretations-of-The-Viceroy.md",
