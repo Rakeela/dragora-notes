@@ -72,5 +72,11 @@ Two more chives ready for transplant.  Due to assembly errors in putting togethe
 I'm slowly realizing how much information I could be gathering that I am not.  The per-plant details of how fast the plants are growing may be a hint of their underlying traits.  The exact amounts that I'm watering and feeding them could be recordable.  Instead, I'm presently only picking up generalities.  "The aerogarden chives seem to be outperforming the rockwool chives," for instance.  *Seem* to be.  That is an unseemly observation in science.
 
 ---
+2021-9-16
+Another two transplants.  My smallest, weakest chive appears to be rebudding from its base, having had most of its stem die without the base or roots dying.  It's got a rather odd, distorted shape.  It's very much still a living plant.  I'm surprised.  My second smallest chive died back almost as much, but it has regrown without distorting, and no longer resembles a near-dead plant at all.
+
+My chives seem to be doing very well in the aeroponics rig.  However, troubles that I've had while pruning them have made me worry that I do not have nearly the dexterity to do the tiny little motions needed for performing mitochondrial admixture graft surgery upon the chives.  My hands shake.  In the ordinary course of life, this doesn't interfere, and I forget that it even happens.  Yet when I hold little nose hair trimmers near a chive plant to try to trim off a bit of dead growth, the waver on my hand exceeds the width of the plant that I'm trimming...  I managed to prune the chives without damaging them despite that handicap, but it was a frustrating thing.  The scalpel motions that I would need to perform for mitochondrial admixture graft surgery are finer still, and include tying a knot on a very thin string around the stem of the chives receiving the admixture surgery.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
