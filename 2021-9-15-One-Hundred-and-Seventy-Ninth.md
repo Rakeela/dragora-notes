@@ -35,4 +35,13 @@ The Commonwealth seems to regard people as disposable.  No need to help the fall
 Conversely, Mental Transcription is a terrifying but rehabilitative technology which would make adult education centers into something that could carry society... if the Panarchy were liberated enough.  If the Panarchy's defense of the myriad Wills and commitment to diversity were true enough.  If the Panarchy is sufficiently willing to give up controlling people, as the defense of the reciprocal Will requires, Mental Transcription becomes an apex technology of gentle love for others.  The true will is not the tyrant's single unary will, but the many wills of people who value many different things.
 
 ---
+If the Panarchy truly does not value happiness, I would favor the Commonwealth forever.  Any government which is not organized to advance the happiness of the public is tyrannical.  Happiness is the ultimate objective of the will of sapient beings.  It is not possible to build a technology of the will without defending happiness, and to do so is deeply, deeply false.  A deep falsehood like that should never win.  Therefore, all societies must be governed in defense of happiness, else tyranny wins.
+
+If the Panarchy truly does not value happiness, they can only be justly left behind, for the whole structure of their culture is then formed of ethically primitive psychological abuse.  Indeed, it is even *authoritarianism*.  If the Panarchy truly does not value happiness, the accusation of authoritarianism that they levy against the Commonwealth constitutes the falsehood known as DARVO, and the Panarchy are the true authoritarians.
+
+Were my soul's allegiance judged by my work on The Viceroy, it is on this contingency that I would stake my claim: **whichever faction is most dedicated to resolving misery by helping people feel better is the truly virtuous one**.
+
+Were I myself judged a Panarchist while another faction were judged the truly virtuous one by that metric, I would be morally obligated to undertake the reform of the Panarchy to address and mitigate its corruption and authoritarianism, so that the Panarchy would no longer have the right to devour people exceeding it in ethics.
+
+---
 Back to [[day-post-archive]]
