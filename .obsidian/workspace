@@ -10,7 +10,7 @@
           {
             "id": "3ee417095b2dfb2a",
             "type": "split",
-            "dimension": 79.18983320095315,
+            "dimension": 32.08895949166005,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 20.81016679904686,
+            "dimension": 67.91104050833995,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Feather-Integument.md",
+                    "file": "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "916cb216d2543ece",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
+    "Feather-Integument.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Untitled.md",
     "Chives-of-Wrath.md",
-    "Feather-Integument.md",
     "Legendary-Souls-of-Diamonil.md",
     "Polis-Diamonil.md",
     "Faiths-of-Diamonil.md",
     "Legendary-Souls.md",
-    "Old-Diamonil.md",
-    "Rapture-Communities.md"
+    "Old-Diamonil.md"
   ]
 }
