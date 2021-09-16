@@ -21,4 +21,7 @@ I think The Viceroy makes the basic populations much too large; Earth should cor
 All of this would increase the value of the -Crowding and +Population technologies, which I think are undervalued by the game's current model.  The anti-crowding technologies in particular are my favorite in the game, as each one permits more people to live peacefully in more varied environments.  They don't increase population by packing people in more tightly, save in the most technical sense; really, they increase population by giving people more living space at each crowding level.  The ultimate expression of this is the Dyson Swarm technology, which expands society throughout each star system.  The ability of a Dyson Swarm to grant people massive amounts of living space is limited only by the reliance of many endeavors on a nearby planetary body.  It would increase the population density of the star system as a whole, but density would decrease on every smaller scale save the (initially zero) density of the vacuum, giving people far more living space.
 
 ---
+I've been considering a petty creative project with *no* obvious applicability to my 'real' projects.  I want to take some of the characters in my [[character-gallery]] and have them play a game of "Our Pantheon" together.  This is the thought that moved me to add Vennaveld to the gallery, something I had been considering doing, but uncertain of.
+
+---
 Back to [[day-post-archive]]
