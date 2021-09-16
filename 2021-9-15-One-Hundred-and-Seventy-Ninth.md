@@ -28,4 +28,11 @@ I'd say it's more productive than playing The Viceroy, but it's kind of not at t
 Fittingly enough, I expect to lose money.  The Viceroy truly is a game about losing money, aye.
 
 ---
+I really see a lot more rehabilitative potential in the Panarchy's technology.  If their commitment to liberty were true enough, they *would* be the gentle power to the Commonwealth's authority.  They need more +Happiness technologies, though.  It's hard to value any "ideology" too primitive to care about the Happiness of people, and it suggests that the Panarchic commitment to the Will is deeply, deeply false, as a truly reciprocal recognition of many Wills would recognize that Happiness *is* the common objective of the myriad Wills.  Plus, there *are* ways to make people more strong-willed and more happy at the same time, hence my suggestions of Dream Reeves (for the Informalists) and Voluntary Order (for the Ritualists).
+
+The Commonwealth seems to regard people as disposable.  No need to help the fallen, just kick 'em out and breed replacements.  The Old Empire's ideology of fungibility (the Imperial segment right next to the Commonwealth on the ideology wheel) suggests that they would have this problem, too.
+
+Conversely, Mental Transcription is a terrifying but rehabilitative technology which would make adult education centers into something that could carry society... if the Panarchy were liberated enough.  If the Panarchy's defense of the myriad Wills and commitment to diversity were true enough.  If the Panarchy is sufficiently willing to give up controlling people, as the defense of the reciprocal Will requires, Mental Transcription becomes an apex technology of gentle love for others.  The true will is not the tyrant's single unary will, but the many wills of people who value many different things.
+
+---
 Back to [[day-post-archive]]
