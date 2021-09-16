@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
+                    "file": "character-gallery.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
+                "file": "character-gallery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "character-gallery.md",
     "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
     "Feather-Integument.md",
     "ideological-interpretations-of-The-Viceroy.md",
@@ -159,7 +160,6 @@
     "Legendary-Souls-of-Diamonil.md",
     "Polis-Diamonil.md",
     "Faiths-of-Diamonil.md",
-    "Legendary-Souls.md",
-    "Old-Diamonil.md"
+    "Legendary-Souls.md"
   ]
 }
