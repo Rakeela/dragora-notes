@@ -46,8 +46,11 @@
                 "id": "51fc16ffc3c85dd3",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "mode": "source"
+                  }
                 }
               },
               {
@@ -132,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chives-of-Wrath.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +152,17 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "916cb216d2543ece",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "Chives-of-Wrath.md",
-    "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
+    "Northern-Creche-Confederation.md",
     "Our-Pantheon.md",
+    "2021-9-15-One-Hundred-and-Seventy-Ninth.md",
     "Bibliography.md",
     "character-gallery.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "Feather-Integument.md",
     "Untitled.md",
-    "Legendary-Souls-of-Diamonil.md",
-    "Polis-Diamonil.md"
+    "Legendary-Souls-of-Diamonil.md"
   ]
 }

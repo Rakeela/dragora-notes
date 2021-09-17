@@ -1130,6 +1130,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Kind of person most protected:  Neurologists
 	18.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
 	19.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
+49.  Leisure Subsidies
+	1.  Authorial protest:  I don't like parties.  Parties as a kid stressed me to tears, and occasionally to throwing up.  The scarcity of parties in adulthood spares me misery.
+	2.  Mechanism proposal:  I have two interpretations on this tech.  They're pretty much Love vs Hate.  Going by my dreams, the Love interpretation is how the Commonwealth intends it, whereas the Hate interpretation is how the sociopathic failed uplift society (Panarchists) use it.
+	3.  Mechanism proposal:  The Love interpretation is WYSIWYG.  The leisure subsidies alleviate misery by encouraging people to do fun stuff.
+	4.  Mechanism proposal:  The Hate interpretation is based on deceptive authoritarianism and psychological abuse.  It uses leisure subsidies to prove that unhappy people deserve to be killed by aging, thereby making society "more efficient in the long-run" for the miserable and abusively dishonest tyrants who stomp on the true potential of the will.
+	5.  Mechanism proposal:  Note that occupying people with entertainments has an anti-crime function.  This works better in the Love interpretation than the Hate interpretation, because the maintainers of the Hate system are actually trying to victimize and abuse the people who use entertainments, and that's never quite as traceless as its perpetrators imagine it to be.
+	6.  Downside analysis:  The Hate version of this technology is likely to create a persistent problem with murder in society.  Like with how hated ghetto populations on Earth are hated and persistently murderous.  The cultural leaders who try to occupy them dislike them in secret, and their culture therefore 'mysteriously' doesn't improve.
+	7.  Progression analysis:  This improves society's retention of boredom-prone people.  That makes it extremophilic.  However, it doesn't say anything of specific technological development, so it's hypersmooth.
+	8.  Author appeal:  Even though it's not good for me personally, I think this reflects a rightful focus of government on hedonological organization... in the Love interpretation.
+	9.  Authorial protest:  In the Hate interpretation, it provides a potential reason why The Viceroy's setting is constantly being torn down by bureaucratic waste.  Such a desperation to misuse, manipulate, and discard people is extremely wasteful and leads to massive intransigence.
+	10.  Bureaucratic waste analysis:  The Love interpretation only wastes bureaucrats in the literal way, by adding another layer of bureaucracy.  The Hate interpretation promotes intransigence to government and rational rebellion against sociopathic leaders, wasting bureaucrats in the metaphorical way.
+	11.  Liberation rating:  1/5 (Hate); 5/5 (Love)
+	12.  Protection rating:  1/5 (Hate); 5/5 (Love)
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  5/5
+	15.  Stress/Boredom rating:  3/5 (Eustress)
+	16.  Me-points:  -1/3 (Hate); 1/3 (Love)
+	17.  Kind of person most protected:  Stalkers (Hate); party people (Love)
+	18.  Special categories:  Hypersmooth, Diversifying, Hedonological
+	19.  Conversion potential:  Unknown
 
 
 ---
