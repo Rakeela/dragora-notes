@@ -1120,16 +1120,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Conversion:  This... IS an omniconverter.  A very horribly powerful one.  It gives the state the power to overwrite minds in real-time, and the requirements of being an educational database only reduce that a little bit.  It may increase population stereotypy as it increases conformance to the three 'galactic archetypes'; if so, this effect will be weakest on Panarchists themselves, as their focus on developing diverse wills, cultural diversity, and multigovernance suggests that there isn't really a single Panarchic stereotype for Panarchists to conform to.
 	8.  Note on Me-points:  I can't tell if I should rate this a -1 or a 3.
 	9.  Categorization:  This is also an extremely awesome rehabilitative technology.  The Panarchy's adult education system must be epic in its productivity, as a system like this would make retraining adults into something fluid and fun.
-	10.  Bureaucratic waste analysis:  Half-literal.  Like with Distributed Intelligence, this society would have to hire a lot more fact-checkers, social scientists, and neuroscientists.  Yet the social stresses that this technology imposes would create a lot of intransigence and outright violence.  A smart state would tolerate a lot of protest activities as proof that they're *not* overwriting minds, especially if it's true, but potentially even if it's not.
-	11.  Liberation rating:  2/5, +1 in presence of Creche Education (how else could this measure be increased?)
-	12.  Protection rating:  4/5
-	13.  Technological smoothness:  2/5
-	14.  Technological extremophilia:  5/5
-	15.  Stress/Boredom rating:  3/5 (Eustress)
-	16.  Me-points:  Unrateable.  Dependent on liberation rating.
-	17.  Kind of person most protected:  Neurologists
-	18.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
-	19.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
+	10.  Downside analysis:  There's a lot of rote to the implied scientific advance of mental transcription, like with the Panarchic Lyceum.  This is one of the reasons why I proposed rotating the Lyceum into the Informalist tech tree.  The Lyceum's description directly invokes rote instruction.  The Mental Transcription databases are an instant super-rote.  It'd be hard to challenge falsehoods in them.
+	11.  Bureaucratic waste analysis:  Half-literal.  Like with Distributed Intelligence, this society would have to hire a lot more fact-checkers, social scientists, and neuroscientists.  Yet the social stresses that this technology imposes would create a lot of intransigence and outright violence.  A smart state would tolerate a lot of protest activities as proof that they're *not* overwriting minds, especially if it's true, but potentially even if it's not.  There's likely also be "bureaucratic waste" resulting from entrenchment of errors in the databases, as the mental transcription databases would be hard to challenge.
+	12.  Liberation rating:  2/5, +1 in presence of Creche Education (how else could this measure be increased?)
+	13.  Protection rating:  4/5
+	14.  Technological smoothness:  2/5
+	15.  Technological extremophilia:  5/5
+	16.  Stress/Boredom rating:  3/5 (Eustress)
+	17.  Me-points:  Unrateable.  Dependent on liberation rating.
+	18.  Kind of person most protected:  Neurologists
+	19.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
+	20.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 49.  Leisure Subsidies
 	1.  Authorial protest:  I don't like parties.  Parties as a kid stressed me to tears, and occasionally to throwing up.  The scarcity of parties in adulthood spares me misery.
 	2.  Authorial protest:  My mom's focus on leisure as a means of happiness gave me the sense of having to entertain her from a young age.  I felt dragged around and exhausted.  Her attempts to extract gratitude from me for this backfired, as she was generally not at all capable of understanding what I would actually enjoy.  She thought I was only interested in spending time with her if she was doing something fun, and the point where I cut ties with her was after she complained to me about how I treated her as "the fun mom"...  No, mom.  You weren't fun.
