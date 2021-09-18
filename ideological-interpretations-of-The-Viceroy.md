@@ -1229,6 +1229,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-09-13;  New "me-points" scale.  3 me-points means "this lowers my active hostility to reproduction."  2 me-points means "I think this develops the talents of people similar to myself."  1 me-points means "I really like this."  0 me-points means "I don't see this as especially wonderful, but I could enjoy the company of people who like it."  -1 me-points means "I am actively opposed to the development of this."
 
+2021-09-18;  I have an anti-financialism bias that's impacting my ability to perform these analyses.  Computerized Markets, for instance, are pretty much obviously false.  So are eternal bank branches.  Financial markets are about liquidity, not stability.
+
+2021-09-18;  I want to invent a happier Panarchy.  Since the Panarchic Symposium resonates so strongly with me, I want to put a +Happiness tech in that slot.  What would do it, though?  Surely not 'Emulated Nanoinfluence', but nothing else has particularly occurred to me so far.  Maybe something in the vein of social progress acknowledgment and rational risk acceptance, as conservative fears of societal breakdown have been useless to society in advanced nations IRL.  I'm thinking about how something I got right in childhood was my lack of fear of miniscule risks.  When crime is negligible, as this game describes it to be in advanced societies, people shouldn't have their will cracked by fearing it.  If I can think of the right way to phrase it, that may be good for a +Happiness technology.
+
 ---
 The Much-Reviled Lower Classes
 
