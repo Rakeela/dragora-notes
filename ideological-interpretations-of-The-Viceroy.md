@@ -1152,6 +1152,20 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Kind of person most protected:  Stalkers (Hate); party people (Love)
 	19.  Special categories:  Hypersmooth, Diversifying, Hedonological
 	20.  Conversion potential:  Unknown
+50.  Sentient Capital
+	1.  Authorial protest:  As written, this "technology" is gibberish.  You can't make individual units of money sentient.  The closest you can do is slave-trading.  If your currency is slaves, you have sentient capital.
+	2.  Mechanism proposal:  Therefore...  This replaces a meaningful fraction of the planet's currency with AI bankers whose services are traded as a form of fungible currency.  Virtual slave bankers.
+	3.  Categorization:  Since this broadens the kind of minds in society and increases the use of virtual environments as a place where people really live, it's diversifying.  I can't evaluate its other categories.
+	4.  Bureaucratic waste analysis:  I can't tell if this would be literally bureaucratically expensive or metaphorically bureaucratically expensive.  It strikes me as loony.
+	5.  Liberation rating:  1/5
+	6.  Protection rating:  ?/5
+	7.  Technological smoothness:  1/5
+	8.  Technological extremophilia:  5/5
+	9.  Stress/Boredom rating:  3/5 (Eustress)
+	10.  Me-points:  -1/3
+	11.  Kind of person most protected:  Does it protect the AI banker community or just exploit them?
+	12.  Special categories:  Diversifying
+	13.  Conversion potential:  Unknown
 
 
 ---
@@ -1234,6 +1248,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-09-18;  I want to invent a happier Panarchy.  Since the Panarchic Symposium resonates so strongly with me, I want to put a +Happiness tech in that slot.  What would do it, though?  Surely not 'Emulated Nanoinfluence', but nothing else has particularly occurred to me so far.  Maybe something in the vein of social progress acknowledgment and rational risk acceptance, as conservative fears of societal breakdown have been useless to society in advanced nations IRL.  I'm thinking about how something I got right in childhood was my lack of fear of miniscule risks.  When crime is negligible, as this game describes it to be in advanced societies, people shouldn't have their will cracked by fearing it.  If I can think of the right way to phrase it, that may be good for a +Happiness technology.
 
 2021-09-19;  I'm thinking about the Symbiotic Ecosystem writeup that I'll do eventually.  It's difficult.  I haven't fully sorted through my thoughts on that one.  I think it's a Commonwealth<->Imperial converter, because it's a point where the ideologies of the two civilizations harmonize, and I think the generalist technologies function with less pressure on what kinds of jobs the people should be working.  I also see it as one of the Animal Uplift technologies that broadens the biotechnological capabilities of society, including both medicine and morphological freedom.  Yet it's also got this trace of sleaze to it in my thoughts, like it could be interpreted as a hypersmooth neoprimitivist 'technology' referring to the way a lot of humanity's really kind of awful primitive communities were more harmonious with nature than modern societies...  maybe that's valid?  I can't decide whether that creates two fully competing interpretations, or if it's a comfortable side effect of having a society that loves and feels safe in natural environments.
+
+2021-09-19;  I could try to make an estimated partisanism of the different technologies.  I don't think I need that for the first pass.
 
 ---
 The Much-Reviled Lower Classes
