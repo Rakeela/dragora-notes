@@ -292,19 +292,22 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Special categories:  Hypersmooth, Hedonological, Failsafe
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 8.  Seat of Policy
-	1.  Mechanism proposal:  The Seats of Policy engage in long-term bureaucratic meta-analysis.
-	2.  Mechanism proposal:  Since they host travelling policy analysts, the Seats of Policy encourage bureaucratic talents to travel from region to region.  This investment in travel logistics has the same general beneficial effect on survival rates as Panarchic Retreats.
-	3.  Categorization:  As the Commonwealth has strong commitments to public happiness (and I personally believe hedonology will be important to humanity's future), I consider these to be Hedonological structures despite being deeply boring.
-	4.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
-	5.  Liberation rating:  5/5
-	6.  Protection rating:  3/5, +1 with Seat of Justice, +1 with Panarchic Symposium
-	7.  Technological smoothness:  5/5
-	8.  Stress/Boredom rating:  1/5 (Dull)
-	9.   Me-points:  1/3
-	10.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
-	11.  Kind of person most protected:  Bureaucrats
-	12.  Special categories:  Failsafe, Hedonological, Detached
-	13.  Conversion potential:  Commonwealth<->Panarchy
+	1.  Challenge cured:  Eternal Philosophers
+	2.  Challenge cure interpretation:  This is pretty straightforward.  The Seats of Policy provide the talent to quantify and challenge the 'eternal philosopher' inclination on the merits.  It's very literal and I see nothing unethical about it.
+	3.  Challenge cure protest:  That said, while it's not unethical to cure eternal philosophers, I think it's very sad!  People who love immortality that much are a cultural treasure and I want to keep them safe.
+	4.  Mechanism proposal:  The Seats of Policy engage in long-term bureaucratic meta-analysis.
+	5.  Mechanism proposal:  Since they host travelling policy analysts, the Seats of Policy encourage bureaucratic talents to travel from region to region.  This investment in travel logistics has the same general beneficial effect on survival rates as Panarchic Retreats.
+	6.  Categorization:  As the Commonwealth has strong commitments to public happiness (and I personally believe hedonology will be important to humanity's future), I consider these to be Hedonological structures despite being deeply boring.
+	7.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
+	8.  Liberation rating:  5/5
+	9.  Protection rating:  3/5, +1 with Seat of Justice, +1 with Panarchic Symposium
+	10.  Technological smoothness:  5/5
+	11.  Stress/Boredom rating:  1/5 (Dull)
+	12.   Me-points:  1/3
+	13.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
+	14.  Kind of person most protected:  Bureaucrats
+	15.  Special categories:  Failsafe, Hedonological, Detached
+	16.  Conversion potential:  Commonwealth<->Panarchy
 9.  Subconscious Education
 	1.  Authorial Protest:  This tech slot should REALLY be occupied by "Dream Reeves", a service that protects peoples' slumber.  People who sleep perfectly at night are more culturally competent AND stronger-willed AND happier, which should be its mechanical effect.  The +Happiness buff here would be more valuable to the Panarchy than the additional research.
 	2.  Mechanism proposal:  The literally described technology turns dreams into an edutainment system, using interfaces between the panarchic nanotechnologies and the setting's cybernetics.  Data-organization is what dreams are for, right?  This makes them BETTER at it.
@@ -1091,25 +1094,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Kind of person most protected:  Matchmakers
 	16.  Special categories:  Hypersmooth, Nightmare, Failsafe
 	17.  Conversion potential:  Commonwealth<->Empire (limited)
-47.  University
-	1.  Mechanism proposal:  WYSIWYG.
-	2.  Narrative indicator:  We already have a functioning system of universities on Earth.  It works like this.
-	3.  Author protest:  I think the Panarchy would love universities just as much as the Commonwealth if not more, and I think there's a minor ideological tension over them as both faction populations want universities on all their planets.
-	4.  Apologia:  Maybe it's not a tension, but perhaps this search for new ideas is something that the two factions share happily.
-	5.  Author appeal:  I wrote Marchosias' concept of the afterlife as including a 'university loop' as its second stage.  It was eternal for people who wanted to experience it eternally, but otherwise it was a transitional environment towards experiencing different segments of the afterlife she created.  It was also a bureaucratic layer for organizing impressions of the cosmos.
-	6.  Categorization:  I think universities draw people towards their heart's desire, helping people build specialist skills that they really want to have.  The enhanced technical skill that a university system enables also means that more of the jobs nobody wants are automated away.  These factors promote hedonological organization in society and mean that more people have jobs because they *want* those jobs.
-	7.  Categorization:  Although universities do not imply any particular level of technology (I believe Earth was still very much in the feudal era when our first universities were built), I think they promote technological disruption too much to be hypersmooth.  They also promote an interface between local and galactic politics.
-	8.  Conversion:  I expect that the universities promote flux between Commonwealth and Panarchic populations quite fluidly.  To a lesser extent, they also promote fluctuations between other populations and the Empire, as people also pursue advanced specializations in universities.  Like other educational technologies, they're a good albeit imperfect omniconverter.
-	9.  Bureaucratic waste analysis:  Very literal.
-	10.  Liberation rating:  5/5
-	11.  Protection rating:  5/5
-	12.  Technological smoothness:  4/5
-	13.  Technological extremophilia:  4/5
-	14.  Stress/Boredom rating:  3/5 (Eustress)
-	15.  Me-points:  2/3
-	16.  Kind of person most protected:  Bibliophiles
-	17.  Special categories:  Hedonological, Failsafe, Galactic Politics
-	18.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
+47.  University System
+	1.  Challenge cured:  Segregated Education
+	2.  Challenge cure interpretation:  Looking at the history of Earth, it looks like universities pressed education to desegregate by getting people enthusiastic about ideas and wanting to share them with people across the arbitrary boundaries that people try to draw.  The universities also provide the talent to quantify the costs of segregation and challenge it on the merits.  This is all very ethical, but somewhat expensive.
+	3.  Challenge cure protest:  This is petty and personal, and I'm not sure it should stop anything from going forward, but one of the categories of segregation that the tech is described as opposing is segregation by intelligence.  See, I was treated really badly in a public school *with no gifted program*.  I think I personally would've been safer if there'd been a gifted program.  This makes me a little reluctant to desegregate education.
+	4.  Mechanism proposal:  WYSIWYG.
+	5.  Narrative indicator:  We already have a functioning system of universities on Earth.  It works like this.
+	6.  Author protest:  I think the Panarchy would love universities just as much as the Commonwealth if not more, and I think there's a minor ideological tension over them as both faction populations want universities on all their planets.
+	7.  Apologia:  Maybe it's not a tension, but perhaps this search for new ideas is something that the two factions share happily.
+	8.  Author appeal:  I wrote Marchosias' concept of the afterlife as including a 'university loop' as its second stage.  It was eternal for people who wanted to experience it eternally, but otherwise it was a transitional environment towards experiencing different segments of the afterlife she created.  It was also a bureaucratic layer for organizing impressions of the cosmos.
+	9.  Categorization:  I think universities draw people towards their heart's desire, helping people build specialist skills that they really want to have.  The enhanced technical skill that a university system enables also means that more of the jobs nobody wants are automated away.  These factors promote hedonological organization in society and mean that more people have jobs because they *want* those jobs.
+	10.  Categorization:  Although universities do not imply any particular level of technology (I believe Earth was still very much in the feudal era when our first universities were built), I think they promote technological disruption too much to be hypersmooth.  They also promote an interface between local and galactic politics.
+	11.  Conversion:  I expect that the universities promote flux between Commonwealth and Panarchic populations quite fluidly.  To a lesser extent, they also promote fluctuations between other populations and the Empire, as people also pursue advanced specializations in universities.  Like other educational technologies, they're a good albeit imperfect omniconverter.
+	12.  Bureaucratic waste analysis:  Very literal.
+	13.  Liberation rating:  5/5
+	14.  Protection rating:  5/5
+	15.  Technological smoothness:  4/5
+	16.  Technological extremophilia:  4/5
+	17.  Stress/Boredom rating:  3/5 (Eustress)
+	18.  Me-points:  2/3
+	19.  Kind of person most protected:  Bibliophiles
+	20.  Special categories:  Hedonological, Failsafe, Galactic Politics
+	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
 48.  Mental Transcription
 	1.  Authorial protest:  This is one of the most dangerously authoritarian technologies in the tree... and yet it's also one that I see as profoundly beautiful.  I want to live in a society that does this in a manner respectful of freedom... and I never want to live in a society that does this in a manner disrespectful of freedom.  How does one create a society that can use this power in a way that liberates people?  *I don't know.*
 	2.  Mechanism proposal:  If you have enough nanotech and neuroscience, I think this can be done straightforwardly.
@@ -1132,26 +1138,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
 	20.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 49.  Leisure Subsidies
-	1.  Authorial protest:  I don't like parties.  Parties as a kid stressed me to tears, and occasionally to throwing up.  The scarcity of parties in adulthood spares me misery.
-	2.  Authorial protest:  My mom's focus on leisure as a means of happiness gave me the sense of having to entertain her from a young age.  I felt dragged around and exhausted.  Her attempts to extract gratitude from me for this backfired, as she was generally not at all capable of understanding what I would actually enjoy.  She thought I was only interested in spending time with her if she was doing something fun, and the point where I cut ties with her was after she complained to me about how I treated her as "the fun mom"...  No, mom.  You weren't fun.
-	3.  Mechanism proposal:  I have two interpretations on this tech.  They're pretty much Love vs Hate.  Going by my dreams, the Love interpretation is how the Commonwealth intends it, whereas the Hate interpretation is how the sociopathic failed uplift society (Panarchists) use it.
-	4.  Mechanism proposal:  The Love interpretation is WYSIWYG.  The leisure subsidies alleviate misery by encouraging people to do fun stuff.
-	5.  Mechanism proposal:  The Hate interpretation is based on deceptive authoritarianism and psychological abuse.  It uses leisure subsidies to prove that unhappy people deserve to be killed by aging, thereby making society "more efficient in the long-run" for the miserable and abusively dishonest tyrants who stomp on the true potential of the will.
-	6.  Mechanism proposal:  Note that occupying people with entertainments has an anti-crime function.  This works better in the Love interpretation than the Hate interpretation, because the maintainers of the Hate system are actually trying to victimize and abuse the people who use entertainments, and that's never quite as traceless as its perpetrators imagine it to be.
-	7.  Downside analysis:  The Hate version of this technology is likely to create a persistent problem with murder in society.  Like with how hated ghetto populations on Earth are hated and persistently murderous.  The cultural leaders who try to occupy them dislike them in secret, and their culture therefore 'mysteriously' doesn't improve.
-	8.  Progression analysis:  This improves society's retention of boredom-prone people.  That makes it extremophilic.  However, it doesn't say anything of specific technological development, so it's hypersmooth.
-	9.  Author appeal:  Even though it's not good for me personally, I think this reflects a rightful focus of government on hedonological organization... in the Love interpretation.
-	10.  Authorial protest:  In the Hate interpretation, it provides a potential reason why The Viceroy's setting is constantly being torn down by bureaucratic waste.  Such a desperation to misuse, manipulate, and discard people is extremely wasteful and leads to massive intransigence.
-	11.  Bureaucratic waste analysis:  The Love interpretation only wastes bureaucrats in the literal way, by adding another layer of bureaucracy.  The Hate interpretation promotes intransigence to government and rational rebellion against sociopathic leaders, wasting bureaucrats in the metaphorical way.
-	12.  Liberation rating:  1/5 (Hate); 5/5 (Love)
-	13.  Protection rating:  1/5 (Hate); 5/5 (Love)
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  3/5 (Eustress)
-	17.  Me-points:  -1/3 (Hate); 1/3 (Love)
-	18.  Kind of person most protected:  Stalkers (Hate); party people (Love)
-	19.  Special categories:  Hypersmooth, Diversifying, Hedonological
-	20.  Conversion potential:  Unknown
+	1.  Challenge cured:  Double Star System
+	2.  Challenge cure interpretation:  The two stars are described as overheating the system.  I guess that makes it... tropical?  Balmy?  Are the leisure subsidies used to justify a rollout of tourism subsidies that draw in an increased population of people who love lounging around in warm places?  I can fathom it, because as a dragon I can imagine the love of heat rocks, but for some reason this "challenge cure" irks me.  Maybe it's because the Commonwealth is usually so good at literalism, but suddenly this one is opaque and requires lateral thinking to justify.  Maybe I'm just being unfair.  I'll keep thinking about it.  People don't always get the right answer immediately, and maybe I haven't got the right answer this time.
+	3.  Authorial protest:  I don't like parties.  Parties as a kid stressed me to tears, and occasionally to throwing up.  The scarcity of parties in adulthood spares me misery.
+	4.  Authorial protest:  My mom's focus on leisure as a means of happiness gave me the sense of having to entertain her from a young age.  I felt dragged around and exhausted.  Her attempts to extract gratitude from me for this backfired, as she was generally not at all capable of understanding what I would actually enjoy.  She thought I was only interested in spending time with her if she was doing something fun, and the point where I cut ties with her was after she complained to me about how I treated her as "the fun mom"...  No, mom.  You weren't fun.
+	5.  Mechanism proposal:  I have two interpretations on this tech.  They're pretty much Love vs Hate.  Going by my dreams, the Love interpretation is how the Commonwealth intends it, whereas the Hate interpretation is how the sociopathic failed uplift society (Panarchists) use it.
+	6.  Mechanism proposal:  The Love interpretation is WYSIWYG.  The leisure subsidies alleviate misery by encouraging people to do fun stuff.
+	7.  Mechanism proposal:  The Hate interpretation is based on deceptive authoritarianism and psychological abuse.  It uses leisure subsidies to prove that unhappy people deserve to be killed by aging, thereby making society "more efficient in the long-run" for the miserable and abusively dishonest tyrants who stomp on the true potential of the will.
+	8.  Mechanism proposal:  Note that occupying people with entertainments has an anti-crime function.  This works better in the Love interpretation than the Hate interpretation, because the maintainers of the Hate system are actually trying to victimize and abuse the people who use entertainments, and that's never quite as traceless as its perpetrators imagine it to be.
+	9.  Downside analysis:  The Hate version of this technology is likely to create a persistent problem with murder in society.  Like with how hated ghetto populations on Earth are hated and persistently murderous.  The cultural leaders who try to occupy them dislike them in secret, and their culture therefore 'mysteriously' doesn't improve.
+	10.  Progression analysis:  This improves society's retention of boredom-prone people.  That makes it extremophilic.  However, it doesn't say anything of specific technological development, so it's hypersmooth.
+	11.  Author appeal:  Even though it's not good for me personally, I think this reflects a rightful focus of government on hedonological organization... in the Love interpretation.  The Love interpretation of Leisure Subsidies is the most harmless technology on the tech tree; it's really trivial to imagine how it causes 'bureaucratic waste' and it does so by purest anti-authoritarianism.
+	12.  Authorial protest:  In the Hate interpretation, it provides a potential reason why The Viceroy's setting is constantly being torn down by bureaucratic waste.  Such a desperation to misuse, manipulate, and discard people is extremely wasteful and leads to massive intransigence.
+	13.  Bureaucratic waste analysis:  The Love interpretation only wastes bureaucrats in the literal way, by adding another layer of bureaucracy.  The Hate interpretation promotes intransigence to government and rational rebellion against sociopathic leaders, wasting bureaucrats in the metaphorical way.
+	14.  Liberation rating:  1/5 (Hate); 5/5 (Love)
+	15.  Protection rating:  1/5 (Hate); 5/5 (Love)
+	16.  Technological smoothness:  5/5
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  3/5 (Eustress)
+	19.  Me-points:  -1/3 (Hate); 1/3 (Love)
+	20.  Kind of person most protected:  Stalkers (Hate); party people (Love)
+	21.  Special categories:  Hypersmooth, Diversifying, Hedonological
+	22.  Conversion potential:  Unknown
 50.  Sentient Capital
 	1.  Authorial protest:  As written, this "technology" is gibberish.  You can't make individual units of money sentient.  The closest you can do is slave-trading.  If your currency is slaves, you have sentient capital.
 	2.  Mechanism proposal:  Therefore...  This replaces a meaningful fraction of the planet's currency with AI bankers whose services are traded as a form of fungible currency.  Virtual slave bankers.
