@@ -170,7 +170,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     24.  Stress/Boredom:  2/5 (Calm)
     25.  Me-points: 2/3
     26.  Kind of person most protected:  Dumb but technophilic people.
-    27.  Special categories:  Rehabilitative, Diversifying, Mind Control
+    27.  Special categories:  Rehabilitative, Diversifying, Mind Control, Furry
     28.  Conversion potential:  Unknown
 2.  Telepathic Dust
 	1.  Mechanism proposal:  As described, telepathic dust involves setting up the infrastructure to manufacture and distribute temporary clouds of empathy-dust across the public.  It sets up ad-hoc transmissions between people in the area of effect so that they can feel each others' emotions and get a transient sense of one anothers' thoughts.  It's a kind of super-tech toy for enhancing other kinds of play and encouraging people to trust each other.
@@ -189,7 +189,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Stress/Boredom:  3/5  (Eustress)
 	15.  Me-points: 0/3
 	16.  Kind of person most protected:  People with weird emotional processing
-	17.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control
+	17.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control, Furry
 	18.  Conversion potential:  Unknown
 3.  Panarchialization Policy
 	1.  Challenge cured:  Anti-Panarchism
@@ -200,17 +200,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Mechanism synthesis:  I think this tech is actually really banal and it almost amounts to saying, "We're trying a lot of stuff, okay?  We're NOT sure how to rule."  There's some virtue in that!
 	7.  Progression analysis:  Base culture development tries to resolve frictions in society by making people more harmonious and impressive to each other.  It counters (or is countered by) blandness and civil unrest.  Panarchists want to be cool, and they want the government to be cool.  That's why this tech leads into panarchic retreats.  When the government is trying to do cool stuff, that draws in tourists.
 	8.  Downside analysis:  Although its base claim is that it increases cultural productivity, I've observed that this technology mysteriously lowers incomes when implemented.  However, it still increases Wealth, thus increasing population and science.  I interpret this as meaning that panarchialization increases frictional losses and inefficiencies in government due to an increase in wasted/duplicated/contradictory efforts, but it also accelerates the rate at which the government incorporates diverse individuals and trials new methods of organization.
-	9.  Progression analysis:  This would be 5/5 smooth as it suggests nothing about the technology base at which society starts implementing it, but it loses a point as it suggests that the society is trying a bunch of contradictory experiments.  That is intrinsically rough and this change to society is *not* smooth.
-	10.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis.  Fortunately, the way this encourages mass recruitment into 'cool' government projects makes it unlikely to promote the hatred of bureaucrats!
-	11.   Liberation rating:  5/5
-	12.  Protection rating:  4/5
-	13.  Technological smoothness:  4/5
-	14.  Technological extremophilia:  5/5
-	15.  Stress/Boredom rating:  4/5 (Stressful)
-	16.  Me-points: 0/3
-	17.  Kind of person most protected:  Sociologists
-	18.  Special categories:  Diversifying, Detached, Hedonological
-	19.  Conversion potential:  Unknown
+	9.  Progression analysis:  This would be 5/5 smooth as it suggests nothing about the initial technology base at which society starts implementing it (no need for disruptive imports of alien technology), but it loses two points by suggesting that the society is trying a bunch of contradictory experiments.  That is intrinsically rough.  This change to society can *start* at any tech level, but it can*not* be hypersmooth.
+	10.  Mechanism proposal:  Like with Absolute Freedom, this society must attain a minimum standard of policing to prevent people from retaliating against those who have different beliefs from their own.  It's necessary for Panarchialization that disagreements be kept peaceful... despite the stress of disagreements.
+	11.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
+	12.   Liberation rating:  4/5, +1 with Seat of Justice
+	13.  Protection rating:  4/5
+	14.  Technological smoothness:  3/5
+	15.  Technological extremophilia:  5/5
+	16.  Stress/Boredom rating:  4/5 (Stressful)
+	17.  Me-points: 0/3
+	18.  Kind of person most protected:  Sociologists
+	19.  Special categories:  Diversifying, Detached, Hedonological, Furry
+	20.  Conversion potential:  Unknown
 4.  Frictionless Highways
 	1.  Mechanism proposal:  This isn't a technology at all.  This is a person who exists at many levels of technology.  Their great interest in attaining high velocities makes them fun, while their calm control of fast-moving systems makes them competent in many roles.  Furthermore, access to consumer goods is strongly motivating to them, especially goods related to their interests, which promotes and rewards industrialization.
 	2.  Mechanism proposal:  This is also a technology in a social technology sense, being a possible governing practice: specifically the practice of reaching out to and including this kind of person in society.
@@ -225,7 +226,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Stress/Boredom rating:  3/5 (Eustress)
 	12.  Me-points: 0/3
 	13.  Kind of person most protected:  Automotive fans and racers.
-	14.  Special categories:  Hypersmooth, Rehabilitative
+	14.  Special categories:  Hypersmooth, Rehabilitative, Furry
 	15.  Conversion potential:  Unknown
 5.  Stasis Controller
 	1.  Challenge cured:  Biological embargo
@@ -289,7 +290,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Stress/Boredom rating: 2 (Calm)
 	18.  Me-points: 1/3
 	19.  Kind of person most protected:  Service workers who like their jobs
-	20.  Special categories:  Hypersmooth, Hedonological, Failsafe
+	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 8.  Seat of Policy
 	1.  Challenge cured:  Eternal Philosophers
@@ -418,7 +419,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Alternate (Voluntary Order) me-points: 3/3
 	21.  Kind of person most protected:  Panarchic Ritualists.  Yes, even if someone else attempts it.
 	22.  Special categories:  Detached, Nightmare, Galactic Politics
-	23.  Alternate (Voluntary Order) categories:  Hedonological, Rehabilitative, Failsafe
+	23.  Alternate (Voluntary Order) categories:  Hedonological, Rehabilitative, Failsafe, Furry
 	24.  Conversion potential:  Commonwealth->Panarchy (unidirectional)
 14.  Beyonder Engine
 	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
@@ -488,7 +489,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Stress/Boredom rating:  4/5 (Stressful)
 	17.  Me-points:  1/3
 	18.  Kind of person most protected:  Night owls.
-	19.  Special categories:  Diversifying
+	19.  Special categories:  Diversifying, Furry
 	20.  Conversion potential:  Panarchy<->Commonwealth (limited)
 17.  Artificial Wombs
 	1.  Authorial protest:  The description describes this as cloning en masse.  I don't believe it.  Ontogenic control is too dear to my heart, and I know very well that it wouldn't work as cloning en masse.  This is a technology that I would seriously consider revising if I were able to mod The Viceroy, since I don't think +1% population growth is at all the right thing for it to do.  That said, I do think it would increase populations...  Increasing the crowding limit would be a better effect for this to have.
@@ -511,7 +512,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Stress/Boredom rating:  1 (Dull)
 	19.  Me-points:  3/3
 	20.  Kind of person most protected:  Biologists
-	21.  Special categories:  Animal Uplift, Diversifying, Asexual
+	21.  Special categories:  Animal Uplift, Diversifying, Asexual, Furry
 	22.  Conversion potential:  Panarchy<->Empire
 18.  Holistic Industrialization
 	1.  Mechanism proposal:  The most simple, literal technology in the tech tree.  Hire people who study district specialties and connect the district's industry to the needs of the broader economy.
@@ -698,7 +699,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Stress/Boredom rating:  2/5 (Calm)
 	17.   Me-points:  0/3
 	18.  Kind of person most protected:  Art snobs.
-	19.  Special categories:  Hypersmooth, Hedonological, Failsafe
+	19.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
 	20.  Conversion potential:  Commonwealth<->Panarchy
 27.  Natalist Policies
 	1.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
@@ -811,7 +812,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Stress/Boredom rating:  5/5 (Screaming)
 	18.  Me-points:  0/3
 	19.  Kind of person most protected:  "Liars" who were not actually lying
-	20.  Special categories:  Empathy Maximizer, Hedonological, Nightmare
+	20.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
 32.  Mental Unity
 	1.  Authorial protest:  This should be 'Sapience Axioms', a technology with the same mechanical effect as Mental Unity.  The proper description of Sapience Axioms is something like this: "There are commonalities that arise in all forms of sapient cognition.  When society has begun to catalog and understand these, sense can often be made of even the strangest communications."
@@ -830,7 +831,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Stress/Boredom rating:  2/5 (Calm)
 	15.  Me-points:  2/3
 	16.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
-	17.  Special categories:  Empathy Maximizer, Diversifying, Hedonological
+	17.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
 	18.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
 33.  Engineered Optimism
 	1.  Authorial protest:  This technology is horrifying.  It proposes a deliberate manipulation of *plague and disease* to make people happier.  Come on, don't make people sneeze for all eternity.  I say this as someone who finds sneezes amusing and reassuring, even!
@@ -841,18 +842,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Mechanism proposal:  This society is probably also riddled with gene plagues as contagious "updates" to their genomes spread.  Actually, that might be true of the "Horizontal Eugenics" society, too...
 	7.  Apologia:  There could be theoretical utility from contagious DNA updating.  Orbital hospitals and urban planning would make this suck less - as those strengthen, the public health authorities get more competent and have more ability to do sane things with this bad idea... or the idea that I'd replace it with.
 	8.  Categorization:  This is the *only* failsafe nightmare technology.  It's already... basically about a form of failure in motion.  Horizontal Eugenics wouldn't be a Nightmare technology.
-	9.  Bureaucratic waste proposal:  Zero literalism.  This is (as described in the base game) a dystopian technology that reduces bureaucratic talent by killing bureaucrats.  Horizontal eugenics would be a much more literal bureaucratic waste, with non-literal components arising only from hedonic pursuit of irrelevant specialties... but Engineered Optimism?  Oh yeah, it just kills off people who the state needs.
-	10.  Utopia rating:  1/5,  +1 with orbital hospitals, +1 with urban planning, +2 with Horizontal Eugenics interpretation
-	11.  Public protection rating:  1/5, +1 with orbital hospitals, +1 with urban planning, +2 with Horizontal Eugenics interpretation
-	12.  Technological smoothness:  5/5
-	13.  Technological extremophilia:  Territory average +1 (max 5/5)
-	14.  Stress/Boredom rating:  4/5 (Stressful), -2 with Horizontal Eugenics interpretation
-	15.  Me-points:  -1/3
-	16.  Alternate (Horizontal Eugenics) me-points: 3/3
-	17.  Kind of person most protected:  People with really good innate immune systems.
-	18.  Special categories:  Homogenizing, Nightmare, Failsafe
-	19.  Alternate (Horizontal Eugenics) categories:  Asexual, Hedonological, Failsafe
-	20.  Conversion potential:  Empire<->Commonwealth
+	9.  Narrative indicator:  Implemented as Horizontal Eugenics, this is really the technology that eliminates sociopathy, which in my previous thoughts I'd considered as the technology of Extirpation of Sociopaths.  Horizontal Eugenics is a broadening of that concept, but it still gets at the genetic underpinnings of sadism and starts gently sweeping it out of society as a disadvantageous trait.  People who would abuse others are merely expressing the misery of a disadvantageous genetic basis.  They should be spared from their suffering by medical intervention... which just happens to also spare other people from suffering under their control.
+	10.  Bureaucratic waste proposal:  Zero literalism.  This is (as described in the base game) a dystopian technology that reduces bureaucratic talent by killing bureaucrats.  Horizontal eugenics would be a much more literal bureaucratic waste, with non-literal components arising only from hedonic pursuit of irrelevant specialties... but Engineered Optimism?  Oh yeah, it just kills off people who the state needs.
+	11.  Utopia rating:  1/5,  +1 with orbital hospitals, +1 with urban planning, +2 with Horizontal Eugenics interpretation
+	12.  Public protection rating:  1/5, +1 with orbital hospitals, +1 with urban planning, +2 with Horizontal Eugenics interpretation
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  Territory average +1 (max 5/5)
+	15.  Stress/Boredom rating:  4/5 (Stressful), -2 with Horizontal Eugenics interpretation
+	16.  Me-points:  -1/3
+	17.  Alternate (Horizontal Eugenics) me-points: 3/3
+	18.  Kind of person most protected:  People with really good innate immune systems.
+	19.  Special categories:  Homogenizing, Nightmare, Failsafe
+	20.  Alternate (Horizontal Eugenics) categories:  Asexual, Hedonological, Failsafe, Furry
+	21.  Conversion potential:  Empire<->Commonwealth
 34.  Panarchic Cathedral
 	1.  Authorial protest:  I'm biased.  This reminds me of being Kairn, the secretly secular dragon priest of the wind.  I lived in a cathedral and sang for the people, trying to prove that dragons could be harmless pacifists.  That was like...  three centuries.  It was good, but frustrating.  I lived a boring life and I made gains so slowly.  I thought, if only I could live forever, I could surely win...  I took a grevious soul-deep risk to try to gain what I needed, and for that I was killed by a mind-controlling inquisitor who puppeteered others to lynch me.
 	2.  Mechanism proposal:  I see no reason for this to be anything but what it claims to be.  It's a religious institution that advocates tolerance between people of all faiths or lacks thereof.
@@ -889,7 +891,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Stress/Boredom rating: 4/5 (Stressful)
 	18.  Me-points:  0/3
 	19.  Kind of person most protected:  "Undiscoverable" artists whose talents would never be found without this due to poverty or criminal records.
-	20.  Special categories:  Diversifying, Anti-Popular, Rehabilitative
+	20.  Special categories:  Diversifying, Anti-Popular, Rehabilitative, Furry
 	21.  Conversion potential:  Unknown
 36.  Colonial Office:
 	1.  Authorial protest:  TBD.
@@ -908,7 +910,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Stress/Boredom rating:  3/5 (Eustress)
 	15.  Me-points:  0/3
 	16.  Kind of person most protected:  People who would rather be somewhere else.
-	17.  Special categories:  Diversifying, Hedonological, Galactic Politics
+	17.  Special categories:  Diversifying, Hedonological, Galactic Politics, Furry
 	18.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 37.  Hydroponic Farms
 	1.  Challenge cured:  Photosynthetic Plague
@@ -956,7 +958,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Stress/Boredom rating:  2/5 (Calm)
 	12.  Me-points:  2/3
 	13.  Kind of person most protected:  Weirdoes.
-	14.  Special categories:  Diversifying, Rehabilitative
+	14.  Special categories:  Diversifying, Rehabilitative, Furry
 	15.  Conversion potential:  Empire<->Panarchy; Empire<->Commonwealth (limited)
 40.  Seat of Justice
 	1.  Authorial protest:  I think humanity built one of these on Earth - so to speak - in the dawn of civilization.  While I don't contest its mechanical effects, and I'm about to rate it a solid 5/5 utopianist, I also don't think that it comprises... the entirety of utopia.
@@ -1053,7 +1055,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.   Stress/Boredom rating:  3/5 (Eustress)
 	18.   Me-points:  3/3
 	19.  Kind of person most protected:  Children & life support technicians
-	20.  Special categories:   Diversifying, Nightmare, Galactic Politics
+	20.  Special categories:   Diversifying, Nightmare, Galactic Politics, Furry
 	21.  Conversion potential:  Empire<->Commonwealth
 45.  Panarchic Symposium
 	1.  Mechanism proposal:  "Symposium" sounds grandiose, but I think that's just Panarchic puffery (I don't hold it against them).  I believe these constructs represent society entrenching its dedication to intelligent discourse and long-term policy study in a district-by-district manner.  It's like the Seat of Policy in miniature, reaching farther down the bureaucracy to address the connection between local politics and galactic politics directly.
@@ -1114,7 +1116,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Stress/Boredom rating:  3/5 (Eustress)
 	18.  Me-points:  2/3
 	19.  Kind of person most protected:  Bibliophiles
-	20.  Special categories:  Hedonological, Failsafe, Galactic Politics
+	20.  Special categories:  Hedonological, Failsafe, Galactic Politics, Furry
 	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
 48.  Mental Transcription
 	1.  Authorial protest:  This is one of the most dangerously authoritarian technologies in the tree... and yet it's also one that I see as profoundly beautiful.  I want to live in a society that does this in a manner respectful of freedom... and I never want to live in a society that does this in a manner disrespectful of freedom.  How does one create a society that can use this power in a way that liberates people?  *I don't know.*
@@ -1135,7 +1137,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Stress/Boredom rating:  3/5 (Eustress)
 	17.  Me-points:  Unrateable.  Dependent on liberation rating.
 	18.  Kind of person most protected:  Neurologists
-	19.  Special categories:  Anti-Popular, Rehabilitative, Mind Control
+	19.  Special categories:  Anti-Popular, Rehabilitative, Mind Control, Furry
 	20.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 49.  Leisure Subsidies
 	1.  Challenge cured:  Double Star System
@@ -1158,7 +1160,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Stress/Boredom rating:  3/5 (Eustress)
 	19.  Me-points:  -1/3 (Hate); 1/3 (Love)
 	20.  Kind of person most protected:  Stalkers (Hate); party people (Love)
-	21.  Special categories:  Hypersmooth, Diversifying, Hedonological
+	21.  Special categories:  Hypersmooth, Diversifying, Hedonological, Furry
 	22.  Conversion potential:  Unknown
 50.  Sentient Capital
 	1.  Authorial protest:  As written, this "technology" is gibberish.  You can't make individual units of money sentient.  The closest you can do is slave-trading.  If your currency is slaves, you have sentient capital.
@@ -1172,7 +1174,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Stress/Boredom rating:  3/5 (Eustress)
 	10.  Me-points:  -1/3
 	11.  Kind of person most protected:  Does it protect the AI banker community or just exploit them?
-	12.  Special categories:  Diversifying
+	12.  Special categories:  Diversifying, Furry
 	13.  Conversion potential:  Unknown
 51.  Pervasive Digitization
 	1.  Challenge cured: Violent culture
@@ -1195,7 +1197,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Stress/Boredom rating:  2/5 (Calm)
 	19.  Me-Points:  2/3
 	20.  Kind of person most protected:  Not sure.  This protects a lot of people.
-	21.  Special categories:  Diversifying, Hedonological, Empathy Maximizer
+	21.  Special categories:  Diversifying, Hedonological, Empathy Maximizer, Furry
 52.  Predictive Supply Chain
 	1.  Authorial Protest:  I have mixed feelings about this one.  It emphasizes the frightening over-metricization of the Panarchic Informalists, which is also the frightening over-metricization of the Panarchy (see Panarchic Data Posts).  It's on the omniscience track that leads towards Potentiality Forecasters.  I think it may be mislocated, but it also leads to self-aware economies...  I may take Sentient Capital out of the ideology, and we'll see if that reorg inspires me to shift Predictive Supply Chain's location.
 	2.  Mechanism proposal:  Calculate *everything*.  Accept no less than perfect logistics!
@@ -1205,7 +1207,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Downside analysis:  Partisan conflicts could be intensified by the use of predictive supply chains, as corrupted overseers could 'accidentally' undersupply opponents within the margin of error without being detected.  This issue would tend to get better over time... from administration to administration.  It would get worse within a given term.  It's an Influence thing; this technology would be better if the Omniscience track peaked with a Collapse Overseer (which would press transparency into the post-mortems) rather than a Potentialities Overseer (which really only intensifies waste).
 	7.  Downside analysis:  Industrial exploitation can't be indefinitely sustained.  The game doesn't credit this, but I think it may be one of the hidden factors which contributes to 'bureaucratic waste' as administrations go on, particularly if they pursue Panarchic industrialization.
 	8.  Trivia:  I think this is a powerful and probable futuristic technology that humanity is deeply likely to invent if it settles enough locations... with all associated downsides.
-	9.  Categorization:  I'm not sure this qualifies for any of the special categories I've defined to-date.
+	9.  Categorization:  I'm not sure this qualifies for any of the special categories I've defined to-date... and I'm tempted to give it a very unusual category.  'Realistic'.
 	10.  Bureaucratic waste analysis:  This technology is 100% proudly non-literal in its contribution to administrative waste.  Its proponents present it as pure efficiency, but I think that this tends to cause accidents as it starts to exceed available administrative capabilities and then to hollow out economies as it severely exceeds administrative capabilities.  Gradually more of the resources just aren't there when they're needed.
 	11.  Liberation rating:  3/5
 	12.  Protection rating:  3/5
@@ -1213,7 +1215,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Technological extremophilia:  4/5
 	15.  Me-points:  0/3
 	16.  Kind of person most protected:  Is it logisticians or software devs automating away the jobs of logisticians?
-	17.  Special categories:  
+	17.  Special categories:  ???
+53.  Absolute Freedom
+	1.  Progression analysis:  This is gated behind Enlightened Policing, because people who are raped, murdered, or stalked for expressing their freedom are having their rights violated.  In order to give people absolute freedom, they have to be protected from retaliation.
+	2.  Mechanism proposal:  This requires restricting the policing forces.  The technology that was unleashed by 'Enlightened Policing' is at this point reined in and checked.  The primary function is the negative mechanism that people are no longer allowed to engage in retaliatory violation against peaceful conducts.
+	3.  Mechanism proposal:  There is some positive function required in this technology - some amount of bureaucratic extension.  What is that positive function..?  Police.  It's police.  Yeah.  You don't have to have Enlightened Policing in every district to make Absolute Freedom work, but there's a minimum standard of policing which is required to be met in every district.
+	4.  Narrative indicator:  The Commonwealth's reliance on policing is part of why they're treated as authoritarian by the Panarchy... and Absolute Freedom is the Commonwealth's rebuttal to accusations of authoritarianism.  When the Commonwealth protects people, their rights flower.
+	5.  Trivia:  The symbol here is a dove being released.  That's exactly right!  Absolute Freedom makes people free as birds... as long as they're doves, whose freedom does not violate the freedom of anyone else.
+	6.  Conversion:  I see this technology as a powerful converter between the Panarchy and the Commonwealth.  It negates a criticism that the Panarchy uses against the Commonwealth while establishing a mechanism for Panarchic social organization to be preserved in Commonwealth domains, and vice-versa.  The two ideologies harmonize at this point.  I also see it as a weak converter with the Empire, because essentially, if people *really want to be serene*, the protective function of Absolute Freedom will still guard them.
+	7.  Categorization:  I'm adding a category for author appeal that isn't likely to make it into the final product:  Furry.  For technologies that I see as protective of furries, even if they aren't in the Animal Uplift category.  The furry category is likely to be nearly a superset of the Diversifying and Animal Uplift categories.
+	8.  Categorization:  This is one of the most powerful hedonological technologies.  As society protects all forms of honest personal preference and unburdens people from the fear of retaliation, it becomes obviously necessary and productive for society's many necessary endeavors to be restructured to be fun for their participants.
+	9.  IRL Politics note:  This is one of the points where the Commonwealth is least like the Taliban.  It contrasts starkly with the bottom edge of the same tech tree, where the combination of nationalism and natalism suggest a society of brutal, sociopathic indoctrination.  I don't know how to parse the idea of a society with both Absolute Freedom and Reproduction Mandates; it seems wholly and totally self-contradictory, as I do not understand how these two technologies can coherently coexist in one society without first purging society of all asexuality, so that nobody remains who does not consent to sex, and indeed of all people who do not consent to label the exact dictatorial social organization imposed upon them as a form of absolute freedom.
+	10.  Bureaucratic waste analysis:  Well, there's the protective functions that must be served... but beyond that, this suggests a lot of partying gets done rather than boring bureaucratic work.  Unless reproduction mandates are in force, in which case the bureaucratic waste involved is a genocide campaign against people who do not label the society that they live in absolutely liberated...  I just don't understand how people can be evil enough to institute reproduction mandates.  I know that serious ideological conflict is part of the theme of The Viceroy, but the two technologies shouldn't exist in the same technological sub-tree.
+	11.  Liberation rating:  5/5
+	12.  Protection rating:  5/5
+	13.  Technological smoothness:  3/5
+	14.  Technological extremophilia:  5/5
+	15.  Me-points:  2/3
+	16.  Kind of person most protected:  People who dislike the Taliban (without reproduction mandates); the Taliban (after purging everyone who doesn't consider doing what the Taliban wants to be a form of absolute freedom)
+	17.  Special categories:  Diversifying, Hedonological, Furry
+	18.  Alternative special categories (with reproduction mandates):  Homogenizing, Luddistic, Nightmare
+	19.  Conversion potential:  Commonwealth<->Panarchy, Commonwealth<->Empire (limited)
+	20.  Conversion potential (with reproduction mandates):  Unknown
 
 
 ---
@@ -1302,6 +1325,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-09-20;  I've realized that I greatly enjoy imagining Imperial priests.
 
 2021-09-21;  I can tell that there's going to be a major bias in my proposed alternative tech tree for the galaxy.  In essence:  I no longer see the financial economy as 'real'.  Contrary to my childhood admiration of finance, I now consider it an oddity where meaningless tokens are exchanged at inflated valuations, and thus a kind of hollowing out of the economy to replace it with game pieces.  In the world of my prior lifetime, that process would have been fine; we spent decades in childhood learning games of finance and social organization, and so carried through our lives the willingness to play with meaningless tokens exchanged at inflated valuations.  It was something we did for social purposes.  We were not supremacist.  Nobody killed themselves over fluctuations in the values of their tokens, nor starved for a shortage of them.  Humans are not *like* that, and have trouble understanding or tolerating that, in which psychological environment finance seems to me like a barbarous falsehood.  The finance technologies of The Viceroy constantly talk about manipulating the market for stability, yet finance is all about liquidity and fluctuation, not stability.  Each of those technologies is contradictory and false.
+
+2021-09-21;  I haven't done the write-up for Genetic Specialization yet, but one of the reasons that I like it is because it's the cure for the challenge of genetic stupidity.  People think 'harmless dumb' when they think about what stupidity is, but consider that the brutal torturers of the medieval consensus were pretty much sasquatches compared to modern people, as were the crazed lead-drinking implementers of the pedofascist Roman era.  The ability to medically treat genetic stupidity is part of the power of the Orbital Surveyors to eliminate 'demons' in society so that compassion rules, and that's part of why Genetic Specialization leads into two different +Happiness technologies.  The people who would laugh at the suffering of others... are *stupid*.  The people who are so broken and so submissive to their own collapse that they would pretend to gain pleasure from hurting others are the very Sasquatches who used to rule humanity.  They're doing a stupid thing for a stupid reason rooted in deficits that are presently incurable by medicine, but which may eventually be curable.  This ubiquitous stupidity of sadistic people that humanity itself suffers is something that destroys the trust that society needs to develop advanced technology... and when you start curing it, you get a society that treats people better, leading to less misery and more happiness.
 
 ---
 The Much-Reviled Lower Classes
