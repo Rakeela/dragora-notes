@@ -78,5 +78,11 @@ Another two transplants.  My smallest, weakest chive appears to be rebudding fro
 My chives seem to be doing very well in the aeroponics rig.  However, troubles that I've had while pruning them have made me worry that I do not have nearly the dexterity to do the tiny little motions needed for performing mitochondrial admixture graft surgery upon the chives.  My hands shake.  In the ordinary course of life, this doesn't interfere, and I forget that it even happens.  Yet when I hold little nose hair trimmers near a chive plant to try to trim off a bit of dead growth, the waver on my hand exceeds the width of the plant that I'm trimming...  I managed to prune the chives without damaging them despite that handicap, but it was a frustrating thing.  The scalpel motions that I would need to perform for mitochondrial admixture graft surgery are finer still, and include tying a knot on a very thin string around the stem of the chives receiving the admixture surgery.
 
 ---
+2021-9-21
+Even though my record-keeping is by no means optimal, I'm still grateful for the marginal records that I'm currently keeping.  I can see for instance that it's been seven days since I started the aeroponics rig.  From that, I know that I should check the water PH soon, although it's too soon to refill the nutrients.
+
+My first batch of chives seems to have produced as many transplant survivors as it will.  The hydroponic starter garden has done marvelously by comparison to my sad efforts with rockwool and manual water.  I overwatered my chives...  I'll trim them back presently, but I doubt I'll get more transplants.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]

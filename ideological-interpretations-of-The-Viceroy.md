@@ -1046,8 +1046,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Categorization:  Since orbital habitats fail dangerously, this is a nightmare tech.  Sorry!  Stay on top of bureaucratic waste!
 	11.  Apologia:  Come on, real societies never develop into incomprehensible messes that lose literally ALL of their tax money in bureaucratic waste.  Don't worry about it.  It's just a gameism.  Total absolute paralysis only happens in The Viceroy.  Real leaders know: stay on top of bureaucratic waste!
 	12.  Bureaucratic waste analysis:  The low-tech interpretation would be likely to entrench some amount of hatred of bureaucracy and create horrible bubbles of vile rural 'culture'... but I'm going to ignore that.  The high-tech interpretation is pretty pure, though painfully so; you can't exactly let the life support requisitions slip.  Nor any of the other requisitions.  Every neglected orbital habitat is an entire city full of people likely to die horrifically.  The Influence technologies would be essential here; these societies need to stay attached to galactic politics for their safety.
-	13.  Liberation rating:  5/5
-	14.  Protection rating:  3/5, +1 with Orbital Surveyors, +1 per two +Influence technologies in district
+	13.  Liberation rating:  4/5, +1 with Vacuum-Based Life
+	14.  Protection rating:  3/5, +1 with Orbital Hospitals, +1 per two +Influence technologies in district
 	15.  Technological smoothness:  3/5
 	16.  Technological extremophilia:  5/5
 	17.   Stress/Boredom rating:  3/5 (Eustress)
@@ -1174,6 +1174,46 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Kind of person most protected:  Does it protect the AI banker community or just exploit them?
 	12.  Special categories:  Diversifying
 	13.  Conversion potential:  Unknown
+51.  Pervasive Digitization
+	1.  Challenge cured: Violent culture
+	2.  Challenge cure interpretation:  The pervasively digitized society offers a lot of alternative competitions to traditional violence, including analogues which don't kill either party, and it makes it more feasible for people to just *avoid* people who would otherwise try to spark dangerous honor disputes with them.
+	3.  Author appeal:  This is one of the more straightforwardly loving techs in the Panarchy tree as-is.  It increases their ability to live with large societies and it suggests investment in Yggdrasil-like projects (what I call 'seeds of Yggdrasil').
+	4.  Mechanism proposal:  This is where the virtual world projects really start.  The Panarchy loves simulations.  Simulated governments, simulated societies.  When they talk about digital presence being better than real presence, they mean because of the vast variety of environments that digital presence can provide.
+	5.  Downside analysis:  As these are implemented, more of society becomes... detached from reality.  More of what goes on has no bearing with anything 'real'.  This probably encourages some of the more abstract-yet-pacifistic forms of 'bureaucratic waste'.
+	6.  Mechanism proposal:  This also increases the ability of society to 'metricize' everything, by which I do not mean implementing the metric system, but rather implementing ubiquitous data collection.  This improves society in many ways.
+	7.  Downside analysis:  Increasing the ability of society to 'metricize' everything empowers both good and evil.  It's not really liberating.
+	8.  Mechanism proposal:  Some people in societies with pervasive digitization... are actually panarchic AIs.  They're individual AIs that don't have awesome authority, but are just citizens who live in (profoundly space-efficient) housings.
+	9.  Downside analysis:  Unreality seeps in despite scientific advancement.  Less of reality becomes such as ordinary people can touch, feel, and verify.
+	10.  Mechanism proposal:  This is another of the galaxy's epidemiological technologies.  It increases the ability of people in society to break pathogen transmission chains.  I see real-world digitization as considerably more 
+	11.  Progression analysis:  This considerably increases the implied hedonological yield of +Science technologies.  I believe a LOT of development could be sunk into perfecting virtual environments.  If you imagine the histories of the regions extending beyond the Viceregal period, the digitized societies have bright futures... if you don't mind that they have eventually have entire cities full of people who have never been flesh-and-blood.
+	12.  Progression analysis:  The smoothness of this technology is actually quite high.  It's not hyper-smooth and it can't exist at notably low technologies (suggesting a measure of implicit anti-primitivism), but societies often start implementing telecommunications *as they can*, developing an increasing reliance on long-distance interactions that takes a long time to refine.
+	13.  Bureaucratic waste analysis:  Predominantly non-literal.  Games proliferate, gamified versions of normal functions proliferate, and real processes start being transformed into 'efficient' virtual processes whose physical existence has been marginalized.
+	14.  Liberation rating:  4/5
+	15.  Protection rating:  5/5
+	16.  Technological smoothness: 4/5
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  2/5 (Calm)
+	19.  Me-Points:  2/3
+	20.  Kind of person most protected:  Not sure.  This protects a lot of people.
+	21.  Special categories:  Diversifying, Hedonological, Empathy Maximizer
+52.  Predictive Supply Chain
+	1.  Authorial Protest:  I have mixed feelings about this one.  It emphasizes the frightening over-metricization of the Panarchic Informalists, which is also the frightening over-metricization of the Panarchy (see Panarchic Data Posts).  It's on the omniscience track that leads towards Potentiality Forecasters.  I think it may be mislocated, but it also leads to self-aware economies...  I may take Sentient Capital out of the ideology, and we'll see if that reorg inspires me to shift Predictive Supply Chain's location.
+	2.  Mechanism proposal:  Calculate *everything*.  Accept no less than perfect logistics!
+	3.  Trivia:  Treating just-in-time supply chains as the hallmark of civilization suggests the base tech level of the game.  IRL societies have just-in-time supply chains.
+	4.  Mechanism proposal:  By observing the flows of resources across society from a huge number of observation points, probable fluctuations can be predicted well in advance, making it possible to supply resources on an as-needed basis without investing in surplus supply.
+	5.  Downside analysis:  Just-in-time supply chains already have shown signs of hollowing out IRL logistical capabilities.  When the supply chain is pulled taut for efficiency, it also becomes brittle.  Predictive supply chains will only be able to increase the availability of resources *on average*, as even with excellent predictions there's still a gambling factor.  With reservoirs minimized, critical resources will occasionally be completely impossible to source.
+	6.  Downside analysis:  Partisan conflicts could be intensified by the use of predictive supply chains, as corrupted overseers could 'accidentally' undersupply opponents within the margin of error without being detected.  This issue would tend to get better over time... from administration to administration.  It would get worse within a given term.  It's an Influence thing; this technology would be better if the Omniscience track peaked with a Collapse Overseer (which would press transparency into the post-mortems) rather than a Potentialities Overseer (which really only intensifies waste).
+	7.  Downside analysis:  Industrial exploitation can't be indefinitely sustained.  The game doesn't credit this, but I think it may be one of the hidden factors which contributes to 'bureaucratic waste' as administrations go on, particularly if they pursue Panarchic industrialization.
+	8.  Trivia:  I think this is a powerful and probable futuristic technology that humanity is deeply likely to invent if it settles enough locations... with all associated downsides.
+	9.  Categorization:  I'm not sure this qualifies for any of the special categories I've defined to-date.
+	10.  Bureaucratic waste analysis:  This technology is 100% proudly non-literal in its contribution to administrative waste.  Its proponents present it as pure efficiency, but I think that this tends to cause accidents as it starts to exceed available administrative capabilities and then to hollow out economies as it severely exceeds administrative capabilities.  Gradually more of the resources just aren't there when they're needed.
+	11.  Liberation rating:  3/5
+	12.  Protection rating:  3/5
+	13.  Technological smoothness:  4/5
+	14.  Technological extremophilia:  4/5
+	15.  Me-points:  0/3
+	16.  Kind of person most protected:  Is it logisticians or software devs automating away the jobs of logisticians?
+	17.  Special categories:  
 
 
 ---
@@ -1258,6 +1298,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-09-19;  I'm thinking about the Symbiotic Ecosystem writeup that I'll do eventually.  It's difficult.  I haven't fully sorted through my thoughts on that one.  I think it's a Commonwealth<->Imperial converter, because it's a point where the ideologies of the two civilizations harmonize, and I think the generalist technologies function with less pressure on what kinds of jobs the people should be working.  I also see it as one of the Animal Uplift technologies that broadens the biotechnological capabilities of society, including both medicine and morphological freedom.  Yet it's also got this trace of sleaze to it in my thoughts, like it could be interpreted as a hypersmooth neoprimitivist 'technology' referring to the way a lot of humanity's really kind of awful primitive communities were more harmonious with nature than modern societies...  maybe that's valid?  I can't decide whether that creates two fully competing interpretations, or if it's a comfortable side effect of having a society that loves and feels safe in natural environments.
 
 2021-09-19;  I could try to make an estimated partisanism of the different technologies.  I don't think I need that for the first pass.
+
+2021-09-20;  I've realized that I greatly enjoy imagining Imperial priests.
+
+2021-09-21;  I can tell that there's going to be a major bias in my proposed alternative tech tree for the galaxy.  In essence:  I no longer see the financial economy as 'real'.  Contrary to my childhood admiration of finance, I now consider it an oddity where meaningless tokens are exchanged at inflated valuations, and thus a kind of hollowing out of the economy to replace it with game pieces.  In the world of my prior lifetime, that process would have been fine; we spent decades in childhood learning games of finance and social organization, and so carried through our lives the willingness to play with meaningless tokens exchanged at inflated valuations.  It was something we did for social purposes.  We were not supremacist.  Nobody killed themselves over fluctuations in the values of their tokens, nor starved for a shortage of them.  Humans are not *like* that, and have trouble understanding or tolerating that, in which psychological environment finance seems to me like a barbarous falsehood.  The finance technologies of The Viceroy constantly talk about manipulating the market for stability, yet finance is all about liquidity and fluctuation, not stability.  Each of those technologies is contradictory and false.
 
 ---
 The Much-Reviled Lower Classes
