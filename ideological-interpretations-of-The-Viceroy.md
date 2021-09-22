@@ -1237,6 +1237,55 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Alternative special categories (with reproduction mandates):  Homogenizing, Luddistic, Nightmare
 	19.  Conversion potential:  Commonwealth<->Panarchy, Commonwealth<->Empire (limited)
 	20.  Conversion potential (with reproduction mandates):  Unknown
+54.  Beyonder Dwelling
+	1.  Narrative indicator:  If process doesn't matter, only goals and results, couldn't the enlightened police make people happier by secretly killing all the unhappy people and getting away with it?
+	2.  Author protest:  I don't believe in non-temporal intellects.  I treat all references to "Beyonders" in The Viceroy as a particular pattern of lies which can be parsed as language.
+	3.  Trivia:  The three bureaucratic technologies of the Old Empire are actually references to a particular kind of bureaucratic communication that conveys very little, very circuitously.  Dilbert makes jokes in the same vein.  Holistic Industrialization references the same category of humor.
+	4.  Mechanism proposal:  Disregarding process is good for creativity, but process-blind creativity is a spectacularly dangerous little black box to unleash.
+	5.  Downside analysis:  The exact details of what this technology implies are COMPLETELY different for EVERY TECHNOLOGY ON THE TECH TREE.  They're even likely to be different from one implementation to another.
+	6.  Mechanism proposal:  Each 'beyonder dwelling' invites in freak sociologists from elsewhere in the galaxy to live in the district and direct the implementation of its technologies.
+	7.  Author protest:  This is the worst of the three Beyonder bureaucratic technologies, so it frustrates me that it's the first of the three.
+	8.  Apologia:  Of the three Beyonder bureaucratic technologies, this is also the one that most includes childlike curiosity, so I understand why it's the start of the trio.  It encourages every district to develop its own take on the technologies of the setting.  Some districts will be greatly improved!
+	9.  Downside analysis:  ...others, made greatly worse.
+	10.  Mechanism proposal:  The only constant in this technology is the result: the viceregal administration has to assign less of its own administrative talent to get things done in each district.
+	11.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	12.  Liberation rating:  2/5
+	13.  Protection rating:  1/5
+	14.  Technological smoothness:  5/5
+	15.  Technological extremophilia:  5/5
+	16.  Me-points: -1/3
+	17.  Special categories:  Diversifying, Hypersmooth, Nightmare
+	18.  Conversion potential:  Unknown
+55.  Beyonder Embassy
+	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing and what happens as a result of you doing it.
+	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
+	3.  Narrative indicator:  It's also very "machine-mind" to consider process and results in the absence of goals.  The exemplars of this technology are likely to be melancholic... or heavily cybernetic.
+	4.  Mechanism proposal:  Being inclusive towards melancholic people is a way to find a few people who work well as bureaucrats.
+	5.  Categorization:  This is an example of what the 'Detached' category refers to.
+	6.  Conversion:  Since it makes "beyonders" look good and helps "beyonders" fit into society in a way that is safe for themselves and others, this is a converter technology for the Empire.
+	7.  Downside analysis:  The suicide rate increases.  Don't be discouraged!  It's the 'Beyonders' who commit suicide more often, not the society they're helping... and they commit suicide less than they would without the embassy, because the embassy represents society organizing to better integrate them and their concerns.  Still, you're specifically valuing, preserving, attracting, and developing a population more likely to kill themselves... so the planet develops, on average, a higher suicide rate.
+	8.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	9.  Liberation rating:  3/5
+	10.  Protection rating:  5/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  2/5
+	13.  Me-points:  1/3
+	14.  Special categories:  Hypersmooth, Detached, Failsafe
+	15.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
+56.  Beyonder Gate
+	1.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
+	2.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
+	3.  Progression analysis:  Cultivates better administrative leaders... if your society can tolerate leaders who joke about how they're doing nothing (no results).  The Old Empire has a peculiar sense of humor that appeals to people who are useful in administrative endeavors.
+	4.  Mechanism proposal:  Like the Beyonder Dwelling, this is a black box technology that suggests the in-system implementation of the technologies is weird somehow.  They're being implemented with less concern for results.
+	5.  Downside analysis:  This kind of encouragement increases partisan divergence by discouraging people from reconsidering their beliefs in light of the consequences of those beliefs.  This fits with the Imperial theme of loyalty, but it also shows off one of the downsides of loyalty.
+	6.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	7.  Liberation rating:  3/5
+	8.  Protection rating:  3/5
+	9.  Technological smoothness:  5/5
+	10.  Technological extremophilia:  3/5
+	11.  Me-points:  1/3
+	12.  Special categories:  Hypersmooth
+	13.  Conversion potential:  Unknown
 
 
 ---
