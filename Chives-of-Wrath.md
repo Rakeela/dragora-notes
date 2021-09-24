@@ -84,5 +84,11 @@ Even though my record-keeping is by no means optimal, I'm still grateful for the
 My first batch of chives seems to have produced as many transplant survivors as it will.  The hydroponic starter garden has done marvelously by comparison to my sad efforts with rockwool and manual water.  I overwatered my chives...  I'll trim them back presently, but I doubt I'll get more transplants.
 
 ---
+2021-9-24;
+A white fuzzy fungus has colonized my hydroponic seed starter.  It was there from the outset, but at first I removed the affected plants.  Acting on recommendations from the provider of the hydroponic seed starter (via their FAQ), I stopped doing so, and I do seem to have gotten rather exuberant growth from the seeds on average... however, the white fuzz has obviously sickened one of its host plants, and it's still spreading.  The hydroponics provider said that the fuzz would be outcompeted for nutrients once the plants were growing strong, but that doesn't seem to have occurred.
+
+My first batch of chives still seems to have produced as many transplant survivors as it will.  Overwatering and root rot seem to have claimed the remainder.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
