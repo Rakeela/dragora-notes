@@ -64,4 +64,9 @@ I do not understand how the follicle pulp forms the internal gradient distributi
 Figures 4a, 5a, and 2c have standout similarities that I need to understand in order to fully present figure 5a.  I understand that these present mesenchymal (pulp) cells.  I'm trying to find the methodology by which they prepared these samples for observation.  Were they processed according to the methodology described on pages 10 and 11, involving separation of the mesenchyme from epithelium in 2xCMF solution (RNA-seq) or dissociation of the mesenchyme from epithelium via 0.35% collagenase digestion followed by "formaldehyde cross-linking" (ChIP-seq)?
 
 ---
+Rory L. Cooper, Victoria J. Lloyd, Nicolas Di-Poï, Alexander G. Fletcher, Paul M. Barrett & Gareth J. Fraser.  (2019, Aug. 13).  Conserved gene signalling and a derived patterning mechanism underlie the development of avian footpad scales  *EvoDevo*.  Retrieved 2021-9-23 from https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-019-0130-9
+
+
+
+---
 Back to [[authors-nonfiction]]
