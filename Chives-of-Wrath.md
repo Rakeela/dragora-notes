@@ -90,5 +90,11 @@ A white fuzzy fungus has colonized my hydroponic seed starter.  It was there fro
 My first batch of chives still seems to have produced as many transplant survivors as it will.  Overwatering and root rot seem to have claimed the remainder.
 
 ---
+2021-9-26;
+I believe I was right two days ago that my first batch of chives has produced as many transplants as it will.  I'm tempted to give them all one last look for functioning root systems, but if they don't have enough roots under them now, it's time to give up on my rockwool cubes.
+
+On the other hand, I've got enough transplant candidates from the hydroponic seed starter to completely fill out my aeroponic rig.  Working on that now.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
