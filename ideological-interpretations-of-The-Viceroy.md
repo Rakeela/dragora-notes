@@ -823,16 +823,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Downside analysis:  I went through hell as a niche artistic performer with an audience who were dead sure I wanted to be doing what I was doing... and nobody could rescue me until that social environment fell apart completely.  This happened because people were sure that they understood what other minds were like, and they interpreted everything about me through that lens, including my complaints.  This is one of the things that can go wrong with Mental Unity.
 	7.  Downside analysis:  If what people think is universal is reproductive desire, the utopianism of this technology falls farther.  This is another thing that I am judging from my own experiences, for which I am giving this -1 utopianism where natalist policies are active.
 	8.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
-	9.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
-	10.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
-	11.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
-	12.  Technological smoothness:  5/5
-	13.  Technological extremophilia:  4/5
-	14.  Stress/Boredom rating:  2/5 (Calm)
-	15.  Me-points:  2/3
-	16.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
-	17.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
-	18.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
+	9.  Mechanism proposal:  Regrettably, as I've written the Imperials to have a hive-mind, this technology also suggests that the hive-mind is being reconstructed after the implied transhuman rights advances of Distributed Intelligence.  Still... this requires that the work be done *aesthetically*, with better respect for individual creative potential.  Better to be in a Unity hivemind than a splintered shard.
+	10.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
+	11.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
+	12.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  4/5
+	15.  Stress/Boredom rating:  2/5 (Calm)
+	16.  Me-points:  2/3
+	17.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
+	18.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
+	19.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
 33.  Engineered Optimism
 	1.  Authorial protest:  This technology is horrifying.  It proposes a deliberate manipulation of *plague and disease* to make people happier.  Come on, don't make people sneeze for all eternity.  I say this as someone who finds sneezes amusing and reassuring, even!
 	2.  Authorial protest:  I would replace this technology with Horizontal Eugenics.  The name sounds like a dirty joke ("let's get horizontal"), but that's not how I mean it.  The description would be something like this: "In a truly advanced society, there is no need for maladaptive and immiserating traits, but compassionate geneticists can spread every advantage to every person to whom it is relevant, so that everyone can be happy in their jobs."  This would be an excellent Imperial technology; it promotes hard-working happiness and protects the people who believe that their happiness should be without toil.  People who love their jobs do not work a day in their lives!  That potential lies within the Orbital Observers tech tree, and it is wasted with the disease-based manipulation of Engineered Optimism.
@@ -1286,6 +1287,47 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Me-points:  1/3
 	12.  Special categories:  Hypersmooth
 	13.  Conversion potential:  Unknown
+57.  Miniaturized Gate
+	1.  Author protest:  This claims to be a miniaturization of the galactic gates, but it would be more apt to say it's a localization of the galactic gate system.
+	2.  Lore:  The galactic gates are expensive to use... and there's *no possible way* to reduce that expense save by settling near a Thousand Eyes structure.  This suggests to me that the gates are studied by researchers (especially of the Old Empire), but they are not improved upon by researchers (save perhaps some of the startlingly ancient people who are drawn to studying the Thousand Eyes structures).
+	3.  Mechanical protest:  These are useless most of the time.  Only super-developed systems can make them profitable, and their administrative cost militates against even that.  Like with the Potentialities Overseer, if you aren't massively overstaffed for administrative talent, it's hard to make these useful.
+	4.  Mechanism proposal:  It's hard to come up with a metaphor here.  The literal description of being small local gates matches, more or less.  The fact that they make imports cheaper rather than affecting export flows suggests to me that ships within the region can transit rapidly *to* the gate, but must make normal journeys *away* from the gate.  So each miniaturized gate is really a kind of local hyperspace beacon.
+	5.  Mechanism proposal:  If I do stretch for a metaphor, this could represent long-distance, ambitious trade linkages that are only profitable between the most impressive centers of development, such as transcontinental railroads and cargo ports capable of handling supertanker/container ships.
+	6.  Downside analysis:  These projects are likely to be polluting and (in unregulated economies) dangerous to their workers.
+	7.  Apologia:  This stuff is liberating.  Advanced transit technologies encourage people to move freely across long distances, alleviating social stresses and bringing in wealth from everywhere.
+	8.  Downside analysis:  Massive transportation budgets are tempting targets for corruption, even petty forms of it such as politicians trying to boast about securing 'a piece of the pie' for their own constituency.
+	9.  Progression analysis:  Fitting my interpretation of Beyonders as manipulative smart people who take on Imperial identification to take advantage of the trusting Imperial populations, these massive prestige projects in transportation draw in people who want to be prestigious leaders.  This leads into the Beyonder Retreats.
+	10.  Progression analysis:  Conversely, these projects also draw in modest people who want to be free to move about, leading to the Jaunting Grids.
+	11.  Categorization:  It's hard to apply any of the categories in particular to this technology, but I'd say it qualifies as a Failsafe technology.  Implementing over-ambitious transport projects *is* a good way to take down a civilian government, as is corrupting them for personal gain, but it's also a very *peaceful* way to take down a civilian government.
+	12.  Bureaucratic waste analysis:  Mostly literal.  By all my analysis, these are transit expenses.  Non-literal wastage only particularly applies if the appropriations get corrupted.  It's not that nobody ever dies as a side effect of implementing transit infrastructure, but the people who die working in massive transportation projects were almost never going to be bureaucrats anyways.  Beyond that, I don't think it'd make anything worse or particularly invite awful people.  If the Old Empire is evil (certainly possible), this isn't the technology that proves it.  *This* is merely an expense likely to exceed its profitability.
+	13.  Liberation rating:  5/5
+	14.  Protection rating:  3/5, -1 in Feudal economies, +1 in Regulated or Planned economies, +1 with Distributed Desalination (advanced environmentalism)
+	15.  Technological smoothness:  4/5
+	16.  Technological extremophilia:  3/5
+	17.  Me-points:  0/3
+	18.  Special categories:  Failsafe
+	19.  Conversion potential:  Unknown
+58.  Penal Retreats
+	1.  Challenge cured:  Brutal justice
+	2.  Challenge cure interpretation:  This investment in rehabilitation replaces lethal or debilitation-based criminal justice with 'merely' sticking criminals in a paternalistic hole where everything they say or do will be analyzed by "virtuous" people trying to control them.
+	3.  Author protest:  I initially interpreted this as 'prison planets'.  I now consider that a misinterpretation, but I wanted to lead this section with mention of it.
+	4.  Mechanism proposal:  Each penal retreat is a miniature police state that transacts with the galactic community for the safe storage and rehabilitation of prisoners. They're "cities for criminals to live in".  That's pretty straightforward.
+	5.  Mechanism proposal: Rehabilitative rather than punitive, penal retreats use massive data collection such as the Panarchy uses for Potentialities Overseers to instead try to decipher the psychology of individual details in extreme detail.  This psychological dissection is used to try to figure out what kind of society each individual would be able to live happily and lawfully in.  This is paternalism taken to an extreme.
+	6.  Downside analysis:  This is an extreme investment in the happiness of criminals.  It's very expensive to do, and the public may resent their tax money being spent on luxuries for wrongdoers.
+	7.  Mechanism proposal:  Some of the Influence gained from alleviating Misery with penal retreats is in the form of recruitable former criminals who owe metaphorical debts to your administration for helping them.
+	8.  Mechanism proposal:  Penal retreats also serve as sociological testbed environments.  The Panarchy uses all of society in this way; the Commonwealth is relatively more restrained in that respect.  Some of the Influence gained from alleviating Misery with penal retreats is gained because some of the lessons learned from trying to build custom-perfect miniature societies are scaleable for managing larger societies.
+	9.  Downside analysis:  Finding people who are willing to work this hard for people so much less virtuous than themselves is likely gravely difficult.  Implementing this technology hurriedly (as opposed to with a 'Protected' build for an objective) is likely to result in considerably worse conditions.
+	10.  Downside analysis:  Some people go through rehab and learn only how to be more undetectable criminals.  Extreme technological development helps, but...  Criminals become rarer in society as a result of exceptional rehabilitative prisons, but the remaining minority of criminals is more devious.
+	11.  Categorization:  This is a diversifying technology, because it imports edge-case minds from across the galaxy and then starts constructing edge-case societies to make them into happy, law-abiding people according to the peculiarities of their psychology.  That fixation on psychological control, does however qualify it as a Mind Control technology.
+	12.   Trivia:  The three nearest icons to this one are Absolute Freedom, Enlightened Policing, and Universal Pensions.  This is the "downwards" branch from Enlightened Policing (with Absolute Freedom as the "rising" branch).  I think this is suggestive of the ideology behind Penal Retreats.
+	13.   Bureaucratic waste analysis:  Literal on average.  This inspires some intransigence and will occasionally output a greatly empowered infiltrator.
+	14.   Liberation rating:  2/5
+	15.   Protection rating:  5/5
+	16.   Technological smoothness:  2/5
+	17.   Technological extremophilia:  5/5
+	18.   Me-points:  2/3
+	19.   Special categories:  Diversifying, Rehabilitative, Mind Control
+	20.   Conversion potential:  Unknown
 
 
 ---
