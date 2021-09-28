@@ -449,27 +449,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
 	2.  Challenge cure interpretation:  There are conspiracies to overthrow the Viceroy on every planet, but most of them don't seek allies from beyond the territory itself like these ones do.  The hordes of galactic negotiators who arrive with the Panarchic Courts can also defuse the rebellion's ability to make connections outside of the territory, while making it look (incorrectly) like the whole galaxy is against the rebellion.
-	3.  Alternative cure interpretation:  More idealistically, the connection between galactic and hyperlocal politics that the Panarchic Courts forge could be quelling some of the rebellion by creating custom local solutions.  They're arbitrators, after all.  Arbitration can sometimes reduce rebel activity.
-	4.  Mechanism proposal:  One of the services that the Panarchy provides is to flush planets with panarchic arbitrators.  The galactic arbitration service ostensibly exists to maximize access to judicial resources and push society towards a more fully consensual basis of law.  They dive into the disputes and legal ambiguities of the planet's society to find ways to bring people towards agreement on even the most entrenched disputes!
-	5.  Downside analysis:  The most charismatic lawyers in the galaxy are very charismatic indeed, and can blind the unwary.  Panarchic courts sometimes bind people to 'voluntary' agreements that they would rather not have gotten involved with.
-	6.  Mechanism proposal:  Panarchic courts dramatically increase the exploitation of the planet's system of law.  Whatever legal code they're working with, they maximize and accelerate the public's utilization of it.  This produces a massive amount of data about the implication of the rules that the planet operates under.  This surfaces the same kind of data that the Seats of Policy study without hiring a central authority for the purpose.  The Panarchic Ritualists typically favor that distinction, but reasonable people can disagree about whether doing it this way is better.
-	7.  Downside analysis:  The Panarchic Courts are always protecting tomorrow's utopia, but when today's utopia has gone far enough downhill that transparency function just makes society transparently awful.
-	8.  Downside analysis:  People sometimes even exploit the biases and errors exposed in late-stage societies where dishonesty and the disarray of the normal functioning of government has been normalized.
-	9.  Narrative indicator:  A well-developed system of panarchic law resembles a system of explicit social contract.  A web of formally defined relationships arises between the many different organizations in society.  Although some find that bewildering and chaotic, others find it beautiful and well-ordered.  The game does not give the Panarchy a fair enough shake here; this technology should lead to Voluntary Order, a +Happiness technology at one of the tips of the Ritualist tech tree.
-	10.  Mechanism proposal:  Where societies have rights that are being poorly-served in their system, litigous panarchic arbitrators can compel governments to more fully commit to their own programs.  This is expensive, but lawyers and activists typically believe that making 'on paper' commitments into 'on the ground' realities is essential to creating a fully just system.  This greatly strengthens the public protection potential of the panarchic courts and increases their utopic potential.
-	11.  Mechanism proposal:  Although the Commonwealth considers them a thorn in the side of progress, the panarchic arbitration networks fully believe in the justice and necessity of the services that they provide.  Like a lot of the Panarchic Ritualists, they're always looking for more qualifying immortals to join the galactic community, with a particular interest in developing judicial and administrative talent... but they only recruit lawyers, so their real public protective function only kicks in when things have gone wrong.
-	12.  Mechanism proposal:  These societies get more influential, because they get more willing to protect people who blow the whistle on evil.  They do better early on, and when do fall apart, history gets a better idea of what went wrong... so that future administrations are more honest on average.
-	13.  Narrative indicator:  Tyrants with enlightened police... usually have really... really impressive corruptions by the time their society collapses.  The courts do their best to force more of those corruptions into the open.  They create records and they protect people who the very powerful would be happier destroying.
-	14.  Bureaucratic waste analysis:  It's almost super-literal.  The courts promote the training and development of good administrators while creating essential records that a society would not otherwise have.  They have a key protective function during societal collapses as well.  All of that is expensive.  Unfortunately, galactic-tier charisma is a real threat that will occasionally lead to bad resolutions and concomitant non-literal waste of bureaucratic potential, and the courts are still probably doomed to look awful in late-stage administrations.
-	15.  Liberation rating:  3/5, +1 with Seat of Justice
-	16.  Public protection rating:  1/5, +1 per Commonwealth Happiness technology other than Basic Income that has been implemented.
-	17.  Technological smoothness:  3/5
-	18.  Technological extremophilia:  Territory average
-	19.  Stress/Boredom rating:  4/5 (Stressful)
-	20.  Me-points: 2/3
-	21.  Kind of person most protected:  Charismatic lawyers.
-	22.  Special categories:  Diversifying, Empathy Maximizer, Galactic Politics
-	23.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited)
+	3.  Challenge cure qualm:  If you take apart a visible conspiracy to overthrow the Viceroy, aren't you dismantling a functional and internationally diplomatic governing structure which will otherwise fluently inherit the territory when you depart from it?  Plus, winning people over means that more people will be sad to see you go, which sounds great except for the part where it's unnecessary sadness.
+	4.  Alternative cure interpretation:  More idealistically, the connection between galactic and hyperlocal politics that the Panarchic Courts forge could be quelling some of the rebellion by creating custom local solutions.  They're arbitrators, after all.  Arbitration can sometimes reduce rebel activity.
+	5.  Mechanism proposal:  One of the services that the Panarchy provides is to flush planets with panarchic arbitrators.  The galactic arbitration service ostensibly exists to maximize access to judicial resources and push society towards a more fully consensual basis of law.  They dive into the disputes and legal ambiguities of the planet's society to find ways to bring people towards agreement on even the most entrenched disputes!
+	6.  Downside analysis:  The most charismatic lawyers in the galaxy are very charismatic indeed, and can blind the unwary.  Panarchic courts sometimes bind people to 'voluntary' agreements that they would rather not have gotten involved with.
+	7.  Mechanism proposal:  Panarchic courts dramatically increase the exploitation of the planet's system of law.  Whatever legal code they're working with, they maximize and accelerate the public's utilization of it.  This produces a massive amount of data about the implication of the rules that the planet operates under.  This surfaces the same kind of data that the Seats of Policy study without hiring a central authority for the purpose.  The Panarchic Ritualists typically favor that distinction, but reasonable people can disagree about whether doing it this way is better.
+	8.  Downside analysis:  The Panarchic Courts are always protecting tomorrow's utopia, but when today's utopia has gone far enough downhill that transparency function just makes society transparently awful.
+	9.  Downside analysis:  People sometimes even exploit the biases and errors exposed in late-stage societies where dishonesty and the disarray of the normal functioning of government has been normalized.
+	10.  Narrative indicator:  A well-developed system of panarchic law resembles a system of explicit social contract.  A web of formally defined relationships arises between the many different organizations in society.  Although some find that bewildering and chaotic, others find it beautiful and well-ordered.  The game does not give the Panarchy a fair enough shake here; this technology should lead to Voluntary Order, a +Happiness technology at one of the tips of the Ritualist tech tree.
+	11.  Mechanism proposal:  Where societies have rights that are being poorly-served in their system, litigous panarchic arbitrators can compel governments to more fully commit to their own programs.  This is expensive, but lawyers and activists typically believe that making 'on paper' commitments into 'on the ground' realities is essential to creating a fully just system.  This greatly strengthens the public protection potential of the panarchic courts and increases their utopic potential.
+	12.  Mechanism proposal:  Although the Commonwealth considers them a thorn in the side of progress, the panarchic arbitration networks fully believe in the justice and necessity of the services that they provide.  Like a lot of the Panarchic Ritualists, they're always looking for more qualifying immortals to join the galactic community, with a particular interest in developing judicial and administrative talent... but they only recruit lawyers, so their real public protective function only kicks in when things have gone wrong.
+	13.  Mechanism proposal:  These societies get more influential, because they get more willing to protect people who blow the whistle on evil.  They do better early on, and when do fall apart, history gets a better idea of what went wrong... so that future administrations are more honest on average.
+	14.  Narrative indicator:  Tyrants with enlightened police... usually have really... really impressive corruptions by the time their society collapses.  The courts do their best to force more of those corruptions into the open.  They create records and they protect people who the very powerful would be happier destroying.
+	15.  Bureaucratic waste analysis:  It's almost super-literal.  The courts promote the training and development of good administrators while creating essential records that a society would not otherwise have.  They have a key protective function during societal collapses as well.  All of that is expensive.  Unfortunately, galactic-tier charisma is a real threat that will occasionally lead to bad resolutions and concomitant non-literal waste of bureaucratic potential, and the courts are still probably doomed to look awful in late-stage administrations.
+	16.  Liberation rating:  3/5, +1 with Seat of Justice
+	17.  Public protection rating:  1/5, +1 per Commonwealth Happiness technology other than Basic Income that has been implemented.
+	18.  Technological smoothness:  3/5
+	19.  Technological extremophilia:  Territory average
+	20.  Stress/Boredom rating:  4/5 (Stressful)
+	21.  Me-points: 2/3
+	22.  Kind of person most protected:  Charismatic lawyers.
+	23.  Special categories:  Diversifying, Empathy Maximizer, Galactic Politics
+	24.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited)
 16.  Three Shift Society
 	1.  Mechanism proposal:  Facially, this is one of the wonders of literalism in the game.  Increasing utilization of infrastructure during off-peak hours, and generally shifting peak demand to off-peak demand, *is* a way to increase efficiency and population density.  So what goes wrong?  Why is it so expensive?
 	2.  Downside analysis:  Most people can't do this.  More of the public is stressed-out and insomniac as a result of spreading these schedules widely.  Resentment against the bureaucracy increases as a source of suffering is generated with an obvious cause.
@@ -1319,15 +1320,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Downside analysis:  Finding people who are willing to work this hard for people so much less virtuous than themselves is likely gravely difficult.  Implementing this technology hurriedly (as opposed to with a 'Protected' build for an objective) is likely to result in considerably worse conditions.
 	10.  Downside analysis:  Some people go through rehab and learn only how to be more undetectable criminals.  Extreme technological development helps, but...  Criminals become rarer in society as a result of exceptional rehabilitative prisons, but the remaining minority of criminals is more devious.
 	11.  Categorization:  This is a diversifying technology, because it imports edge-case minds from across the galaxy and then starts constructing edge-case societies to make them into happy, law-abiding people according to the peculiarities of their psychology.  That fixation on psychological control, does however qualify it as a Mind Control technology.
-	12.   Trivia:  The three nearest icons to this one are Absolute Freedom, Enlightened Policing, and Universal Pensions.  This is the "downwards" branch from Enlightened Policing (with Absolute Freedom as the "rising" branch).  I think this is suggestive of the ideology behind Penal Retreats.
-	13.   Bureaucratic waste analysis:  Literal on average.  This inspires some intransigence and will occasionally output a greatly empowered infiltrator.
-	14.   Liberation rating:  2/5
-	15.   Protection rating:  5/5
-	16.   Technological smoothness:  2/5
-	17.   Technological extremophilia:  5/5
-	18.   Me-points:  2/3
-	19.   Special categories:  Diversifying, Rehabilitative, Mind Control
-	20.   Conversion potential:  Unknown
+	12.  Mechanism proposal:  Building these signs the planet onto the galactic prisoner circuit.  Your colony gets a flow of immigrants who the surveilling authorities believe will be naturally more lawful living in your territory, and in return it sends away people who've already broken the law domestically!
+	13.   Trivia:  The three nearest icons to this one are Absolute Freedom, Enlightened Policing, and Universal Pensions.  This is the "downwards" branch from Enlightened Policing (with Absolute Freedom as the "rising" branch).  I think this is suggestive of the ideology behind Penal Retreats.
+	14.   Bureaucratic waste analysis:  Literal on average.  This inspires some intransigence and will occasionally output a greatly empowered infiltrator.
+	15.   Liberation rating:  2/5
+	16.   Protection rating:  5/5
+	17.   Technological smoothness:  2/5
+	18.   Technological extremophilia:  5/5
+	19.   Me-points:  2/3
+	20.   Special categories:  Diversifying, Rehabilitative, Mind Control
+	21.   Conversion potential:  Unknown
 
 
 ---
