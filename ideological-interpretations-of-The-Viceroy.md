@@ -780,19 +780,20 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Mechanism proposal:  One of the technologies implied to be in the game's setting (but not implemented entirely competently) is superconducting fibre.  In theory, superconducting wire can save money by reducing transmission costs, and (in theory) superconductors may already be good enough to attain this.  In practice, this seems to be an example of something that humanity can't calculate how to do with present technology, and most interest in fixing that focuses on improving superconductors rather than trying to do a total world calculation of how transmission costs affect electricity costs to see if there are edge-cases to snip off with better wires.  One of the functions of potentialities overseers (and other upkeep-reducing technologies) may be to do more of the edge-case calculations necessary to figure out when marginal technologies could (theoretically) save money during implementation (if one ignored the bureaucratic cost of calculating all the marginalia).
 	11.  Mechanism proposal:  Have you ever lost something small that you needed for work?  The potentialities overseer could point out where it is.  This is a correction too small for a human overseer to experience anything but frustration over, but surely it wouldn't bother an AI!  ...there are reasons I feel sorry for Potentialities Overseers.
 	12.  Categorization (Alternate): The Collapse Overseer would probably be more popular than the Potentialities Overseer, but not VERY popular.  A Collapse Overseer is a massive computer system with a specialized bureaucracy serving it, and the whole organization exists to tell people what they did wrong in exhaustive detail.  Nope.  Not gonna be popular, even if it's useful.  Much, much safer than the Potentialities Overseer, though.
-	13.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
-	14.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
-	15.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
-	16.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
-	17.  Technological smoothness:  2/5
-	18.  Technological extremophilia:  5/5
-	19.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
-	20.  Me-points:  -1/3
-	21.  Alternate (Collapse Overseer) me-points:  1/3
-	22.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
-	23.  Special categories:  Anti-Popular, Homogenizing, Nightmare
-	24.  Alternate (Collapse Overseer) categories:  Anti-Popular, Rehabilitative, Failsafe
-	25.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
+	13.  Mechanism proposal:  Have you ever left the lights on in an empty house?  How often are heating and cooling systems left on long-term programming in someone's summer home when nobody is there?  Ever leave the stove running while you're not at home?  The potentialities overseer trims off all of these errors and others like them, so that society has more resources for other stuff.  It doesn't necessarily lead to a society without luxuries when "smart houses" become ubiquitous in systems that have a potentialities overseer... although I still don't think it's a good idea, tch.
+	14.  Trivia:  The icon is the game's representation of an AI, watching over a figure on a treadmill.  I interpret the iconography here as a bitter commentary on bad political advice that was sourced from the public about a decade ago.
+	15.  Bureaucratic waste analysis:  Mostly literal.  The overseer needs a lot of data gathering systems set up in order to operate, whether or not it can really attain the omniscience it is supposedly capable of.  Those data gathering systems... are bureaucracies.  Non-literal bureaucratic waste creeps in if the potentialities overseer sees timelines that preserve its own existence at the expense of the functioning of the rest of the government...  Oh, but this technology would inspire so much intransigence and fear.  Nobody would trust this AI unless society was very well established with the right (mosly panarchic) technologies.
+	16.  Utopic Rating:  1/5, +1 with artificial dreamtime, +1 with panarchialization, +1 with panarchic data post, +2 with deterministic society (challenge), +1 with right to happiness (max 5/5)
+	17.  Public protection rating:  1/5, +1 with panarchialization, +1 with leisure subsidies, +2 with distributed intelligence, +1 with right to happiness (max 5/5)
+	18.  Technological smoothness:  2/5
+	19.  Technological extremophilia:  5/5
+	20.  Stress/Boredom rating:  4/5 (Stressful), -1 with Distributed Intelligence, -1 with right to happiness
+	21.  Me-points:  -1/3
+	22.  Alternate (Collapse Overseer) me-points:  1/3
+	23.  Kind of person most protected:  Residents of virtual worlds; Imperials (with distributed intelligence) 
+	24.  Special categories:  Anti-Popular, Homogenizing, Nightmare
+	25.  Alternate (Collapse Overseer) categories:  Anti-Popular, Rehabilitative, Failsafe
+	26.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
 31.  Artificial Dreamtime
 	1.  Mechanism proposal:  Blocks all lies.
 	2.  Mechanism proposal:  Reveals the desires of all people to all people.
@@ -858,21 +859,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Alternate (Horizontal Eugenics) categories:  Asexual, Hedonological, Failsafe, Furry
 	21.  Conversion potential:  Empire<->Commonwealth
 34.  Panarchic Cathedral
-	1.  Authorial protest:  I'm biased.  This reminds me of being Kairn, the secretly secular dragon priest of the wind.  I lived in a cathedral and sang for the people, trying to prove that dragons could be harmless pacifists.  That was like...  three centuries.  It was good, but frustrating.  I lived a boring life and I made gains so slowly.  I thought, if only I could live forever, I could surely win...  I took a grevious soul-deep risk to try to gain what I needed, and for that I was killed by a mind-controlling inquisitor who puppeteered others to lynch me.
+	1.  Authorial appeal:  I'm biased.  This reminds me of being Kairn, the secretly secular dragon priest of the wind.  I lived in a cathedral and sang for the people, trying to prove that dragons could be harmless pacifists.  That was like...  three centuries.  It was good, but frustrating.  I lived a boring life and I made gains so slowly.  I thought, if only I could live forever, I could surely win...  I took a grevious soul-deep risk to try to gain what I needed, and for that I was killed by a mind-controlling inquisitor who puppeteered others to lynch me.
 	2.  Mechanism proposal:  I see no reason for this to be anything but what it claims to be.  It's a religious institution that advocates tolerance between people of all faiths or lacks thereof.
 	3.  Narrative indicator:  This employs and develops some of the most serene people in the Panarchy.  If Imperial influences vanish in a Panarchic-held territory that has panarchic cathedrals, surely some of them became Panarchic priests.  This was the technology that inspired me to start adding conversion potentials to the analysis, because it has Panarchy<->Empire conversion potential.  It can help Panarchists understand Imperial Serenity, and it can help Imperials understand Panarchic Will.
 	4.  Downside analysis:  This equivocation between faiths isn't really how most religious people think, is it?  I really wish I could treat this as Failsafe, but opening the door of political authority to religious disputes suggests that it actually fails in religious conflict.  Religious conflict falls while the Cathedrals stand, but rises when they fall.
 	5.  Progression analysis:  It's very "social technology" and doesn't obviously impact genetics, but I think this would improve the protection of asexual genes in society.  It provides for an asexual purpose for religion, which is otherwise presented in the game as being a wholly sexual thing...  I think culture is a more sacred mystery than population growth.  I personally would feel more protected in a society (religious or not) where these cathedrals rise... and if that society was religious, the population growth that religion promotes would be more likely to include me.  If I extend that self-estimate to guess about a possible demographic effect on asexuals in general, I think it suggests a preservative effect on the demographic.
-	6.  Bureaucratic waste proposal:  People competing to be priests...  It's not a conventionally productive endeavor, is it?  Resources directed towards constructing and maintaining cathedrals aren't doing anything for the conventional economy.  The excuse of respecting all faiths could become a potential way to cheat the public purse as well, if people conspired to lie and gain "holy" sinecures.  The Cathedrals ostensibly oppose religious hatred, but that itself could spin up religious hatreds pretty fast, too.  They risk looking like a tyrannical imposition from galactic powers with no understanding of how the people in the society they're governing are actually thinking.
-	7. Utopia rating:  2/5, +1 with Subconscious Education (or Dream Reeves), +1 with Enlightened Policing, +1 with Common Suffrage
-	8.  Public protection rating:  2/5, +1 with Subconscious Education, +1 with Enlightened Policing, +1 with Common Suffrage
-	9.  Technological smoothness:  4/5
-	10. Technological extremophilia:  2/5
-	11.  Stress/Boredom rating:  2/5 (Calm)
-	12.  Me-points:  3/3
-	13. Kind of person most protected:  Serene panarchists and people who can become panarchists if the panarchy can be serene.
-	14. Special categories:  Asexual, Diversifying, Empathy Maximizer
-	15. Conversion Potential:  Empire<->Panarchy
+	6.  Mechanism proposal:  I think confession of sins is a function that benefits society and which I wish that secular society preserved in some way.  I wasn't even raised Catholic...  I just think it's a good idea.  It's something I've pursued in my own life.  Not hiding sins is a way to prevent one's will from splintering with compartmentalization.  I think the Panarchic Cathedrals could serve this function.
+	7.  Author appeal:  I'm not sure why, but I really enjoy imagining Imperial priests.  More than Panarchic or Commonwealth priests, for sure.  Maybe it's because I see the cultural quality of a priesthood as being predominantly determined by their capability of attaining serenity, rather than by their willpower or unity with the rest of society.  I imagine the Imperials getting more robotic with every advance in Wealth... and it just doesn't stop me from seeing them as like unto Kairn, and the very best priests.
+	8.  Bureaucratic waste proposal:  People competing to be priests...  It's not a conventionally productive endeavor, is it?  Resources directed towards constructing and maintaining cathedrals aren't doing anything for the conventional economy.  The excuse of respecting all faiths could become a potential way to cheat the public purse as well, if people conspired to lie and gain "holy" sinecures.  The Cathedrals ostensibly oppose religious hatred, but that itself could spin up religious hatreds pretty fast, too.  They risk looking like a tyrannical imposition from galactic powers with no understanding of how the people in the society they're governing are actually thinking.
+	9. Utopia rating:  2/5, +1 with Subconscious Education (or Dream Reeves), +1 with Enlightened Policing, +1 with Common Suffrage
+	10.  Public protection rating:  2/5, +1 with Subconscious Education, +1 with Enlightened Policing, +1 with Common Suffrage
+	11.  Technological smoothness:  4/5
+	12. Technological extremophilia:  2/5
+	13.  Stress/Boredom rating:  2/5 (Calm)
+	14.  Me-points:  3/3
+	15. Kind of person most protected:  Serene panarchists and people who can become panarchists if the panarchy can be serene.
+	16. Special categories:  Asexual, Diversifying, Empathy Maximizer
+	17. Conversion Potential:  Empire<->Panarchy
 35.  Panarchic Indoctrination
 	1.  Challenge cured:  Rebel Faction
 	2.  Challenge cure interpretation:  There are rebel factions in literally every province.  Panarchic Indoctrination teaches them to be subtle and charismatic like the rebels in every other province.  It doesn't cure anything at all, but it sure makes the territory look cured!  Don't you feel so much safer now that the murderous rebels appear to be perfectly normal people?
