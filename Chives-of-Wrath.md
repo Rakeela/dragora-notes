@@ -96,5 +96,9 @@ I believe I was right two days ago that my first batch of chives has produced as
 On the other hand, I've got enough transplant candidates from the hydroponic seed starter to completely fill out my aeroponic rig.  Working on that now.
 
 ---
+2021-10-01;
+I have a surplus of transplant-quality chives.  I'm going to buy some flowerpots, I think.  I'll grow more in the backyard.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
