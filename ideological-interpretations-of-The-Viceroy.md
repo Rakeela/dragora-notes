@@ -1098,7 +1098,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Technological extremophilia:  5/5
 	13.  Stress/Boredom rating:  4/5 (Stressful)
 	14.  Me-points:  -1/3
-	15.  Kind of person most protected:  Matchmakers
+	15.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
 	16.  Special categories:  Hypersmooth, Nightmare, Failsafe
 	17.  Conversion potential:  Commonwealth<->Empire (limited)
 47.  University System
