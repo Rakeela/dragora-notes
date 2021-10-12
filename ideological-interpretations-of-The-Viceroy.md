@@ -1426,6 +1426,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-10-4;  The Unifiers are NOT Islamic.  I think they are restrictive, but not Islamic.  Why:  The Seat of Beauty is in their tech tree.  It breaks restrictive religions.  Meanwhile, the Natalist/Nationalist techs are down in the Commonwealth Consensus tree that also has Enlightened Policing.  That's where the miseries of the Islamic world reside, with their restrictive religion that their own societies are painfully disinterested in reforming.  Islam is a Commonwealth Consensus thing: like a corruption introduced on the Commonwealth by the Panarchy.
 
+2021-10-11;  A little birdy told me to interpret the game as being "nations" (districts), "continents" (planets), and "planets" (systems).
+
 ---
 The Much-Reviled Lower Classes
 

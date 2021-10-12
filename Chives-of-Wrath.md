@@ -100,5 +100,9 @@ On the other hand, I've got enough transplant candidates from the hydroponic see
 I have a surplus of transplant-quality chives.  I'm going to buy some flowerpots, I think.  I'll grow more in the backyard.
 
 ---
+2021-10-11;
+I don't really think I can perform this experiment, although I think someone may be able to.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
