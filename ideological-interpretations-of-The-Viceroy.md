@@ -812,7 +812,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Technological smoothness:  2/5
 	16.  Technological extremophilia:  5/5
 	17.  Stress/Boredom rating:  5/5 (Screaming)
-	18.  Me-points:  0/3
+	18.  Me-points:  ?/3  (I personally favor this, but I don't consider myself wholly committed to the idea that humanity can pull it off.  This would be a Glasswall society incapable of keeping secrets.)
 	19.  Kind of person most protected:  "Liars" who were not actually lying
 	20.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
