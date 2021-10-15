@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 46.30225080385853,
+            "dimension": 56.028938906752416,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
+                    "file": "day-post-archive.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 53.69774919614147,
+            "dimension": 43.971061093247584,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -135,12 +135,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
+                "file": "day-post-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "allergy",
+                "searchQuery": "pea",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,6 +154,8 @@
   },
   "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "day-post-archive.md",
+    "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
     "Untitled.md",
     "2021-10-11-One-Hundred-and-Eighty-Fourth.md",
     "2021-10-1-One-Hundred-and-Eighty-Third.md",
@@ -161,8 +163,6 @@
     "Feather-Integument.md",
     "Chives-of-Wrath.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "character-gallery.md",
-    "Viceroy-Cultural-Progression-Analysis.md",
-    "The-Viceroy.md"
+    "character-gallery.md"
   ]
 }
