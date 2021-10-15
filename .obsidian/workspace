@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 56.028938906752416,
+            "dimension": 45.2572347266881,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 43.971061093247584,
+            "dimension": 54.7427652733119,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day-post-archive.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +152,9 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "e5f17a424dadb013",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "day-post-archive.md",
     "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
     "Untitled.md",
@@ -162,7 +163,6 @@
     "Northern-Creche-Confederation.md",
     "Feather-Integument.md",
     "Chives-of-Wrath.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "character-gallery.md"
   ]
 }
