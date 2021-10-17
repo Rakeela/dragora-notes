@@ -57,6 +57,10 @@ _Private Writing Character Gallery_
 	  * A serene yet distractible fire elemental who resembles a weasel.  Her mind is brilliant, but disordered.  Is it disordered?  She misses nothing.  She burns, but is yet peaceful.  Her life is a waking dream.
 	  * A summon set free.  Give her no orders.  She moves at her whims.  Fast.  Stillness.  Fast again.
 	  * [[Warlockisms]]
+  * **Nyralenth:**
+	  * A dangerously self-absorbed wyvern who uses the most dangerous magic on his homeworld as though it were safe.
+	  * Powerful in his element, he rules over a land ruined by magic similar to his own.  He believes that ruin would never have happened if he'd been in charge, but his lands remain polluted with the dangerous magic he loves too much.
+	  * A would-be rescuer, a hero in his heart... So he thinks.  He does good deeds selfishly.
 
 ---
 I can't use any of the following without transplanting them.  I will not likely use again the settings that they are from.  I have thought about this in the context of Amadea first, but I have realized that every character I add to this gallery has a kind of transplantation requirement profile as well.  I'm going to write that out here.
