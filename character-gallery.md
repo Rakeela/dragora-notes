@@ -63,6 +63,9 @@ _Private Writing Character Gallery_
 	  * A would-be rescuer, a hero in his heart... So he thinks.  He does good deeds selfishly.
 
 ---
+Kienth is a setting that may eventually get its own page.  I'm starting to put it together for fantasy writing a little more conventional than Theoma... which may also eventually get its own page in my notes archive.  Nyralenth is from Kienth, and I think 'Warlock' is as well, which would means that the crust of the planet is riddled with secretive underground cities.  It's also another dragon-citizen setting, because I think dragons and gryphons are just people who need safe cities, too.
+
+---
 I can't use any of the following without transplanting them.  I will not likely use again the settings that they are from.  I have thought about this in the context of Amadea first, but I have realized that every character I add to this gallery has a kind of transplantation requirement profile as well.  I'm going to write that out here.
 
 _Transplant Profile Gallery 1_
