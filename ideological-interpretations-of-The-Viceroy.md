@@ -461,16 +461,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Mechanism proposal:  Although the Commonwealth considers them a thorn in the side of progress, the panarchic arbitration networks fully believe in the justice and necessity of the services that they provide.  Like a lot of the Panarchic Ritualists, they're always looking for more qualifying immortals to join the galactic community, with a particular interest in developing judicial and administrative talent... but they only recruit lawyers, so their real public protective function only kicks in when things have gone wrong.
 	13.  Mechanism proposal:  These societies get more influential, because they get more willing to protect people who blow the whistle on evil.  They do better early on, and when do fall apart, history gets a better idea of what went wrong... so that future administrations are more honest on average.
 	14.  Narrative indicator:  Tyrants with enlightened police... usually have really... really impressive corruptions by the time their society collapses.  The courts do their best to force more of those corruptions into the open.  They create records and they protect people who the very powerful would be happier destroying.
-	15.  Bureaucratic waste analysis:  It's almost super-literal.  The courts promote the training and development of good administrators while creating essential records that a society would not otherwise have.  They have a key protective function during societal collapses as well.  All of that is expensive.  Unfortunately, galactic-tier charisma is a real threat that will occasionally lead to bad resolutions and concomitant non-literal waste of bureaucratic potential, and the courts are still probably doomed to look awful in late-stage administrations.
-	16.  Liberation rating:  3/5, +1 with Seat of Justice
-	17.  Public protection rating:  1/5, +1 per Commonwealth Happiness technology other than Basic Income that has been implemented.
-	18.  Technological smoothness:  3/5
-	19.  Technological extremophilia:  Territory average
-	20.  Stress/Boredom rating:  4/5 (Stressful)
-	21.  Me-points: 2/3
-	22.  Kind of person most protected:  Charismatic lawyers.
-	23.  Special categories:  Diversifying, Empathy Maximizer, Galactic Politics
-	24.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited)
+	15.  Alternate interpretation:  The courts are described as providing "enlightened (but more importantly popular)" judgments.  This could be a court system that is blatantly populist and caters to local biases in any particular way it can get away with.  This planetary parochialism provides cover for a lot of injustices, but it provides a LOT of information about what people are willing to (often badly mistakenly) consider justice.  Every so often, it may also provide a better answer than the galactic courts would otherwise consider... but is it worth it?  Populist courts are a scary version that reconfigures the ratings substantially.
+	16.  Alternate categorization:  This is diversifying in a galactic sense, but it pushes local conformity if the local courts are populists catering to local biases.  The result is a galaxy peppered with planets that are considerably more convinced that their local mores are superior, but that varies more in what local mores *are*.  It's homogenizing, because even though different planets will pursue populist court systems in different ways, they will create variations of conformist culture if this is the correct interpretation.
+	17.  Bureaucratic waste analysis:  It's almost super-literal.  The courts promote the training and development of good administrators while creating essential records that a society would not otherwise have.  They have a key protective function during societal collapses as well.  All of that is expensive.  Unfortunately, galactic-tier charisma is a real threat that will occasionally lead to bad resolutions and concomitant non-literal waste of bureaucratic potential, and the courts are still probably doomed to look awful in late-stage administrations.
+	18.  Liberation rating:  3/5, +2 with Seat of Justice
+	19.  Alternative Liberation rating (Populist):  2/5 +1 with Seat of Justice
+	20.  Public protection rating:  1/5, +1 per Commonwealth Happiness technology other than Basic Income that has been implemented.
+	21.  Technological smoothness:  3/5
+	22.  Alternative smoothness (Populist):  5/5
+	23.  Technological extremophilia:  Territory average
+	24.  Alternative extremophilia (Populist):  Territory average -1
+	25.  Stress/Boredom rating:  4/5 (Stressful)
+	26.  Me-points: 2/3
+	27.  Alternative Me-points (Populist):  0/3
+	28.  Kind of person most protected:  Charismatic lawyers.
+	29.  Alternative person protected (Populist):  People who think the local concept of justice is superior to the galactic concept of justice.
+	30.  Special categories:  Diversifying, Empathy Maximizer, Galactic Politics
+	31.  Alternative categories:  Homogenizing, Hypersmooth
+	32.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited)
 16.  Three Shift Society
 	1.  Mechanism proposal:  Facially, this is one of the wonders of literalism in the game.  Increasing utilization of infrastructure during off-peak hours, and generally shifting peak demand to off-peak demand, *is* a way to increase efficiency and population density.  So what goes wrong?  Why is it so expensive?
 	2.  Downside analysis:  Most people can't do this.  More of the public is stressed-out and insomniac as a result of spreading these schedules widely.  Resentment against the bureaucracy increases as a source of suffering is generated with an obvious cause.
