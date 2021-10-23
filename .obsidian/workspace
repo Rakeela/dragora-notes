@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "day-post-archive.md",
+                    "file": "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
                     "mode": "source"
                   }
                 }
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bibliography.md",
+                    "file": "character-gallery.md",
                     "mode": "source"
                   }
                 }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
     "direction": "horizontal",
     "width": 304
   },
-  "active": "7a3178b850a00218",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
+    "day-post-archive.md",
+    "character-gallery.md",
     "Bibliography.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "character-gallery.md",
     "Feather-Integument.md",
-    "day-post-archive.md",
     "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
-    "Untitled.md",
     "2021-10-11-One-Hundred-and-Eighty-Fourth.md",
     "2021-10-1-One-Hundred-and-Eighty-Third.md",
     "Northern-Creche-Confederation.md"
