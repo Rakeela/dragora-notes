@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 38.10289389067524,
+            "dimension": 44.37299035369775,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
+                    "file": "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 61.89710610932476,
+            "dimension": 55.62700964630225,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
+                "file": "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,15 @@
   },
   "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
+    "Sim-Earth.md",
     "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
-    "day-post-archive.md",
     "character-gallery.md",
+    "day-post-archive.md",
     "Bibliography.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Feather-Integument.md",
     "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
-    "2021-10-11-One-Hundred-and-Eighty-Fourth.md",
-    "2021-10-1-One-Hundred-and-Eighty-Third.md",
-    "Northern-Creche-Confederation.md"
+    "2021-10-11-One-Hundred-and-Eighty-Fourth.md"
   ]
 }
