@@ -6,4 +6,9 @@ I thought of a new euphemism today!  "Talking out of your earfins" would be a go
 I've come up with a new flavor combination worth recording.  Olives and brazil nuts work well together.  I may get my mortar and pestle out to try grinding some together.  They seem like they'll be even better together if they're carefully measured out and then ground to semi-homogeneity.
 
 ---
+I've realized another aspect of my past life today.  I long wondered why I-as-Rakeela wandered south as I did, and I've just realized that I didn't meet something I should've: the southern nations which he thought were ruled by the priests of the wind goddess, aka the shiny scaled dragons.
+
+Where were Kairn's people?
+
+---
 Back to [[day-post-archive]]
