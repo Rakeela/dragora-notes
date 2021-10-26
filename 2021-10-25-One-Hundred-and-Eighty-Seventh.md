@@ -11,4 +11,7 @@ I've realized another aspect of my past life today.  I long wondered why I-as-Ra
 Where were Kairn's people?
 
 ---
+I've thought of a potential treatment for overweight people!  This one's a pretty horrible idea, so brace yourself for incoming medical stupidity:  What if we could tag lipid cells in a region of the body with a bunch of microinjections, and then unleash an RNA vaccine that tells the immune system to eat the cells those tags are attached to?  It could be a new cosmetic surgery!  ...if it worked.  And didn't kill people.
+
+---
 Back to [[day-post-archive]]
