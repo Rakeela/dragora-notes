@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 51.929260450160776,
+            "dimension": 32.556270096463024,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,16 +40,16 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 48.07073954983923,
+            "dimension": 67.44372990353698,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
                 "type": "leaf",
-                "dimension": 50.12987012987012,
+                "dimension": 53.91969407265774,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
+                    "file": "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
                     "mode": "source"
                   }
                 }
@@ -57,7 +57,7 @@
               {
                 "id": "7a3178b850a00218",
                 "type": "leaf",
-                "dimension": 49.87012987012988,
+                "dimension": 46.08030592734226,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385
+    "width": 393
   },
   "right": {
     "id": "4acc096315081380",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
+                "file": "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
     "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
-    "Feather-Integument.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "Feather-Integument.md",
     "Sim-Earth.md",
     "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
     "character-gallery.md",
     "day-post-archive.md",
     "Bibliography.md",
-    "2021-10-12-One-Hundred-and-Eighty-Fifth.md",
-    "2021-10-11-One-Hundred-and-Eighty-Fourth.md"
+    "2021-10-12-One-Hundred-and-Eighty-Fifth.md"
   ]
 }

@@ -1098,22 +1098,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 46.  Prenatal Education
 	1.  Author protest:  I think this possibly should be Ancestral Recording.  I wrote below that Ancestral Recording should be where the University is; I'm not sure.  I don't see Prenatal Education as a 'real' technology unless it's a *Panarchic* technology, and the rest of what I write about it will probably explain why.
-	2.  Mechanism proposal:  Does anyone remember those "listen to classical music so your baby will be smarter" ads?  Those were common in the 90s, and as a classical music fan in childhood, they contributed to my sense that reproduction was being treated as the entire purpose of life.  Sex was the authority I had to accept.  This is... the gentlest, most harmless version of Prenatal Education.
-	3.  Mechanism proposal:  Life-planning.  Arranged marriages.  Children being born for roles, quite literally.  Possibly even caste systems and vertical eugenics (vertical eugenics is eugenics by lineage, ie sterilizing the poor, as contrasted to horizontal eugenics, which is eugenics via gene therapy).  This tech is authoritarian.
-	4.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
-	5.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
-	6.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
-	7.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
-	8.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
-	9.  Liberation rating:  1/5
-	10.  Protection rating:  2/5
-	11.  Technological smoothness:  5/5
-	12.  Technological extremophilia:  5/5
-	13.  Stress/Boredom rating:  4/5 (Stressful)
-	14.  Me-points:  -1/3
-	15.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
-	16.  Special categories:  Hypersmooth, Nightmare, Failsafe
-	17.  Conversion potential:  Commonwealth<->Empire (limited)
+	2.  Author protest:  Countermanding the above, I think this might be something that would *follow from* Ancestral Recording, shifting the University to the Panarchy and replacing it with Ancestral Recording.  This would position the Commonwealth Consensus as a remarkable lineage society which establishes extreme genetic self-knowledge as its foundation, since they would have Creche Schools leading to Ancestral Recording, which then lead to Prenatal Education.
+	3.  Mechanism proposal:  Does anyone remember those "listen to classical music so your baby will be smarter" ads?  Those were common in the 90s, and as a classical music fan in childhood, they contributed to my sense that reproduction was being treated as the entire purpose of life.  Sex was the authority I had to accept.  This is... the gentlest, most harmless version of Prenatal Education.
+	4.  Mechanism proposal:  Life-planning.  Arranged marriages.  Children being born for roles, quite literally.  Possibly even caste systems and vertical eugenics (vertical eugenics is eugenics by lineage, ie sterilizing the poor, as contrasted to horizontal eugenics, which is eugenics via gene therapy).  This tech is authoritarian.
+	5.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
+	6.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
+	7.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
+	8.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
+	9.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
+	10.  Liberation rating:  1/5
+	11.  Protection rating:  2/5
+	12.  Technological smoothness:  5/5
+	13.  Technological extremophilia:  5/5
+	14.  Stress/Boredom rating:  4/5 (Stressful)
+	15.  Me-points:  -1/3
+	16.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
+	17.  Special categories:  Hypersmooth, Nightmare, Failsafe
+	18.  Conversion potential:  Commonwealth<->Empire (limited)
 47.  University System
 	1.  Challenge cured:  Segregated Education
 	2.  Challenge cure interpretation:  Looking at the history of Earth, it looks like universities pressed education to desegregate by getting people enthusiastic about ideas and wanting to share them with people across the arbitrary boundaries that people try to draw.  The universities also provide the talent to quantify the costs of segregation and challenge it on the merits.  This is all very ethical, but somewhat expensive.
@@ -1231,9 +1232,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Protection rating:  3/5
 	13.  Technological smoothness:  4/5
 	14.  Technological extremophilia:  4/5
-	15.  Me-points:  0/3
-	16.  Kind of person most protected:  Is it logisticians or software devs automating away the jobs of logisticians?
-	17.  Special categories:  ???
+	15.  Stress/Boredom Rating:  3/5 (Eustress)
+	16.  Me-points:  0/3
+	17.  Kind of person most protected:  Is it logisticians or software devs automating away the jobs of logisticians?
+	18.  Special categories:  ???
 53.  Absolute Freedom
 	1.  Progression analysis:  This is gated behind Enlightened Policing, because people who are raped, murdered, or stalked for expressing their freedom are having their rights violated.  In order to give people absolute freedom, they have to be protected from retaliation.
 	2.  Mechanism proposal:  This requires restricting the policing forces.  The technology that was unleashed by 'Enlightened Policing' is at this point reined in and checked.  The primary function is the negative mechanism that people are no longer allowed to engage in retaliatory violation against peaceful conducts.
@@ -1249,12 +1251,13 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Protection rating:  5/5
 	13.  Technological smoothness:  3/5
 	14.  Technological extremophilia:  5/5
-	15.  Me-points:  2/3
-	16.  Kind of person most protected:  People who dislike the Taliban (without reproduction mandates); the Taliban (after purging everyone who doesn't consider doing what the Taliban wants to be a form of absolute freedom)
-	17.  Special categories:  Diversifying, Hedonological, Furry
-	18.  Alternative special categories (with reproduction mandates):  Homogenizing, Luddistic, Nightmare
-	19.  Conversion potential:  Commonwealth<->Panarchy, Commonwealth<->Empire (limited)
-	20.  Conversion potential (with reproduction mandates):  Unknown
+	15.  Stress/Boredom rating:  3/5 (Eustress)
+	16.  Me-points:  2/3
+	17.  Kind of person most protected:  People who dislike the Taliban (without reproduction mandates); the Taliban (after purging everyone who doesn't consider doing what the Taliban wants to be a form of absolute freedom)
+	18.  Special categories:  Diversifying, Hedonological, Furry
+	19.  Alternative special categories (with reproduction mandates):  Homogenizing, Luddistic, Nightmare
+	20.  Conversion potential:  Commonwealth<->Panarchy, Commonwealth<->Empire (limited)
+	21.  Conversion potential (with reproduction mandates):  Unknown
 54.  Beyonder Dwelling
 	1.  Narrative indicator:  If process doesn't matter, only goals and results, couldn't the enlightened police make people happier by secretly killing all the unhappy people and getting away with it?
 	2.  Author protest:  I don't believe in non-temporal intellects.  I treat all references to "Beyonders" in The Viceroy as a particular pattern of lies which can be parsed as language.
@@ -1271,9 +1274,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Protection rating:  1/5
 	14.  Technological smoothness:  5/5
 	15.  Technological extremophilia:  5/5
-	16.  Me-points: -1/3
-	17.  Special categories:  Diversifying, Hypersmooth, Nightmare
-	18.  Conversion potential:  Unknown
+	16.  Stress/Boredom rating:  2/5 (Calm)
+	17.  Me-points: -1/3
+	18.  Special categories:  Diversifying, Hypersmooth, Nightmare
+	19.  Conversion potential:  Unknown
 55.  Beyonder Embassy
 	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing and what happens as a result of you doing it.
 	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
@@ -1287,9 +1291,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Protection rating:  5/5
 	11.  Technological smoothness:  5/5
 	12.  Technological extremophilia:  2/5
-	13.  Me-points:  1/3
-	14.  Special categories:  Hypersmooth, Detached, Failsafe
-	15.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
+	13.  Stress/boredom rating:  1/5 (Dull)
+	14.  Me-points:  1/3
+	15.  Special categories:  Hypersmooth, Detached, Failsafe
+	16.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
 56.  Beyonder Gate
 	1.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
 	2.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
@@ -1301,9 +1306,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Protection rating:  3/5
 	9.  Technological smoothness:  5/5
 	10.  Technological extremophilia:  3/5
-	11.  Me-points:  1/3
-	12.  Special categories:  Hypersmooth
-	13.  Conversion potential:  Unknown
+	11.  Stress/Boredom rating:  3/5 (Eustress)
+	12.  Me-points:  1/3
+	13.  Special categories:  Hypersmooth
+	14.  Conversion potential:  Unknown
 57.  Miniaturized Gate
 	1.  Author protest:  This claims to be a miniaturization of the galactic gates, but it would be more apt to say it's a localization of the galactic gate system.
 	2.  Lore:  The galactic gates are expensive to use... and there's *no possible way* to reduce that expense save by settling near a Thousand Eyes structure.  This suggests to me that the gates are studied by researchers (especially of the Old Empire), but they are not improved upon by researchers (save perhaps some of the startlingly ancient people who are drawn to studying the Thousand Eyes structures).
@@ -1321,9 +1327,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Protection rating:  3/5, -1 in Feudal economies, +1 in Regulated or Planned economies, +1 with Distributed Desalination (advanced environmentalism)
 	15.  Technological smoothness:  4/5
 	16.  Technological extremophilia:  3/5
-	17.  Me-points:  0/3
-	18.  Special categories:  Failsafe
-	19.  Conversion potential:  Unknown
+	17.  Stress/Boredom rating:  2/5 (Calm)
+	18.  Me-points:  0/3
+	19.  Special categories:  Failsafe
+	20.  Conversion potential:  Unknown
 58.  Penal Retreats
 	1.  Challenge cured:  Brutal justice
 	2.  Challenge cure interpretation:  This investment in rehabilitation replaces lethal or debilitation-based criminal justice with 'merely' sticking criminals in a paternalistic hole where everything they say or do will be analyzed by "virtuous" people trying to control them.
@@ -1343,9 +1350,39 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Protection rating:  5/5
 	17.   Technological smoothness:  2/5
 	18.   Technological extremophilia:  5/5
-	19.   Me-points:  2/3
-	20.   Special categories:  Diversifying, Rehabilitative, Mind Control
-	21.   Conversion potential:  Unknown
+	19.   Stress/Boredom rating:  1/5 (Dull)
+	20.   Me-points:  2/3
+	21.   Special categories:  Diversifying, Rehabilitative, Mind Control
+	22.   Conversion potential:  Unknown
+59.   Technical Overseer
+	1.   Authorial protest:  I think that the Mental Transcription technology should be swapped with this one on the tech tree.  I think that research AI are an earlier kind of AI than others, because the first AI will be produced by researchers, for researchers.  I think it would be more probable that society would accept mental transcription services in societies that already *have* these, too.  So this tech should lead to Mental Transcription and Bureaucratic Overseers, rather than Mental Transcription leading to it.
+	2.   Authorial protest:  I've also considered that this may be appropriate to limit to a Planet-wide technology rather than a System-wide technology, as its "automation of education and research" sounds to me suspiciously similar to what universities do for research.  Except easier.  On that note...
+	3.   Mechanism proposal:  These AI make education and research *easier*.  The Panarchy needs this stuff to be less intense.  They perform well with edutainment and automated tutoring.
+	4.   Downside analysis:  I've started to wonder if the Panarchy are genetically stupid, but...
+	5.   Apologia:  It's advantageous if they *refuse to keep secrets*, as the Lyceum also suggests.  These system-wide research improvements sound to me like the Panarchy tends to break secrecy and prevent technological secrets from being held between the multiple nations that dwell in each system.
+	6.   Mechanism proposal:  These systems should also be collating what everyone knows, just like the Lyceum, packaging it up for redistribution.  It's something the Panarchy knows two very different ways to do, and they should synergize well together as they are pursued and supported by different people likely to get along well with each other.
+	7.   Author appeal:  I think these AI would be inclined to value EVERYONE.  One of the ways to increase research in a system is to increase its population!  As everyone contributes to the breadth of technical specialization available in a system, and everyone thinking contributes to its research power, I think these would be some of the most relatively virtuous people in the Panarchy.  This is also a reason I would pull it in from the Mental Transcription branch, which seems much more morally questionable and "fringe".
+	8.   Bureaucratic waste analysis:  Very literal.  I don't think these AIs would waste people very often if at all, and if they're not doing it often, I don't think they'd even have the power to do it.  They would however need a lot of educational infrastructure built out, and they'd be serving dubious people (they'd be making research and education accessible to genetically stupid panarchists).  That's where the bureaucratic waste comes in.
+	9.   Liberation rating:  5/5
+	10.   Protection rating:  5/5
+	11.   Technological smoothness:  1/5
+	12.   Technological extremophilia:  4/5
+	13.   Stress/Boredom rating:  2/5 (Calm)
+	14.   Me-points:  2/3
+	15.   Special categories:  Failsafe, Rehabilitative, Empathy Maximizer
+60.   Bureaucratic Overseer
+	1.   Progression analysis:  Following on from the basic AI research that goes into implementing Technical Overseers, Bureaucratic Overseers automate a lot of boring stuff and catch a lot of boring errors... while introducing other, different errors.  On average, the economy takes longer to fall.
+	2.   Author appeal:  I consider these to be empathy maximizers, but...
+	3.   Downside analysis:  These get people working harder through correct requisitions.  It should be relatively low-stress as accelerations go, but only by being highly accurate.
+	4.   Author protest:  This claims the bureaucracy no longer expands to meet the needs of the bureaucracy, but it obviously still does.  These people's plans still collapse.
+	5.   Bureaucratic waste analysis:  This is a bureaucratic efficiency technology.
+	6.   Liberation rating:  3/5
+	7.   Protection rating:  4/5
+	8.   Technological smoothness:  3/5
+	9.   Technological extremophilia:  3/5
+	10.   Stress/Boredom rating:  1/5 (Dull)
+	11.   Me-points:  2/3
+	12.   Special categories:  Failsafe, Empathy Maximizer, Detached
 
 
 ---
