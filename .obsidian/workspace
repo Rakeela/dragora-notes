@@ -49,7 +49,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
+                    "file": "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
                     "mode": "source"
                   }
                 }
@@ -137,12 +137,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
+                "file": "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "pea",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,10 +152,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 151
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
     "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
     "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
     "ideological-interpretations-of-The-Viceroy.md",
@@ -164,7 +165,6 @@
     "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
     "character-gallery.md",
     "day-post-archive.md",
-    "Bibliography.md",
-    "2021-10-12-One-Hundred-and-Eighty-Fifth.md"
+    "Bibliography.md"
   ]
 }
