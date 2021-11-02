@@ -20,7 +20,7 @@ Items candy purchased just now:
 	1.	Commentary:  These "Pumpkins" are all Russel Stover brand, not Reese's!  ...but Reese's is tastier.
 7.	4x Coconut Creme "Pumpkins"
 
-I fast to enjoy food more, and I love candy!  I'm considering going across town to ransack three more grocery stores for half-price candy.  It'd be fun.  Candy keeps for months in theory, so it should be safe to eat and still delicious later on.
+I fast to enjoy food more, and I love candy!  I'm considering going across town to ransack three more grocery stores for half-price candy.  It'd be fun.  Candy keeps for months in theory, so it should be safe to eat and still delicious later on.  That Cougar Mountain cookie won't last for months though, so that's going to be something I eat this Saturday!
 
 ---
 I went out on another candy-shopping spree!  This is almost the only day of the year I ever do this, but I like post-Valentines, post-Easter, and post-Christmas for this, too.  BTW, I support sugar taxes!
@@ -55,6 +55,13 @@ While I'm making fun lists, my three favorite restaurants in my area are:
 3. Gyo-Kaku Japanese BBQ
 
 I think of Gyo-Kaku as "that really good noodle place," because their garlic noodles are amazing.  I just wish they had a satisfactory vegetarian replacement for the chicken in that dish.  Crispy fried tofu pieces could work, but I'm no chef.  I don't know what it would really take to vegetarianize that dish.
+
+---
+My current naked weight is 222.5 pounds, which is 101 kilograms.  I drink a lot of water, so my water weight should be high.  Fasting is a way to lose weight for me.  I've lost a lot of weight this way, and I would like to be under 200 pounds someday.
+
+Recording my weighings and what I eat on the weekend should help.  The people who raped my privacy when I stopped putting out for "liberal" observers have been tracking my food consumption anyways.  They keep expecting that I lie.  I'm pretty sure that the people who raped my privacy when I stopped being sexually entertaining decided I was a conservative infiltrator, but I'm not.  I just pulled back.  I wanted my boundaries to be respected.  The fundamental unit of liberal sexuality is the right to say "No," and my right to say no wasn't respected when I needed it.
+
+One last bit of eating lore for the patient reader.  Cannibal feasts are a form of virtue signalling.  They prove that people can think evil thoughts without committing crimes.  That shows the rejection of thoughtcrime enforcement.
 
 ---
 Back to [[day-post-archive]]
