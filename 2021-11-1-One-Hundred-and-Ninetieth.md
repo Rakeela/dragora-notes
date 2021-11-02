@@ -49,4 +49,12 @@ I can't eat any of this stuff until the weekend!  Fortunately, I don't fast to s
 This is one of my favorite holidays!  I was out for hours on my scooter picking up candy.  I visited every grocery store in town for this.
 
 ---
+While I'm making fun lists, my three favorite restaurants in my area are:
+1. Evergreens Salad
+2. Flying Zaucer Pizza
+3. Gyo-Kaku Japanese BBQ
+
+I think of Gyo-Kaku as "that really good noodle place," because their garlic noodles are amazing.  I just wish they had a satisfactory vegetarian replacement for the chicken in that dish.  Crispy fried tofu pieces could work, but I'm no chef.  I don't know what it would really take to vegetarianize that dish.
+
+---
 Back to [[day-post-archive]]
