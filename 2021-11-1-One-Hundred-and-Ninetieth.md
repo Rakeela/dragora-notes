@@ -23,4 +23,30 @@ Items candy purchased just now:
 I fast to enjoy food more, and I love candy!  I'm considering going across town to ransack three more grocery stores for half-price candy.  It'd be fun.  Candy keeps for months in theory, so it should be safe to eat and still delicious later on.
 
 ---
+I went out on another candy-shopping spree!  This is almost the only day of the year I ever do this, but I like post-Valentines, post-Easter, and post-Christmas for this, too.  BTW, I support sugar taxes!
+
+Items not candy purchased just now:
+1. Cinnamon Toast Crunch Chocolate Churros Cereal
+2. Hershey's Kisses Cereal
+3. Catalina Crunch Maple Waffle Keto Cereal
+
+Items candy purchased just now:
+1.  Quaker Chocolate Chip Chewy Halloween Minis
+2.  2x Junior Mints Limited Edition Black and Orange Centers
+3.  Evolved Pumpkin Spice Coconut Butter Cups
+4.  Lily's Mik Chocolate Style Peanut Butter Cups
+5.  Zachary Candy Corn Mello Creme
+6.  Brach's Classic Candy Corn
+7.  Brach's Bello Candy Corn (Banana, Blue Raspberry, and Vanilla Flavored)
+8.  16x Butterfinger Miniatures (aka one bag)
+9.  Butterfinger Zombie Eyeballs
+10.  4x Reese's Peanut Butter "Pumpkins"
+11.  2x Russel Stover Sugar Free Peanut Butter Cups (aka one package)
+12.  Crunch Monster Eye
+
+I can't eat any of this stuff until the weekend!  Fortunately, I don't fast to spiritually purify myself.  I fast to make food taste better.  Picking this stuff up was great, and eating it will be better for having waited hungrily.
+
+This is one of my favorite holidays!  I was out for hours on my scooter picking up candy.  I visited every grocery store in town for this.
+
+---
 Back to [[day-post-archive]]
