@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 32.556270096463024,
+            "dimension": 77.45283018867924,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 67.44372990353698,
+            "dimension": 22.547169811320757,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-2-One-Hundred-and-Ninety-First.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,14 +154,14 @@
     "direction": "horizontal",
     "width": 151
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
     "2021-11-1-One-Hundred-and-Ninetieth.md",
     "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
     "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
     "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "Feather-Integument.md",
     "Sim-Earth.md",
     "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
