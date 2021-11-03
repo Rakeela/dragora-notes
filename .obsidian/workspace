@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 27.07547169811321,
+            "dimension": 62.83018867924528,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "2021-11-3-One-Hundred-and-Ninety-Second.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 72.9245283018868,
+            "dimension": 37.16981132075471,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -49,7 +49,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "otherkin.md",
+                    "file": "Southern-Wind-Nations.md",
                     "mode": "source"
                   }
                 }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "otherkin.md",
+                "file": "2021-11-3-One-Hundred-and-Ninety-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +154,17 @@
     "direction": "horizontal",
     "width": 151
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
-    "otherkin.md",
+    "2021-11-3-One-Hundred-and-Ninety-Second.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
-    "The-Personality-Scavenge-Service.md",
+    "Southern-Wind-Nations.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "Northern-Creche-Confederation.md",
+    "otherkin.md",
+    "The-Personality-Scavenge-Service.md",
     "2021-11-1-One-Hundred-and-Ninetieth.md",
     "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
-    "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
-    "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
-    "Feather-Integument.md",
-    "Sim-Earth.md"
+    "2021-10-27-One-Hundred-and-Eighty-Eighth.md"
   ]
 }
