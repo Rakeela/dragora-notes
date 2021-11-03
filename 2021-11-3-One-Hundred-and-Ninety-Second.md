@@ -9,5 +9,7 @@
 ---
 Laundry moved, item paid for, two bags purchased.  I'm going to eat a single piece of candy (a Russel Stover Marshmallow "Pumpkin") to further affirm that I'm not spiritually fasting, just doing it for health.  This is probably going to be miserable due to the sugar effects, but I'll keep weighing myself this week and see how it works.
 
+I'm considering creating a public food log.  I can probably eat myself thin by using the slowdown from logging everything and metering my consumption better.
+
 ---
 Back to [[day-post-archive]]
