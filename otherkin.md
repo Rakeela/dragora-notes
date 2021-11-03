@@ -6,6 +6,11 @@ I personally don't consider being an otherkin to be a violation of atheism; I wa
 
 The dragon body was *only* a body, but it was a vastly better one that I never gave up willingly.
 
+This page is probably going to be renovated into a top-level page eventually.  In that spirit, the current sub-pages are:
+* [[Northern-Creche-Confederation]] (Rakeela's origin)
+* [[Southern-Wind-Nations]]  (Kairn's origin)
+
+
 # Linked By
 [[2020-11-19-First]]
 [[Forests-on-the-Water]]

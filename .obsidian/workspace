@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 25.660377358490567,
+            "dimension": 27.07547169811321,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 74.33962264150942,
+            "dimension": 72.9245283018868,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -49,7 +49,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-2-One-Hundred-and-Ninety-First.md",
+                    "file": "otherkin.md",
                     "mode": "source"
                   }
                 }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-2-One-Hundred-and-Ninety-First.md",
+                "file": "otherkin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "otherkin.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
+    "The-Personality-Scavenge-Service.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-1-One-Hundred-and-Ninetieth.md",
     "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
     "2021-10-27-One-Hundred-and-Eighty-Eighth.md",
     "2021-10-25-One-Hundred-and-Eighty-Seventh.md",
     "Feather-Integument.md",
-    "Sim-Earth.md",
-    "2021-10-23-One-Hundred-and-Eighty-Sixth.md",
-    "character-gallery.md"
+    "Sim-Earth.md"
   ]
 }
