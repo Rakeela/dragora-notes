@@ -12,4 +12,7 @@ Laundry moved, item paid for, two bags purchased.  I'm going to eat a single pie
 I'm considering creating a public food log.  I can probably eat myself thin by using the slowdown from logging everything and metering my consumption better.
 
 ---
+Whoa.  Sudden deep sleepiness.  Feels pretty good though, so I think I'll lay down.
+
+---
 Back to [[day-post-archive]]
