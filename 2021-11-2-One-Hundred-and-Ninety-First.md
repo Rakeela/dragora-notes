@@ -21,4 +21,19 @@ Current weight as of 12:15 PM:  221.0 pounds.
 Okay, so half a pound down.  Staying well-hydrated throughout the day means this shouldn't even be water weight variation.  Nice.
 
 ---
+After another round of trash-picking, I found another grocery store that I hadn't visited, and they still had some candy left from Halloween.  I purchased a few more items:
+1. Marshmallow "Pumpkin" Peeps
+2. Bag of Hershey's Cookies & Cream Snack Size
+3. Russel Stover Marshmallow "Pumpkins"
+4. Candy Skulls
+5. Pop-tarts Bites Frosted "Kooky" Chocolate Fudge
+
+I was surprised to find more.  This should be the last of the candy haul.
+
+---
+I took another weight point at 11 PM.  I came up 220.5 pounds this time!  That seems unnaturally regular.  I'm well-hydrated, so that shouldn't be how it works.
+
+I love candy.  I want free candy forever...  without the weight gain implications, tch.  I want to someday have a virtual candy bowl as my preferred stimulation.  I'll do other stuff while simulating candy consumption.  That's what I want if I can ever be an upload consciousness.  I hope civil rights can be strengthened along the way so that people are never uploaded involuntarily.
+
+---
 Back to [[day-post-archive]]
