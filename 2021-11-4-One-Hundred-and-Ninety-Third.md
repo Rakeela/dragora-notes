@@ -38,4 +38,7 @@ They said it tried to say "thank you" to me at one point.  I only heard a "mwah"
 The major presence that they tried to mercy-kill was leading this round of supposed stomach-discussion, but now has been saying that they were lying to him as well.  All of this broke down when one of the smaller presences (they want to be called gnomes or simulators, but I keep thinking of them as "little loops") started crying, because supposedly one of the two 'moderate presences' coerced her to lie to the major presence.
 
 ---
+I'm several pounds up, by the way.  I'm not dieting today.  Too much harassment from the presences.  They've pulled several different suicide-targeting narratives at me, too.  I'll go back to it soon, but today I'm planning to eat at least a bag of edamame and a protein waffle from here.  I want to see if they go well together.  The edamame will last all day.  I'll skip the Huel for today.
+
+---
 Back to [[day-post-archive]]
