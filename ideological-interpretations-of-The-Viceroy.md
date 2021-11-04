@@ -938,7 +938,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	5.  Downside analysis:  This is so much less impressive than the other technologies in the game - I'm not saying it wouldn't work like it says! - that it comes off as boring and unmarvelous.
 	6.  Trivia:  The icon for this technology is a dome in space with fields and trees inside of it, suggesting that this is a distrct-by-district version of the massive structures used for Zero Gravity Farms.
 	7.  Mechanism proposal:  This technology likely extends into vertifarming and urban agriculture in general, which some people (such as me!) do consider futuristic and awesome.
-	8.  Bureaucratic waste analysis:  Literal, although I guess it could inspire intransigence for sheer boringness.  There could also be concern that the galaxy has tons of biological production already.  Not sure though.
+	8.  Bureaucratic waste analysis:  Literal, although I guess it could inspire intransigence for sheer boringness.  There could also be concern that the galaxy has tons of biological production already.  Not sure though.  Actually, I think it's kind of unfair that this is considered a bureaucratic technology, since I think it would tend to pay off in simple productivity.  It's really straightforward and not cripplingly expensive technology.
 	9.   Liberation rating:  5/5
 	10.  Protection rating:  5/5
 	11.  Technological smoothness:  4/5
@@ -1403,6 +1403,73 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  2/5 (Calm)
 	15.   Me-points:  1/3
 	16.   Special categories:  Hedonological, Galactic Politics, Detached
+62.   Deep Inhabitation
+	1.   Author appeal:  I love this tech!  I love caves.  High-tech cave-dwelling sounds beautiful to me as a [[dragon]].  We didn't have this in my past life, mind you.
+	2.   Mechanism proposal:  I think this can be done literally!  Albeit expensively.
+	3.   Downside analysis:  These people die in large numbers should earthquakes break up their habitats.
+	4.   Downside analysis:  These structures are impressive bunkers.  It reduces the earthquake risk, but it also makes them tempting for militarism.  This reduces their protection rating.  In a perfect society, these are 5/5 protective...
+	5.   Progression analysis:  If this is paired with Panarchic cognitechnologies, it suggests a kind of computational underworld may develop.  The swarm/sim nanites could be housed down here if there was enough energy infrastructure to keep them powered.
+	6.   Downside analysis:  These are not eco-friendly.  They could BECOME eco-friendly, by removing surface pollution, but they are not eco-friendly to establish, and they'd pollute society for at least a while.
+	7.   Downside analysis:  These are not likely to be good, clean-scented places of themselves, and the residents of them will be exposed to more of civilization's toxins due to the absence of weather.  Given that Weather Control Networks depict swarms of drones, they may help with this...
+	8.   Mechanism proposal:  Like most of the crowding reducers, these would help people with diverse mindsets work together by literally helping them live apart from each other.  These underground cities would be separated from society as the Seasteads are, yet would still contribute *to* society.  Dissidents could flourish in the underground, and I love that.
+	9.   Categorization:  This is a Nightmare technology, because getting crushed by the sky falling in due to an earthquake is a nightmare.  These societies would just lose cities sometimes if they weren't ready to break the whole crust!
+	10.   Progression analysis:  Speaking of breaking the whole crush, this leads into Deep Core Taps because that's the kind of mining investment it would take to stabilize the Deep Inhabitations.
+	11.   Downside analysis:  Since Deep Core Taps are not exactly safe themselves, *this* technology kind of opens a can of worms with many quandaries, and it might not really work.  It may be safer to establish these *after* Deep Core Taps, in large stable voids that have already been opened up.  Yet I'm not sure that Deep Core Taps are ever safe...  Sigh.
+	12.   Author appeal:  I still love these.  Thinking about downsides is how they get fixed and/or prevented.
+	13.   Mechanism proposal:  This technology could also be interpreted more gently as societies started to invest in very deep basements to expand downwards as well as upwards.  This gradualist interpretation reduces, but does not eliminate, the complaints I've made.
+	14.   Bureaucratic waste analysis:  Mostly literal, however the bunker potential could be awful.
+	15.   Liberation rating:  3/5, +1 without misery
+	16.   Protection rating:  3/5, +1 without misery, +1 with Deep Core Taps that have been established for a while
+	17.   Technological smoothness:  2/5
+	18.   Technological extremophilia:  5/5
+	19.   Stress/Boredom rating:  3/5 (Eustress)
+	20.   Me-points:  3/3
+	21.   Special categories:  Diversifying, Nightmare
+63.   Genetic Optimization
+	1.   Challenge cured:  Genetic stupidity
+	2.   Challenge cure interpretation:  Gene therapies for stupid people to make them more technically competent.  I appreciate this stuff, because I believe that sharing advantages widely is compassionate egalitarianism.
+	3.   Author appeal:  Romanesco broccoli.  This stuff isn't necessarily high-tech as applied to agriculture.  It's something realistic, that builds into something high-tech.
+	4.   Categorization:  This is a hypersmooth technology.  It's not a disruptive innovation, but it's something that gradually flowers into beautiful futures.
+	5.   Categorization:  I also consider this an animal uplift technology.  As these people examine individual species to improve them, they find the uplift candidates as well and start raising them up with genetic tinkering.  I think these societies eventually get furry for real!  This pushes systems towards biological specialization, but if they retain cultural power, their culture may get furry even faster!
+	6.   Bureaucratic waste analysis:  I think treating this as a bureaucratic technology is actually unfair.  This is a liberal tech that really should return without waste.  I think it just makes society more unwilling to be governed by a Viceregal administration.
+	7.   Liberation rating:  5/5
+	8.   Protection rating:  5/5
+	9.   Technological smoothness:  5/5
+	10.   Technological extremophilia:  5/5
+	11.   Stress/Boredom rating:  2/5 (Calm)
+	12.   Me-points:  2/3
+	13.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
+64.   Pregnancy Enhancement
+	1.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
+	2.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
+	3.   Author protest:  I can't think of what else it would be.  Orbital hospitals and cures for primitive medicine would already do as much of this tech as *I* can otherwise fathom.  This is someone else's reproduction tech, because it confuses me.  I want to give it more me-points, but I don't really know how it works.
+	4.   Apologia:  I'm pretty sure it would be a 'calm' tech at least, since I think that's the healthiest activation level for pregnancies to be safe and comfortable.
+	5.   Categorization:  Since I do imagine it as a very advanced biological intervention of the category that I consider 'ontogenic control', I do imagine this as improving animal uplift technologies.  Mostly as a sideswipe, but still in a real way.  It would improve reproduction for species that have difficulty with reproduction even more than it would improve reproduction for humans, I think.
+	6.   Bureaucratic waste analysis:  Very literal.  This is medical bureaucracy.  Even transformatively, it's medical bureaucracy.
+	7.   Liberation rating:  ?/5
+	8.   Protection rating:  ?/5
+	9.   Technological smoothness:  ?/5
+	10.   Technological extremophiliia:  ?/5
+	11.   Stress/Boredom rating: 2/5 (Calm)
+	12.   Me-points:  0/3
+	13.   Special categories:  Animal Uplift, Furry
+65.   Zero Gravity Farms
+	1.   Challenge cured:  High Gravity
+	2.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
+	3.   Alternate cure interpretation:  No, it's a reference to the metaphorical interpretation here where this 'technology' is actually job subsidies for people who love some kind of work that doesn't pay off enough.  It's good hedonology, but I LIKE dignified people.  I don't want to cure high gravity people.  v.-.v
+	4.   Author protest:  I love these, and I hate these.  They're such paradisic farm technology, but they're something that makes total sense to be crushingly expensive.
+	5.   Mechanism proposal:  Megastructures.  For farming.  In space.  Not as bad as the icon represents (it looks like a world-let in a glass bubble), but crushingly expensive.
+	6.   Downside analysis:  Oh god the expense.  This rarely pays off.  The system-wide farming technologies only pay off if they're implemented together, and that's even more expensive.  These societies start building space platform after space platform after space platform to produce exotic biological products (food, medicine, and biological inputs and/or replacements for industrial goods).
+	7.   Progression analysis:  Why does this lead to Orbital Hospitals?  I kind of get it and I kind of don't.  By the time society is lifting farmers into orbit en masse, it does make sense that you'd get orbital hospitals, .
+	8.   Author appeal:  I want one of these jobs!
+	9.   Author protest:  Ow.  I'm not sure I want to live in a society that would implement this.  I don't think it's a good idea.
+	10.   Alternate interpretation:  It's a joke about people who really love farming in a good-humored way.  This goes with the alternate cure interpretation.
+	11.   Downside analysis:  Lifting a whole lot of people into space reduces the average safety of space.  It really would.  This society would work much harder to keep space safe, and achieve imperfect results.  The whole chain of orbital habitats -> zero gravity farms -> vacuum-based life creates this issue, though orbital hospitals would increase safety overall.
+	12.   Downside analysis:  Slight safety flaws also applies in the alternative interpretation, since it suggests more jobs in society are held by people who love their work enough to dance.
+	13.   Categorization:  The alternative interpretation qualifies this as a Hedonological technology, and I'll grant it.
+	14.   Bureaucratic waste analysis:  Oh god the expense.
+	15.   Liberation rating:  5/5
+	16.   Protection rating:  4/5
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
