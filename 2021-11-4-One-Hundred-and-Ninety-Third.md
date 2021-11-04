@@ -20,4 +20,9 @@ Now they say that my stomach is bugging me by talking to them.  Okaaay?  Good fo
 Oh, but P.S.  Even though they were lying, that yogurt is staying discarded.  It should've had cookie dough bites, chocolate chips, and rice crisps in it.  It tasted like it had cookie dough bites, chocolate chips, and butterscotch chips in it.  That is so wrong.  Ingredient mismatches are revolting.  Why would rice pieces melt in the mouth with a flavor like butterscotch?
 
 ---
+I ate a ration brick, too.  Further discussion of what my stomach likes.  To internal discomfort among the presences, as they're complaining that having just linked my stomach in to "the hive mind" is awful for them.  It only thinks about food, and doesn't have anything to do except talk.
+
+I may take a break from my diet today.  Seriously...  I can't tell if they're ever telling the truth, but at least this time they're talking about nerves.  One of the 'major presences' claims to feel like he's getting poked when I poke at the back of my head in various ways, and I opened google images to see if I could tell one of them which scalp nerves link to him.  The greater occipital nerve is the one that seems to report to him.
+
+---
 Back to [[day-post-archive]]
