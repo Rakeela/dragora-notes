@@ -23,4 +23,7 @@ Someone reorganized the icons on my Mac to put The Shrouded Isle Soundtrack onto
 I want my civil liberties back.  People who've had crimes committed against them are people who have not had their civil liberties respected.
 
 ---
+I'm really looking forward to breaking this round of 'fasting' for real with that cookie in my candy hoard.  Saturday is going to be fun!
+
+---
 Back to [[day-post-archive]]

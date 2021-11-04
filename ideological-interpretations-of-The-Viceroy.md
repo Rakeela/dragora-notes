@@ -1311,26 +1311,29 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Special categories:  Hypersmooth
 	14.  Conversion potential:  Unknown
 57.  Miniaturized Gate
-	1.  Author protest:  This claims to be a miniaturization of the galactic gates, but it would be more apt to say it's a localization of the galactic gate system.
+	1.  Author protest:  This claims to be a miniaturization of the galactic gates, but it would be more apt to say it's a localization of the galactic gate system.  I imagine structures in space large enough to swallow spaceships, which only serve the local territory.
 	2.  Lore:  The galactic gates are expensive to use... and there's *no possible way* to reduce that expense save by settling near a Thousand Eyes structure.  This suggests to me that the gates are studied by researchers (especially of the Old Empire), but they are not improved upon by researchers (save perhaps some of the startlingly ancient people who are drawn to studying the Thousand Eyes structures).
 	3.  Mechanical protest:  These are useless most of the time.  Only super-developed systems can make them profitable, and their administrative cost militates against even that.  Like with the Potentialities Overseer, if you aren't massively overstaffed for administrative talent, it's hard to make these useful.
-	4.  Mechanism proposal:  It's hard to come up with a metaphor here.  The literal description of being small local gates matches, more or less.  The fact that they make imports cheaper rather than affecting export flows suggests to me that ships within the region can transit rapidly *to* the gate, but must make normal journeys *away* from the gate.  So each miniaturized gate is really a kind of local hyperspace beacon.
-	5.  Mechanism proposal:  If I do stretch for a metaphor, this could represent long-distance, ambitious trade linkages that are only profitable between the most impressive centers of development, such as transcontinental railroads and cargo ports capable of handling supertanker/container ships.
-	6.  Downside analysis:  These projects are likely to be polluting and (in unregulated economies) dangerous to their workers.
-	7.  Apologia:  This stuff is liberating.  Advanced transit technologies encourage people to move freely across long distances, alleviating social stresses and bringing in wealth from everywhere.
-	8.  Downside analysis:  Massive transportation budgets are tempting targets for corruption, even petty forms of it such as politicians trying to boast about securing 'a piece of the pie' for their own constituency.
-	9.  Progression analysis:  Fitting my interpretation of Beyonders as manipulative smart people who take on Imperial identification to take advantage of the trusting Imperial populations, these massive prestige projects in transportation draw in people who want to be prestigious leaders.  This leads into the Beyonder Retreats.
-	10.  Progression analysis:  Conversely, these projects also draw in modest people who want to be free to move about, leading to the Jaunting Grids.
-	11.  Categorization:  It's hard to apply any of the categories in particular to this technology, but I'd say it qualifies as a Failsafe technology.  Implementing over-ambitious transport projects *is* a good way to take down a civilian government, as is corrupting them for personal gain, but it's also a very *peaceful* way to take down a civilian government.
-	12.  Bureaucratic waste analysis:  Mostly literal.  By all my analysis, these are transit expenses.  Non-literal wastage only particularly applies if the appropriations get corrupted.  It's not that nobody ever dies as a side effect of implementing transit infrastructure, but the people who die working in massive transportation projects were almost never going to be bureaucrats anyways.  Beyond that, I don't think it'd make anything worse or particularly invite awful people.  If the Old Empire is evil (certainly possible), this isn't the technology that proves it.  *This* is merely an expense likely to exceed its profitability.
-	13.  Liberation rating:  5/5
-	14.  Protection rating:  3/5, -1 in Feudal economies, +1 in Regulated or Planned economies, +1 with Distributed Desalination (advanced environmentalism)
-	15.  Technological smoothness:  4/5
-	16.  Technological extremophilia:  3/5
-	17.  Stress/Boredom rating:  2/5 (Calm)
-	18.  Me-points:  0/3
-	19.  Special categories:  Failsafe
-	20.  Conversion potential:  Unknown
+	4.  Apologia:  Free markets and feudal societies get more use out of these.
+	5.  Author protest:  Why, however, would advanced societies be blighted with feudalism?
+	6.  Mechanism proposal:  It's hard to come up with a metaphor here.  The literal description of being "small" local gates matches, more or less.  The fact that they make imports cheaper rather than affecting export flows suggests to me that ships within the region can transit rapidly *to* the gate, but must make normal journeys *away* from the gate.  This suggests that each miniaturized gate is really a kind of local hyperspace beacon which other ships in the territory can home in on.
+	7.  Downside analysis:  If these spaceship-swallowing structures are hyperspace beacons, can anything else see the beacon that they emit?  Hyperspace seems like it has some hazards in this game.  Some of the wastage from this technology might be militarism needed to control hazard increases from putting up a very, very bright structure in hyperspace.
+	8.  Mechanism proposal:  If I stretch for a metaphor instead, this could also represent long-distance, ambitious trade linkages that are only profitable between the most impressive centers of development, such as transcontinental railroads and cargo ports capable of handling supertanker/container ships.  These societies likely do increase the ambition of their trade investments - all three Imperial trade increasers probably result in that!
+	9.  Downside analysis:  The less-than-literal transportation projects are also likely to be polluting and (especially in unregulated economies) dangerous to their workers.  This could also contribute to wastage, however note that this isn't totally clear as a downside.  Centralization of transport can stop pollution.  Trains, for instance, are relatively clean IRL despite being technically a polluting technology.
+	10.  Apologia:  Transportation technology is liberating.  Advanced transit technologies encourage people to move freely across long distances, alleviating social stresses and bringing in wealth from everywhere.
+	11.  Downside analysis:  Massive transportation budgets are tempting targets for corruption, even petty forms of it such as politicians trying to boast about securing 'a piece of the pie' for their own constituency.  This may also happen with military budgets in the hyperspace interpretation (America's military is not incorruptible AFAIK).
+	12.  Progression analysis:  Fitting my interpretation of Beyonders as manipulative smart people who take on Imperial identification to take advantage of the trusting Imperial populations, these massive prestige projects in transportation draw in people who want to be prestigious leaders.  This is why I think this leads into the Beyonder Retreats: building miniaturized gates attracts leadership potential, but doesn't give society the tools to utilize it.  If this technology is being held, the Beyonder Retreats do also make sense to me as something that could be built without the gates.
+	13.  Progression analysis:  Conversely, these projects also draw in modest people who want to be free to move about, leading to the Jaunting Grids.  I see the Jaunting Grids as protecting the more 'trainspotter' types who love transportation technology so much they'd live for it.  The Old Empire is potentially autistic.
+	14.  Categorization:  It's hard to apply any of the categories in particular to this technology.  I'd been thinking of it as a Failsafe technology, but I don't think it quite is.  The literal interpretation doesn't include Failsafe potential at all.  The metaphorical interpretation involves bad corruption.  I think this is a Galactic Politics technology instead, because it broadens the interests of the territory and attracts questionable people from the broader galaxy.  I may end up blatting that out later as well.
+	15.  Bureaucratic waste analysis:  Mostly literal.  By all my analysis, these are transit expenses.  Non-literal wastage only particularly applies if the appropriations get corrupted.  It's not that nobody ever dies as a side effect of implementing transit infrastructure, but the people who die working in massive transportation projects were almost never going to be bureaucrats anyways.  Beyond that, I don't think it'd make anything worse or particularly invite awful people.  If the Old Empire is evil (certainly possible), this isn't the technology that proves it.  *This* is merely an expense likely to exceed its profitability.
+	16.  Liberation rating:  5/5
+	17.  Protection rating:  3/5, -1 in Feudal economies, +1 in Regulated or Planned economies, +1 with Distributed Desalination (advanced environmentalism)
+	18.  Technological smoothness:  4/5
+	19.  Technological extremophilia:  3/5
+	20.  Stress/Boredom rating:  2/5 (Calm)
+	21.  Me-points:  0/3
+	22.  Special categories:  Galactic Politics
+	23.  Conversion potential:  Unknown
 58.  Penal Retreats
 	1.  Challenge cured:  Brutal justice
 	2.  Challenge cure interpretation:  This investment in rehabilitation replaces lethal or debilitation-based criminal justice with 'merely' sticking criminals in a paternalistic hole where everything they say or do will be analyzed by "virtuous" people trying to control them.
@@ -1383,7 +1386,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  1/5 (Dull)
 	11.   Me-points:  2/3
 	12.   Special categories:  Failsafe, Empathy Maximizer, Detached
-
+61.   Beyonder Retreats
+	1.   Authorial protest:  I have been suffering PSYCHOSIS, and my psychotic presences are even more obsessed with this game than I am.  The most persistent of the presences identifies as the foremost Beyonder for the Commonwealth Unifiers.  The most beautiful of the presences identifies as the foremost Beyonder for the Panarchic Ritualists.  The "Beyonder" presences, and a few of the others as well, are *delusional would-be gods*!  Yet I interpret Beyonders in a waaaay more basic fashion, and I will be talking about MY interpretation, not the psychotic one.
+	2.   Mechanism proposal:  Beyonder Retreats try to recruit advanced talent from the galaxy.  They're investments in how to try to appeal to 'timeless' minds, which is a category that the Old Empire believes in very strongly.  They want mathematicians and extremely abstract thinkers.  These people want recreation just like other people do, but the Old Empire is pursuing a kind of edge-case elitism that targets academic social status rather than conventional social status.  They want what the game calls 'eternal philosophers'.
+	3.   Mechanism proposal:  This exists strongly on the axis of trust.  The Old Empire is inclusive and they believe that they can form bonds with people who are more capable than they are.  They believe that loyalty will find a way to bind people together into beautiful and productive social systems.
+	4.   Downside analysis:  The Old Empire is trying to recruit people *smarter than they are*.  They are sometimes recruiting deeply manipulative people who will abuse the trust that they extend.
+	5.   Progression analysis:  The lead-off from this into financial technologies is almost a downside.  It's difficult stuff that is hard to really check over.  Some of the financiers attracted by Beyonder Retreats are just con men making false promises of stability while setting up schemes.
+	6.   Progression analysis:  The lead-off from this into bureaucratic technologies is purer.  Attracting "beyonders" to live in the territory opens up the borders (somewhat) and establishes a growing talent base for keeping up with bureaucratic burdens.
+	7.   Categorization:  As this is an attempt to improve society through recreation, this is a Hedonological structure.  As it integrates local politics and galactic politics, it's a Galactic Politics structure.  Despite being a recreational facility, it is also a Detached structure, because the people running these are focused on appealing to people with Detached values and personalities.
+	8.   Mechanism proposal:  I see the Influence structures as highly protective.  They help talented people remain safe and well-informed when these territories develop poorly.
+	9.   Bureaucratic waste analysis:  This is strongly literal.  Insofar as it is metaphorical at all, it has the problem that hedonology has: if the research misfires, it may distract people badly.
+	10.   Liberation rating:  4/5
+	11.   Protection rating:  5/5
+	12.   Technological smoothness:  4/5
+	13.   Technological extremophilia:  5/5
+	14.   Stress/boredom rating:  2/5 (Calm)
+	15.   Me-points:  1/3
+	16.   Special categories:  Hedonological, Galactic Politics, Detached
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.

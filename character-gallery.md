@@ -61,6 +61,8 @@ _Private Writing Character Gallery_
 	  * A dangerously self-absorbed wyvern who uses the most dangerous magic on his homeworld as though it were safe.
 	  * Powerful in his element, he rules over a land ruined by magic similar to his own.  He believes that ruin would never have happened if he'd been in charge, but his lands remain polluted with the dangerous magic he loves too much.  He wants to raise a family who will be as powerful in magic as he is, but that will only hurt the land more if he succeeds.
 	  * A would-be rescuer, a hero in his heart... So he thinks.  He does good deeds selfishly.
+	  * Probably a villain, but still as yet unfallen.
+
 
 ---
 Kienth is a setting that may eventually get its own page.  I'm starting to put it together for fantasy writing a little more conventional than Theoma... which may also eventually get its own page in my notes archive.  Nyralenth is from Kienth, and I think 'Warlock' is as well, which would means that the crust of the planet is riddled with secretive underground cities.  It's also another dragon-citizen setting, because I think dragons and gryphons are just people who need safe cities, too.

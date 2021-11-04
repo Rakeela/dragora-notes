@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 62.83018867924528,
+            "dimension": 76.88679245283019,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-3-One-Hundred-and-Ninety-Second.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 37.16981132075471,
+            "dimension": 23.11320754716981,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Southern-Wind-Nations.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151
+    "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
-    "Southern-Wind-Nations.md",
-    "2021-11-3-One-Hundred-and-Ninety-Second.md",
-    "2021-11-2-One-Hundred-and-Ninety-First.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "2021-11-3-One-Hundred-and-Ninety-Second.md",
+    "character-gallery.md",
+    "Southern-Wind-Nations.md",
+    "2021-11-2-One-Hundred-and-Ninety-First.md",
     "Northern-Creche-Confederation.md",
     "otherkin.md",
     "The-Personality-Scavenge-Service.md",
     "2021-11-1-One-Hundred-and-Ninetieth.md",
-    "2021-10-28-One-Hundred-and-Eighty-Ninth.md",
-    "2021-10-27-One-Hundred-and-Eighty-Eighth.md"
+    "2021-10-28-One-Hundred-and-Eighty-Ninth.md"
   ]
 }
