@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 76.88679245283019,
+            "dimension": 27.807971014492754,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 23.11320754716981,
+            "dimension": 72.19202898550725,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "character-gallery.md",
+                    "file": "2021-11-4-One-Hundred-and-Ninety-Third.md",
                     "mode": "source"
                   }
                 }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-11-4-One-Hundred-and-Ninety-Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +154,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "e5f17a424dadb013",
+  "active": "7a3178b850a00218",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-11-3-One-Hundred-and-Ninety-Second.md",
-    "character-gallery.md",
-    "Southern-Wind-Nations.md",
+    "2021-11-4-One-Hundred-and-Ninety-Third.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
+    "2021-11-3-One-Hundred-and-Ninety-Second.md",
+    "ideological-interpretations-of-The-Viceroy.md",
+    "character-gallery.md",
     "Northern-Creche-Confederation.md",
+    "Southern-Wind-Nations.md",
     "otherkin.md",
     "The-Personality-Scavenge-Service.md",
-    "2021-11-1-One-Hundred-and-Ninetieth.md",
-    "2021-10-28-One-Hundred-and-Eighty-Ninth.md"
+    "2021-11-1-One-Hundred-and-Ninetieth.md"
   ]
 }
