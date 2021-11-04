@@ -15,4 +15,7 @@ I'm considering creating a public food log.  I can probably eat myself thin by u
 Whoa.  Sudden deep sleepiness.  Feels pretty good though, so I think I'll lay down.
 
 ---
+That felt like good sleep.  Wrong hours, but still comfortable.  I woke up thinking something shiny about how societies are filtered towards... something I forgot about as soon as I stood up.  I'm grateful for the comfortable sleep despite that disappointment, as I've been having trouble sleeping lately.
+
+---
 Back to [[day-post-archive]]
