@@ -18,4 +18,9 @@ Whoa.  Sudden deep sleepiness.  Feels pretty good though, so I think I'll lay do
 That felt like good sleep.  Wrong hours, but still comfortable.  I woke up thinking something shiny about how societies are filtered towards... something I forgot about as soon as I stood up.  I'm grateful for the comfortable sleep despite that disappointment, as I've been having trouble sleeping lately.
 
 ---
+Someone reorganized the icons on my Mac to put The Shrouded Isle Soundtrack onto the second page of the icons... alone.  It was the only icon on that page.  I've never done that.  It would take minutes of messing around to get all the other icons off a page.
+
+I want my civil liberties back.  People who've had crimes committed against them are people who have not had their civil liberties respected.
+
+---
 Back to [[day-post-archive]]
