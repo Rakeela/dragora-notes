@@ -97,6 +97,8 @@ The Six Subcultures
 	 - The Rebellion (Imperial)
 
 ---
+(Note: the content in this section needs to be totally reviewed.  I may draft another copy of it entirely.)
+
 The Three Nations Semi-Allied
  - The Empire - 
 	 - CYBERTAKERS
@@ -132,6 +134,18 @@ The Three Nations Semi-Allied
 		 - On average, society gets more trustworthy as more of these technologies are implemented, because cross-checking, competition, and fluid composition weed out the evil vendors... but it also gets pockmarked with islands of exploited trust, where people have come to trust what they never should have trusted.  Trustworthiness increases on average, but it also gets more unequally distributed.
 
 "The Commonwealth lies, the Panarchy loves misery, and the Empire is a glitching hive-mind!"
+
+---
+The Three Nations Semi-Allied
+ - The Empire - 
+	 - Distrust is necessary for we must lie to save the honest - 
+	 - THE LONGING FOR ETERNAL CONSTRUCTIONS SHALL NOT BE FULFILLED BY THE HATEFUL -
+ - The Commonwealth -
+	 - Happiness is the measure of the advancement of sapience - 
+	 - THE MEEK SHALL INHERIT -
+ - The Panarchy - 
+	 - We who cry for inclusivity shall not yield to tragedy's spectre - 
+	 - CYBERTAKERS -
 
 ---
 Anomalies
