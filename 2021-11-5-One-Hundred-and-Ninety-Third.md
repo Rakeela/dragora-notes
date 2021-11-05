@@ -10,4 +10,9 @@ Lunch is likely to be pizza, and I'll skip dinner.  That should make the tally w
 I was distractingly hungry, so I've just added a "chewy Halloween mini" to the tally.  That's ~60 calories, for a cumulative ~401 calories.
 
 ---
+Lunch: Half a pesto pizza from the grocery store: ~690 calories.  Running tally:  ~1091 calories.
+
+I plan to skip dinner, but I may finish the ~1200 target by eating a sweet around 4 PM.
+
+---
 Back to [[day-post-archive]]
