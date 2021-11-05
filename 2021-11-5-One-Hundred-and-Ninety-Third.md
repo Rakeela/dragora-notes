@@ -15,4 +15,14 @@ Lunch: Half a pesto pizza from the grocery store: ~690 calories.  Running tally:
 I plan to skip dinner, but I may finish the ~1200 target by eating a sweet around 4 PM.
 
 ---
+Correction, I ate only three pieces of that pizza.  The fourth is in the fridge and will make a nice snack tomorrow or the day after.  So that was ~518 calories, with running tally: ~919 calories.
+
+It would go a little over-budget, but I think my mental health would be well-served by biking across town to buy a peanut butter snack bar.
+
+I'm considering going to a pattern where I "score" ~1000 calories per day, but let myself eat unmetered veggies, plus brazil nuts, excluding corn.
+
+---
+I don't dislike corn at all.  I quite like it!  The problem is that corn is the candy vegetable.  I do like it, but it's not healthy.
+
+---
 Back to [[day-post-archive]]
