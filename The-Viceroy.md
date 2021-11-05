@@ -12,6 +12,7 @@ Subpages:
 [[Qualms-per-Challenge]]
 [[Viceroy-Utopia-to-Dystopia-Technologies]]
 [[Viceroy-Cultural-Progression-Analysis]]
+[[Viceroy-Scorecards]]
 
 ---
 I'm considering making a gallery of Viceregal characters akin to the [[aowcommander-profiles]] I made for Age of Wonders: Planetfall.  Some of what I've written about The Viceroy has been ambiguously in-character, and I'd be more satisfied with the creative quality of those thoughts had I specific characters to attribute them to.  It helps that, inspired by the game's Beyonder lore about the optimality of taking all paths simultaneously, I have opened four save game files in all at this point for contemplating the in-game ideologies of the separate cultures of which the Commonwealth is constructed.

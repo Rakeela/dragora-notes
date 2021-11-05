@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 27.807971014492754,
+            "dimension": 26.902173913043477,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "39274a998c0e6ae8",
             "type": "split",
-            "dimension": 72.19202898550725,
+            "dimension": 73.09782608695652,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -61,7 +61,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-5-One-Hundred-and-Ninety-Third.md",
+                    "file": "Viceroy-Scorecards.md",
                     "mode": "source"
                   }
                 }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-5-One-Hundred-and-Ninety-Third.md",
+                "file": "Viceroy-Scorecards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,15 @@
   },
   "active": "7a3178b850a00218",
   "lastOpenFiles": [
+    "Viceroy-Scorecards.md",
+    "The-Viceroy.md",
     "2021-11-5-One-Hundred-and-Ninety-Third.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-4-One-Hundred-and-Ninety-Third.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
     "2021-11-3-One-Hundred-and-Ninety-Second.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "character-gallery.md",
     "Northern-Creche-Confederation.md",
-    "Southern-Wind-Nations.md",
-    "otherkin.md",
-    "The-Personality-Scavenge-Service.md"
+    "Southern-Wind-Nations.md"
   ]
 }

@@ -25,4 +25,7 @@ I'm considering going to a pattern where I "score" ~1000 calories per day, but l
 I don't dislike corn at all.  I quite like it!  The problem is that corn is the candy vegetable.  I do like it, but it's not healthy.
 
 ---
+I ate an Outright peanut butter mint bar (~290 calories), bringing the running total to ~1,209 calories.  That's not 'over-budget'!  That's the target level right there.
+
+---
 Back to [[day-post-archive]]
