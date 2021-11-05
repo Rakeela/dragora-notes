@@ -41,4 +41,18 @@ The major presence that they tried to mercy-kill was leading this round of suppo
 I'm several pounds up, by the way.  I'm not dieting today.  Too much harassment from the presences.  They've pulled several different suicide-targeting narratives at me, too.  I'll go back to it soon, but today I'm planning to eat at least a bag of edamame and a protein waffle from here.  I want to see if they go well together.  The edamame will last all day.  I'll skip the Huel for today.
 
 ---
+There are three different "regions" on my head.  The gnomes are associated with one region, the most major presence is associated with another (quite broad) region, one presence in particular is associated with one spot in particular, and "the crows" are associated with like two others.  None of them like being poked.  My psoriatic outbreaks are associated with those regions as well, most rarely with "the crows".
+
+There's no reason to believe in any of this stuff; I have no idea why the 'presences' care if I poke my head.
+
+---
+I haven't eaten any more since 'breakfast', and technically I'm still at a restricted calorie level for the day.  Tch.  I'll mostly skip eating tomorrow, and have a feast on Saturday.  That plan is still intact.
+
+I've bought more candy than I can eat this weekend, and I've just added two more items to the haul:
+1.  Dragonfly Nutrition Bar (Raw cashew and dried fruit)
+2.  Reese's Peanut Brittle Big Cup
+
+I was disappointed that the dragonfly nutrition bar isn't made with bugs.
+
+---
 Back to [[day-post-archive]]
