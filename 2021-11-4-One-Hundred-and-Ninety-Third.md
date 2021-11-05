@@ -55,4 +55,7 @@ I've bought more candy than I can eat this weekend, and I've just added two more
 I was disappointed that the dragonfly nutrition bar isn't made with bugs.
 
 ---
+My current weight as of 8:39 PM is 217.9 pounds.  Not too bad.  I'll keep going.  Hopefully, food-logging will minimize the severity of my feasting on Saturday, something I still fully intend to do.
+
+---
 Back to [[day-post-archive]]
