@@ -7,4 +7,7 @@ So I'm not going to keep doing it.  I'll keep food logging while raising my diet
 Lunch is likely to be pizza, and I'll skip dinner.  That should make the tally work.  Tomorrow I'll still have a feast day, but I think next week I may eat like this all week.
 
 ---
+I was distractingly hungry, so I've just added a "chewy Halloween mini" to the tally.  That's ~60 calories, for a cumulative ~401 calories.
+
+---
 Back to [[day-post-archive]]
