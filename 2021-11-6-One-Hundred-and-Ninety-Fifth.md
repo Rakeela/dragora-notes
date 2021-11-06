@@ -21,4 +21,13 @@ This game is emotionally uncomfortable to me, and I wonder what it's doing with 
 Today, at least, I can eat my frustrations away.  ~170 calorie per 2 Reese's "pumpkins", and I'm eating three of them.  That's ~262 calories.  Running total:  ~962 calories.
 
 ---
+That running tally was good for a while, but I just ate a pumpkin spice caramel apple from the store.  I'm not sure how to score that.
+
+I wonder if I'll get sick from it.  I discovered that it was moldy after I'd stripped a third of the caramel off of it... and since all the mold was in one spot on the apple, I decided to just eat around it.  It wasn't a very good apple, nonetheless; I didn't eat it to the core, because the inner flesh was pink.  Yick.
+
+I also ate four pieces of caramel corn.  How do I score *those*?  I haven't figured out how to food-log yet.
+
+Well, I'll eat the Peeps from my stash.  This is what today is for!  ~140 calories, running total:  Not sure.
+
+---
 Back to [[day-post-archive]]
