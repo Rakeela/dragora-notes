@@ -28,4 +28,7 @@ I don't dislike corn at all.  I quite like it!  The problem is that corn is the 
 I ate an Outright peanut butter mint bar (~290 calories), bringing the running total to ~1,209 calories.  That's not 'over-budget'!  That's the target level right there.
 
 ---
+I want a hyperbaric chamber!  I *have* been concussed in the past.  As stupified as I feel lately, I believe I would be more productive creatively if I had the chance to heal that away.  I want to know who I would be if I'd never had a concussion.  That is *not possible*, but  I can find out who I'd be if I'd healed from concussions *very well*.
+
+---
 Back to [[day-post-archive]]
