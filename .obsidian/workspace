@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 31.793478260869566,
+            "dimension": 47.46376811594203,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-5-One-Hundred-and-Ninety-Third.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -40,7 +40,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 68.20652173913044,
+            "dimension": 52.53623188405797,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -59,7 +59,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-5-One-Hundred-and-Ninety-Third.md",
+                    "file": "2021-11-6-One-Hundred-and-Ninety-Fifth.md",
                     "mode": "source"
                   }
                 }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-5-One-Hundred-and-Ninety-Third.md",
+                "file": "2021-11-6-One-Hundred-and-Ninety-Fifth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
-    "2021-11-5-One-Hundred-and-Ninety-Third.md",
-    "Southern-Wind-Nations.md",
-    "ideological-interpretations-of-The-Viceroy.md",
-    "2021-11-.md",
-    "Viceroy-Scorecards.md",
-    "The-Viceroy.md",
+    "2021-11-6-One-Hundred-and-Ninety-Fifth.md",
     "2021-11-4-One-Hundred-and-Ninety-Third.md",
-    "2021-11-2-One-Hundred-and-Ninety-First.md",
     "2021-11-3-One-Hundred-and-Ninety-Second.md",
-    "character-gallery.md"
+    "2021-11-1-One-Hundred-and-Ninetieth.md",
+    "2021-11-5-One-Hundred-and-Ninety-Fourth.md",
+    "2021-11-2-One-Hundred-and-Ninety-First.md",
+    "ideological-interpretations-of-The-Viceroy.md",
+    "Southern-Wind-Nations.md",
+    "2021-11-.md",
+    "Viceroy-Scorecards.md"
   ]
 }

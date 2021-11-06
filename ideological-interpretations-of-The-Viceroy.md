@@ -1541,6 +1541,9 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  5/5 (screaming) (worst two interpretations), 3/5 (eustress)
 	15.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
 	16.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
+68.   Passive Farming
+	1.   Challenge cure:  Sterilized Fields
+		1.   
 
 
 ---
