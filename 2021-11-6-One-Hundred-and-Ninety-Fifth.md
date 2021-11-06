@@ -7,5 +7,9 @@ One last naked weight:  215.3 pounds.  That won't last, as today I'll be eating 
 
 I also ate a Sun-Maid PB&J Bite, ~30 calories.  Running total: ~410 calories.
 
+Now I'm digging into a "Dragonfly Nutrition Bar", ~180 calories.  These are going to stack up quite a lot today.  I'm not really shame-driven, and I've quite a stash at this point.  Running total:  ~590 calories.
+
+That said, I think I'm going to throw out some of the "Kooky" pop-tart bites before the day is done.  They're not very good, and they're not healthy at all.  None of this is, but most of it is delicious.  Why should I keep the one that isn't?  It's just a disappointment.  I'll eat another packet around lunchtime, but I plan to shave them apart and dissect them to find out which bits taste good and bad.
+
 ---
 Back to [[day-post-archive]]
