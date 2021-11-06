@@ -1524,6 +1524,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  0/3
 	16.   Special category:  Empathy Maximizer, Detached, Homogenizing
 	17.   Conversion potential:  Empire<->Commonwealth
+67.   Panarch's Children
+	1.   Authorial protest:  As written, this is tyrannically authoritarian.  As I first interpreted it, it is rape culture.  Either way, I dislike it.  My bright interpretation stems from an effort to fix both faults, but I will expose both of them.
+	2.   Mechanism proposal:  The rape interpretation gets exposed first.  If this is hardcore antifeminine, a "ubiquitous lottery" could refer to women not having much in the way of sexual rights, especially if society is also anti-contraceptive with little adherence to safe sex.  This is maximally worsened by combining these traits with anti-monogamy, as though it were in all a bright lie on a disastrous parody of liberalism.  This stuff would increase population, but it would be torturously bad policy that would lead to a lot of deeply resented children with highly questionable genetics, like a twisted version of natalism.
+	3.   Mechanism proposal:  The authoritarian interpretation gets exposed second.  The *as written* policy exposes everyone in the system to sortition parenting, making it basically inevitable that people who don't want kids at all will have them.  As someone who supports abortion rights to minimize the chances that any children will ever be unwanted by their parents, *this should never be implemented as written*.
+	4.   Mechanism proposal:  My interpretation, which tries to make a bright lie of it, is to invoke Panarchic multigovernance to create competing systems that try to recruit people to these lotteries.  This turns the technology into system-wide cloning en masse made available to the public by many organizations with different focuses.  They'd advertise this service!
+	5.   Mechanism proposal:  In the second and third interpretations, these people would be able to make genetic mixtures from homosexuals, and in the third interpretation especially it would result in the recruitment of homosexual parents who would truly be raising genetic descendants.
+	6.   Categorization:  This is an asexual technology in the second and third interpretations.  It applies a generational selective pressure towards asexuality.  In the third interpretation, the organizations implementing it may be able to actively recruit for asexual parents and asexual lineages, should that become common enough and accepted enough in society.
+	7.   Categorization:  The asexualization of society that the best interpretation of this technology supports also supports the development of detached attitudes.  The multigovernment structure advertising competing geneticist lotteries would encourage people with no libido whatsoever to persist and proliferate in society with functioning reproduction.
+	8.   Categorization:  Although not itself one of the animal uplift technologies, this would also support the reproduction of furries in society.  The really challenging genetics work would attract the lottery geneticists to form specialized lotteries.  They would take it on for the interesting effort!  The Panarchy's individualism is maximized under consistent multigovernance focus, and that also would encourage them to want furries to be genetically healthy.
+	9.   Bureaucratic waste analysis:  In the rape interpretation, it burns talent badly, inflicting psychological scars on women and children that prevents society from developing well thereafter.  In the forced lottery interpretation, it builds a bureaucratic cloning infrastructure, and then burns talent moderately, inflicting psychological scars on unwilling parents and the kids they resent.  In the multigovernance interpretation, it builds *several* bureaucratic cloning infrastructures, and then has them compete against each other as well as against public intransigence.  That was in ascending order of literalism.
+	10.   Liberation rating:  1/5, 3/5, 5/5
+	11.   Protection rating:  1/5, 3/5, 5/5
+	12.   Technological smoothness:  5/5 (rape interpretation), 2/5 (other interpretations)
+	13.   Technological extremophilia:  1/5 (rape interpretation), 3/5 (other interpretations)
+	14.   Stress/boredom rating:  5/5 (screaming) (worst two interpretations), 3/5 (eustress)
+	15.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
+	16.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
+
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
