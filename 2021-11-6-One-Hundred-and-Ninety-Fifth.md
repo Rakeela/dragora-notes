@@ -14,4 +14,11 @@ That said, I think I'm going to throw out some of the "Kooky" pop-tart bites bef
 ~210 calories, "Big Cup Peanut Brittle" Reese's.  I've been wanting this ever since I got it, even though it's technically Christmas candy that I picked up after the initial spree(s).  Running total:  ~700 calories.  Current time:  9:25 AM.    Maybe I should keep the "Kooky" pop-tart bites.  Seeing them every time I open my candy hoard up is discouraging.
 
 ---
+The voices in my head encouraged me to play the game Winds of Change today, as a deeply furry visual novel.
+
+This game is emotionally uncomfortable to me, and I wonder what it's doing with its Purity vs Corruption meters.  It pretends to be not tracking the player's decision, but as soon as I picked Fortaime in one of those Purity vs Corruption choices, I got a Fortaime trading card from Steam.  Not cool.
+
+Today, at least, I can eat my frustrations away.  ~170 calorie per 2 Reese's "pumpkins", and I'm eating three of them.  That's ~262 calories.  Running total:  ~962 calories.
+
+---
 Back to [[day-post-archive]]
