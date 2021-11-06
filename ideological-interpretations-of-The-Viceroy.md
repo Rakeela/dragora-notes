@@ -66,12 +66,13 @@ The Six Subcultures
  - The Panarchic Purist-Preservationists - 
 	 - The Rundown
 		 - They're boring.  They invent procedures and try to use them the same way every time.  They're also chaotic.  They catalogue procedures from across the galaxy and switch between them unpredictably.  They do this to study bureaucracy itself.  Forever.
-		 - The Panarchic Purist-Preservationists believe that every government which ever existed had at least one good idea and - officially - at least ten virtuous people working for it.  They're trying to find and update those ideas in both past and present governing structures.
-		 - They lean towards serenity, but are somewhat averse to unity.  This leads to a society of many societies, constantly splintering and reforming as it invents new titles and new excuses for ceremony.  Panarchic ritualists have a sometimes-criticized tendency to join multiple organizations and then do just enough for each of them to let them curate collections of titles and sinecures.
+		 - The Panarchic Purist-Preservationists, aka the Ritualists, believe that every government which ever existed had at least one good idea.  They're trying to find and update those ideas in both past and present governing structures.
+		 - They lean towards serenity, but are somewhat averse to unity.  This leads to a society of many societies, constantly splintering and reforming as it invents new titles and new excuses for ceremony.  This is Panarchic multi-governance as administrated by the Ritualists, who do it most purely of Panarchists.
 		 - They enjoy recreational simulations, and not in the video gaming sense.  Whole societies of Panarchic Purist-Preservationists sometimes get involved in recreational simulations.  They recreate dead systems of government and ancient cultures just because they want to.  Many of the practical governing structures of the Panarchy were originally created for recreational reasons with real world productivity ocurring only as an incidental side effect, much to the frustration of non-Panarchists who find themselves referring to the authority of people who were just setting something up on a whim a few centuries ago.
 		 - One of the things that drives them towards automation research is that it lets them automate away labor tasks so that they can spend more time doing what they find fun.  Which just happens to be stuff that other people find BORING.
 		 - Since they only get hung up on status issues *for fun*, they're actually really respectful to the staff.  That makes them both popular among service workers and a population happy to *be* respectful service workers themselves.  The waiter serving hors d'oeuvres today might be a famous Panarch somewhere else in a different organization.  When everything is going ideally, the waiters and the maidstaff are *also* a part of the majestic ritual.
 		 - Military simulations are typically also included under the ritualist historic recreations, as are nastier things still.  An amazing number of people will consent to being whipped in a slave roleplay if it happens only in a negotiated manner, and it's no secret that the best warriors tend to keep a cool head.
+		 - Some of these people cry for compassion and believe that the Commonwealth is too insistent on driving misery out of society.  Others deeply value happiness as a means of improving influence, which is to say the love of immortality itself.  Defining influence as the love of immortality reveals what the Panarchy Ritualists value most.
 	 - The Value of Immortality
 		 - The Panarchy thinks that everyone should be immortal.  Everyone's eternal paradise exists somewhere in their galactic simulations.  Needless to say, immortality does them a great service.
 		 - These guys are amazing for the value of immortality!  Influence structures argue constantly for making more people immortal.  They reach through every level of every society trying to make more people immortal.  They are downright chaotic in their defenses of immortalizing people, and when they fail at doing it medically, they grieve through all the cultural power they can bring to bear.
@@ -79,15 +80,18 @@ The Six Subcultures
 		 - Everyone makes mistakes.  What's important is filing good post mortems, documenting your errors exhaustively, and making *different* mistakes next time.  Madness is doing the same thing twice and expecting different results, but the Panarchy doesn't do that.
 		 - Panarchialization Policies, especially when implemented by the Ritualists themselves, exemplify the Ritualists' dedication to policy diversification.  What exactly do Panarchialization Policies mean?  That is different literally everywhere that implements them.  They are a sincere attempt to try bright, wonderful, and *different* things in policy... in every district of every system of every territory.  They're highly questionable investments that conflict with each other *inevitably*, but they're not militant.  They're diverse, accepting, and inclusive.  They also accelerate the rate at which things fall apart and/or territories become ungovernable seekers of independence.  The Panarchy documents these things exhaustively and works to be less wrong with every iteration.
 	 - The Stereotype
-		 - "Certified only by recreational societies and holding aristocratic rank in three different countries that have absolutely no territorial holdings between them, we are to believe this person is a credible sociological force with vast insight into society."
+		 - "Certified only by recreational governance societies and holding aristocratic ranks in three different countries possessing no territorial holdings between them, we are to believe this person is a credible sociological force with vast insight into society."
+		 - "Three thousand years of filing paperwork for fun has made this person a lynchpin in five different local governments, three of which she's never set foot in, and one of which she only visited when they set up expensive recreational facilities."
+		 - "Why are we supposed to believe that they've found five thousand people who want to be checkout clerks FOREVER in this district?!  That doesn't happen!"
 	 - The Rebellion (Commonwealth)
 		 - Misfiled paperwork gets people *killed* in the societies that the Panarchic Ritualists govern.  Not executed, but given bad orders and improper provisioning.  Metaphorical deaths from this exceed literal deaths from this, but literal deaths have been documented to occur.
 		 - People who believe in Panarchic simulated governments when they're not real embarrass themselves or worse.  People who fail to believe in Panarchic omni-governments when they ARE real embarrass themselves or worse!  People who fail to believe in Panarchic simulated governments that *weren't* real until they decided to do something VERY real... are normal!  That's normal!  Not expecting the fake government to do a real thing is normal.  Why do the Ritualists ENJOY when that happens?  Why aren't they embarrassed when people wearing plastic crowns start taking positions of actual authority?
 		 - They're boring AND chaotic!  That's awful!  At least OUR chaos is FUN chaos!
 		 - They're crazy gambling leaders.  They do stupid things with the government just because they can think of some excuse for why their latest stupid idea *might* have a good effect.  They then proceed to exhaustively record their own stupidity, typically revealing things we already knew.  They expect us to believe that this practice results in long-term gains in governance quality.
 		 - They join our organizations and *break* them, either by leaking secrets that we needed kept, or else by being too busy somewhere else right when we need them most.  Then when we try to stop them from ruining other organizations, they start filing lawsuits against us!  They're infiltrators!  Why do the courts protect them when they blow the whistle on us!?
-		 - The Panarchic Ritualists are egalitarian when everything goes well, but their societies occasionally rot into classic status hierarchies.  People who aren't capable of a great calm charisma sometimes find nowhere to go in the society of the Ritualists.  Stuck serving whoever will merely *tolerate* them, this can result in the unwanted recreation of ancient social structures that are not very recreationally appealing at all.
+		 - Panarchic ritualists join multiple organizations and then do just enough for each of them to let them curate collections of titles and sinecures.  That's corrupt, but they don't agree!  They think we're less competent for objecting to that practice, and they point to the Seats of Policy as proof of hypocrisy in our objections, claiming that the Seats of Policy likewise encourage galactic talent cycling.
 		 - These people are trying to act out the ritualized destruction of the Commonwealth as a fun way to spend eternity!  Why do we have to be on the wrong end of them FOREVER?
+		 - They say they love us, but they only really want the most asexual of us!  Why do we have to be pod people for them?  Why do they make pod people diverse?  Why can't they just be comprehensible homogenizing clone societies like our fictions present cloners as?
 
  - The Panarchic AI Collective -
 	 - The Rundown
@@ -210,24 +214,25 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 3.  Panarchialization Policy
 	1.  Challenge cured:  Anti-Panarchism
 	2.  Challenge cure interpretation:  Panarchists are... VERY diverse.  Anti-Panarchism doesn't make sense if you meet enough of them.  Panarchialization policies involve bringing in ideas, people, and random-ass technologies from all over the galaxy to see how the whole galaxy might be able to solve local problems.
-	3.  Authorial protest:  Panarchializing a star system while there are still anti-panarchists in it strikes me as VERY RUDE.  This technology in general seems like it carries a risk of making local politics more hostile...  As powerful as it is, it's also inefficient.  Moreover, it promotes bureaucratic conflict in government!
-	4.  Mechanism proposal:  Presenting panarchism as being up-front about the search for MEANING IN CONTRADICTION sounds kind of mean at first, but it also sounds better than the stuffy search for unity around some set of ideals that will only be defined by specialists in ivory towers.  Panarchialization supports the prosperity of society very broadly by acknowledging great sweeps of government projects that are all worth prosperity to *someone*.
-	5.  Progression analysis:  The experimental factor in panarchialization should not be missed.  Panarchic social experimentation is about trying to aggregate and implement data about effective governing practices from across the galaxy.  That's why this technology leads into 'Panarchic Data Posts'.  Governments that are panarchializing are pulling on this data well and trying to add new experiments of their own to it.
-	6.  Mechanism synthesis:  I think this tech is actually really banal and it almost amounts to saying, "We're trying a lot of stuff, okay?  We're NOT sure how to rule."  There's some virtue in that!
-	7.  Progression analysis:  Base culture development tries to resolve frictions in society by making people more harmonious and impressive to each other.  It counters (or is countered by) blandness and civil unrest.  Panarchists want to be cool, and they want the government to be cool.  That's why this tech leads into panarchic retreats.  When the government is trying to do cool stuff, that draws in tourists.
-	8.  Downside analysis:  Although its base claim is that it increases cultural productivity, I've observed that this technology mysteriously lowers incomes when implemented.  However, it still increases Wealth, thus increasing population and science.  I interpret this as meaning that panarchialization increases frictional losses and inefficiencies in government due to an increase in wasted/duplicated/contradictory efforts, but it also accelerates the rate at which the government incorporates diverse individuals and trials new methods of organization.
-	9.  Progression analysis:  This would be 5/5 smooth as it suggests nothing about the initial technology base at which society starts implementing it (no need for disruptive imports of alien technology), but it loses two points by suggesting that the society is trying a bunch of contradictory experiments.  That is intrinsically rough.  This change to society can *start* at any tech level, but it can*not* be hypersmooth.
-	10.  Mechanism proposal:  Like with Absolute Freedom, this society must attain a minimum standard of policing to prevent people from retaliating against those who have different beliefs from their own.  It's necessary for Panarchialization that disagreements be kept peaceful... despite the stress of disagreements.
-	11.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
-	12.   Liberation rating:  4/5, +1 with Seat of Justice
-	13.  Protection rating:  4/5
-	14.  Technological smoothness:  3/5
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  4/5 (Stressful)
-	17.  Me-points: 0/3
-	18.  Kind of person most protected:  Sociologists
-	19.  Special categories:  Diversifying, Detached, Hedonological, Furry
-	20.  Conversion potential:  Unknown
+	3.  Alternate challenge cure:  Within my reformed structure of the Panarchy, panarchialization policies survive as (questionable) social science investments, and the promotion of hedonology and voluntary order may be a key part of reducing anti-panarchic sentiment.  By creating a society that operates without authoritarianism, they show that panarchism is a way forward to a more advanced society.
+	4.  Authorial protest:  Panarchializing a star system while there are still anti-panarchists in it strikes me as VERY RUDE.  This technology in general seems like it carries a risk of making local politics more hostile...  As powerful as it is, it's also inefficient.  Moreover, it promotes bureaucratic conflict in government!
+	5.  Mechanism proposal:  Presenting panarchism as being up-front about the search for MEANING IN CONTRADICTION sounds kind of mean at first, but it also sounds better than the stuffy search for unity around some set of ideals that will only be defined by specialists in ivory towers.  Panarchialization supports the prosperity of society very broadly by acknowledging great sweeps of government projects that are all worth prosperity to *someone*.
+	6.  Progression analysis:  The experimental factor in panarchialization should not be missed.  Panarchic social experimentation is about trying to aggregate and implement data about effective governing practices from across the galaxy.  That's why this technology leads into 'Panarchic Data Posts'.  Governments that are panarchializing are pulling on this data well and trying to add new experiments of their own to it.
+	7.  Mechanism synthesis:  I think this tech is actually really banal and it almost amounts to saying, "We're trying a lot of stuff, okay?  We're NOT sure how to rule."  There's some virtue in that!
+	8.  Progression analysis:  Base culture development tries to resolve frictions in society by making people more harmonious and impressive to each other.  It counters (or is countered by) blandness and civil unrest.  Panarchists want to be cool, and they want the government to be cool.  That's why this tech leads into panarchic retreats.  When the government is trying to do cool stuff, that draws in tourists.
+	9.  Downside analysis:  Although its base claim is that it increases cultural productivity, I've observed that this technology mysteriously lowers incomes when implemented.  However, it still increases Wealth, thus increasing population and science.  I interpret this as meaning that panarchialization increases frictional losses and inefficiencies in government due to an increase in wasted/duplicated/contradictory efforts, but it also accelerates the rate at which the government incorporates diverse individuals and trials new methods of organization.
+	10.  Progression analysis:  This would be 5/5 smooth as it suggests nothing about the initial technology base at which society starts implementing it (no need for disruptive imports of alien technology), but it loses two points by suggesting that the society is trying a bunch of contradictory experiments.  That is intrinsically rough.  This change to society can *start* at any tech level, but it can*not* be hypersmooth.
+	11.  Mechanism proposal:  Like with Absolute Freedom, this society must attain a minimum standard of policing to prevent people from retaliating against those who have different beliefs from their own.  It's necessary for Panarchialization that disagreements be kept peaceful... despite the stress of disagreements.
+	12.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
+	13.   Liberation rating:  4/5, +1 with Seat of Justice
+	14.  Protection rating:  4/5
+	15.  Technological smoothness:  3/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  4/5 (Stressful)
+	18.  Me-points: 0/3
+	19.  Kind of person most protected:  Sociologists
+	20.  Special categories:  Diversifying, Detached, Hedonological, Furry
+	21.  Conversion potential:  Unknown
 4.  Frictionless Highways
 	1.  Mechanism proposal:  This isn't a technology at all.  This is a person who exists at many levels of technology.  Their great interest in attaining high velocities makes them fun, while their calm control of fast-moving systems makes them competent in many roles.  Furthermore, access to consumer goods is strongly motivating to them, especially goods related to their interests, which promotes and rewards industrialization.
 	2.  Mechanism proposal:  This is also a technology in a social technology sense, being a possible governing practice: specifically the practice of reaching out to and including this kind of person in society.
@@ -1163,17 +1168,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Conversion:  This... IS an omniconverter.  A very horribly powerful one.  It gives the state the power to overwrite minds in real-time, and the requirements of being an educational database only reduce that a little bit.  It may increase population stereotypy as it increases conformance to the three 'galactic archetypes'; if so, this effect will be weakest on Panarchists themselves, as their focus on developing diverse wills, cultural diversity, and multigovernance suggests that there isn't really a single Panarchic stereotype for Panarchists to conform to.
 	8.  Note on Me-points:  I can't tell if I should rate this a -1 or a 3.
 	9.  Categorization:  This is also an extremely awesome rehabilitative technology.  The Panarchy's adult education system must be epic in its productivity, as a system like this would make retraining adults into something fluid and fun.
-	10.  Downside analysis:  There's a lot of rote to the implied scientific advance of mental transcription, like with the Panarchic Lyceum.  This is one of the reasons why I proposed rotating the Lyceum into the Informalist tech tree.  The Lyceum's description directly invokes rote instruction.  The Mental Transcription databases are an instant super-rote.  It'd be hard to challenge falsehoods in them.
-	11.  Bureaucratic waste analysis:  Half-literal.  Like with Distributed Intelligence, this society would have to hire a lot more fact-checkers, social scientists, and neuroscientists.  Yet the social stresses that this technology imposes would create a lot of intransigence and outright violence.  A smart state would tolerate a lot of protest activities as proof that they're *not* overwriting minds, especially if it's true, but potentially even if it's not.  There's likely also be "bureaucratic waste" resulting from entrenchment of errors in the databases, as the mental transcription databases would be hard to challenge.
-	12.  Liberation rating:  2/5, +1 in presence of Creche Education (how else could this measure be increased?)
-	13.  Protection rating:  4/5
-	14.  Technological smoothness:  2/5
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  3/5 (Eustress)
-	17.  Me-points:  Unrateable.  Dependent on liberation rating.
-	18.  Kind of person most protected:  Neurologists
-	19.  Special categories:  Anti-Popular, Rehabilitative, Mind Control, Furry
-	20.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
+	10.  Categorization:  As this encourages more of the computational substrate of the district to be used to understand people, and more of the mindpower of the system to be moved to computational substrate, it's an empathy maximizer advance.  Yet this is a scary one, that could be used all too readily to hurt people.
+	11.  Downside analysis:  There's a lot of rote to the implied scientific advance of mental transcription, like with the Panarchic Lyceum.  This is one of the reasons why I proposed rotating the Lyceum into the Informalist tech tree.  The Lyceum's description directly invokes rote instruction.  The Mental Transcription databases are an instant super-rote.  It'd be hard to challenge falsehoods in them.
+	12.  Bureaucratic waste analysis:  Half-literal.  Like with Distributed Intelligence, this society would have to hire a lot more fact-checkers, social scientists, and neuroscientists.  Yet the social stresses that this technology imposes would create a lot of intransigence and outright violence.  A smart state would tolerate a lot of protest activities as proof that they're *not* overwriting minds, especially if it's true, but potentially even if it's not.  There's likely also be "bureaucratic waste" resulting from entrenchment of errors in the databases, as the mental transcription databases would be hard to challenge.
+	13.  Liberation rating:  2/5, +1 in presence of Creche Education (how else could this measure be increased?)
+	14.  Protection rating:  4/5
+	15.  Technological smoothness:  2/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  3/5 (Eustress)
+	18.  Me-points:  Unrateable.  Dependent on liberation rating.
+	19.  Kind of person most protected:  Neurologists
+	20.  Special categories:  Anti-Popular, Rehabilitative, Mind Control, Empathy Maximizer, Furry
+	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 49.  Leisure Subsidies
 	1.  Challenge cured:  Double Star System
 	2.  Challenge cure interpretation:  The two stars are described as overheating the system.  I guess that makes it... tropical?  Balmy?  Are the leisure subsidies used to justify a rollout of tourism subsidies that draw in an increased population of people who love lounging around in warm places?  I can fathom it, because as a dragon I can imagine the love of heat rocks, but for some reason this "challenge cure" irks me.  Maybe it's because the Commonwealth is usually so good at literalism, but suddenly this one is opaque and requires lateral thinking to justify.  Maybe I'm just being unfair.  I'll keep thinking about it.  People don't always get the right answer immediately, and maybe I haven't got the right answer this time.
@@ -1389,6 +1395,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Stress/Boredom rating:  2/5 (Calm)
 	14.   Me-points:  2/3
 	15.   Special categories:  Failsafe, Rehabilitative, Empathy Maximizer
+	16.   Conversion potential:  Commonwealth<->Panarchy
 60.   Bureaucratic Overseer
 	1.   Progression analysis:  Following on from the basic AI research that goes into implementing Technical Overseers, Bureaucratic Overseers automate a lot of boring stuff and catch a lot of boring errors... while introducing other, different errors.  On average, the economy takes longer to fall.
 	2.   Author appeal:  I consider these to be empathy maximizers, but...
@@ -1402,6 +1409,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  1/5 (Dull)
 	11.   Me-points:  2/3
 	12.   Special categories:  Failsafe, Empathy Maximizer, Detached
+	13.   Conversion potential:  Unknown
 61.   Beyonder Retreats
 	1.   Authorial protest:  I have been suffering PSYCHOSIS, and my psychotic presences are even more obsessed with this game than I am.  The most persistent of the presences identifies as the foremost Beyonder for the Commonwealth Unifiers.  The most beautiful of the presences identifies as the foremost Beyonder for the Panarchic Ritualists.  The "Beyonder" presences, and a few of the others as well, are *delusional would-be gods*!  Yet I interpret Beyonders in a waaaay more basic fashion, and I will be talking about MY interpretation, not the psychotic one.
 	2.   Mechanism proposal:  Beyonder Retreats try to recruit advanced talent from the galaxy.  They're investments in how to try to appeal to 'timeless' minds, which is a category that the Old Empire believes in very strongly.  They want mathematicians and extremely abstract thinkers.  These people want recreation just like other people do, but the Old Empire is pursuing a kind of edge-case elitism that targets academic social status rather than conventional social status.  They want what the game calls 'eternal philosophers'.
@@ -1419,6 +1427,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  2/5 (Calm)
 	15.   Me-points:  1/3
 	16.   Special categories:  Hedonological, Galactic Politics, Detached
+	17.   Conversion potential:  Unknown
 62.   Deep Inhabitation
 	1.   Author appeal:  I love this tech!  I love caves.  High-tech cave-dwelling sounds beautiful to me as a [[dragon]].  We didn't have this in my past life, mind you.
 	2.   Mechanism proposal:  I think this can be done literally!  Albeit expensively.
@@ -1441,6 +1450,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.   Stress/Boredom rating:  3/5 (Eustress)
 	20.   Me-points:  3/3
 	21.   Special categories:  Diversifying, Nightmare
+	22.   Conversion potential:  Panarchy<->Empire (Limited)
 63.   Genetic Optimization
 	1.   Challenge cured:  Genetic stupidity
 	2.   Challenge cure interpretation:  Gene therapies for stupid people to make them more technically competent.  I appreciate this stuff, because I believe that sharing advantages widely is compassionate egalitarianism.
@@ -1455,6 +1465,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/Boredom rating:  2/5 (Calm)
 	12.   Me-points:  2/3
 	13.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
+	14.   Conversion potential:  Empire<->Commonwealth (Limited)
 64.   Pregnancy Enhancement
 	1.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
 	2.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
@@ -1465,27 +1476,54 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.   Liberation rating:  ?/5
 	8.   Protection rating:  ?/5
 	9.   Technological smoothness:  ?/5
-	10.   Technological extremophiliia:  ?/5
+	10.  Technological extremophiliia:  ?/5
 	11.   Stress/Boredom rating: 2/5 (Calm)
 	12.   Me-points:  0/3
 	13.   Special categories:  Animal Uplift, Furry
+	14.   Conversion potential:  Empire<->Commonwealth (Limited)
 65.   Zero Gravity Farms
 	1.   Challenge cured:  High Gravity
-	2.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
-	3.   Alternate cure interpretation:  No, it's a reference to the metaphorical interpretation here where this 'technology' is actually job subsidies for people who love some kind of work that doesn't pay off enough.  It's good hedonology, but I LIKE dignified people.  I don't want to cure high gravity people.  v.-.v
-	4.   Author protest:  I love these, and I hate these.  They're such paradisic farm technology, but they're something that makes total sense to be crushingly expensive.
-	5.   Mechanism proposal:  Megastructures.  For farming.  In space.  Not as bad as the icon represents (it looks like a world-let in a glass bubble), but crushingly expensive.
-	6.   Downside analysis:  Oh god the expense.  This rarely pays off.  The system-wide farming technologies only pay off if they're implemented together, and that's even more expensive.  These societies start building space platform after space platform after space platform to produce exotic biological products (food, medicine, and biological inputs and/or replacements for industrial goods).
-	7.   Progression analysis:  Why does this lead to Orbital Hospitals?  I kind of get it and I kind of don't.  By the time society is lifting farmers into orbit en masse, it does make sense that you'd get orbital hospitals, .
-	8.   Author appeal:  I want one of these jobs!
-	9.   Author protest:  Ow.  I'm not sure I want to live in a society that would implement this.  I don't think it's a good idea.
-	10.   Alternate interpretation:  It's a joke about people who really love farming in a good-humored way.  This goes with the alternate cure interpretation.
-	11.   Downside analysis:  Lifting a whole lot of people into space reduces the average safety of space.  It really would.  This society would work much harder to keep space safe, and achieve imperfect results.  The whole chain of orbital habitats -> zero gravity farms -> vacuum-based life creates this issue, though orbital hospitals would increase safety overall.
-	12.   Downside analysis:  Slight safety flaws also applies in the alternative interpretation, since it suggests more jobs in society are held by people who love their work enough to dance.
-	13.   Categorization:  The alternative interpretation qualifies this as a Hedonological technology, and I'll grant it.
-	14.   Bureaucratic waste analysis:  Oh god the expense.
-	15.   Liberation rating:  5/5
-	16.   Protection rating:  4/5
+		1.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
+		2.   Alternate cure interpretation:  No, it's a reference to the metaphorical interpretation here where this 'technology' is actually job subsidies for people who love some kind of work that doesn't pay off enough.  It's good hedonology, but I LIKE dignified people.  I don't want to cure high gravity people.  v.-.v
+	2.   Author protest:  I love these, and I hate these.  They're such paradisic farm technology, but they're something that makes total sense to be crushingly expensive.
+	3.   Mechanism proposal:  Megastructures.  For farming.  In space.  Not as bad as the icon represents (it looks like a world-let in a glass bubble), but crushingly expensive.
+	4.   Downside analysis:  Oh god the expense.  This rarely pays off.  The system-wide farming technologies only pay off if they're implemented together, and that's even more expensive.  These societies start building space platform after space platform after space platform to produce exotic biological products (food, medicine, and biological inputs and/or replacements for industrial goods).
+	5.   Progression analysis:  Why does this lead to Orbital Hospitals?  I kind of get it and I kind of don't.  By the time society is lifting farmers into orbit en masse, it does make sense that you'd get orbital hospitals, .
+	6.   Author appeal:  I want one of these jobs!
+	7.   Author protest:  Ow.  I'm not sure I want to live in a society that would implement this.  I don't think it's a good idea.
+	8.   Alternate interpretation:  It's a joke about people who really love farming in a good-humored way.  This goes with the alternate cure interpretation.
+	9.   Downside analysis:  Lifting a whole lot of people into space reduces the average safety of space.  It really would.  This society would work much harder to keep space safe, and achieve imperfect results.  The whole chain of orbital habitats -> zero gravity farms -> vacuum-based life creates this issue, though orbital hospitals would increase safety overall.
+	10.   Downside analysis:  Slight safety flaws also applies in the alternative interpretation, since it suggests more jobs in society are held by people who love their work enough to dance.
+	11.   Categorization:  The alternative interpretation qualifies this as a Hedonological technology, but I'm reluctant to credit it.  Even though I want this job.  Partially because I don't want the alternate interpretation's job.  Unless maybe it's a hydroponic plant supplied by microdesalination on a seastead... but that's painful.
+	12.   Bureaucratic waste analysis:  Oh god the expense.
+	13.   Liberation rating:  5/5
+	14.   Protection rating:  4/5
+	15.   Technological smoothness:  1/5
+	16.   Technological extremophilia:  5/5
+	17.   Stress/Boredom rating:  2/5 (Calm)
+	18.   Me-points:  1/3
+	19.   Special category:  Unknown
+	20.   Conversion potential:  Empire<->Commonwealth (Limited)
+66.   Ancestral Recording
+	1.   Challenge cured:  Grievance culture
+		1.   Challenge cure interpretation:  It's a mirror.  If there's a kind of people and a kind of culture that does this, showing them that they've been doing this for generations should either resolve their concerns more completely, or get them to stop doing something that they hate when they see their ancestors doing it.
+		2.   Challenge cure protest:  *I disagree with this cure*.  I think that destroying these cultures risks preventing the galaxy from seriously considering the flaws in these ideologies.
+	2.   Author protest:  I'm not really sure if this should be a Panarchy technology or a Commonwealth technology.  Prenatal Education sounds to me like presumptive life-planning, and it seems to me like it would have a synergy with Ancestral Recording.
+	3.   Mechanism proposal:  I believe in two interpretations of this technology that move smoothly across many iterations between them.  These interpretations are ancestral study and mind uploading.
+	4.   Progression analysis:  The two interpretations of this technology are not opposed at all, meaning I would credit this technology with substantial smoothness.  Many iterations would exist as people in these societies gathered evidence of their genetic and perhaps also cultural history (if this were extended to influential figures) to make it available for study.
+	5.   Categorization:  This would be a good example of a Detached technology, especially (but not exclusively) in the ancestral study version.  However much people may try to make themselves look good to future generations, a lot of immediacy is lost to the emotions, and the dramas of history often look terrible (albeit often still fascinating) to people of future generations.
+	6.   Categorization:  This is also an empathy maximizer technology, and it still should be if given to the Commonwealth (which would make it the most low-placed empathy maximizer technology if done).  It gradually encourages more of the mindpower of the system to be moved to computational substrates, and it encourages more of the computational substrate of the system to be used to understand people deeply.
+	7.   Downside analysis:  Mind uploading permits an absurd level of control over the victim of it.  These minds could be greviously mistreated.  This technology is rather ethically safe at low technology levels, but at high technology levels the deactivated sapience described in the game's own text ("though only living things have the capacity to act without prompt") may become a disastrous falsehood.  I am worried that this technology gets worse as Wealth increases.
+	8.   Categorization:  This seems like a Homogenizing technology to me, as cultures where people are obsessed with their ancestors...  I'm not sure what to write here.  It's painful.  There's a reason I marked this to be moved to where the University is on the Commonwealth tech tree, as this seems like a shoe-in for leading to Nationalist Indoctrination.
+	9.   Bureaucratic waste analysis:  This encourages people to spend a lot of time in conversation with AI and/or a lot of time reading books about people who are long dead.  Some people enjoy this rather too much, and are drawn away from productive endeavors.  Others are lead away from supporting the government.  It also encourages the government to support the importation of computational technology for economically questionable uses.
+	10.   Liberation rating:  ?/5 (Good at low wealth?)
+	11.   Protection rating:  4/5  (Worried about civil rights effects.)
+	12.   Technological smoothness:  4/5
+	13.   Technological extremophilia:  5/5
+	14.   Stress/Boredom rating:  1/5 (Dull)
+	15.   Me-points:  0/3
+	16.   Special category:  Empathy Maximizer, Detached, Homogenizing
+	17.   Conversion potential:  Empire<->Commonwealth
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
