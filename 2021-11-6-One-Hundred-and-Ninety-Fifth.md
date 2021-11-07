@@ -35,4 +35,7 @@ I looked up the caramel corn.  They're 6.5 calories each.  So that's ~26 calorie
 Caramel apple estimates run from 200 to 280 calories.  I'm going to estimate in the middle, and count that as ~240 calories.  Restoring the running tally with the missing 266 calories and adding in the peeps, that's ~962+~406=~1,368 calories.  Strange.  I thought these would stack up far more.
 
 ---
+Oh!  I also ate a third of a fruit stick earlier.  They're fifty calories each, but discounting what landed in the trash bin, I need to add 17 calories to the count.  Running tally: ~1,385 calories.
+
+---
 Back to [[day-post-archive]]
