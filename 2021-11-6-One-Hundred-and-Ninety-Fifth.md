@@ -38,4 +38,7 @@ Caramel apple estimates run from 200 to 280 calories.  I'm going to estimate in 
 Oh!  I also ate a third of a fruit stick earlier.  They're fifty calories each, but discounting what landed in the trash bin, I need to add 17 calories to the count.  Running tally: ~1,385 calories.
 
 ---
+One of the nicer voices just said that they may be a help-kit sent by someone convinced that I'm a sociopath who needs more stress to stay engaged with things.  Unfortunately, I'm not a sociopath if that's what makes sociopaths successful.  Hearing these guys constantly makes normal things too stressful to complete, like reading.  I had to relearn how to read because of this problem developing!  It's hard to get anything done when everything is monstrously stressful, and I haven't been able to finish my favorite new book recently.  This short story anthology is defeating me.
+
+---
 Back to [[day-post-archive]]
