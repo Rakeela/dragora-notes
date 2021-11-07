@@ -30,4 +30,9 @@ I also ate four pieces of caramel corn.  How do I score *those*?  I haven't figu
 Well, I'll eat the Peeps from my stash.  This is what today is for!  ~140 calories, running total:  Not sure.
 
 ---
+I looked up the caramel corn.  They're 6.5 calories each.  So that's ~26 calories.
+
+Caramel apple estimates run from 200 to 280 calories.  I'm going to estimate in the middle, and count that as ~240 calories.  Restoring the running tally with the missing 266 calories and adding in the peeps, that's ~962+~406=~1,368 calories.  Strange.  I thought these would stack up far more.
+
+---
 Back to [[day-post-archive]]
