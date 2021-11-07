@@ -48,4 +48,7 @@ Also add a Russel Stover Coconut Creme to the list.  This tasted mediocre.  ~120
 I think that's all the candy I'll eat for today, so I ate that much candy.  For dinner, I had garlic noodles and a salad ordered from Gyo-kaku.  Their salads are also unusually good.
 
 ---
+I ate one more thing.  An evolve pumpkin spice coconut butter cup.  It tasted bad.  ~110 calories.  Running tally:  ~1,735 calories.
+
+---
 Back to [[day-post-archive]]

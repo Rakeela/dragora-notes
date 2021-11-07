@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 47.46376811594203,
+            "dimension": 42.655601659751035,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 52.53623188405797,
+            "dimension": 57.34439834024896,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -155,6 +155,7 @@
   "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
     "2021-11-6-One-Hundred-and-Ninety-Fifth.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "aowcommander-profiles.md",
     "2021-11-2-One-Hundred-and-Ninety-First.md",
     "2021-11-1-One-Hundred-and-Ninetieth.md",
@@ -162,7 +163,6 @@
     "2021-11-3-One-Hundred-and-Ninety-Second.md",
     "2021-11-4-One-Hundred-and-Ninety-Third.md",
     "2021-11-5-One-Hundred-and-Ninety-Fourth.md",
-    "Southern-Wind-Nations.md",
-    "ideological-interpretations-of-The-Viceroy.md"
+    "Southern-Wind-Nations.md"
   ]
 }
