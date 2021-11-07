@@ -185,13 +185,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     19.  Bureaucratic waste analysis:  There is a literal component to the bureaucratic waste of this technology which arises in the utopic phase and persists throughout.  A society using distributed thought (at any tech level it is trying to implement this) has to hire more social scientists, more fact checkers, and (eventually) more neurologists than it would otherwise require.  There is also a metaphorical component that can waste bureaucrats quite brutally, which is that corruption and inequalities in society are likely to manifest rather grotesquely as this technology matures to its most high-tech form.  Additionally, that trust that people are smart even if they don't seem to be talking about reality is occasionally false, so the risks of this technology will sometimes prove true.
     20.  Liberation rating:  3/5, +2 in primitive feudal economies, -2 in advanced feudal economies (this is a gradient with the previous modifier), +1 if any two or more panarchic AI Overseers are installed, +1 with Right to Happiness
     21.  Protection rating:  2/5, +2 in regulated or planned economies, -1 in feudal or free market economies, +1 per two installed Panarchic AIs in system, +1 with Seat of Justice (Max 5/5)
-    22.  Technological smoothness:  5/5
-    23.  Technological extremophilia:  5/5
-    24.  Stress/Boredom:  2/5 (Calm)
-    25.  Me-points: 2/3
-    26.  Kind of person most protected:  Dumb but technophilic people.
-    27.  Special categories:  Rehabilitative, Diversifying, Mind Control, Furry
-    28.  Conversion potential:  Unknown
+    22.  Siphon Quality:  
+    23.  Technological smoothness:  5/5
+    24.  Technological extremophilia:  5/5
+    25.  Stress/Boredom:  2/5 (Calm)
+    26.  Me-points: 2/3
+    27.  Kind of person most protected:  Dumb but technophilic people.
+    28.  Special categories:  Rehabilitative, Diversifying, Mind Control, Furry
+    29.  Conversion potential:  Unknown
 2.  Telepathic Dust
 	1.  Mechanism proposal:  As described, telepathic dust involves setting up the infrastructure to manufacture and distribute temporary clouds of empathy-dust across the public.  It sets up ad-hoc transmissions between people in the area of effect so that they can feel each others' emotions and get a transient sense of one anothers' thoughts.  It's a kind of super-tech toy for enhancing other kinds of play and encouraging people to trust each other.
 	2.  Downside analysis:  This technology is so literally described, that the wonder isn't so much how it works, but how it breaks.  As telepathic dust proliferates in society, more of its social spaces would be afflicted by a haze of nanites in which empathy deficits temporarily evaporate.  Are people who are only empathetic due to telepathic dust actually empathetic at all?  Well...  no, they aren't.  The sense of trustworthiness created by the dust is only locally rational.
@@ -1640,6 +1641,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-10-11;  A little birdy told me to interpret the game as being "nations" (districts), "continents" (planets), and "planets" (systems).  (2021-11-2; Actually, a voice in my head.  Bleeeh!)
 
 2021-11-2;  Maybe I should modify these to have a "reserve funding fraction" which represents the degree to which I think the bureaucratic waste is being funneled into reserve funding for a new government, vs the degree to which I think that potential income is being wasted or destroyed.
+
+2021-11-6;  I'm adding a new rating called "Siphon Quality" which measures the reserve funding extraction rate implied by the technology.  Some of them are lossier than others, which could be corruption, wastage, or ongoing expenses.  A siphon quality analysis might replace the bureaucratic waste analysis eventually.
 
 ---
 The Much-Reviled Lower Classes
