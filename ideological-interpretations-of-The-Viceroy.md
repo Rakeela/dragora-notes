@@ -185,7 +185,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     19.  Bureaucratic waste analysis:  There is a literal component to the bureaucratic waste of this technology which arises in the utopic phase and persists throughout.  A society using distributed thought (at any tech level it is trying to implement this) has to hire more social scientists, more fact checkers, and (eventually) more neurologists than it would otherwise require.  There is also a metaphorical component that can waste bureaucrats quite brutally, which is that corruption and inequalities in society are likely to manifest rather grotesquely as this technology matures to its most high-tech form.  Additionally, that trust that people are smart even if they don't seem to be talking about reality is occasionally false, so the risks of this technology will sometimes prove true.
     20.  Liberation rating:  3/5, +2 in primitive feudal economies, -2 in advanced feudal economies (this is a gradient with the previous modifier), +1 if any two or more panarchic AI Overseers are installed, +1 with Right to Happiness
     21.  Protection rating:  2/5, +2 in regulated or planned economies, -1 in feudal or free market economies, +1 per two installed Panarchic AIs in system, +1 with Seat of Justice (Max 5/5)
-    22.  Siphon Quality:  
+    22.  Siphon quality:  2/5, +2 in regulated economies, +1 in free market economies, -1 in feudal economies
     23.  Technological smoothness:  5/5
     24.  Technological extremophilia:  5/5
     25.  Stress/Boredom:  2/5 (Calm)
@@ -205,13 +205,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Bureaucratic waste analysis:  The bureaucratic wastage from this technology arises from three factors.  Firstly, it's a toy.  People will spend more time playing with each other as it gets more abundant.  Secondly, it's good for reinforcing understanding between people, which is mostly a good empathetic function, yet may also strengthen conspiratorial social organizations which rely on unspoken "understandings".  This second function is tyrannical and will produce weird edge cases in society.  Thirdly, manufacturing and distributing a product also literally requires the organizations which manufacture and distribute it, thus directly requiring the dedication of people and funds in an ongoing way.
 	10.  Liberation rating:  2/5, +1 with Seat of Justice, +2 in absence of Misery
 	11.  Protection rating:  3/5, +1 per three +Happiness techs (max 5/5)
-	12.  Technological smoothness:  1/5  (Singular technology.)
-	13.  Technological extremophilia:  5/5
-	14.  Stress/Boredom:  3/5  (Eustress)
-	15.  Me-points: 0/3
-	16.  Kind of person most protected:  People with weird emotional processing
-	17.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control, Furry
-	18.  Conversion potential:  Unknown
+	12.  Siphon quality:  3/5
+	13.  Technological smoothness:  1/5  (Singular technology.)
+	14.  Technological extremophilia:  5/5
+	15.  Stress/Boredom:  3/5  (Eustress)
+	16.  Me-points: 0/3
+	17.  Kind of person most protected:  People with weird emotional processing
+	18.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control, Furry
+	19.  Conversion potential:  Unknown
 3.  Panarchialization Policy
 	1.  Challenge cured:  Anti-Panarchism
 	2.  Challenge cure interpretation:  Panarchists are... VERY diverse.  Anti-Panarchism doesn't make sense if you meet enough of them.  Panarchialization policies involve bringing in ideas, people, and random-ass technologies from all over the galaxy to see how the whole galaxy might be able to solve local problems.
@@ -227,13 +228,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
 	13.   Liberation rating:  4/5, +1 with Seat of Justice
 	14.  Protection rating:  4/5
-	15.  Technological smoothness:  3/5
-	16.  Technological extremophilia:  5/5
-	17.  Stress/Boredom rating:  4/5 (Stressful)
-	18.  Me-points: 0/3
-	19.  Kind of person most protected:  Sociologists
-	20.  Special categories:  Diversifying, Detached, Hedonological, Furry
-	21.  Conversion potential:  Unknown
+	15.  Siphon quality:  5/5
+	16.  Technological smoothness:  3/5
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  4/5 (Stressful)
+	19.  Me-points: 0/3
+	20.  Kind of person most protected:  Sociologists
+	21.  Special categories:  Diversifying, Detached, Hedonological, Furry
+	22.  Conversion potential:  Unknown
 4.  Frictionless Highways
 	1.  Mechanism proposal:  This isn't a technology at all.  This is a person who exists at many levels of technology.  Their great interest in attaining high velocities makes them fun, while their calm control of fast-moving systems makes them competent in many roles.  Furthermore, access to consumer goods is strongly motivating to them, especially goods related to their interests, which promotes and rewards industrialization.
 	2.  Mechanism proposal:  This is also a technology in a social technology sense, being a possible governing practice: specifically the practice of reaching out to and including this kind of person in society.
@@ -243,13 +245,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Bureaucratic waste analysis:  The literalism of this technology's bureaucratic waste varies according to the economic system that is implementing it.  It is most literal in planned economies and least literal in feudal economies.  The inclusion of people who love attaining calm control of fast-moving systems is no more (but no less) bureaucratically expensive than maintaining good roadways, recreational vehicle arenas, and vehicle fabrication organizations.  Should a society engaging in these practice grow extremely unfit for bureaucratic life, these individuals may take up the hatred of bureaucracy, which intrinsically operates at a different pace than they would prefer.  Furthermore, investing excessively in roads and vehicles is potentially injurious to public health due to pollution and vehicular accident risks, which may damage the productivity of skilled bureaucrats as well as injuring the assurance of safety that they prefer.
 	7.   Liberation rating:  5/5 (Planned Economy), 4/5 (Regulated Economy), 3/5 (Free Economy), 2/5 (Feudal Economy)
 	8.   Protection rating:  2/5, +1 with Jaunting Grids or Pervasive Digitalization, +1 with Enlightened Policing
-	9.  Technological smoothness:  5/5
-	10.  Technological extremophilia:  3/5
-	11.  Stress/Boredom rating:  3/5 (Eustress)
-	12.  Me-points: 0/3
-	13.  Kind of person most protected:  Automotive fans and racers.
-	14.  Special categories:  Hypersmooth, Rehabilitative, Furry
-	15.  Conversion potential:  Unknown
+	9.   Siphon quality:  2/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  3/5
+	12.  Stress/Boredom rating:  3/5 (Eustress)
+	13.  Me-points: 0/3
+	14.  Kind of person most protected:  Automotive fans and racers.
+	15.  Special categories:  Hypersmooth, Rehabilitative, Furry
+	16.  Conversion potential:  Unknown
 5.  Stasis Controller
 	1.  Challenge cured:  Biological embargo
 	2.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.
@@ -260,13 +263,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
 	8.   Liberation rating:  5/5
 	9.   Protection rating:  5/5
-	10.  Technological smoothness:  5/5
-	11.  Technological extremophilia:  1/5
-	12.  Stress/Boredom rating:  1/5 (Dull)
-	13.  Me-points:  1/3
-	14.  Kind of person most protected:  Cheesemakers.
-	15.  Special categories:  Hypersmooth, Luddistic, Failsafe
-	16.  Conversion potential:  Unknown
+	10.  Siphon quality:  3/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  1/5
+	13.  Stress/Boredom rating:  1/5 (Dull)
+	14.  Me-points:  1/3
+	15.  Kind of person most protected:  Cheesemakers.
+	16.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	17.  Conversion potential:  Unknown
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
 	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
@@ -286,13 +290,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being (as I imagine it) about as bureaucratically expensive as establishing a clinic.  There are no facilities at all required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in far worse than misfiled paperwork.  It also suggests an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although the Separatist path HAS theoretical paradisic applications, this technology generally strikes me as starting bad and getting worse.
 	17.  Liberation rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies), +1 with Enlightened Policing (Yes, better policing is liberating under both interpretations here)
 	18.  Protection rating:  1/5, +2 in territories challenged by blood cults
-	19.  Technological smoothness:  4/5
-	20.  Technological extremophilia:  Territory average +1 (max 5/5).
-	21.  Stress/Boredom rating: 3 (Eustress)
-	22.  Me-points: -1/3
-	23.  Kind of person most protected:  People who REALLY want to exist.
-	24.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
-	25.  Conversion potential:  Unknown
+	19.  Siphon quality:  
+	20.  Technological smoothness:  4/5
+	21.  Technological extremophilia:  Territory average +1 (max 5/5).
+	22.  Stress/Boredom rating: 3 (Eustress)
+	23.  Me-points: -1/3
+	24.  Kind of person most protected:  People who REALLY want to exist.
+	25.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
+	26.  Conversion potential:  Unknown
 7.  Panarchic Retreat
 	1.  Mechanism proposal:  The Commonwealth (as I imagine it) has some rule governing when people can be rated as stable immortals deserving of unlimited free movement privileges and territory-independent access to rejuvenation technologies.  The panarchic retreats are a scheme set up by the Panarchy to help a whole bunch of people get access to those privileges even though they would ordinarily be "beneath the notice" of the Commonwealth.
 	2.  Mechanism proposal:  The literally described process of building vacation areas and then having Panarchs praise the people who run them is exactly what's going on here.  It builds up the records of people who would otherwise be too totally unnoticable by the Commonwealth to be dubbed stable immortals.  Panarchists don't unperson service workers.
