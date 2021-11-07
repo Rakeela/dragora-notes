@@ -25,4 +25,21 @@ Supposedly, according to the voices in my head, the Commonwealth Unifiers are th
 	14.  Cultural production:  +10%  (Love of beauty)
 	15.  Taxes paid:  +9%  (Love of government)
 	16.  Fleet capacity growth:  +12%  (Military research)
+2.  Panarchy Ritualist Game 2
+	1.  Bureaucratic overhead:  +35.9%
+	2.  Upkeep costs:  -18.7%
+	3.  Crowding limit:  +5.5%
+	4.  Weapon firing rate:  +21%
+	5.  Maximum fleet capacity:  +25%
+	6.  Biological production:  +22%
+	7.  Science capacity:  +18%
+	8.  Shield recharge rate:  +19%
+	9.  Rebel income:  -20.6%
+	10.  Industrial production:  +24%
+	11.  Returns on investment:  +26%
+	12.  Ship speed:  +27%
+	13.  Influence:  +33%
+	14.  Cultural production:  +21%
+	15.  Taxes paid:  +10%
+	16.  Fleet capacity growth:  +32%
 
