@@ -299,8 +299,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	25.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
 	26.  Conversion potential:  Unknown
 7.  Panarchic Retreat
-	1.  Mechanism proposal:  The Commonwealth (as I imagine it) has some rule governing when people can be rated as stable immortals deserving of unlimited free movement privileges and territory-independent access to rejuvenation technologies.  The panarchic retreats are a scheme set up by the Panarchy to help a whole bunch of people get access to those privileges even though they would ordinarily be "beneath the notice" of the Commonwealth.
-	2.  Mechanism proposal:  The literally described process of building vacation areas and then having Panarchs praise the people who run them is exactly what's going on here.  It builds up the records of people who would otherwise be too totally unnoticable by the Commonwealth to be dubbed stable immortals.  Panarchists don't unperson service workers.
+	1.  Challenge cured:  Market Isolation
+		1.  Challenge cure interpretation:  I'm not sure; I'll fill this blank in later.
+	2.  Mechanism proposal:  The Commonwealth (as I imagine it) has some rule governing when people can be rated as stable immortals deserving of unlimited free movement privileges and territory-independent access to rejuvenation technologies.  The panarchic retreats are a scheme set up by the Panarchy to help a whole bunch of people get access to those privileges even though they would ordinarily be "beneath the notice" of the Commonwealth.
+	3.  Mechanism proposal:  The literally described process of building vacation areas and then having Panarchs praise the people who run them is exactly what's going on here.  It builds up the records of people who would otherwise be too totally unnoticable by the Commonwealth to be dubbed stable immortals.  Panarchists don't unperson service workers.
 	4.  Downside analysis:  The more of these are built up, the more the galaxy's panarchists are just going around praising each other and wasting time.  Is there a point when this stops being a form of resistance against an unjust authority, and starts being hedonism by selfish people?  This is the most common objection to Panarchic Retreats.
 	5.  Apologia:  There might not be such a point...  The galaxy in this game's setting really needs *a lot* more humble immortals!  This tech finds them.  A pure influence boost works the same way whether the public is happy or miserable.
 	6.  Mechanism proposal:  Panarchic retreats are also bases from which panarchic anti-hackers can unlock Imperial augments so that the Commonwealth's "robots" (the Imperials) can have their free will back.  These are bastions of freedom set up by the Panarchic Ritualists, which operate within the letter of Commonwealth law despite Commonwealth accusations that the Panarchy is made of utterly chaotic criminals.
@@ -1103,26 +1105,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Special categories:   Diversifying, Nightmare, Galactic Politics, Furry
 	21.  Conversion potential:  Empire<->Commonwealth
 45.  Panarchic Symposium
-	1.  Mechanism proposal:  "Symposium" sounds grandiose, but I think that's just Panarchic puffery (I don't hold it against them).  I believe these constructs represent society entrenching its dedication to intelligent discourse and long-term policy study in a district-by-district manner.  It's like the Seat of Policy in miniature, reaching farther down the bureaucracy to address the connection between local politics and galactic politics directly.
-	2.  Mechanism proposal:  Constructing symposia also reinforces dedication to freedom of speech.  This can be important in societies that have invested in potentially authoritarian structures such as "enlightened policing" and for that matter "adaptive antipsychotics".  The symposia gather the impressions of the public and try to keep galactic society from forgetting dissent.
-	3.  Progression analysis:  The symposia advance the cause of open access academia, leading naturally to the Lyceum.  I like this linkage in the graph.
-	4.  Mechanism proposal:  A certain basic level of public order is necessary for the symposia to function.  Mentioning the dedication to freedom of speech again, people in warzones don't exactly get their rights well-protected; like other influence structures, the Panarchic Symposia therefore suggest some amount of 'groundclearing' to stabilize society and some amount of emergency logistical preparations in case it falls apart again.
-	5.  Categorization:  This tech is hypersmooth.  It doesn't establish tech level at all.
-	6.  Conversion:  I think the discourse that the symposia surfaces can provide the potential for a limited (education-type) omniconversion effect (suggesting that cultural transitions would be more peaceful).  This function is good, but not necessarily as pure as the newfallen snow; a government sifting through large amounts of discourse can potentially surface the POVs it wants to see win, as long as those POVs exist within the public.
-	7.  Downside analysis:  Crosstalk, surfacing of disagreements, political argumentation, unrealistic demands for further investment, accusations that every random government program under the sun is somehow corrupt or incompetent, etc.  The symposia increase all of it.  Panarchists like this stuff.  Commonwealth and Imperials can be drawn into it just as much, but less happily.
-	8.  Apologia:  Whatever else may or may not be corrupt in society, I expect the Symposia itself to be a technology representing a well of integrity.  It opens transparency as society grows clouded.
-	9.  Apologia:  I think the vast well of information and impressions gathered from the symposia would be essential for long-term policy research.  They help the public debate in a smarter way, they get policy research out of the ivory tower, and (as a minor function) they provide creative fodder for society to make stories out of.
-	10.  Progression analysis:  I'm not really clear how this progresses into the Panarchic Cathedral... despite that I personally kind of embody the connection.  I *agree* with the connection, I just don't understand it.  I see myself in both technologies and it reminds me of how one of the decisions that would've shaped my life totally differently was that I decided against seeking to join a seminary school when I was twelve.  If I'd followed Kairn's path in this lifetime, I'd have sought to go from the symposium to the cathedral... sometimes I regret not doing that.
-	11.  Bureaucratic waste analysis:  Like with the Seat of Policy, I see this as a very straightforward pricetag.  The district produces a lot more analytical noise that has to be processed, but doing this work is very 'pure' albeit very literally bureaucratically expensive.
-	12.  Liberation rating:  5/5
-	13.  Public protection rating:  5/5
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  District average
-	16.  Stress/Boredom rating:  3/5 (Eustress)
-	17.  Me-points:  2/3
-	18.  Kind of person most protected:  Wannabe speechwriters
-	19.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
-	20.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
+	1.  Challenge cure interpretation:  Cultural Isolation
+		1.  Challenge cure interpretation:  This one bothers me.  Cultural isolation is described as the district's culture being "backwards, provincial, and strange" even to the district's own inhabitants.  I can see how exposing their culture to the galaxy could 'help' fix that, but I think it might be healthier for the self-esteem of the public to build the symposium and *other* cultural boosters rather than to 'cure' this in that way, so that they can develop a distinctive culture with no risk of turning out bland.
+	2.  Mechanism proposal:  "Symposium" sounds grandiose, but I think that's just Panarchic puffery (I don't hold it against them).  I believe these constructs represent society entrenching its dedication to intelligent discourse and long-term policy study in a district-by-district manner.  It's like the Seat of Policy in miniature, reaching farther down the bureaucracy to address the connection between local politics and galactic politics directly.
+	3.  Mechanism proposal:  Constructing symposia also reinforces dedication to freedom of speech.  This can be important in societies that have invested in potentially authoritarian structures such as "enlightened policing" and for that matter "adaptive antipsychotics".  The symposia gather the impressions of the public and try to keep galactic society from forgetting dissent.
+	4.  Progression analysis:  The symposia advance the cause of open access academia, leading naturally to the Lyceum.  I like this linkage in the graph.
+	5.  Mechanism proposal:  A certain basic level of public order is necessary for the symposia to function.  Mentioning the dedication to freedom of speech again, people in warzones don't exactly get their rights well-protected; like other influence structures, the Panarchic Symposia therefore suggest some amount of 'groundclearing' to stabilize society and some amount of emergency logistical preparations in case it falls apart again.
+	6.  Categorization:  This tech is hypersmooth.  It doesn't establish tech level at all.
+	7.  Conversion:  I think the discourse that the symposia surfaces can provide the potential for a limited (education-type) omniconversion effect (suggesting that cultural transitions would be more peaceful).  This function is good, but not necessarily as pure as the newfallen snow; a government sifting through large amounts of discourse can potentially surface the POVs it wants to see win, as long as those POVs exist within the public.
+	8.  Downside analysis:  Crosstalk, surfacing of disagreements, political argumentation, unrealistic demands for further investment, accusations that every random government program under the sun is somehow corrupt or incompetent, etc.  The symposia increase all of it.  Panarchists like this stuff.  Commonwealth and Imperials can be drawn into it just as much, but less happily.
+	9.  Apologia:  Whatever else may or may not be corrupt in society, I expect the Symposia itself to be a technology representing a well of integrity.  It opens transparency as society grows clouded.
+	10.  Apologia:  I think the vast well of information and impressions gathered from the symposia would be essential for long-term policy research.  They help the public debate in a smarter way, they get policy research out of the ivory tower, and (as a minor function) they provide creative fodder for society to make stories out of.
+	11.  Progression analysis:  I'm not really clear how this progresses into the Panarchic Cathedral... despite that I personally kind of embody the connection.  I *agree* with the connection, I just don't understand it.  I see myself in both technologies and it reminds me of how one of the decisions that would've shaped my life totally differently was that I decided against seeking to join a seminary school when I was twelve.  If I'd followed Kairn's path in this lifetime, I'd have sought to go from the symposium to the cathedral... sometimes I regret not doing that.
+	12.  Bureaucratic waste analysis:  Like with the Seat of Policy, I see this as a very straightforward pricetag.  The district produces a lot more analytical noise that has to be processed, but doing this work is very 'pure' albeit very literally bureaucratically expensive.
+	13.  Liberation rating:  5/5
+	14.  Public protection rating:  5/5
+	15.  Technological smoothness:  5/5
+	16.  Technological extremophilia:  District average
+	17.  Stress/Boredom rating:  3/5 (Eustress)
+	18.  Me-points:  2/3
+	19.  Kind of person most protected:  Wannabe speechwriters
+	20.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
+	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 46.  Prenatal Education
 	1.  Author protest:  I think this possibly should be Ancestral Recording.  I wrote below that Ancestral Recording should be where the University is; I'm not sure.  I don't see Prenatal Education as a 'real' technology unless it's a *Panarchic* technology, and the rest of what I write about it will probably explain why.
 	2.  Author protest:  Countermanding the above, I think this might be something that would *follow from* Ancestral Recording, shifting the University to the Panarchy and replacing it with Ancestral Recording.  This would position the Commonwealth Consensus as a remarkable lineage society which establishes extreme genetic self-knowledge as its foundation, since they would have Creche Schools leading to Ancestral Recording, which then lead to Prenatal Education.
@@ -1548,8 +1552,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
 	16.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
 68.   Passive Farming
-	1.   Challenge cure:  Sterilized Fields
-		1.   
+	1.   Challenge cured:  Sterilized Fields
+69.   Panarchic Data Post
+	1.   Challenge cured: Scientific Isolation
+		1.   Challenge cure interpretation:  The panarchic data posts tap into the galaxy's social sciences and make them available to the local district.  Having this technology in the territory makes it possible to realign sciences with the galaxy's expectations.
+		2.   Challenge cure qualm:  Wait, does this risk destroying the possibility of novel scientific developments?
+	2.   Mechanism proposal:  These develop local administrative talent using the well of knowledge that the Panarchy has built up by panarchializing systems.  The extremely (and chaotically) diverse models of ideology turned up by the social experimenters unleashed by Panarchialization Policies are here 'paid off' in governing insights.  These are social scientists!  ...and more efficient ones than the ones in Panarchialization Policy, because instead of doing NEW experiments, they're re-enacting things that have already been tested.
+	3.   Downside analysis:  Putting together bits and bobs from countless ideologies produces esoteric governments.  The panarchic data posts encourage doing exactly that in the name of bureaucratic efficiency, but it might make local politics hard to understand.
+	4.   Progression analysis:  This invites good pacifists in, leading the way towards the Panarchic War Memorials... though I'm somewhat unsure how those work, and if they can reliably *stay* pacifistic.
+	5.   Categorization:  Detached is fairly straightforward, as they're doing social science work.  Galactic politics takes a little explanation; they're doing local politics work, but they're trying to tap the politics of the galaxy to find the right answers.  Homogenizing is the painful one.  The Panarchy as I imagine them doesn't like to homogenize places, but these guys are trying to make old answers from distant places work in new places in the name of efficiency.  They do try to make societies conform to their expectations, so they're homogenizing.
+	6.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	7.   Liberation rating:  5/5
+	8.   Protection rating:  4/5
+	9.   Technological smoothness:  4/5
+	10.   Technological extremophilia:  5/5
+	11.   Stress/boredom rating:  4/5 (Stressful)
+	12.   Me-points:  1/3
+	13.   Special categories:  Detached, Galactic Politics, Homogenizing
 
 
 ---
