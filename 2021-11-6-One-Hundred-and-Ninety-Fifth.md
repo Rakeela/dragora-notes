@@ -41,4 +41,11 @@ Oh!  I also ate a third of a fruit stick earlier.  They're fifty calories each, 
 One of the nicer voices just said that they may be a help-kit sent by someone convinced that I'm a sociopath who needs more stress to stay engaged with things.  Unfortunately, I'm not a sociopath if that's what makes sociopaths successful.  Hearing these guys constantly makes normal things too stressful to complete, like reading.  I had to relearn how to read because of this problem developing!  It's hard to get anything done when everything is monstrously stressful, and I haven't been able to finish my favorite new book recently.  This short story anthology is defeating me.
 
 ---
+Add a Russel Stover Caramel Brownie to the list.  This tasted amazing!  ~120 calories.  Running tally:  ~1,505 calories.
+
+Also add a Russel Stover Coconut Creme to the list.  This tasted mediocre.  ~120 calories.  Running tally:  ~1,625 calories.
+
+I think that's all the candy I'll eat for today, so I ate that much candy.  For dinner, I had garlic noodles and a salad ordered from Gyo-kaku.  Their salads are also unusually good.
+
+---
 Back to [[day-post-archive]]
