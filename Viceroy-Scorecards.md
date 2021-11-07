@@ -8,6 +8,8 @@ Anyways, they made a fascinating claim that I'd love to reality check, because r
 
 Supposedly, according to the voices in my head, the Commonwealth Unifiers are the Most Peaceful Faction, and the Panarchic Ritualists are the Most Violent Faction.  I don't think the game is built that way.
 
+Note that Bureaucratic Overhead in the Weight of Culture (which this measures) is itself a measure of how many turns in the game has gotten.
+
 1.  Panarchy Ritualist Game 1 (Of this scoring type)
 	1.  Bureaucratic overhead:  16.6%  (Ungovernability)
 	2.  Upkeep costs:  -8.26%  (Merchantry)
