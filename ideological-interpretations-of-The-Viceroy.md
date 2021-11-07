@@ -1128,24 +1128,27 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
 	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 46.  Prenatal Education
-	1.  Author protest:  I think this possibly should be Ancestral Recording.  I wrote below that Ancestral Recording should be where the University is; I'm not sure.  I don't see Prenatal Education as a 'real' technology unless it's a *Panarchic* technology, and the rest of what I write about it will probably explain why.
-	2.  Author protest:  Countermanding the above, I think this might be something that would *follow from* Ancestral Recording, shifting the University to the Panarchy and replacing it with Ancestral Recording.  This would position the Commonwealth Consensus as a remarkable lineage society which establishes extreme genetic self-knowledge as its foundation, since they would have Creche Schools leading to Ancestral Recording, which then lead to Prenatal Education.
-	3.  Mechanism proposal:  Does anyone remember those "listen to classical music so your baby will be smarter" ads?  Those were common in the 90s, and as a classical music fan in childhood, they contributed to my sense that reproduction was being treated as the entire purpose of life.  Sex was the authority I had to accept.  This is... the gentlest, most harmless version of Prenatal Education.
-	4.  Mechanism proposal:  Life-planning.  Arranged marriages.  Children being born for roles, quite literally.  Possibly even caste systems and vertical eugenics (vertical eugenics is eugenics by lineage, ie sterilizing the poor, as contrasted to horizontal eugenics, which is eugenics via gene therapy).  This tech is authoritarian.
-	5.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
-	6.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
-	7.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
-	8.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
-	9.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
-	10.  Liberation rating:  1/5
-	11.  Protection rating:  2/5
-	12.  Technological smoothness:  5/5
-	13.  Technological extremophilia:  5/5
-	14.  Stress/Boredom rating:  4/5 (Stressful)
-	15.  Me-points:  -1/3
-	16.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
-	17.  Special categories:  Hypersmooth, Nightmare, Failsafe
-	18.  Conversion potential:  Commonwealth<->Empire (limited)
+	1.  Challenge cured:  Primitive education
+		1.  Challenge cure interpretation:  This challenge cure pushes children harder to perform.  They're supposed to hit the ground running, put their nose to the grindstone, and fulfill all their parents' ambitions for their lives, all while hiring fewer educators to do more work.
+		2.  Challenge cure qualm:  These schools sound unpleasant for children.  Can we work around this cure instead of implementing it?  How about waiting until we've got a lot of Happiness technologies implemented?
+	2.  Author protest:  I think this possibly should be Ancestral Recording.  I wrote below that Ancestral Recording should be where the University is; I'm not sure.  I don't see Prenatal Education as a 'real' technology unless it's a *Panarchic* technology, and the rest of what I write about it will probably explain why.
+	3.  Author protest:  Countermanding the above, I think this might be something that would *follow from* Ancestral Recording, shifting the University to the Panarchy and replacing it with Ancestral Recording.  This would position the Commonwealth Consensus as a remarkable lineage society which establishes extreme genetic self-knowledge as its foundation, since they would have Creche Schools leading to Ancestral Recording, which then lead to Prenatal Education.
+	4.  Mechanism proposal:  Does anyone remember those "listen to classical music so your baby will be smarter" ads?  Those were common in the 90s, and as a classical music fan in childhood, they contributed to my sense that reproduction was being treated as the entire purpose of life.  Sex was the authority I had to accept.  This is... the gentlest, most harmless version of Prenatal Education.
+	5.  Mechanism proposal:  Life-planning.  Arranged marriages.  Children being born for roles, quite literally.  Possibly even caste systems and vertical eugenics (vertical eugenics is eugenics by lineage, ie sterilizing the poor, as contrasted to horizontal eugenics, which is eugenics via gene therapy).  This tech is authoritarian.
+	6.  Downside analysis:  People aren't THAT good at predicting their descendant's talents and preferences.  I don't know how much I should need to say here.  The mismatch stories are likely to be awful.
+	7.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
+	8.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
+	9.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
+	10.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
+	11.  Liberation rating:  1/5
+	12.  Protection rating:  2/5
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  5/5
+	15.  Stress/Boredom rating:  4/5 (Stressful)
+	16.  Me-points:  -1/3
+	17.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
+	18.  Special categories:  Hypersmooth, Nightmare, Failsafe
+	19.  Conversion potential:  Commonwealth<->Empire (limited)
 47.  University System
 	1.  Challenge cured:  Segregated Education
 	2.  Challenge cure interpretation:  Looking at the history of Earth, it looks like universities pressed education to desegregate by getting people enthusiastic about ideas and wanting to share them with people across the arbitrary boundaries that people try to draw.  The universities also provide the talent to quantify the costs of segregation and challenge it on the merits.  This is all very ethical, but somewhat expensive.
