@@ -1573,6 +1573,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/boredom rating:  4/5 (Stressful)
 	12.   Me-points:  1/3
 	13.   Special categories:  Detached, Galactic Politics, Homogenizing
+70.   Nationalist indoctrination
+	1.   Challenge cured: History of Horrors
+		1.   Challenge cure interpretation: I don't want to think about it.
+	2.   Authorial protest:  I don't want to think about this tech.  It makes the Commonwealth look nightmarishly eugenicist in the ancient sociopathic sense and incapable of enough empathy to understand what happiness even *is*.  They need something else in this slot, and I don't know what to put here yet.
+	3.   Bureaucratic waste analysis:  Genocide.
+	4.   Liberation rating:  0/5
+	5.   Protection rating:  1/5
+	6.   Technological smoothness:  5/5
+	7.   Technological extremophilia:  2/5
+	8.   Stress/boredom rating:  5/5 (Screaming)
+	9.   Me-points:  -1/3
+	10.   Special categories:  Homogenizing, Nightmare
 
 
 ---
