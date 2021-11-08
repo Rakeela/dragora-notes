@@ -961,7 +961,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 37.  Hydroponic Farms
 	1.  Challenge cured:  Photosynthetic Plague
-	2.  Challenge cure interpretation:  Closed environment farming permits crops to be grown despite the plague and brings in the appropriate research talent to research curing it.
+		1.  Challenge cure interpretation:  Closed environment farming permits crops to be grown despite the plague and brings in the appropriate research talent to research curing it.
+	2.  Authorial protest:  This should be moved to where Zero Gravity Farms is.  I'm not sure what should be put here, but I'll keep thinking about it.
 	3.  Mechanism proposal:  Wow, literalism.
 	4.  Mechanism proposal:  There's no reason to assume this technology is anything but what it says on the tin.  It's so straightforward!
 	5.  Downside analysis:  This is so much less impressive than the other technologies in the game - I'm not saying it wouldn't work like it says! - that it comes off as boring and unmarvelous.
@@ -1499,25 +1500,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	1.   Challenge cured:  High Gravity
 		1.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
 		2.   Alternate cure interpretation:  No, it's a reference to the metaphorical interpretation here where this 'technology' is actually job subsidies for people who love some kind of work that doesn't pay off enough.  It's good hedonology, but I LIKE dignified people.  I don't want to cure high gravity people.  v.-.v
-	2.   Author protest:  I love these, and I hate these.  They're such paradisic farm technology, but they're something that makes total sense to be crushingly expensive.
-	3.   Mechanism proposal:  Megastructures.  For farming.  In space.  Not as bad as the icon represents (it looks like a world-let in a glass bubble), but crushingly expensive.
-	4.   Downside analysis:  Oh god the expense.  This rarely pays off.  The system-wide farming technologies only pay off if they're implemented together, and that's even more expensive.  These societies start building space platform after space platform after space platform to produce exotic biological products (food, medicine, and biological inputs and/or replacements for industrial goods).
-	5.   Progression analysis:  Why does this lead to Orbital Hospitals?  I kind of get it and I kind of don't.  By the time society is lifting farmers into orbit en masse, it does make sense that you'd get orbital hospitals, .
-	6.   Author appeal:  I want one of these jobs!
-	7.   Author protest:  Ow.  I'm not sure I want to live in a society that would implement this.  I don't think it's a good idea.
-	8.   Alternate interpretation:  It's a joke about people who really love farming in a good-humored way.  This goes with the alternate cure interpretation.
-	9.   Downside analysis:  Lifting a whole lot of people into space reduces the average safety of space.  It really would.  This society would work much harder to keep space safe, and achieve imperfect results.  The whole chain of orbital habitats -> zero gravity farms -> vacuum-based life creates this issue, though orbital hospitals would increase safety overall.
-	10.   Downside analysis:  Slight safety flaws also applies in the alternative interpretation, since it suggests more jobs in society are held by people who love their work enough to dance.
-	11.   Categorization:  The alternative interpretation qualifies this as a Hedonological technology, but I'm reluctant to credit it.  Even though I want this job.  Partially because I don't want the alternate interpretation's job.  Unless maybe it's a hydroponic plant supplied by microdesalination on a seastead... but that's painful.
-	12.   Bureaucratic waste analysis:  Oh god the expense.
-	13.   Liberation rating:  5/5
-	14.   Protection rating:  4/5
-	15.   Technological smoothness:  1/5
-	16.   Technological extremophilia:  5/5
-	17.   Stress/Boredom rating:  2/5 (Calm)
-	18.   Me-points:  1/3
-	19.   Special category:  Unknown
-	20.   Conversion potential:  Empire<->Commonwealth (Limited)
+	2.   Authorial protest:  I love these, and I hate these.  They're such paradisic farm technology, but they're something that makes total sense to be crushingly expensive.
+	3.   Authorial protest:  This slot should be just Hydroponic Farms.  The icon already makes it look like they're built up in space!  
+	4.   Mechanism proposal:  Megastructures.  For farming.  In space.  Not as bad as the icon represents (it looks like a world-let in a glass bubble), but crushingly expensive.
+	5.   Downside analysis:  Oh god the expense.  This rarely pays off.  The system-wide farming technologies only pay off if they're implemented together, and that's even more expensive.  These societies start building space platform after space platform after space platform to produce exotic biological products (food, medicine, and biological inputs and/or replacements for industrial goods).
+	6.   Progression analysis:  Why does this lead to Orbital Hospitals?  I kind of get it and I kind of don't.  By the time society is lifting farmers into orbit en masse, it does make sense that you'd get orbital hospitals, .
+	7.   Author appeal:  I want one of these jobs!
+	8.   Author protest:  Ow.  I'm not sure I want to live in a society that would implement this.  I don't think it's a good idea.
+	9.   Alternate interpretation:  It's a joke about people who really love farming in a good-humored way.  This goes with the alternate cure interpretation.
+	10.   Downside analysis:  Lifting a whole lot of people into space reduces the average safety of space.  It really would.  This society would work much harder to keep space safe, and achieve imperfect results.  The whole chain of orbital habitats -> zero gravity farms -> vacuum-based life creates this issue, though orbital hospitals would increase safety overall.
+	11.   Downside analysis:  Slight safety flaws also applies in the alternative interpretation, since it suggests more jobs in society are held by people who love their work enough to dance.
+	12.   Categorization:  The alternative interpretation qualifies this as a Hedonological technology, but I'm reluctant to credit it.  Even though I want this job.  Partially because I don't want the alternate interpretation's job.  Unless maybe it's a hydroponic plant supplied by microdesalination on a seastead... but that's painful.
+	13.   Bureaucratic waste analysis:  Oh god the expense.
+	14.   Liberation rating:  5/5
+	15.   Protection rating:  4/5
+	16.   Technological smoothness:  1/5
+	17.   Technological extremophilia:  5/5
+	18.   Stress/Boredom rating:  2/5 (Calm)
+	19.   Me-points:  1/3
+	20.   Special category:  Unknown
+	21.   Conversion potential:  Empire<->Commonwealth (Limited)
 66.   Ancestral Recording
 	1.   Challenge cured:  Grievance culture
 		1.   Challenge cure interpretation:  It's a mirror.  If there's a kind of people and a kind of culture that does this, showing them that they've been doing this for generations should either resolve their concerns more completely, or get them to stop doing something that they hate when they see their ancestors doing it.
@@ -1577,7 +1579,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	1.   Challenge cured: History of Horrors
 		1.   Challenge cure interpretation: I don't want to think about it.
 	2.   Authorial protest:  I don't want to think about this tech.  It makes the Commonwealth look nightmarishly eugenicist in the ancient sociopathic sense and incapable of enough empathy to understand what happiness even *is*.  They need something else in this slot, and I don't know what to put here yet.
-	3.   Replacement speculation:  An industrial automation tech?  Something about *productive* hedonology?  Maybe even an agriculture tech.  The Commonwealth ought to have *something* in the farming category.  Maybe this is the perfect place to put Zero-Gravity Farms, because they're awesome workplaces that would really attract people in large numbers to farming.
+	3.   Replacement speculation:  An industrial automation tech?  Something about *productive* hedonology?  Maybe even an agriculture tech.  The Commonwealth ought to have *something* in the farming category.  Maybe this is the perfect place to put Zero Gravity Farms, because they're awesome workplaces that would really attract people in large numbers to farming.
 	4.   Bureaucratic waste analysis:  Genocide.
 	5.   Liberation rating:  0/5
 	6.   Protection rating:  1/5
