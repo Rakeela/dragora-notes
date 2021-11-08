@@ -331,13 +331,14 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
 	8.  Liberation rating:  5/5
 	9.  Protection rating:  3/5, +1 with Seat of Justice, +1 with Panarchic Symposium
-	10.  Technological smoothness:  5/5
-	11.  Stress/Boredom rating:  1/5 (Dull)
-	12.   Me-points:  1/3
-	13.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
-	14.  Kind of person most protected:  Bureaucrats
-	15.  Special categories:  Failsafe, Hedonological, Detached
-	16.  Conversion potential:  Commonwealth<->Panarchy
+	10.  Siphon quality:  6/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
+	13.  Stress/Boredom rating:  1/5 (Dull)
+	14.   Me-points:  1/3
+	15.   Kind of person most protected:  Bureaucrats
+	16.   Special categories:  Failsafe, Hedonological, Detached
+	17.   Conversion potential:  Commonwealth<->Panarchy
 9.  Subconscious Education
 	1.  Authorial Protest:  This tech slot should REALLY be occupied by "Dream Reeves", a service that protects peoples' slumber.  People who sleep perfectly at night are more culturally competent AND stronger-willed AND happier, which should be its mechanical effect.  The +Happiness buff here would be more valuable to the Panarchy than the additional research.
 	2.  Mechanism proposal:  The literally described technology turns dreams into an edutainment system, using interfaces between the panarchic nanotechnologies and the setting's cybernetics.  Data-organization is what dreams are for, right?  This makes them BETTER at it.
@@ -365,7 +366,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Kind of person most protected:  Princess Luna.  More seriously, this tech protects the dream reeves themselves, as the dream-crafter professions exist only where this technology is implemented.
 	25.  Special categories:  Empathy Maximizer, Mind Control, Nightmare
 	26.  Alternate (Dream Reeves) categories:  Empathy Maximizer, Mind Control, Homogenizing
-	27.  Conversion potential: Empire<->Panarchy
+	27.  Conversion potential: Empire<->Panarchy (Limited)
 10.  Planned Urbanization
 	1.  Mechanism proposal:  Implementing this fixes your government's public sector logistics across the entire district.  The trains run on time, the trash gets collected, and the tapwater runs clear.  This doesn't make your government virtuous, but it's a nice investment in basic quality of life.  This encourages urbanization by making cities nicer places to live.
 	2.  Mechanism proposal:  The general ubiquitous investments that galactic society makes in extirpating contagious diseases are under this tech's aegis, too.  This encourages urbanization by making cities less sickening places to live.  Also, less contagious disease means people can safely get closer to each other in lots of ways.
@@ -1558,8 +1559,25 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  5/5 (screaming) (worst two interpretations), 3/5 (eustress)
 	15.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
 	16.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
+	17.   Conversion potential:  Unknown
 68.   Passive Farming
 	1.   Challenge cured:  Sterilized Fields
+		1.   Challenge cure interpretation:  The process of "embedding biological computers" into the landscape also improves its soil quality, by whatever means.  The hard cases could involve importing soil nanotechnologies from other territories.
+		2.   Challenge cure qualm:  Some areas really should just import food.  Scraping up every bit of agricultural productivity is too much sometimes.
+	2.   Mechanism proposal:  This says it embeds biological computers in the landscape.  I treat that as a joke, a simple lie, referring to farmers as biological computers.
+	3.   Mechanism proposal:  If there are systems that automatically process the soil to improve its quality, such as networks of decomposers (fungi), improving their presence in the biome could also be "embedding biological computers" in a sense.
+	4.   Mechanism proposal:  At extreme wealth, this just gets literal.  No longer a joke, the extremely advanced societies really do embed computational materials into everything.  Agricultural nanotechnologies!
+	5.   Categorization:  I'm not sure this is anything but hypersmooth.
+	6.   Bureaucratic waste analysis:  I don't think this should be bureaucratic, but to the extent that it is, it's all agricultural bureaucracy.  I think the game is just wrong about the bureaucratic weight of some technologies.
+	7.   Liberation rating:  3/5
+	8.   Protection rating:  4/5
+	9.   Siphon quality:  4/5
+	10.   Technological smoothness:  5/5
+	11.   Technological extremophilia:  2/5
+	12.   Stress/boredom rating:  1/5 (Dull)
+	13.   Me-points:  0/3
+	14.   Special categories:  Hypersmooth
+	15.   Conversion potential:  Commonwealth<->Imperial (limited)
 69.   Panarchic Data Post
 	1.   Challenge cured: Scientific Isolation
 		1.   Challenge cure interpretation:  The panarchic data posts tap into the galaxy's social sciences and make them available to the local district.  Having this technology in the territory makes it possible to realign sciences with the galaxy's expectations.
@@ -1571,11 +1589,13 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
 	7.   Liberation rating:  5/5
 	8.   Protection rating:  4/5
-	9.   Technological smoothness:  4/5
-	10.   Technological extremophilia:  5/5
-	11.   Stress/boredom rating:  4/5 (Stressful)
-	12.   Me-points:  1/3
-	13.   Special categories:  Detached, Galactic Politics, Homogenizing
+	9.   Siphon quality:  4/5
+	10.   Technological smoothness:  4/5
+	11.   Technological extremophilia:  5/5
+	12.   Stress/boredom rating:  4/5 (Stressful)
+	13.   Me-points:  1/3
+	14.   Special categories:  Detached, Galactic Politics, Homogenizing
+	15.   Conversion potential:  Commonwealth<->Panarchy (limited)
 70.   Nationalist indoctrination
 	1.   Challenge cured: History of Horrors
 		1.   Challenge cure interpretation: I don't want to think about it.
@@ -1590,22 +1610,66 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/boredom rating:  5/5 (Screaming)
 	11.   Me-points:  -1/3
 	12.   Special categories:  Homogenizing, Nightmare
+	13.   Conversion potential:  Unknown
 71.   Right to Happiness
-	1.   Author protest:  This technology is vapid.  It's not clear what it encompasses, save perhaps that it entrenches the dedication to happiness itself as an objective.
-	2.   Mechanism proposal:  This technology tilts all other technologies towards the service of happiness.  It is a dedication that happiness is what all the other technologies are *for*.  I think it's integral.
-	3.   Mechanism proposal:  This also bans torture.  It generally forbids all other technologies from being used to deliberately inflict misery.  I think it's essential; the Commonwealth Unifiers tech tree is generally the failsafe tech tree.
-	4.   Progression analysis:  This is the apex of the hypersmooth technologies, because it does nothing of itself, and everything via smoothing other technologies.
-	5.   Categorization:  This is also the apex of the failsafe technologies, because it does not ever fail wrong of itself, and can always (logically) be abandoned when necessary (or "necessary").  The right to happiness only, at worst, makes other things fail differently.
-	6.   Categorization:  EVERYTHING gets more hedonological once this is in place.
-	7.   Bureaucratic waste analysis:  This shouldn't increase bureaucratic waste.
-	8.   Liberation rating:  5/5
-	9.   Protection rating:  5/5
-	10.   Siphon quality:  5/5
+	1.   Challenge cured:  Culture of Outrage
+		1.   Challenge cure interpretation:  The people who are outraged at every government decision do not believe that the government is acting in defense of happiness... especially their own.  The people who promote the right to happiness can reassure them.
+		2.   Challenge cure qualm:  The Right to Efficiency right after the Right to Happiness strikes me as potentially promoting a culture of outrage itself.  These technologies strike me as a tight loop.  What's going on?
+	2.   Author protest:  This technology is vapid.  It's not clear what it encompasses, save perhaps that it entrenches the dedication to happiness itself as an objective.
+	3.   Mechanism proposal:  This technology tilts all other technologies towards the service of happiness.  It is a dedication that happiness is what all the other technologies are *for*.  I think it's integral.
+	4.   Mechanism proposal:  This also bans torture.  It generally forbids all other technologies from being used to deliberately inflict misery.  I think it's essential; the Commonwealth Unifiers tech tree is generally the failsafe tech tree.
+	5.   Progression analysis:  This is the apex of the hypersmooth technologies, because it does nothing of itself, and everything via smoothing other technologies.
+	6.   Categorization:  This is also the apex of the failsafe technologies, because it does not ever fail wrong of itself, and can always (logically) be abandoned when necessary (or "necessary").  The right to happiness only, at worst, makes other things fail differently.
+	7.   Categorization:  EVERYTHING gets more hedonological once this is in place.
+	8.   Bureaucratic waste analysis:  This shouldn't increase bureaucratic waste.
+	9.   Liberation rating:  5/5
+	10.   Protection rating:  5/5
+	11.   Siphon quality:  5/5
+	12.   Technological smoothness:  5/5
+	13.   Technological extremophilia:  Territory average
+	14.   Stress/boredom rating:  2/5 (Calm)
+	15.   Me-points:  3/3  (Necessary, but not sufficient)
+	16.   Special categories:  Hedonological, Failsafe, Hypersmooth
+	17.   Conversion potential:  Unknown
+72.   Dyson Swarm
+	1.   Mechanism proposal:  As written.  The dyson swarms massively increase "land area" through filling space with habitats.
+	2.   Downside analysis:  Most of the land produced by dyson swarms is logistically marginal and void of natural resources.
+	3.   Apologia:  Advanced societies often need space more than natural resources.
+	4.   Apologia:  Space-tugs can probably pull these to different systems as needed.  This would increase the siphon quality by an unusual way; if the system were poorly governed, the dyson swarms could retrieve a lot of resources via space-tug.
+	5.   Mechanism proposal:  If the habitats are indeed mobile, this technology could also start inviting immigrants who arrive with entire habitats.  The Imperial Reformers have two of the game's three trade technologies, and strike me as a highly mobile faction who would appreciate this potential.
+	6.   Mechanism proposal:  These offer arable land.  It takes a lot of composting talent to create arable land on metal structures... but it's more than doable, and the Empire has the right skills available to it.  The sustainability of massive populations would increase as food production would scale to match population size nigh-indefinitely.
+	7.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
+	8.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
+	9.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
+	10.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.  I think it's a high-quality siphon at least, suggestive of good independence governance and/or good scavenge from bad independence governance.
+	11.   Liberation rating:  5/5
+	12.   Protection rating:  3/5
+	13.   Siphon quality:  6/5  (Yes, it's better than 5/5)
+	14.   Technological smoothness:  2/5
+	15.   Technological extremophilia:  5/5
+	16.   Stress/boredom rating:  3/5 (Eustress)
+	17.   Me-points:  3/3  (Necessary, but not sufficient)
+	18.   Special categories:  Failsafe, Galactic Politics, Diversifying
+	19.   Conversion potential:  Limited Omniconverter
+73.   Open Immigration
+	1.   Challenge cured:  Closed Culture
+		1.   Challenge cure interpretation:  This is pretty straightforward.
+		2.   Challenge cure qualm:  Wait, doesn't this maximize the dissonance of open immigration?
+	2.   Mechanism proposal:  WYSIWYG.  It even acknowledges that doing this has challenges.  That dings the protection rating, btw.
+	3.   Mechanism proposal:  As the Right to Happiness tilts all technologies towards happiness, this tilts all population-increasing technologies towards immigrationist interpretations.
+	4.   Downside analysis:  This is "not politically correct" to acknowledge, but immigrants from authoritarian communities are often still relatively authoritarian in the communities to which they migrate, even if they are relatively liberal in the communities from which they are migrating.  This dings the liberation rating.
+	5.   Siphon analysis:  As Dyson Swarms improve the siphon to 6/5 by suggesting that people leave peacefully with resources, this one increases it the same way.  These link the galaxy together into a network of free movement from which people depart peacefully from the places where they cannot live.
+	6.   Conversion analysis:  This is an omniconverter.  It's not (usually) that it changes opinions, but it encourages free movement so that population shifts are less suggestive of conflict as it develops.
+	7.   Bureaucratic waste analysis:  The technology explains this very well, so this is hyperliteral.
+	8.   Liberation rating:  4/5
+	9.   Protection rating:  4/5
+	10.   Siphon quality:  6/5
 	11.   Technological smoothness:  5/5
-	12.   Technological extremophilia:  Territory average
-	13.   Stress/boredom rating:  2/5 (Calm)
-	14.   Me-points:  3/3  (Necessary but not sufficient)
-	15.   Special categories:  Hedonological, Failsafe, Hypersmooth
+	12.   Technological extremophilia:  4/5
+	13.   Stress/Boredom rating:  3/5 (Eustress)
+	14.   Me-points:  2/3
+	15.   Special categories:  Hypersmooth, Galactic Politics, Hedonological
+	16.   Conversion potential:  Omniconverter
 
 
 ---
@@ -1704,6 +1768,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-11-2;  Maybe I should modify these to have a "reserve funding fraction" which represents the degree to which I think the bureaucratic waste is being funneled into reserve funding for a new government, vs the degree to which I think that potential income is being wasted or destroyed.
 
 2021-11-6;  I'm adding a new rating called "Siphon Quality" which measures the reserve funding extraction rate implied by the technology.  Some of them are lossier than others, which could be corruption, wastage, or ongoing expenses.  A siphon quality analysis might replace the bureaucratic waste analysis eventually.
+
+2021-11-8;  I think I'll eventually want to establish icons for the different tech categories and individual technology icons as well.  These icons will all be abstract representations within a circle, and the particular abstract representation will be made by connecting all the technologies in the category (for categories) and all the technologies in the proposed synergy (for individual technologies).  This should produce unique icons for each category and technology, though some of them will be quite similar to each other.
 
 ---
 The Much-Reviled Lower Classes
