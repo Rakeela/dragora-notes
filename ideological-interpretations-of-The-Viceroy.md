@@ -1517,7 +1517,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Technological smoothness:  1/5
 	17.   Technological extremophilia:  5/5
 	18.   Stress/Boredom rating:  2/5 (Calm)
-	19.   Me-points:  1/3
+	19.   Me-points:  2/3
 	20.   Special category:  Unknown
 	21.   Conversion potential:  Empire<->Commonwealth (Limited)
 66.   Ancestral Recording
