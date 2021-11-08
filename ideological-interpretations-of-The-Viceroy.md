@@ -1117,16 +1117,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Apologia:  Whatever else may or may not be corrupt in society, I expect the Symposia itself to be a technology representing a well of integrity.  It opens transparency as society grows clouded.
 	10.  Apologia:  I think the vast well of information and impressions gathered from the symposia would be essential for long-term policy research.  They help the public debate in a smarter way, they get policy research out of the ivory tower, and (as a minor function) they provide creative fodder for society to make stories out of.
 	11.  Progression analysis:  I'm not really clear how this progresses into the Panarchic Cathedral... despite that I personally kind of embody the connection.  I *agree* with the connection, I just don't understand it.  I see myself in both technologies and it reminds me of how one of the decisions that would've shaped my life totally differently was that I decided against seeking to join a seminary school when I was twelve.  If I'd followed Kairn's path in this lifetime, I'd have sought to go from the symposium to the cathedral... sometimes I regret not doing that.
-	12.  Bureaucratic waste analysis:  Like with the Seat of Policy, I see this as a very straightforward pricetag.  The district produces a lot more analytical noise that has to be processed, but doing this work is very 'pure' albeit very literally bureaucratically expensive.
-	13.  Liberation rating:  5/5
-	14.  Public protection rating:  5/5
-	15.  Technological smoothness:  5/5
-	16.  Technological extremophilia:  District average
-	17.  Stress/Boredom rating:  3/5 (Eustress)
-	18.  Me-points:  2/3
-	19.  Kind of person most protected:  Wannabe speechwriters
-	20.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
-	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
+	12.  Author appeal:  Even though this is me-points 2/3, this is one of the most profoundly 'me' technologies on the tech tree.  This was my childhood dream job, and by surfacing people who contribute to art and science, it is still within my own potential should I focus my will enough.  The thing is... it doesn't reduce my opposition to reproduction.  The thing with *that* is... I'M ASEXUAL!
+	13.  Bureaucratic waste analysis:  Like with the Seat of Policy, I see this as a very straightforward pricetag.  The district produces a lot more analytical noise that has to be processed, but doing this work is very 'pure' albeit very literally bureaucratically expensive.
+	14.  Liberation rating:  5/5
+	15.  Public protection rating:  5/5
+	16.  Technological smoothness:  5/5
+	17.  Technological extremophilia:  District average
+	18.  Stress/Boredom rating:  3/5 (Eustress)
+	19.  Me-points:  2/3
+	20.  Kind of person most protected:  Wannabe speechwriters
+	21.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
+	22.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 46.  Prenatal Education
 	1.  Challenge cured:  Primitive education
 		1.  Challenge cure interpretation:  This challenge cure pushes children harder to perform.  They're supposed to hit the ground running, put their nose to the grindstone, and fulfill all their parents' ambitions for their lives, all while hiring fewer educators to do more work.
