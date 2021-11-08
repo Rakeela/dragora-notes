@@ -1208,16 +1208,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Progression analysis:  This improves society's retention of boredom-prone people.  That makes it extremophilic.  However, it doesn't say anything of specific technological development, so it's hypersmooth.
 	11.  Author appeal:  Even though it's not good for me personally, I think this reflects a rightful focus of government on hedonological organization... in the Love interpretation.  The Love interpretation of Leisure Subsidies is the most harmless technology on the tech tree; it's really trivial to imagine how it causes 'bureaucratic waste' and it does so by purest anti-authoritarianism.
 	12.  Authorial protest:  In the Hate interpretation, it provides a potential reason why The Viceroy's setting is constantly being torn down by bureaucratic waste.  Such a desperation to misuse, manipulate, and discard people is extremely wasteful and leads to massive intransigence.
-	13.  Bureaucratic waste analysis:  The Love interpretation only wastes bureaucrats in the literal way, by adding another layer of bureaucracy.  The Hate interpretation promotes intransigence to government and rational rebellion against sociopathic leaders, wasting bureaucrats in the metaphorical way.
-	14.  Liberation rating:  1/5 (Hate); 5/5 (Love)
-	15.  Protection rating:  1/5 (Hate); 5/5 (Love)
-	16.  Technological smoothness:  5/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  3/5 (Eustress)
-	19.  Me-points:  -1/3 (Hate); 1/3 (Love)
-	20.  Kind of person most protected:  Stalkers (Hate); party people (Love)
-	21.  Special categories:  Hypersmooth, Diversifying, Hedonological, Furry
-	22.  Conversion potential:  Unknown
+	13.  Mechanism proposal:  I have just thought of the MOST AWESOME CYBERTECH VERSION of this technology!  Imagine if people had two personalities running networked in their head, and were constantly undergoing personality refusion to keep the two synchronized as exactly as possible.  One of them would ALWAYS be playing games (at leisure), while the other one remained busy (at work).  Since they're the SAME personality, people would be doing both at once!  Maybe this kind of thing, or other super-productive hedonological methods, are what happen when these are implemented at 100% administrative efficiency!
+	14.  Bureaucratic waste analysis:  The Love interpretation only wastes bureaucrats in the literal way, by adding another layer of bureaucracy.  The Hate interpretation promotes intransigence to government and rational rebellion against sociopathic leaders, wasting bureaucrats in the metaphorical way.
+	15.  Liberation rating:  1/5 (Hate); 5/5 (Love)
+	16.  Protection rating:  1/5 (Hate); 5/5 (Love)
+	17.  Technological smoothness:  5/5
+	18.  Technological extremophilia:  5/5
+	19.  Stress/Boredom rating:  3/5 (Eustress)
+	20.  Me-points:  -1/3 (Hate); 1/3 (Love)
+	21.  Kind of person most protected:  Stalkers (Hate); party people (Love)
+	22.  Special categories:  Hypersmooth, Diversifying, Hedonological, Furry
+	23.  Conversion potential:  Unknown
 50.  Sentient Capital
 	1.  Authorial protest:  As written, this "technology" is gibberish.  You can't make individual units of money sentient.  The closest you can do is slave-trading.  If your currency is slaves, you have sentient capital.
 	2.  Mechanism proposal:  Therefore...  This replaces a meaningful fraction of the planet's currency with AI bankers whose services are traded as a form of fungible currency.  Virtual slave bankers.
