@@ -13,4 +13,9 @@ I was actively recovering without this tyrannical abusiveness.  I was getting in
 The only silver lining is, the only thing I use Telegram for is talking to artists.  So apparently whoever is trying to "help"... thinks talking to artists is a form of work for me.  Could be worse, I guess.
 
 ---
+I need to keep writing on the Wasteland Engineering project.  The Chromafeathers are what keep recurring to my mind.  They're absurd, impossible, but fixating...  they have that effect in-setting, too.  They push the boundary of the setting, which is otherwise hard sci-fi, with one science fantasy element...  I want to write about them, and *that* is keeping the setting alive in my long-term memory.
+
+It's a cold war setting.
+
+---
 Back to [[day-post-archive]]
