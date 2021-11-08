@@ -1581,14 +1581,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		1.   Challenge cure interpretation: I don't want to think about it.
 	2.   Authorial protest:  I don't want to think about this tech.  It makes the Commonwealth look nightmarishly eugenicist in the ancient sociopathic sense and incapable of enough empathy to understand what happiness even *is*.  They need something else in this slot, and I don't know what to put here yet.
 	3.   Replacement speculation:  An industrial automation tech?  Something about *productive* hedonology?  Maybe even an agriculture tech.  The Commonwealth ought to have *something* in the farming category.  Maybe this is the perfect place to put Zero Gravity Farms, because they're awesome workplaces that would really attract people in large numbers to farming.
-	4.   Bureaucratic waste analysis:  Genocide.
-	5.   Liberation rating:  0/5
-	6.   Protection rating:  1/5
-	7.   Technological smoothness:  5/5
-	8.   Technological extremophilia:  2/5
-	9.   Stress/boredom rating:  5/5 (Screaming)
-	10.   Me-points:  -1/3
-	11.   Special categories:  Homogenizing, Nightmare
+	4.   Mechanism proposal:  On the bright side, and fittingly to its proximity to open borders in the Commonwealth Consensus tech tree, this technology could advance wealth by encouraging people who would consider themselves wealthier if they immigrated to do so under nationalistic terms.  Much of the population growth in this game is such as I interpret to be immigration rather than strictly reproduction, since a galaxy of immortals who are often at odds with their government should have a lot of migration.
+	5.   Bureaucratic waste analysis:  Genocide.
+	6.   Liberation rating:  0/5
+	7.   Protection rating:  1/5
+	8.   Technological smoothness:  5/5
+	9.   Technological extremophilia:  2/5
+	10.   Stress/boredom rating:  5/5 (Screaming)
+	11.   Me-points:  -1/3
+	12.   Special categories:  Homogenizing, Nightmare
 
 
 ---
