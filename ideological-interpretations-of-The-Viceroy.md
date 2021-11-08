@@ -1025,7 +1025,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Technological smoothness:  5/5
 	15.  Technological extremophilia:  1/5
 	16.  Stress/Boredom rating:  3/5 (Eustress)
-	17.  Me-points:  2/3
+	17.  Me-points:  3/3  (Note: It's necessary to me, but not sufficient.)
 	18.  Kind of person most protected:  Varies.
 	19.  Special categories:  Hypersmooth, Luddistic, Rehabilitative
 	20.  Conversion potential: Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
@@ -1590,6 +1590,22 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/boredom rating:  5/5 (Screaming)
 	11.   Me-points:  -1/3
 	12.   Special categories:  Homogenizing, Nightmare
+71.   Right to Happiness
+	1.   Author protest:  This technology is vapid.  It's not clear what it encompasses, save perhaps that it entrenches the dedication to happiness itself as an objective.
+	2.   Mechanism proposal:  This technology tilts all other technologies towards the service of happiness.  It is a dedication that happiness is what all the other technologies are *for*.  I think it's integral.
+	3.   Mechanism proposal:  This also bans torture.  It generally forbids all other technologies from being used to deliberately inflict misery.  I think it's essential; the Commonwealth Unifiers tech tree is generally the failsafe tech tree.
+	4.   Progression analysis:  This is the apex of the hypersmooth technologies, because it does nothing of itself, and everything via smoothing other technologies.
+	5.   Categorization:  This is also the apex of the failsafe technologies, because it does not ever fail wrong of itself, and can always (logically) be abandoned when necessary (or "necessary").  The right to happiness only, at worst, makes other things fail differently.
+	6.   Categorization:  EVERYTHING gets more hedonological once this is in place.
+	7.   Bureaucratic waste analysis:  This shouldn't increase bureaucratic waste.
+	8.   Liberation rating:  5/5
+	9.   Protection rating:  5/5
+	10.   Siphon quality:  5/5
+	11.   Technological smoothness:  5/5
+	12.   Technological extremophilia:  Territory average
+	13.   Stress/boredom rating:  2/5 (Calm)
+	14.   Me-points:  3/3  (Necessary but not sufficient)
+	15.   Special categories:  Hedonological, Failsafe, Hypersmooth
 
 
 ---

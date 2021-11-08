@@ -18,4 +18,7 @@ I need to keep writing on the Wasteland Engineering project.  The Chromafeathers
 It's a cold war setting.
 
 ---
+I need to play a lot more of The Viceroy to continue forming my thoughts on it.  I think something was done to me, to stop me from "wasting time with games," which crippled my ability to work creatively as a side effect.  My productivity itself depends on games.
+
+---
 Back to [[day-post-archive]]
