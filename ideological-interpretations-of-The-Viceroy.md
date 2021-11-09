@@ -1670,6 +1670,21 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Me-points:  2/3
 	15.   Special categories:  Hypersmooth, Galactic Politics, Hedonological
 	16.   Conversion potential:  Omniconverter
+74.   Lord Economic
+	1.   Challenge cured:
+		1.   Challenge cure interpretation:
+	2.   Author protest:  I hate this tech.  Giving an entire planetary economy to one person?  That makes NO SENSE outside of videogames.  The only good thing about placing this technology is that it endorses categories of simulation gaming.
+	3.   Mechanism proposal:  I got nothin'.  Proving this effective would take more advanced social sciences than we have on Earth.
+	4.   Categorization:  Since this IS only a social science technology, it is hypersmooth.  It doesn't refer to any particular level of advancement.  Like a lot of the Unifier tech tree, it's really tempting to see this as primitive...
+	5.   Bureaucratic waste analysis:  Crushing the thermocline of truth enough to make a single decision-maker effective on the planetary scale would create a massive bureaucracy.
+	6.   Liberation rating:  1/5
+	7.   Protection rating:  2/5
+	8.   Siphon quality:  1/5
+	9.   Technological smoothness:  5/5
+	10.   Technological extremophilia:  5/5
+	11.   Stress/Boredom rating:  3/5 (Eustress)
+	12.   Me-points:  -1/3
+	13.   Special categories:  Hypersmooth
 
 
 ---

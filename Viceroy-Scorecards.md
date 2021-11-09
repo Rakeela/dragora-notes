@@ -11,6 +11,10 @@ Supposedly, according to the voices in my head, the Commonwealth Unifiers are th
 Note that Bureaucratic Overhead in the Weight of Culture (which this measures) is itself a measure of how many turns in the game has gotten.
 
 1.  Panarchy Ritualist Game 1 (Of this scoring type)
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Monoculturalism
+	4.  Economic policy:  Planned Economy
 	1.  Bureaucratic overhead:  16.6%  (Ungovernability)
 	2.  Upkeep costs:  -8.26%  (Merchantry)
 	3.  Crowding limit:  +3.25%  (Engineering)
@@ -28,6 +32,10 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	15.  Taxes paid:  +9%  (Love of government)
 	16.  Fleet capacity growth:  +12%  (Military research)
 2.  Panarchy Ritualist Game 2
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Monoculturalism
+	4.  Economic policy:  Planned Economy
 	1.  Bureaucratic overhead:  +35.9%
 	2.  Upkeep costs:  -18.7%
 	3.  Crowding limit:  +5.5%
@@ -44,4 +52,25 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	14.  Cultural production:  +21%
 	15.  Taxes paid:  +10%
 	16.  Fleet capacity growth:  +32%
+3.  Commonwealth Consensus Game 1
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Interculturalism
+	4.  Economic policy:  Free market
+	5.  Bureaucratic overhead:  +65.1%
+	6.  Upkeep costs:  -30.1%
+	7.  Crowding limit:  +10.5%
+	8.  Weapon firing rate:  +46%
+	9.  Maximum fleet capacity:  +46%
+	10.  Biological production:  +43%
+	11.  Science capacity:  +47%
+	12.  Shield recharge rate:  +54%
+	13.  Rebel income:  -26.5%
+	14.  Industrial production:  +54%
+	15.  Returns on investment:  +28%
+	16.  Ship speed:  +40%
+	17.  Influence:  +41%
+	18.  Cultural production:  +36%
+	19.  Taxes paid:  +24.5%
+	20.  Fleet capacity growth:  +46%
 
