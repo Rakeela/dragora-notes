@@ -1638,19 +1638,20 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.   Apologia:  Space-tugs can probably pull these to different systems as needed.  This would increase the siphon quality by an unusual way; if the system were poorly governed, the dyson swarms could retrieve a lot of resources via space-tug.
 	5.   Mechanism proposal:  If the habitats are indeed mobile, this technology could also start inviting immigrants who arrive with entire habitats.  The Imperial Reformers have two of the game's three trade technologies, and strike me as a highly mobile faction who would appreciate this potential.
 	6.   Mechanism proposal:  These offer arable land.  It takes a lot of composting talent to create arable land on metal structures... but it's more than doable, and the Empire has the right skills available to it.  The sustainability of massive populations would increase as food production would scale to match population size nigh-indefinitely.
-	7.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
-	8.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
-	9.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
-	10.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.  I think it's a high-quality siphon at least, suggestive of good independence governance and/or good scavenge from bad independence governance.
-	11.   Liberation rating:  5/5
-	12.   Protection rating:  3/5
-	13.   Siphon quality:  6/5  (Yes, it's better than 5/5)
-	14.   Technological smoothness:  2/5
-	15.   Technological extremophilia:  5/5
-	16.   Stress/boredom rating:  3/5 (Eustress)
-	17.   Me-points:  3/3  (Necessary, but not sufficient)
-	18.   Special categories:  Failsafe, Galactic Politics, Diversifying
-	19.   Conversion potential:  Limited Omniconverter
+	7.   Progression analysis:  Note that the Weather Control Network icon appears to depict rain drones adjoining actual rainclouds. That technology would also help the dyson swarm farms to maintain their hydration and soil quality.
+	8.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
+	9.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
+	10.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
+	11.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.  I think it's a high-quality siphon at least, suggestive of good independence governance and/or good scavenge from bad independence governance.
+	12.   Liberation rating:  5/5
+	13.   Protection rating:  3/5
+	14.   Siphon quality:  6/5  (Yes, it's better than 5/5)
+	15.   Technological smoothness:  2/5
+	16.   Technological extremophilia:  5/5
+	17.   Stress/boredom rating:  3/5 (Eustress)
+	18.   Me-points:  3/3  (Necessary, but not sufficient)
+	19.   Special categories:  Failsafe, Galactic Politics, Diversifying
+	20.   Conversion potential:  Limited Omniconverter
 73.   Open Immigration
 	1.   Challenge cured:  Closed Culture
 		1.   Challenge cure interpretation:  This is pretty straightforward.
@@ -1685,6 +1686,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/Boredom rating:  3/5 (Eustress)
 	12.   Me-points:  -1/3
 	13.   Special categories:  Hypersmooth
+75.   Deep Inhabitation
+	1.   Authorial protest:  These things would be destroyed by earthquakes!  And they would CAUSE earthquakes above them when they expanded!  Which they would.  They're all at least partially mining cities.
+	2.   Author appeal:  I do love caves, though.  Do you think the underground cities would ever get big enough to allow flight across them?  Oh, I've heard that higher pressures may make flight easier...  Is it wrong to imagine pressurized deep cave cities for fliers?
+	3.   Mechanism proposal:  These vastly increase land area for industry and mining.  It's also functional albeit marginal territory for intellectual activities.
+	4.   Downside analysis:  People think of bunkers when they think of underground cities, and that's for good reason... it's also a *total waste*.  To the extent that these are military settlements, they are a *bad siphon*, since that entrenches bad power over (or rather under) good power.
+	5.   Categorization:  These are both homogenizing and diversifying.  To the extent that they can entrench bad power, they promote homogeneity, yet as another technology that creates 'distance' in society, it also promotes people working together though they have very different natures.  That makes it diversifying.  Either way, it's a nightmare tech, because these people will have occasional nightmares of earthquakes forever.
+	6.   Progression analysis:  This leads into Deep Core Taps because people living in these conditions become rather desperate to control the planetary crust directly!
+	7.   Symbolism thought:  I'm reminded of Phantasy Star 2, 3, and 4 by the combination of Imperial icons and this technology.  There were no underground cities in those games as far as I remember, but those planets seemed to be built of societies where metallic implants were hardly unusual, and the planetary crust was deeply laced with mechanical structures.
+	8.   Bureaucratic waste analysis:  This society's interest in seismology needs to border on obsessive!  These cities require the authorities to understand the state of the planetary crust in exhaustive detail.
+	9.   Liberation rating:  Territory average
+	10.   Protection rating:  Territory average -1
+	11.   Siphon quality:  4/5
+	12.   Technological smoothness:  1/5
+	13.   Technological extremophilia:  5/5
+	14.   Stress/Boredom rating:  3/5 (Eustress)
+	15.   Me-points:  2/3
+	16.   Special categories:  Homogenizing, Diversifying, Nightmare
 
 
 ---
