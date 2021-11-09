@@ -1308,15 +1308,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Apologia:  Of the three Beyonder bureaucratic technologies, this is also the one that most includes childlike curiosity, so I understand why it's the start of the trio.  It encourages every district to develop its own take on the technologies of the setting.  Some districts will be greatly improved!
 	9.  Downside analysis:  ...others, made greatly worse.
 	10.  Mechanism proposal:  The only constant in this technology is the result: the viceregal administration has to assign less of its own administrative talent to get things done in each district.
-	11.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	12.  Liberation rating:  2/5
-	13.  Protection rating:  1/5
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  2/5 (Calm)
-	17.  Me-points: -1/3
-	18.  Special categories:  Diversifying, Hypersmooth, Nightmare
-	19.  Conversion potential:  Unknown
+	11.  Mechanism proposal:  Another option, btw, for interpreting this: The "weight of culture" dudes constantly flooding in might be "Beyonders", and the "Dwellings" are made for each of them to live in.
+	12.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	13.  Liberation rating:  2/5
+	14.  Protection rating:  1/5
+	15.  Technological smoothness:  5/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  2/5 (Calm)
+	18.  Me-points: -1/3
+	19.  Special categories:  Diversifying, Hypersmooth, Nightmare
+	20.  Conversion potential:  Unknown
 55.  Beyonder Embassy
 	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing and what happens as a result of you doing it.
 	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
