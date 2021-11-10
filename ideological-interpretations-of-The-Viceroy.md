@@ -26,10 +26,16 @@ The Six Subcultures
 			 - Strong, ambitious, and heavily tattooed.
 		 - The Rebellion (Panarchic)
  
- - The Monocultural Commonwealth - 
+ - The Commonwealth Unifiers - 
 	 - The Rundown
+		 - I don't have a good sense for these guys, so my notes here can't be 'in character' yet.
+		 - The Unifiers seem to include the Commonwealth Courts as a major focus and they protect the right to happiness, but the Seat of Beauty and the Palace of the Arts come off as commercializing culture.  They're nearly the rationalist community, but they also remind me of ancient warlords, as with Three Shift Societies and their belief in singular poles of competency (the Lords Et Cetera).
+		 - They don't have base growth boosters, but they do have density boosters... and distressingly pure density boosters, at that.  Planned urbanizations and three shift societies are good IMO, but they really do pack people in.
 	 - The Value of Immortality
+		 - Since the Commonwealth Unifiers believe in exalting singular poles of virtue, immortality does them a great service.
+		 - Planned urbanization seems like a good way to help ensure utility workers get access to immortality, too!
 	 - The View on Collapse
+		 - The Seats of Policy inform my view of this.  They know that their policy structures are always imperfect and they know that they *will* collapse.  So they build these, to shuttle talent around.  It's always a brain drain in the moment, but in the long-run it gets people to where they can do more good.
 	 -  The Stereotype
 	 - The Rebellion (Panarchic)
 
