@@ -1710,6 +1710,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/Boredom rating:  3/5 (Eustress)
 	15.   Me-points:  2/3
 	16.   Special categories:  Homogenizing, Diversifying, Nightmare
+76.   Right to Efficiency
+	1.   Mechanism proposal:  WYSIWG.  The Commonwealth is refreshingly literal sometimes.  Yes, by all means, let's argue with the bureaucracy by filing reports against their inefficient filing of reports.
+	2.   Downside analysis:  This is basically the bright side of the 'Culture of Outrage'.  This says that fighting with the bureaucracies over efficiency will actually work!  But it won't.  It's just still more paperwork.
+	3.   Categorization:  Since I *only* think this rots into a culture of outrage... it's actually pretty safe.  That's why I consider it a failsafe tech.
+	4.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	5.   Liberation rating:  3/5
+	6.   Protection rating:  5/5
+	7.   Siphon quality:  4/5
+	8.   Technological smoothness:  5/5
+	9.   Technological extremophilia:  2/5
+	10.   Stress/Boredom rating:  2/5 (Dull)
+	11.   Me-points:  0/3
+	12.   Special categories:  Hypersmooth, Failsafe
 
 
 ---
