@@ -44,11 +44,14 @@ Sections;
    12) [[Monster-Girl-Encyclopedia]]
    13) [[Battlefield-Earth]]
 
-3) Pairs (Fiction) (These are one book and a sequel!  Always listed together) (I think I haven't actually read a lot of paired books.)
+3) Anthologies
+	1) [[The Furry Future]]
+
+4) Pairs (Fiction) (These are one book and a sequel!  Always listed together) (I think I haven't actually read a lot of paired books.)
    1) [[Waiting-for-the-Galactic-Bus]] (1)
    2) [[The-Snake-Oil-Wars]] (2)
 
-4) Nonfiction
+5) Nonfiction
    1) [[Gold-Mining-in-Washington-State-Yesterday-and-Today]]
    2) [[A-Brief-History-of-Time]]
    3) [[Essentials-of-Organizational-Behavior-Fourteenth-Edition]]
@@ -58,20 +61,20 @@ Sections;
    7) [[Simplified-Guide-to-Aeroponics-Tower-Gardening]]
    8) [[Volumetrics-Feel-Full-on-Fewer-Calories]] (INCOMPLETE!)
 
-5) Putative Nonfiction
+6) Putative Nonfiction
    1) [[A-Million-Little-Pieces]]
    2) [[TRANCE-Formation-of-America]]
 
-6) "Comedy" (I am not the biggest fan)
+7) "Comedy" (I am not the biggest fan)
 (I've certainly read some of these, but I'm in no hurry to list them.)
 
-7) Mythology
+8) Mythology
    1) [[The-Bible]]
    2) [[Oahspe]]
    3) [[Egyptian-Revenge-Spells]]
    4) 
 
-8) Visual Novels
+9) Visual Novels
    1) [[Slightly-Damned]]
    2) [[Miss-Kobayashi's-Dragon-Maid]]
    3) [[Black Butler]] (only volume 1)
@@ -81,7 +84,7 @@ Sections;
    7) [[The-Tea-Dragon-Society]]
    8) [[The-Tea-Dragon-Festival]]
 
-9) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
+10) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]
    2) [[Nobilis-Second-Edition]]
    3) [[Gamma-World-Player's-Handbook]]
@@ -138,7 +141,7 @@ Sections;
    54) [[Earthdawn-Second-Edition]]
    55) [[Our-Pantheon]]
 
-10) Writing Advice
+11) Writing Advice
    1) [[No-Plot-No-Problem]]
    2) [[From-Sanctity-to-Sorcery-An-Author's-Guide-to-Building-Belief-Structures-and-Magic-Systems]]
    3) [[The-Only-World-Building-Workbook-You'll-Ever-Need]]
