@@ -43,6 +43,7 @@ Sections;
    11) [[Mr.-Popper's-Penguins]]
    12) [[Monster-Girl-Encyclopedia]]
    13) [[Battlefield-Earth]]
+   14) [[Be-a-Perfect-Person-in-Just-Three-Days!]]
 
 3) Anthologies
 	1) [[The Furry Future]]
