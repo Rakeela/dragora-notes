@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 34.356846473029044,
+            "dimension": 74.68879668049793,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 65.64315352697095,
+            "dimension": 25.311203319502074,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Viceroy-Scorecards.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,13 +152,13 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "Viceroy-Scorecards.md",
     "after-the-empire.md",
     "Bibliography.md",
     "2021-11-8-One-Hundred-and-Ninety-Seventh.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-7-One-Hundred-and-Ninety-Sixth.md",
     "2021-11-6-One-Hundred-and-Ninety-Fifth.md",
     "aowcommander-profiles.md",

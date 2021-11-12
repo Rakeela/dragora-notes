@@ -1723,6 +1723,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  2/5 (Dull)
 	11.   Me-points:  0/3
 	12.   Special categories:  Hypersmooth, Failsafe
+77.   Eternal Bank Branch
+	1.   Mechanism proposal:  These are pretty obviously false.  This is hucksterism over a very long timespan.  If everyone believes that stock values will rise, stock values will rise.  If people only extract small amounts of value from the ever-rising stock values, this can (seemingly at least) continue indefinitely.
+	2.   Mechanism proposal:  Interpreting the Beyonders as 'the galactic elite' (rather than as hyperspace entities with a post-temporal POV), this suggests that the local governments yield control of the local financial system to the galactic elite when the Beyonders move in on it.  This produces good returns for a while... as everything gets purchased up and hollowed out.  This is very profoundly 'axis of trust' financial engineering.
+	3.   Siphon analysis:  This is an example of a 1/5 siphon, as it doesn't establish a local ideology much if at all.  It establishes instead that the galactic elite are hollowing out part of the territory for financial gain.
+	4.   Bureaucratic waste analysis:  This shouldn't really be a bureaucratic technology either way, but unfortunately in this case that means it's non-literal.  The territory gets less capable as it loses control of the local virtual markets, and it suffers brain drain as local talent is obsoleted or (at best) recruited away to distant territories.
+	5.   Liberation rating:  2/5
+	6.   Protection rating:  2/5
+	7.   Siphon quality:  1/5
+	8.   Technological smoothness:  3/5
+	9.   Technological extremophilia:  Territory average
+	10.   Stress/boredom rating:  3/5 (Eustress)
+	11.   Me-points:  -1/3
+	12.   Special categories:
 
 
 ---
