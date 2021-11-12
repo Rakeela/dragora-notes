@@ -48,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "after-the-empire.md",
+                    "file": "Viceroy-Scorecards.md",
                     "mode": "source"
                   }
                 }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "Viceroy-Scorecards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +152,11 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "Bibliography.md",
-    "after-the-empire.md",
     "Viceroy-Scorecards.md",
+    "after-the-empire.md",
+    "Bibliography.md",
     "2021-11-8-One-Hundred-and-Ninety-Seventh.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-7-One-Hundred-and-Ninety-Sixth.md",
