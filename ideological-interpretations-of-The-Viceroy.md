@@ -737,16 +737,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Downside analysis:  This isn't really good for novice artists who aren't literally children.  The people at the Seats of Beauty wouldn't ever be so gauche as to abuse a child's artwork... but adults who try to learn new artistic skills aren't likely to be immediately good at it.  In an immortal society, some people are going to spend four hundred years doing factory work, and then decide they'd rather draw ferrets or something.  If they're brave enough to show their work *at all* in a society that has exalted a judiciary of the art world, they risk serious condemnation and being hated for the "arrogance" of thinking they could be an artist.
 	9.  Apologia:  The people who hate the Seats of Beauty aren't likely to tear down society *literally*, suggesting that collapse processes will be slower and less violent than might otherwise occur.  It's a peaceful program that is only likely to inspire peaceful resistance.  It's always eventually a mistake, but it can be expected to unwind peacefully.
 	10.  Tech level analysis:  The Seat of Beauty is almost orthogonal to technological progress... but not quite.  It could be implemented at *any* tech level (perfect smoothness) and it isn't directly pushing towards technology... yet it's extremophilic, because novelty-seekers are.  The only thing keeping it from perfect extremophilia is that it's likely to judge some extremes "ugly".
-	11.  Bureaucratic waste analysis:  It's not literal.  I mean, it is and it's not.  There's literally a cultural works bureaucracy involved, but the bulk of the wastage here is in the *drain* it inflicts.  The people who work in the Seat of Beauty are obviously correct.  Again and again, they're correct, which is pretty tiresome for artists trying to find new ways to think.  They furthermore tend to hire novelty-seekers only to then direct them to produce *optimally saleable art*, while resisting the publication of dubious art.  That behavior trends down, so to speak.  Eventually people align in resistance to such control of culture.  The resulting intransigence tears down governments.
-	12.  Utopic rating:  3/5
-	13.  Public protection rating:  2/5
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  4/5
-	16.  Stress/Boredom rating:  2/5 (Calm)
-	17.   Me-points:  0/3
-	18.  Kind of person most protected:  Art snobs.
-	19.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
-	20.  Conversion potential:  Commonwealth<->Panarchy
+	11.  Downside analysis:  As the Seats of Beauty promulgate their idea of "correct" beauty, they could hollow out the artistic productivity of the people.  It's like the downside I mentioned where adults learning new skills would start out bad at them, but in this case it's more that if the people in the Seat of Beauty really *do* know a better way to produce something... people won't try the 'bad' way anymore.  When that happens, people who don't have other creative skills are lost, because the things they would have made 'incorrectly' are lost.  This is a kind of wastage.
+	12.  Bureaucratic waste analysis:  It's not literal.  I mean, it is and it's not.  There's literally a cultural works bureaucracy involved, but the bulk of the wastage here is in the *drain* it inflicts.  The people who work in the Seat of Beauty are obviously correct.  Again and again, they're correct, which is pretty tiresome for artists trying to find new ways to think.  They furthermore tend to hire novelty-seekers only to then direct them to produce *optimally saleable art*, while resisting the publication of dubious art.  That behavior trends down, so to speak.  Eventually people align in resistance to such control of culture.  The resulting intransigence tears down governments.
+	13.  Utopic rating:  3/5
+	14.  Public protection rating:  2/5
+	15.  Technological smoothness:  5/5
+	16.  Technological extremophilia:  4/5
+	17.  Stress/Boredom rating:  2/5 (Calm)
+	18.   Me-points:  0/3
+	19.  Kind of person most protected:  Art snobs.
+	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
+	21.  Conversion potential:  Commonwealth<->Panarchy
 27.  Natalist Policies
 	1.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
 	2.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
