@@ -747,7 +747,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.   Me-points:  0/3
 	19.  Kind of person most protected:  Art snobs.
 	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
-	21.  Conversion potential:  Commonwealth<->Panarchy
+	21.  Conversion potential:  Commonwealth<->Panarchy (Limited)
 27.  Natalist Policies
 	1.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
 	2.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
