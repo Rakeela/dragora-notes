@@ -1837,6 +1837,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-11-8;  I think I'll eventually want to establish icons for the different tech categories and individual technology icons as well.  These icons will all be abstract representations within a circle, and the particular abstract representation will be made by connecting all the technologies in the category (for categories) and all the technologies in the proposed synergy (for individual technologies).  This should produce unique icons for each category and technology, though some of them will be quite similar to each other.
 
+2021-11-14;  The Unioneers strike me as an extension of the Panarchy Informalist tech tree.  Their faction would arise and extend from the Paradise Overseer (which is my replacement for the Artificial Dreamtime).  Thinking about the other 'neighbors', I wondered if any of them would likewise extend from the tech tree.  The Greenlings occurred to me, and I wondered if they would extend from the Orbital Surveyors... but they're supposed to be *drones*.  One of the voices in my head suggested that I could look at the Commonwealth Unifiers if I was looking for *plants*, and said, "They build all this stuff, then let it get overgrown, because they like the vines better than the stone."  So I thought about the Commonwealth Unifiers tech tree a little more... and with the idea of a building whose operators might *want* to see overgrown with plants, I came up with the Seat of Policy.  Imagine the Seats of Policy completely overgrown with thinking plants, kept and maintained by the Unifiers, who are often ex-Imperials.  Are Seats of Policy a kind of Greenling settlement?
+
 ---
 The Much-Reviled Lower Classes
 
