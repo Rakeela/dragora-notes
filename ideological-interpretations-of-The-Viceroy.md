@@ -101,6 +101,29 @@ The Six Subcultures
 
  - The Panarchic AI Collective -
 	 - The Rundown
+		 - Eventually, everything in these territories is made of thinking metal.
+		 - Eventually, everything in these territories is set on fire by reconquest fleets.
+		 - These guys destroy civilization again and again and again and again, but we extract a few more sane AIs and a few more weird-yet-friendly mind collectives every time.
+		 - There are people who think watching the singularity ascent repeatedly is a great way to spend eternity.
+	 - The Value of Immortality
+		 - If they're willing to work with others, maintaining an AI citizen or blob of personality goop is so cheap that they're an easy shoe-in for immortality.
+		 - They're too often no good at working with others, so the real reason these end up immortal is because they don't require rejuvenation.
+		 - These are the crud that eats metal to make more of itself.
+		 - A lot of the galaxy just shovels Informalists into furnaces to extract usable energy from them, and most of those are totally innocent people who don't realize that every shovel throw kills a bunch of otherwise immortal people.  Informalist goop in authority is a horrifying tyranny; informalist goop that's been forced out of authority is too involuted to protect itself effectively.
+	 - The View on Collapse
+		 - Ironically, they collapse into hedonism.  Their society virtualizes everything and gamifies everything and rapes brains so hard that people withdraw to "hedonism" to escape.
+		 - Zealot informalists hardly ever get better.  They're just good enough at what they do to keep ruining territories.  This is part of why their ideology discourages zealotry at the outset: note that dissonance in the phrase "zealot informalists".
+		 - If they accept collapsing like other factions and compromise on the particular devastation that *they* inflict, they can do better by using someone else's view of collapse.  The good ones collapse like the Commonwealth Consensus, loving the party and pressing back their own society's inclination to misery.
+	 - The Stereotype
+		 - "Don't burn that, there are worlds in that goop!"
+	 - The Rebellion (Imperial)
+		 - They can't be trusted with cybernetics, but they install them everywhere forcibly.  They believe that people will fall to hedonism if their happiness is protected, and they hack brains to try to prevent that.  This causes their wastage to increase radically, albeit in different ways, that serve their biases perfectly: organics with cybernetic brain parasitess proceed to fail into people desperate for relief from suffering, ie into "hedonists".
+		 - The Informalist AIs can't comprehend depressive "hedonism".  They spread depression in general, and then fail to recognize that depressed people are unproductive for reasons related to depression.  They see depressed people as useless hedonists who just don't want to work.
+		 - The Informalists literally automate industry, and then they have little need of working hard.  Despite this, they press everyone into deep misery trying to get people to work harder.  Hard work hardly works in this society!  Their demands that everyone work harder are so awful that they destroy the work ethic at both ends.
+
+ - The Panarchic Paradise Overseers
+	 - The Rundown
+		 - These are my replacement for the Panarchic AI collectives.  This involves replacing Subconscious Education with Dream Reeves and Artificial Dreamtime with Paradise Overseers, so that there's a +Happiness to +Happiness linkage in the tech tree.  This makes them a 2+Happiness subculture which exalts the idea of uploading people to virtual paradises.  They still involute like the Panarchic AIs, but this time they're driven by making people happier that way.  Consistently, not just while the Commonwealth middle class is in power.
 	 - The Value of Immortality
 	 - The View on Collapse
 	 - The Stereotype
