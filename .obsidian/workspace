@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 65.80912863070539,
+            "dimension": 27.634854771784234,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -40,7 +40,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 34.190871369294605,
+            "dimension": 72.36514522821577,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -48,7 +48,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-14-One-Hundred-and-Ninety-Ninth.md",
+                    "file": "2021-11-15-Two-Hundredth.md",
                     "mode": "source"
                   }
                 }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-11-15-Two-Hundredth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "e5f17a424dadb013",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "2021-11-15-Two-Hundredth.md",
     "2021-11-14-One-Hundred-and-Ninety-Ninth.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-9-One-Hundred-and-Ninety-Eighth.md",
     "Viceroy-Scorecards.md",
     "collected-thoughts-on-the-viceroy.md",
     "The-Viceroy.md",
     "after-the-empire.md",
     "Bibliography.md",
-    "2021-11-8-One-Hundred-and-Ninety-Seventh.md",
-    "2021-11-7-One-Hundred-and-Ninety-Sixth.md"
+    "2021-11-8-One-Hundred-and-Ninety-Seventh.md"
   ]
 }
