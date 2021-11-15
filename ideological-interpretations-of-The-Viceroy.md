@@ -271,17 +271,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	3.  Economic analysis:  The more market-oriented and unequal the society that implements this, the more it makes sense from an economics perspective.  It works best in feudal economies.  On the other hand, the more planned and egalitarian the economy that implements this, the more the rewards from it tend to improve the lives of 'irrelevant' people and give them access to unnecessarily cool vehicles, making society fast-moving on the micro-scale.
 	4.  Economic analysis:  If they're operating at some level in a feudal society, these people are heroic.  Their excitement for economic acceleration matures into an antilocalist interest in the broader economy.  This technology provides a method for recruiting merchants to become fast-moving advocates of an integrated trade economy that fends off stagnation in stratified markets.  Note however that the anti-egalitarianism of feudal economies magnifies the dystopic potential of this technology.
 	5.  Narrative indicator:  Including these people as a more prominent part of society causes its Wealth level to manifest more distinctively in the development of that society's vehicles.
-	6.  Bureaucratic waste analysis:  The literalism of this technology's bureaucratic waste varies according to the economic system that is implementing it.  It is most literal in planned economies and least literal in feudal economies.  The inclusion of people who love attaining calm control of fast-moving systems is no more (but no less) bureaucratically expensive than maintaining good roadways, recreational vehicle arenas, and vehicle fabrication organizations.  Should a society engaging in these practice grow extremely unfit for bureaucratic life, these individuals may take up the hatred of bureaucracy, which intrinsically operates at a different pace than they would prefer.  Furthermore, investing excessively in roads and vehicles is potentially injurious to public health due to pollution and vehicular accident risks, which may damage the productivity of skilled bureaucrats as well as injuring the assurance of safety that they prefer.
-	7.   Liberation rating:  5/5 (Planned Economy), 4/5 (Regulated Economy), 3/5 (Free Economy), 2/5 (Feudal Economy)
-	8.   Protection rating:  2/5, +1 with Jaunting Grids or Pervasive Digitalization, +1 with Enlightened Policing
-	9.   Siphon quality:  2/5
-	10.  Technological smoothness:  5/5
-	11.  Technological extremophilia:  3/5
-	12.  Stress/Boredom rating:  3/5 (Eustress)
-	13.  Me-points: 0/3
-	14.  Kind of person most protected:  Automotive fans and racers.
-	15.  Special categories:  Hypersmooth, Rehabilitative, Furry
-	16.  Conversion potential:  Unknown
+	6.  Progression analysis:  Wait a moment, I've just realized that this technology is something I misjudged.  If territories are heavily specialized, this really pays out!  It's highly productive IF territories pick a kind of development and stick with it.  This maps with the broader idea that the Empire of the Elect values specialization very highly.
+	7.  Bureaucratic waste analysis:  The literalism of this technology's bureaucratic waste varies according to the economic system that is implementing it.  It is most literal in planned economies and least literal in feudal economies.  The inclusion of people who love attaining calm control of fast-moving systems is no more (but no less) bureaucratically expensive than maintaining good roadways, recreational vehicle arenas, and vehicle fabrication organizations.  Should a society engaging in these practice grow extremely unfit for bureaucratic life, these individuals may take up the hatred of bureaucracy, which intrinsically operates at a different pace than they would prefer.  Furthermore, investing excessively in roads and vehicles is potentially injurious to public health due to pollution and vehicular accident risks, which may damage the productivity of skilled bureaucrats as well as injuring the assurance of safety that they prefer.
+	8.   Liberation rating:  5/5 (Planned Economy), 4/5 (Regulated Economy), 3/5 (Free Economy), 2/5 (Feudal Economy)
+	9.   Protection rating:  2/5, +1 with Jaunting Grids or Pervasive Digitalization, +1 with Enlightened Policing
+	10.   Siphon quality:  2/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  3/5
+	13.  Stress/Boredom rating:  3/5 (Eustress)
+	14.  Me-points: 0/3
+	15.  Kind of person most protected:  Automotive fans and racers.
+	16.  Special categories:  Hypersmooth, Rehabilitative, Furry
+	17.  Conversion potential:  Unknown
 5.  Stasis Controller
 	1.  Challenge cured:  Biological embargo
 	2.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.

@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 27.634854771784234,
+            "dimension": 30.29045643153527,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -27,11 +27,8 @@
                 "id": "e5f17a424dadb013",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
-                    "mode": "source"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
@@ -40,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 72.36514522821577,
+            "dimension": 69.70954356846472,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -48,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-15-Two-Hundredth.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-15-Two-Hundredth.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,9 +151,9 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-15-Two-Hundredth.md",
     "2021-11-14-One-Hundred-and-Ninety-Ninth.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-9-One-Hundred-and-Ninety-Eighth.md",
     "Viceroy-Scorecards.md",
     "collected-thoughts-on-the-viceroy.md",
