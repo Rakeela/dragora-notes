@@ -104,5 +104,9 @@ I have a surplus of transplant-quality chives.  I'm going to buy some flowerpots
 I don't really think I can perform this experiment, although I think someone may be able to.
 
 ---
+2021-11-18;
+I'm struggling to be willing to take apart my hydroponics rig in order to clean it.  I'm upset about how disgusting the root cups are.  I don't want to take them out and later reinsert them.  They're mossy and they've got white fungus in them, yick.  I want to know how professional businesses do this.  I wish I could intern/apprentice at a real hydroponics laboratory.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]

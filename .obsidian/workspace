@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 30.29045643153527,
+            "dimension": 38.921161825726145,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 69.70954356846472,
+            "dimension": 61.07883817427386,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-17-Two-Hundred-and-First.md",
+                    "file": "Chives-of-Wrath.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-17-Two-Hundred-and-First.md",
+                "file": "Chives-of-Wrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "Chives-of-Wrath.md",
     "2021-11-17-Two-Hundred-and-First.md",
     "2021-11-15-Two-Hundredth.md",
     "ideological-interpretations-of-The-Viceroy.md",
@@ -159,7 +160,6 @@
     "Viceroy-Scorecards.md",
     "collected-thoughts-on-the-viceroy.md",
     "The-Viceroy.md",
-    "after-the-empire.md",
-    "Bibliography.md"
+    "after-the-empire.md"
   ]
 }
