@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-11-17-Two-Hundred-and-First.md",
+                    "file": "Viceroy-Scorecards.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "Viceroy-Scorecards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "Viceroy-Scorecards.md",
+    "2021-11-17-Two-Hundred-and-First.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Bibliography.md",
-    "2021-11-17-Two-Hundred-and-First.md",
     "Northern-Creche-Confederation.md",
     "2021-11-15-Two-Hundredth.md",
     "Chives-of-Wrath.md",
     "2021-11-14-One-Hundred-and-Ninety-Ninth.md",
     "2021-11-9-One-Hundred-and-Ninety-Eighth.md",
-    "Viceroy-Scorecards.md",
     "collected-thoughts-on-the-viceroy.md"
   ]
 }

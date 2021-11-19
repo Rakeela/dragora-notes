@@ -135,5 +135,26 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	17.  Influence:  +43%
 	18.  Cultural production:  +51%
 	19.  Taxes paid:  +20.5%
-	20.  Fleet capacity growth:   +41%	
+	20.  Fleet capacity growth:   +41%
+7.  Old Empire Game 1
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy: Relativism
+	3.  Cultural policy:  Interculturalism
+	4.  Economic policy:  Regulated Economy
+	5.  Bureaucratic overhead:  +38.1%
+	6.  Upkeep costs:  -14.6%
+	7.  Crowding limit:  +8.5%
+	8.  Weapon firing rate:  +27%
+	9.  Maximum fleet capacity:  +19%
+	10.  Biological production: +32%
+	11.  Science capacity: +25%
+	12.  Shield recharge rate: +32%
+	13.  Rebel income: -14.5%
+	14.  Industrial production: +20%
+	15.  Returns on investment: +17%
+	16.  Ship speed: +35%
+	17.  Influence: +24%
+	18.  Cultural production: +34%
+	19.  Taxes paid: +12.0%
+	20.  Fleet capacity growth: +22%
 
