@@ -1821,7 +1821,20 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 79.   Right to Competence
 	1.   Challenge cured:
 		1.   Challenge cure interpretation:
-	2.   Mechanism proposal:
+	2.   Mechanism proposal:  WYSIWYG.  This one is obviously literal.
+	3.   Downside analysis:  Oh god, this makes leadership sound stressful.  This probably ALSO rots into the Culture of Outrage.
+	4.   Downside analysis:  This says it improves long-term thinking, but I'm not sure it would.  Heavy leadership personelle turnover seems like it would reduce long-term thinking, or more accurately, like it would *risk* reducing long-term thinking.  It sounds utopian to say that your government that can't ever protect its erroneous members, but at the same time, that protection isn't literally always wrong to offer.
+	5.   Apologia:  This is at least highly liberating, since it means that bad leaders can be kicked out of power rather than entrenched.  It's also reasonably protective for the same reason; it exposes leadership to being unprotected, but the rest of the public is safer.  It's also a good siphon, as this kind of oversight should be protective against corruption.  It has a lot of good to offer... if you ignore that it makes the government's operations very stressful for the government's operatives.
+	6.   Categorization:  Since this ONLY rots into the Culture of Outrage... it is still a failsafe tech.  Ow.  It's also hypersmooth.  I wonder if I should have a category for the ever-virtuous technologies, and if this would qualify...  It's very self-sacrificing on the part of the government to implement this.
+	7.   Bureaucratic waste analysis:  Burnout factory.  This is a non-literal bureaucratic waste technology.  It cultivates the hatred of bureaucracy while implementing more bureaucratic procedures, for what's supposed to be the greater good.
+	8.   Liberation rating:  5/5
+	9.   Protection rating:  4/5
+	10.   Siphon quality:  5/5
+	11.   Technological smoothness:  5/5
+	12.   Technological extremophilia:  Territory average
+	13.   Stress/boredom rating:  5/5 (Screaming)
+	14.   Me-points:  0/3
+	15.   Special categories:  Failsafe, hypersmooth
 
 
 ---
