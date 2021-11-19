@@ -1089,16 +1089,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	2.  Downside analysis:  I tend to imagine that local government structures draw something of a veil over the exact details of how stuff is being implemented.  The way galactic society would achieve something is a little less important.
 	3.  Narrative indicator:  Functioning local governments are also likely to become targets for partisan control.  Is this a problem?  Not really.  It encourages local politics to develop a distinct character and an inclination to *peaceful* disputation that does *not* involve galactic politics.
 	4.  Mechanism proposal:  The partisan squabbling implied in local governance may contribute to the efficiency of it, in fact.  It takes some of the squabbling that the Viceroy would have to deal with, and efficiently makes people handle it themselves.
-	5.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	6.  Liberation rating:  District average.
-	7.   Protection rating:  District average.
-	8.  Technological smoothness:  5/5
-	9.  Technological extremophilia:  District average.
-	10.  Stress/Boredom rating:  District average.
-	11.   Me-points:  1/3
-	12.  Kind of person most protected:  Mayors, minor partisans with peaceful and realistic ambitions
-	13.  Special categories:  Hypersmooth, Failsafe
-	14.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
+	5.  Mechanism proposal:  Like the Beyonder Dwellings, I think that local governments tend to put their own slant on each technology.  They seek different 'hyperlocal' methods of implementing galactic technology, and draw a little bit of a veil over the specifics.
+	6.  Author appeal:  These things sink partisan rivalries peacefully, and they suggest that the territory becomes highly independence-seeking.  Convinced they can live on their own!  This increases the degree to which I consider "bureaucratic waste" to be "effective intransigence against the Viceroy", and is why I give this one a 6/5 Siphon.
+	7.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	8.  Liberation rating:  District average.
+	9.   Protection rating:  District average.
+	10.   Siphon quality:  6/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  District average.
+	13.  Stress/Boredom rating:  District average.
+	14.   Me-points:  1/3
+	15.  Kind of person most protected:  Mayors, minor partisans with peaceful and realistic ambitions
+	16.  Special categories:  Hypersmooth, Failsafe
+	17.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 42.  Deep Core Tap
 	1.  Mechanism proposal:  Mining.  Lots and lots of mining.  I doubt the core is literally being tapped the moment this goes into place, but it wouldn't shock me if it was literally tapped eventually.
 	2.  Downside analysis:  Geological destabilization.  Mining out an area conventionally can already cause sinkholes.  I don't even know how to think about the consequences of tapping into a planet's mantle.
@@ -1367,14 +1370,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
 	14.  Liberation rating:  2/5
 	15.  Protection rating:  1/5
-	16.  Technological smoothness:  5/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  2/5 (Calm)
-	19.  Me-points: -1/3
-	20.  Special categories:  Diversifying, Hypersmooth, Nightmare
-	21.  Conversion potential:  Unknown
+	16.  Siphon quality:  4/5
+	17.  Technological smoothness:  5/5
+	18.  Technological extremophilia:  5/5
+	19.  Stress/Boredom rating:  2/5 (Calm)
+	20.  Me-points: -1/3
+	21.  Special categories:  Diversifying, Hypersmooth, Nightmare
+	22.  Conversion potential:  Unknown
 55.  Beyonder Embassy
-	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing and what happens as a result of you doing it.
+	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing (process) and what happens as a result of doing it (results).
 	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
 	3.  Narrative indicator:  It's also very "machine-mind" to consider process and results in the absence of goals.  The exemplars of this technology are likely to be melancholic... or heavily cybernetic.
 	4.  Mechanism proposal:  Being inclusive towards melancholic people is a way to find a few people who work well as bureaucrats.
@@ -1384,12 +1388,13 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
 	9.  Liberation rating:  3/5
 	10.  Protection rating:  5/5
-	11.  Technological smoothness:  5/5
-	12.  Technological extremophilia:  2/5
-	13.  Stress/boredom rating:  1/5 (Dull)
-	14.  Me-points:  1/3
-	15.  Special categories:  Hypersmooth, Detached, Failsafe
-	16.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
+	11.  Siphon quality:  5/5
+	12.  Technological smoothness:  5/5
+	13.  Technological extremophilia:  2/5
+	14.  Stress/boredom rating:  1/5 (Dull)
+	15.  Me-points:  1/3
+	16.  Special categories:  Hypersmooth, Detached, Failsafe
+	17.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
 56.  Beyonder Gate
 	1.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
 	2.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
@@ -1425,10 +1430,11 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Protection rating:  3/5, -1 in Feudal economies, +1 in Regulated or Planned economies, +1 with Distributed Desalination (advanced environmentalism)
 	18.  Technological smoothness:  4/5
 	19.  Technological extremophilia:  3/5
-	20.  Stress/Boredom rating:  2/5 (Calm)
-	21.  Me-points:  0/3
-	22.  Special categories:  Galactic Politics
-	23.  Conversion potential:  Unknown
+	20.  Siphon quality:  4/5
+	21.  Stress/Boredom rating:  2/5 (Calm)
+	22.  Me-points:  0/3
+	23.  Special categories:  Galactic Politics
+	24.  Conversion potential:  Unknown
 58.  Penal Retreats
 	1.  Challenge cured:  Brutal justice
 	2.  Challenge cure interpretation:  This investment in rehabilitation replaces lethal or debilitation-based criminal justice with 'merely' sticking criminals in a paternalistic hole where everything they say or do will be analyzed by "virtuous" people trying to control them.
@@ -1488,6 +1494,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Conversion potential:  Unknown
 61.   Beyonder Retreats
 	1.   Authorial protest:  I have been suffering PSYCHOSIS, and my psychotic presences are even more obsessed with this game than I am.  The most persistent of the presences identifies as the foremost Beyonder for the Commonwealth Unifiers.  The most beautiful of the presences identifies as the foremost Beyonder for the Panarchic Ritualists.  The "Beyonder" presences, and a few of the others as well, are *delusional would-be gods*!  Yet I interpret Beyonders in a waaaay more basic fashion, and I will be talking about MY interpretation, not the psychotic one.
+		1.   --> That said, I want to note somewhere that they're convinced that "Beyonder Retreats" encourage the "Beyonders" (the gods) to visit a planet and start spontaneously combusting and/or mind controlling people.  The spontaneous combustions are hatred; the mind controls are *kind of* hatred, *kind of* redemptive.  I don't really get it.  I don't know why part of me would've come up with such a story, but even though I won't write it into the book, it's weird+interesting enough to add to my notes.
 	2.   Mechanism proposal:  Beyonder Retreats try to recruit advanced talent from the galaxy.  They're investments in how to try to appeal to 'timeless' minds, which is a category that the Old Empire believes in very strongly.  They want mathematicians and extremely abstract thinkers.  These people want recreation just like other people do, but the Old Empire is pursuing a kind of edge-case elitism that targets academic social status rather than conventional social status.  They want what the game calls 'eternal philosophers'.
 	3.   Mechanism proposal:  This exists strongly on the axis of trust.  The Old Empire is inclusive and they believe that they can form bonds with people who are more capable than they are.  They believe that loyalty will find a way to bind people together into beautiful and productive social systems.
 	4.   Downside analysis:  The Old Empire is trying to recruit people *smarter than they are*.  They are sometimes recruiting deeply manipulative people who will abuse the trust that they extend.
