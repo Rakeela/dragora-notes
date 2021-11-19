@@ -279,7 +279,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	6.  Progression analysis:  Wait a moment, I've just realized that this technology is something I misjudged.  If territories are heavily specialized, this really pays out!  It's highly productive IF territories pick a kind of development and stick with it.  This maps with the broader idea that the Empire of the Elect values specialization very highly.
 	7.  Bureaucratic waste analysis:  The literalism of this technology's bureaucratic waste varies according to the economic system that is implementing it.  It is most literal in planned economies and least literal in feudal economies.  The inclusion of people who love attaining calm control of fast-moving systems is no more (but no less) bureaucratically expensive than maintaining good roadways, recreational vehicle arenas, and vehicle fabrication organizations.  Should a society engaging in these practice grow extremely unfit for bureaucratic life, these individuals may take up the hatred of bureaucracy, which intrinsically operates at a different pace than they would prefer.  Furthermore, investing excessively in roads and vehicles is potentially injurious to public health due to pollution and vehicular accident risks, which may damage the productivity of skilled bureaucrats as well as injuring the assurance of safety that they prefer.
 	8.   Liberation rating:  5/5 (Planned Economy), 4/5 (Regulated Economy), 3/5 (Free Economy), 2/5 (Feudal Economy)
-	9.   Protection rating:  2/5, +1 with Jaunting Grids or Pervasive Digitalization, +1 with Enlightened Policing
+	9.   Protection rating:  2/5, +1 with Jaunting Grids or Pervasive Digitization, +1 with Enlightened Policing
 	10.   Siphon quality:  2/5
 	11.  Technological smoothness:  5/5
 	12.  Technological extremophilia:  3/5
@@ -290,22 +290,22 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Conversion potential:  Unknown
 5.  Stasis Controller
 	1.  Challenge cured:  Biological embargo
-	2.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.
-	3.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
-	4.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
-	5.  Narrative indicator:  Although it contributes little to the headline productive potential of stasis controller technologies, a society that has implemented these is probably better at giving people time and space to recover when they need it, because under this rule more of the economy is built in a way that treats the passage of time as a good thing.  "Time heals all wounds," may be wholly true with sufficiently advanced technology.
-	6.  Categorization:  This is the first 'Failsafe' technologies that I've described.  There's nothing about the Failsafe technologies that is likely to fail destructively, which isn't to say that they don't create their own risks of failure.  Systems of stasis control are just likely to come apart gently as people get bored of them.
-	7.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
-	8.   Liberation rating:  5/5
-	9.   Protection rating:  5/5
-	10.  Siphon quality:  3/5
-	11.  Technological smoothness:  5/5
-	12.  Technological extremophilia:  1/5
-	13.  Stress/Boredom rating:  1/5 (Dull)
-	14.  Me-points:  1/3
-	15.  Kind of person most protected:  Cheesemakers.
-	16.  Special categories:  Hypersmooth, Luddistic, Failsafe
-	17.  Conversion potential:  Unknown
+		1.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.
+	2.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
+	3.  Narrative indicator:  Where the "infrastructure" of "a stasis controller" is set up, preserved foods are more common, as are hardwood forests, and the stores are better stocked with imperishable goods that don't need to move quickly to be profitable.
+	4.  Narrative indicator:  Although it contributes little to the headline productive potential of stasis controller technologies, a society that has implemented these is probably better at giving people time and space to recover when they need it, because under this rule more of the economy is built in a way that treats the passage of time as a good thing.  "Time heals all wounds," may be wholly true with sufficiently advanced technology.
+	5.  Categorization:  This is the first 'Failsafe' technologies that I've described.  There's nothing about the Failsafe technologies that is likely to fail destructively, which isn't to say that they don't create their own risks of failure.  Systems of stasis control are just likely to come apart gently as people get bored of them.
+	6.  Bureaucratic waste analysis:  As society includes more people who love jobs where they get to take their time with everything, it takes longer and longer for the paperwork to get done.  ...still, I rate this as 'pure', because it only gets pathetic rather than destructive.  Serene as a stilled pond, and just as inactive.
+	7.   Liberation rating:  5/5
+	8.   Protection rating:  5/5
+	9.  Siphon quality:  3/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  1/5
+	12.  Stress/Boredom rating:  1/5 (Dull)
+	13.  Me-points:  1/3
+	14.  Kind of person most protected:  Cheesemakers.
+	15.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	16.  Conversion potential:  Unknown
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
 	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
@@ -487,30 +487,32 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	23.  Alternate (Voluntary Order) categories:  Hedonological, Rehabilitative, Failsafe, Furry
 	24.  Conversion potential:  Commonwealth->Panarchy (unidirectional)
 14.  Beyonder Engine
-	1.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
-	2.  Mechanism proposal:  At a lower tech level, any kind of unsustainable stored energy reserve might be represented by this technology.  The purists of the Old Empire are (or believe they are, or can convince others that they are) patient enough to use these dwindling reservoirs sustainably.
-	3.  Mechanism proposal:  As long as energy efficiency rises faster than depletion, your effective energy reserves actually grow.  Thus, even though you are using up a resource, as long as your use increases in efficiency you can show in your reports that your time-to-reserve-depletion is increasing over time.  This is a contradiction; it's also a literal truth.
-	4.  Narrative indicator:  The amount of time that passes every time you hit end turn is never really clarified in-game.  As utilization of Beyonder Engines increases, those clicks represent larger amounts of time.
-	5.  Mechanism proposal:  This society invests in resource efficiency, considering such efficiency an essential part of its wealth.  It tabulates its reserves and potentials, then tries not to use them.  It could be much wealthier by operating unsustainably, but it tries to put that potential away in favor of being *slightly* wealthier in a "sustainable" way.  This discipline eventually fails or proves inadequate, but the Empire knows this will happen; the Empire is perpetually collapsing, and the Old Empire holds the burning world in its hands.
-	6.  Downside analysis:  How do you slow society this much, this reliably?  Industrialists often want to make things happen NOW, and pride themselves on having massive throughput.  How do you rearrange things enough to make effective use of an infinite input that is very, very slow?  Making this work requires that some of your industry should be managed by people who are content operating in near-stasis, with *unvarying* output.  More total work gets done, but the individual tasks take longer.
-	7.  Mechanism proposal:  Although this is an industrial technology, ecological protection gets more fully funded under this rule, as it benefits from investments in sustainability and efficiency.
-	8.  Narrative indicator:  That reliance on specifically structuring high leadership reduces the public protection rating of this technology.  It's not that a very patient society is bad for anyone in particular.  Patience backed by real advantage is quite healthy.  It's just that the system leadership must implicitly get a little more restrictive about who is considered important enough to influence the local economy... so the public is a bit disempowered if they aren't in or near the protection pole.
-	9.  Narrative indicator:  This technology changes around the definitions of 'the public' somewhat, as it exalts a few people who wouldn't be VIPs in most systems.
-	10.  Narrative indicator:  There isn't really reason to suspect that ZPE arrays intended to be used rarely and slowly would fall apart when the territory does.  Once society stops drawing on the ZPE arrays, they'll still remain out there in the deep black, patiently accumulating energy for a future administration to tap into.
-	11.  Mechanism proposal:  The system of ZPE arrays is never (literally never) actually complete, but given infinite time, it produces infinite returns with costs that reach asymptotically towards zero.  That's why the Beyonders promote this technology as a rational investment for humans to make.  Beyond all societal implications and accounting tricks, having the ability to produce Beyonder Engines gives industrial specialists a reliable export, because galactic demand for ZPE arrays is insatiable.
-	12.  Downside analysis:  Yet one final "contradiction of hyperspace" occurs here: since the advocates of this system advocate the rationality of perpetually expanding it, costs actually rise over time instead of falling to the asymptote.  This policy makes sense if you assume that you'll be ruling *forever*, and the Old Empire does exactly that... and so this contributes to the periodic collapses of the systems of the Old Empire, which have then to rebuild until they can reconnect to their deep space generator network.  A hypothetical Imperial society that *isn't* pushing hard to perpetually expand its ZPE network is beyond the scope of this game, and may be beyond the scope of their ideology; when does anyone stop wanting more limitless free energy?
-	13.  Apologia:  Note that the 'downside' of the system costing more to run than it returns due to perpetual expansion pressures is something that conceivably could be blocked in systems once you give them independence.  So the Beyonder Engines are a technology that (when no longer being pushed hard by a territorial Viceroy) could give society more capability to... scale back the over-expenses and stabilize.  For a while.  It suggests a way for parts of galactic society to step beyond the constraints of this game's tech tree... for a while.  That's why I dubbed it a Failsafe technology, since it suggests that the territories can be independently well-governed for a longer period of time with gentler declines.
-	14.  Downside:  Even though there's no formal restrictions on liberty implied by this technology and no obvious immediate source of danger, I think it risks creating a kind of prejudice against impatient people, and people may feel less liberated due to resource-use hypersensitivity.
-	15.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are "being wasted just sitting there" because the bureacrats and industrialists are "doing nothing"!
-	16.  Liberation rating:  4/5
-	17.  Protection rating:  4/5
-	18.  Technological smoothness:  5/5
-	19.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
-	20.  Stress/boredom:  1/5 (Dull)
-	21.  Me-points:  2/3
-	22.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
-	23.  Special categories:  Detached, Failsafe, Rehabilitative
-	24.  Conversion potential:  Commonwealth<->Empire
+	1.  Challenge cured:  Dying Star
+		1.  Challenge cure interpretation:  This really challenges my ZPE arrays conjecture.  The idea of extracting enough energy from vacuum fluctuations to reboot stars is...  awesome and strange to me.  It suggests that the arrays are truly ancient and that they've been running for truly awesome durations of time.  This kind of thing could be used to make civilization outlast the (natural lifetime of) the stars themselves!  It suggests that the really well-developed Imperial populations ARE star-builders.
+	2.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
+	3.  Mechanism proposal:  At a lower tech level, any kind of unsustainable stored energy reserve might be represented by this technology.  The purists of the Old Empire are (or believe they are, or can convince others that they are) patient enough to use these dwindling reservoirs sustainably.
+	4.  Mechanism proposal:  As long as energy efficiency rises faster than depletion, your effective energy reserves actually grow.  Thus, even though you are using up a resource, as long as your use increases in efficiency you can show in your reports that your time-to-reserve-depletion is increasing over time.  This is a contradiction; it's also a literal truth.
+	5.  Narrative indicator:  The amount of time that passes every time you hit end turn is never really clarified in-game.  As utilization of Beyonder Engines increases, those clicks represent larger amounts of time.
+	6.  Mechanism proposal:  This society invests in resource efficiency, considering such efficiency an essential part of its wealth.  It tabulates its reserves and potentials, then tries not to use them.  It could be much wealthier by operating unsustainably, but it tries to put that potential away in favor of being *slightly* wealthier in a "sustainable" way.  This discipline eventually fails or proves inadequate, but the Empire knows this will happen; the Empire is perpetually collapsing, and the Old Empire holds the burning world in its hands.
+	7.  Downside analysis:  How do you slow society this much, this reliably?  Industrialists often want to make things happen NOW, and pride themselves on having massive throughput.  How do you rearrange things enough to make effective use of an infinite input that is very, very slow?  Making this work requires that some of your industry should be managed by people who are content operating in near-stasis, with *unvarying* output.  More total work gets done, but the individual tasks take longer.
+	8.  Mechanism proposal:  Although this is an industrial technology, ecological protection gets more fully funded under this rule, as it benefits from investments in sustainability and efficiency.
+	9.  Narrative indicator:  That reliance on specifically structuring high leadership reduces the public protection rating of this technology.  It's not that a very patient society is bad for anyone in particular.  Patience backed by real advantage is quite healthy.  It's just that the system leadership must implicitly get a little more restrictive about who is considered important enough to influence the local economy... so the public is a bit disempowered if they aren't in or near the protection pole.
+	10.  Narrative indicator:  This technology changes around the definitions of 'the public' somewhat, as it exalts a few people who wouldn't be VIPs in most systems.
+	11.  Narrative indicator:  There isn't really reason to suspect that ZPE arrays intended to be used rarely and slowly would fall apart when the territory does.  Once society stops drawing on the ZPE arrays, they'll still remain out there in the deep black, patiently accumulating energy for a future administration to tap into.
+	12.  Mechanism proposal:  The system of ZPE arrays is never (literally never) actually complete, but given infinite time, it produces infinite returns with costs that reach asymptotically towards zero.  That's why the Beyonders promote this technology as a rational investment for humans to make.  Beyond all societal implications and accounting tricks, having the ability to produce Beyonder Engines gives industrial specialists a reliable export, because galactic demand for ZPE arrays is insatiable.
+	13.  Downside analysis:  Yet one final "contradiction of hyperspace" occurs here: since the advocates of this system advocate the rationality of perpetually expanding it, costs actually rise over time instead of falling to the asymptote.  This policy makes sense if you assume that you'll be ruling *forever*, and the Old Empire does exactly that... and so this contributes to the periodic collapses of the systems of the Old Empire, which have then to rebuild until they can reconnect to their deep space generator network.  A hypothetical Imperial society that *isn't* pushing hard to perpetually expand its ZPE network is beyond the scope of this game, and may be beyond the scope of their ideology; when does anyone stop wanting more limitless free energy?
+	14.  Apologia:  Note that the 'downside' of the system costing more to run than it returns due to perpetual expansion pressures is something that conceivably could be blocked in systems once you give them independence.  So the Beyonder Engines are a technology that (when no longer being pushed hard by a territorial Viceroy) could give society more capability to... scale back the over-expenses and stabilize.  For a while.  It suggests a way for parts of galactic society to step beyond the constraints of this game's tech tree... for a while.  That's why I dubbed it a Failsafe technology, since it suggests that the territories can be independently well-governed for a longer period of time with gentler declines.
+	15.  Downside:  Even though there's no formal restrictions on liberty implied by this technology and no obvious immediate source of danger, I think it risks creating a kind of prejudice against impatient people, and people may feel less liberated due to resource-use hypersensitivity.
+	16.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are "being wasted just sitting there" because the bureacrats and industrialists are "doing nothing"!
+	17.  Liberation rating:  4/5
+	18.  Protection rating:  4/5
+	19.  Technological smoothness:  5/5
+	20.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
+	21.  Stress/boredom:  1/5 (Dull)
+	22.  Me-points:  2/3
+	23.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
+	24.  Special categories:  Detached, Failsafe, Rehabilitative
+	25.  Conversion potential:  Commonwealth<->Empire
 15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
 	2.  Challenge cure interpretation:  There are conspiracies to overthrow the Viceroy on every planet, but most of them don't seek allies from beyond the territory itself like these ones do.  The hordes of galactic negotiators who arrive with the Panarchic Courts can also defuse the rebellion's ability to make connections outside of the territory, while making it look (incorrectly) like the whole galaxy is against the rebellion.
@@ -1303,26 +1305,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Conversion potential:  Unknown
 51.  Pervasive Digitization
 	1.  Challenge cured: Violent culture
-	2.  Challenge cure interpretation:  The pervasively digitized society offers a lot of alternative competitions to traditional violence, including analogues which don't kill either party, and it makes it more feasible for people to just *avoid* people who would otherwise try to spark dangerous honor disputes with them.
-	3.  Author appeal:  This is one of the more straightforwardly loving techs in the Panarchy tree as-is.  It increases their ability to live with large societies and it suggests investment in Yggdrasil-like projects (what I call 'seeds of Yggdrasil').
-	4.  Mechanism proposal:  This is where the virtual world projects really start.  The Panarchy loves simulations.  Simulated governments, simulated societies.  When they talk about digital presence being better than real presence, they mean because of the vast variety of environments that digital presence can provide.
-	5.  Downside analysis:  As these are implemented, more of society becomes... detached from reality.  More of what goes on has no bearing with anything 'real'.  This probably encourages some of the more abstract-yet-pacifistic forms of 'bureaucratic waste'.
-	6.  Mechanism proposal:  This also increases the ability of society to 'metricize' everything, by which I do not mean implementing the metric system, but rather implementing ubiquitous data collection.  This improves society in many ways.
-	7.  Downside analysis:  Increasing the ability of society to 'metricize' everything empowers both good and evil.  It's not really liberating.
-	8.  Mechanism proposal:  Some people in societies with pervasive digitization... are actually panarchic AIs.  They're individual AIs that don't have awesome authority, but are just citizens who live in (profoundly space-efficient) housings.
-	9.  Downside analysis:  Unreality seeps in despite scientific advancement.  Less of reality becomes such as ordinary people can touch, feel, and verify.
-	10.  Mechanism proposal:  This is another of the galaxy's epidemiological technologies.  It increases the ability of people in society to break pathogen transmission chains.  I see real-world digitization as considerably more 
-	11.  Progression analysis:  This considerably increases the implied hedonological yield of +Science technologies.  I believe a LOT of development could be sunk into perfecting virtual environments.  If you imagine the histories of the regions extending beyond the Viceregal period, the digitized societies have bright futures... if you don't mind that they have eventually have entire cities full of people who have never been flesh-and-blood.
-	12.  Progression analysis:  The smoothness of this technology is actually quite high.  It's not hyper-smooth and it can't exist at notably low technologies (suggesting a measure of implicit anti-primitivism), but societies often start implementing telecommunications *as they can*, developing an increasing reliance on long-distance interactions that takes a long time to refine.
-	13.  Bureaucratic waste analysis:  Predominantly non-literal.  Games proliferate, gamified versions of normal functions proliferate, and real processes start being transformed into 'efficient' virtual processes whose physical existence has been marginalized.
-	14.  Liberation rating:  4/5
-	15.  Protection rating:  5/5
-	16.  Technological smoothness: 4/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  2/5 (Calm)
-	19.  Me-Points:  2/3
-	20.  Kind of person most protected:  Not sure.  This protects a lot of people.
-	21.  Special categories:  Diversifying, Hedonological, Empathy Maximizer, Furry
+		1.  Challenge cure interpretation:  The pervasively digitized society offers a lot of alternative competitions to traditional violence, including analogues which don't kill either party, and it makes it more feasible for people to just *avoid* people who would otherwise try to spark dangerous honor disputes with them.
+	2.  Author appeal:  This is one of the more straightforwardly loving techs in the Panarchy tree as-is.  It increases their ability to live with large societies and it suggests investment in Yggdrasil-like projects (what I call 'seeds of Yggdrasil').
+	3.  Mechanism proposal:  This is where the virtual world projects really start.  The Panarchy loves simulations.  Simulated governments, simulated societies.  When they talk about digital presence being better than real presence, they mean because of the vast variety of environments that digital presence can provide.
+	4.  Downside analysis:  As these are implemented, more of society becomes... detached from reality.  More of what goes on has no bearing with anything 'real'.  This probably encourages some of the more abstract-yet-pacifistic forms of 'bureaucratic waste'.
+	5.  Mechanism proposal:  This also increases the ability of society to 'metricize' everything, by which I do not mean implementing the metric system, but rather implementing ubiquitous data collection.  This improves society in many ways.
+	6.  Downside analysis:  Increasing the ability of society to 'metricize' everything empowers both good and evil.  It's not really liberating.
+	7.  Mechanism proposal:  Some people in societies with pervasive digitization... are actually panarchic AIs.  They're individual AIs that don't have awesome authority, but are just citizens who live in (profoundly space-efficient) housings.
+	8.  Downside analysis:  Unreality seeps in despite scientific advancement.  Less of reality becomes such as ordinary people can touch, feel, and verify.
+	9.  Mechanism proposal:  This is another of the galaxy's epidemiological technologies.  It increases the ability of people in society to break pathogen transmission chains.  I see real-world digitization as considerably more 
+	10.  Progression analysis:  This considerably increases the implied hedonological yield of +Science technologies.  I believe a LOT of development could be sunk into perfecting virtual environments.  If you imagine the histories of the regions extending beyond the Viceregal period, the digitized societies have bright futures... if you don't mind that they have eventually have entire cities full of people who have never been flesh-and-blood.
+	11.  Progression analysis:  The smoothness of this technology is actually quite high.  It's not hyper-smooth and it can't exist at notably low technologies (suggesting a measure of implicit anti-primitivism), but societies often start implementing telecommunications *as they can*, developing an increasing reliance on long-distance interactions that takes a long time to refine.
+	12.  Bureaucratic waste analysis:  Predominantly non-literal.  Games proliferate, gamified versions of normal functions proliferate, and real processes start being transformed into 'efficient' virtual processes whose physical existence has been marginalized.
+	13.  Liberation rating:  4/5
+	14.  Protection rating:  5/5
+	15.  Technological smoothness: 4/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  2/5 (Calm)
+	18.  Me-Points:  2/3
+	19.  Kind of person most protected:  Not sure.  This protects a lot of people.
+	20.  Special categories:  Diversifying, Hedonological, Empathy Maximizer, Furry
 52.  Predictive Supply Chain
 	1.  Authorial Protest:  I have mixed feelings about this one.  It emphasizes the frightening over-metricization of the Panarchic Informalists, which is also the frightening over-metricization of the Panarchy (see Panarchic Data Posts).  It's on the omniscience track that leads towards Potentiality Forecasters.  I think it may be mislocated, but it also leads to self-aware economies...  I may take Sentient Capital out of the ideology, and we'll see if that reorg inspires me to shift Predictive Supply Chain's location.
 	2.  Mechanism proposal:  Calculate *everything*.  Accept no less than perfect logistics!
@@ -1388,23 +1390,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Special categories:  Diversifying, Hypersmooth, Nightmare
 	22.  Conversion potential:  Unknown
 55.  Beyonder Embassy
-	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing (process) and what happens as a result of doing it (results).
-	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
-	3.  Narrative indicator:  It's also very "machine-mind" to consider process and results in the absence of goals.  The exemplars of this technology are likely to be melancholic... or heavily cybernetic.
-	4.  Mechanism proposal:  Being inclusive towards melancholic people is a way to find a few people who work well as bureaucrats.
-	5.  Categorization:  This is an example of what the 'Detached' category refers to.
-	6.  Conversion:  Since it makes "beyonders" look good and helps "beyonders" fit into society in a way that is safe for themselves and others, this is a converter technology for the Empire.
-	7.  Downside analysis:  The suicide rate increases.  Don't be discouraged!  It's the 'Beyonders' who commit suicide more often, not the society they're helping... and they commit suicide less than they would without the embassy, because the embassy represents society organizing to better integrate them and their concerns.  Still, you're specifically valuing, preserving, attracting, and developing a population more likely to kill themselves... so the planet develops, on average, a higher suicide rate.
-	8.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	9.  Liberation rating:  3/5
-	10.  Protection rating:  5/5
-	11.  Siphon quality:  5/5
-	12.  Technological smoothness:  5/5
-	13.  Technological extremophilia:  2/5
-	14.  Stress/boredom rating:  1/5 (Dull)
-	15.  Me-points:  1/3
-	16.  Special categories:  Hypersmooth, Detached, Failsafe
-	17.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
+	1.  Challenge cured:  Hard Radiation Source
+		1.  Challenge cure interpretation:  This describes a kind of hyperspace radiation that spreads throughout the whole area causing very few health effects, but devastating fertility rates.  I have no idea what such a thing would be and I don't understand how the Beyonder Embassy would help.
+		2.  Challenge cure qualm:  As usual, I prefer low fertility societies!
+	2.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing (process) and what happens as a result of doing it (results).
+	3.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
+	4.  Narrative indicator:  It's also very "machine-mind" to consider process and results in the absence of goals.  The exemplars of this technology are likely to be melancholic... or heavily cybernetic.
+	5.  Mechanism proposal:  Being inclusive towards melancholic people is a way to find a few people who work well as bureaucrats.
+	6.  Categorization:  This is an example of what the 'Detached' category refers to.
+	7.  Conversion:  Since it makes "beyonders" look good and helps "beyonders" fit into society in a way that is safe for themselves and others, this is a converter technology for the Empire.
+	8.  Downside analysis:  The suicide rate increases.  Don't be discouraged!  It's the 'Beyonders' who commit suicide more often, not the society they're helping... and they commit suicide less than they would without the embassy, because the embassy represents society organizing to better integrate them and their concerns.  Still, you're specifically valuing, preserving, attracting, and developing a population more likely to kill themselves... so the planet develops, on average, a higher suicide rate.
+	9.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	10.  Liberation rating:  3/5
+	11.  Protection rating:  5/5
+	12.  Siphon quality:  5/5
+	13.  Technological smoothness:  5/5
+	14.  Technological extremophilia:  2/5
+	15.  Stress/boredom rating:  1/5 (Dull)
+	16.  Me-points:  1/3
+	17.  Special categories:  Hypersmooth, Detached, Failsafe
+	18.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
 56.  Beyonder Gate
 	1.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
 	2.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
@@ -1560,20 +1565,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
 	13.   Conversion potential:  Empire<->Commonwealth (Limited)
 64.   Pregnancy Enhancement
-	1.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
-	2.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
-	3.   Author protest:  I can't think of what else it would be.  Orbital hospitals and cures for primitive medicine would already do as much of this tech as *I* can otherwise fathom.  This is someone else's reproduction tech, because it confuses me.  I want to give it more me-points, but I don't really know how it works.
-	4.   Apologia:  I'm pretty sure it would be a 'calm' tech at least, since I think that's the healthiest activation level for pregnancies to be safe and comfortable.
-	5.   Categorization:  Since I do imagine it as a very advanced biological intervention of the category that I consider 'ontogenic control', I do imagine this as improving animal uplift technologies.  Mostly as a sideswipe, but still in a real way.  It would improve reproduction for species that have difficulty with reproduction even more than it would improve reproduction for humans, I think.
-	6.   Bureaucratic waste analysis:  Very literal.  This is medical bureaucracy.  Even transformatively, it's medical bureaucracy.
-	7.   Liberation rating:  ?/5
-	8.   Protection rating:  ?/5
-	9.   Technological smoothness:  ?/5
-	10.  Technological extremophiliia:  ?/5
-	11.   Stress/Boredom rating: 2/5 (Calm)
-	12.   Me-points:  0/3
-	13.   Special categories:  Animal Uplift, Furry
-	14.   Conversion potential:  Empire<->Commonwealth (Limited)
+	1.   Challenge cured:  Reproductive plague
+		1.   Challenge cure interpretation:  This investment into reproductive medicine addresses this disease and its effects in a straightforward way.
+		2.   Challenge cure qualm:  This doesn't talk about losing women to disease.  It talks about causing infertility.  My standard pro-infertility biases affect my preference towards (or rather against) this technology.
+	2.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
+	3.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
+	4.   Author protest:  I can't think of what else it would be.  Orbital hospitals and cures for primitive medicine would already do as much of this tech as *I* can otherwise fathom.  This is someone else's reproduction tech, because it confuses me.  I want to give it more me-points, but I don't really know how it works.
+	5.   Apologia:  I'm pretty sure it would be a 'calm' tech at least, since I think that's the healthiest activation level for pregnancies to be safe and comfortable.
+	6.   Categorization:  Since I do imagine it as a very advanced biological intervention of the category that I consider 'ontogenic control', I do imagine this as improving animal uplift technologies.  Mostly as a sideswipe, but still in a real way.  It would improve reproduction for species that have difficulty with reproduction even more than it would improve reproduction for humans, I think.
+	7.   Bureaucratic waste analysis:  Very literal.  This is medical bureaucracy.  Even transformatively, it's medical bureaucracy.
+	8.   Liberation rating:  ?/5
+	9.   Protection rating:  ?/5
+	10.   Technological smoothness:  ?/5
+	11.  Technological extremophiliia:  ?/5
+	12.   Stress/Boredom rating: 2/5 (Calm)
+	13.   Me-points:  0/3
+	14.   Special categories:  Animal Uplift, Furry
+	15.   Conversion potential:  Empire<->Commonwealth (Limited)
 65.   Zero Gravity Farms
 	1.   Challenge cured:  High Gravity
 		1.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
@@ -1721,16 +1729,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
 	9.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
 	10.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
-	11.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.  I think it's a high-quality siphon at least, suggestive of good independence governance and/or good scavenge from bad independence governance.
-	12.   Liberation rating:  5/5
-	13.   Protection rating:  3/5
-	14.   Siphon quality:  6/5  (Yes, it's better than 5/5)
-	15.   Technological smoothness:  2/5
-	16.   Technological extremophilia:  5/5
-	17.   Stress/boredom rating:  3/5 (Eustress)
-	18.   Me-points:  3/3  (Necessary, but not sufficient)
-	19.   Special categories:  Failsafe, Galactic Politics, Diversifying
-	20.   Conversion potential:  Limited Omniconverter
+	11.   Siphon analysis:  I think this is a super-quality siphon, suggestive of good independence governance and/or good scavenge from bad independence governance.
+	12.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.
+	13.   Liberation rating:  5/5
+	14.   Protection rating:  3/5
+	15.   Siphon quality:  6/5  (Yes, it's better than 5/5)
+	16.   Technological smoothness:  2/5
+	17.   Technological extremophilia:  5/5
+	18.   Stress/boredom rating:  3/5 (Eustress)
+	19.   Me-points:  3/3  (Necessary, but not sufficient)
+	20.   Special categories:  Failsafe, Galactic Politics, Diversifying
+	21.   Conversion potential:  Limited Omniconverter
 73.   Open Immigration
 	1.   Challenge cured:  Closed Culture
 		1.   Challenge cure interpretation:  This is pretty straightforward.
@@ -1920,8 +1929,38 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	1.   Challenge cured: Climactic Disruption
 		1.   Challenge cure interpretation:  I think... this actually works by producing resilient, fast-growing forests.  The icon for climactic disruption is a tornado in a desert.  If the biomes recover very rapidly, they'll produce a normal water cycle relatively rapidly, pushing back desertification.
 	2.   Author protest:  This technology is oddly stupid to me.  The picture involves a rabbit and what looks like a cow with a beak, with a line between them, both of them under and to the right of a genetic helix.  It's hard to take seriously due to the icon.
-	3.   Mechanism proposal:  These are the geneticists of the Imperial Reformers.  This is the only technology strongly suggestive of their faction even *having* geneticists.
-
+	3.   Mechanism proposal:  These are the geneticists of the Imperial Reformers.  This is the only technology strongly suggestive of their faction even *having* geneticists, though Passive Farming by some interpretations would also tend to develop them.
+	4.   Liberation analysis:  This is kind of... orthogonal to liberation?  It doesn't strike me as restricting anyone in particular.  It opens up potential future enhancements in morphological freedom and medical care.
+	5.   Siphon analysis:  The fact that this technology seems orthogonal to galactic politics makes it a *wonderful* siphon, or at least... it almost does.  It does one thing wrong: it risks creating new invasive species.  Still, in general this pulls down galactic influences in favor of the territory's own independent governing potential.
+	6.   Categorization:  This is another one that strikes me as both diversifying and homogenizing.  It talks about preserving and enhancing local speciation, but if it permits radical cross-breeding and the promulgation of benevolent traits everywhere (hello Horizontal Eugenics), it could also create neo-monocultures where diversity is superficial.  Either way, it could be used to promote animal uplift by crossing behavioral and cognitive traits into new species.
+	7.   Bureaucratic waste analysis:  I don't think this would actually be bureaucratic, and it's entirely about a productive endeavor.  Maybe it suggests too much control by centralized agribusiness?  I'm at a bit of a loss here.  I'll have to hit this one again during redrafting.
+	8.   Liberation rating:  5/5
+	9.   Protection rating:  5/5
+	10.   Siphon quality:  4/5
+	11.  Technological smoothness:  3/5
+	12.   Technological extremophilia:  4/5
+	13.   Stress/boredom rating:  1/5 (Dull)
+	14.   Me-points:  2/3
+	15.   Special categories:  Diversifying, Homogenizing, Animal Uplift, Furry
+	16.   Conversion potential:  Unknown
+85.   Solar Moderator
+	1.   Challenge cured:  Solar Disruption
+		1.   Challenge cure interpretation:  This technology enables a bunch of mirrors, shades, and lenses to be used around an unstable star so that it projects patterns resembling normal steady output for the (inhabited) planets in its orbit.  Mirrors around the star may also permit returning some of its energy to its own use in a way that strengthens and stabilizes it as a mega-massive fusion generator.
+		2.   Challenge cure qualm:  Working around 'a kaleidoscope of seasons' could produce really weird, resilient ecologies!  Raising biological productivity despite this issue sounds attractive because of that.
+	2.   Mechanism proposal:  This is pretty literal.  If you can control stellar output through mirrors, shades, and lenses, you can finetune environments extensively.  Humanity wouldn't really have global warming issues if we could do this.
+	3.   Progression dispute:  I have a certain specific disagreement with the technological prerequisites of this system however, namely that I think this system will start being put up around Sol within a century of building a space elevator.  I think it's literally possible to lens/shade/mirror a star to climactically useful effect, but that shipping up all that inert material will be really hard/unprofitable without a space elevator.
+	4.   Trivia:  Wouldn't solar mirrors put up super-bright stars in the sky of any system where they were being deployed?  That sounds cool, and it really could be impressive, but I worry that it would make the sky more oppressive.  If everyone is stuck looking down during the daytime to avoid accidentally looking at a second sun, something is lost.
+	5.   Siphon analysis:  This is a good-quality siphon, but not a super-quality siphon.  Nobody will want to give up this system, which makes it a better siphon, but they may fight over it rather than let 'the wrong people' have it, which makes it a worse siphon.
+	6.   Bureaucratic waste analysis:  Oh god, it's basically the same as a dyson swarm without the ability to put up your bureaucrats on the swarm itself.  It's expensive.  Howe
+	7.   Liberation rating:  ?/5
+	8.   Protection rating:  ?/5
+	9.   Siphon quality:  3/5
+	10.   Technological smoothness:  1/5
+	11.   Technological extremophilia:  5/5
+	12.   Stress/boredom rating:  2/5 (Calm)
+	13.   Me-points:  1/3
+	14.   Special categories:  
+	15.   Conversion potential:  Unknown
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
