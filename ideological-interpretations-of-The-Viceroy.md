@@ -925,6 +925,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		1.  Challenge cure interpretation:  I think this cure is genetic.  The people who have optimistic genes, whether under the base game's use of this technology or the better version that I would implement, are *not* spiritually broken.
 		2.  Challenge cure qualm:  Like with serfdom, I find myself wondering why this doesn't reduce happiness.  Do people enjoy a grim and down-cast culture, too?  I'm reminded of people who like urban exploration (exploring ruins).  I can imagine that such people might still be happy, so maybe this shouldn't be cast out of society.  If it were worked past, it would produce unusual cultural products.
 	2.  Authorial protest:  This technology is horrifying.  It proposes a deliberate manipulation of *plague and disease* to make people happier.  Come on, don't make people sneeze for all eternity.  I say this as someone who finds sneezes amusing and reassuring, even!
+		1.  --> Relatedly, the voices in my head (who complain bitterly about the fact that I openly and exclusively credit them as such rather than taking up their ideas as purely my own, yet who asked to have this recorded) call this technology "gene-bombing" with optimistic genes.  That's a more literalistic interpretation than Horizontal Eugenic.
 	3.  Authorial protest:  I would replace this technology with Horizontal Eugenics.  The name sounds like a dirty joke ("let's get horizontal"), but that's not how I mean it.  The description would be something like this: "In a truly advanced society, there is no need for maladaptive and immiserating traits, but compassionate geneticists can spread every advantage to every person to whom it is relevant, so that everyone can be happy in their jobs."  This would be an excellent Imperial technology; it promotes hard-working happiness and protects the people who believe that their happiness should be without toil.  People who love their jobs do not work a day in their lives!  That potential lies within the Orbital Observers tech tree, and it is wasted with the disease-based manipulation of Engineered Optimism.
 	4.  Mechanism proposal:  This tech is kind of grim.  It sounds like... public healthcare failures repainted into successes, as the survivors of plagues are the people who believed that they (or their lineages) would survive plagues.  The DNA of such failed geneticists would be riddled with introns and inclusions from the viruses that ran rampant in their society, but they would be more optimistic on average.  Yay?
 	5.  Narrative indicator:  Plague.  Filth.  A society rotting apart in the control of sociopathic geneticists.  This is the kind of thing that would take over society if we let old school bigots have all their eugenics projects forever.  Their anti-compassionate misunderstandings of genetics would fail them forever.  No, no, no!
@@ -1798,6 +1799,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/boredom rating:  3/5 (Eustress)
 	11.   Me-points:  -1/3
 	12.   Special categories:
+	13.   Conversion potential:  Unknown
 78.   Landed Meritocracy
 	1.   Challenge cured:  Formerly Important
 		1.   Challenge cure interpretation: Perhaps it reconstructs a local sense of who is important, by giving a galactic Seal of Importance (so to speak) to a new class of "meritocrats"?
@@ -1835,6 +1837,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Stress/boredom rating:  5/5 (Screaming)
 	14.   Me-points:  0/3
 	15.   Special categories:  Failsafe, hypersmooth
+	16.   Conversion potential:  Unknown
+80.   Eternal Bank Platform
+	1.   Mechanism proposal:  It's... reasonably literal.  The description on this tech talks about how planned economies rarely try to plan for entire star systems, because the unintended consequences are so expensive at that level.  This establishes that the Beyonder banks are being given the authority to make the attempt.
+		1.   --> TVimH (The voices in my head) say that, per THEIR concept of who the 'Beyonders' are, this would be letting people who the gods have mind controlled run the system-wide planning.  That seems worse, IMO.
+	2.   Downside analysis:  The idea of there being amazing Beyonders immune to unintended consequences is painfully 'axis of trust'.
+	3.   Mechanical question:  What is being done with this tech when the economy is not a planned economy?
+	4.   Apologia:  This gets off the floor of its ratings etc. because I'm interpreting it as heavy regulatory intervention, which tends to have beneficial intentions partially realized.
+	5.   Siphon analysis:  This is a really bad siphon.  It gives up local competency at economic planning to supposedly superior outsiders, so it doesn't establish an independence government's capabilities at all.
+	6.   Bureaucratic waste analysis:  This has the bureaucratic waste of trying to centrally plan a star system.
+	7.   Liberation rating:  2/5
+	8.   Protection rating:  2/5
+	9.   Siphon quality:  1/5
+	10.   Technological smoothness:  4/5
+	11.   Technological extremophilia:  3/5
+	12.   Stress/boredom rating:  1/5 (Dull)
+	13.   Me-points:  0/3
+	14.   Special categories:  Detached
+	15.   Conversion potential:  Unknown
 
 
 ---
