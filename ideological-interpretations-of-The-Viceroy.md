@@ -1818,7 +1818,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  0/3
 	16.   Special categories:  Galactic politics, Nightmare
 	17.   Conversion potential:  Unknown
-79.   
+79.   Right to Competence
+	1.   Challenge cured:
+		1.   Challenge cure interpretation:
+	2.   Mechanism proposal:
 
 
 ---
@@ -1925,6 +1928,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 2021-11-15;  I just had an odd thought.  What if everyone at some point in an eternal life eventually takes a concussion just by bumping their head on accident?  Running into stuff by accident is a real enough thing that people do injure themselves that way...  Rejuvenation will have to account for concussion healing, and if concussions aren't cleanly healable, that could be one of the more surprising kinds of "bureaucratic waste".
 
 2021-11-19;  There are 109 technologies in this game.  That's 15 per wedge and 7 wedges, plus The Panarch's Mercy, plus the three 'gates' of the Will of the Panarchy, the Unity of the Commonwealth, and the Serenity of the Empire.  The tech-by-tech analysis is the planned bulk of the book that I intend to write, and I've written 77 first-pass analyses.  I am about 70% percent done with this, after which I'll want to typeset my first draft, which will involve a lot of culling of the material.
+
+2021-11-19;  One of the voices in my head has pointed out that I was writing in a more creative fashion at first for these, and they're right.  I'm making a note of that here.  That said, I'll either resume writing in a creative fashion when I get to making a book out of this (as I will necessarily have to redraft my notes), or I will have annealed my process to something steady.  I will note for myself here that I need to reorganize the technologies when it comes time to publish this as a book.  For instance, The Panarch's Mercy needs to be either the first or the last technology covered.
 
 ---
 The Much-Reviled Lower Classes
