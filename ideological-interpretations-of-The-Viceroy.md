@@ -1961,6 +1961,29 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  1/3
 	14.   Special categories:  
 	15.   Conversion potential:  Unknown
+86.   Basic Income
+	1.   Challenge cured:  Unscrupulous Society
+		1.   Challenge cure interpretation:  I see two interpretations for this one.  The first interpretation is the naaasty one.  By punting about the idea of the basic income, society starts to see who wants to be a beggar getting stuff for free.  These people are then marginalized.  Since those people are themselves unscrupulous, this clears up productivity.
+		2.   Alternative cure interpretation:  The loving interpretation is that the Basic Income bribes people out of the way.  It takes people in make-work jobs and convinces them that they should get out of the way of advancement.  It convinces unscrupulous people to "take it easy" and enjoy society on a dime.  Big cons don't start as often, and unwind more smoothly when they do.  Even people who get taken advantage of recover more successfully.
+		3.   Challenge cure boost:  I see every objective point as stabilizing a target potential immortal so that they can enter galactic society under a known term.  In this case, curing unscupulous societies invites people into galactic society whose requirement is that galactic society not be unscrupulous.
+	2.   Author appeal:  This could really work!
+	3.   Narrative indicator:  It forces the Wealth descriptions to be more honest at higher levels, as well.  These societies are more egalitarian by far.
+	4.   Mechanism proposal:  This sets up interstellar subsidization of the economy so that poverty is alleviated and people are no longer miserable due to privation.
+	5.   Mechanism proposal:  Far from crushing productivity, this encourages automation of the economy and the reconstruction *of* the economy in hedonological forms.  As people are increasingly only willing to work in ways that support their happiness, work itself becomes more like something that supports happiness.
+	6.   Author appeal:  Humanity BADLY needs more industrial automation IRL, and could do a lot more of it.  This would result in that being done.  All those fears of "what would the truckers do if we automated their trucks" and "what would the checkout clerks do if we installed autocheckouts everywhere" would be gone.
+	7.   Categorization:  This is very essential to hedonology!
+	8.   Siphon quality analysis:  This is a 5/5 siphon in that it suggests that the Commonwealth really is bringing the territory into their own.  It doesn't make sense to me that galaxy-settling societies should be impoverished and forced to work or else!
+	9.   Categorization:  This encourages more diverse employment as it encourages societies to hunt for the ability to sustain people in jobs they truly enjoy.
+	10.   Bureaucratic waste analysis:  Almost none of this is literally bureaucratic.  The mechanisms are far more efficient than conventional welfare.  However, it does literally pay people not to work.
+	11.   Liberation rating:  5/5
+	12.   Protection rating:  4/5 (unscupulous challenge cure), 5/5 (scrupulous challenge cure)
+	13.   Siphon quality:  5/5
+	14.   Technological smoothness:  3/5
+	15.   Technological extremophilia:  5/5
+	16.   Stress/boredom rating:  2/5 (Calm)
+	17.   Me-points:  2/3
+	18.   Special categories:  Hedonological, Diversifying
+
 
 ---
 2021-3-31; I feel generally scared and/or angry at trying to ideologically analyze the Imperial technologies, which strike me as rotten with unspoken dependencies and/or outright lies, even though I can see that there's also some measure of brilliance and worth down there if I'd a greater mastery of the game to use it with.
