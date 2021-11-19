@@ -2096,6 +2096,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-11-19; The Armistice Treaty that I've been playing with makes the Commonwealth Consensus the heroes of the galaxy.  They got militarily defeated by the rebellion against them, and they negotiated the Peacekeeping role in order to not lose the territory after the defeat.  That negotiated truce became the basis of the Armistice Treaty that I've been writing as having eventually taken over the galaxy and given it a system of shared rule.  I should write about this in the book!  It deserves to have a chapter or two of fiction written for it.
 
+2021-11-19;  TVimH had an unusual burst of creativity without hurting me for once, and told me a story from my own play of The Viceroy that they wanted me to record.  They talked about how I'm playing a group of allied governors for the different factions, who are creating a kingdom of peace in a galaxy at war.  They included an unusual detail: the group lost many of their best and brightest in a civil war that erupted between their Panarchy Informalists and their Commonwealth Unifiers over suspected (and quite actual) corruptions that the Informalists were inflicting on the Unifiers.  I may use this stuff when I write my book, and it'll be recorded forever here in my notes archive that I am indeed crediting voices in my head for this story.  ;)
+
 ---
 The Much-Reviled Lower Classes
 
