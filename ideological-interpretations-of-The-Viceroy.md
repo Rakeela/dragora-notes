@@ -49,6 +49,7 @@ The Six Subcultures
 		 - All this, and they're the most fun society!  The purpose to life is to be happy!  Lets throw a party!  Can't you just feel the absolute liberation?  Big sister only clenches her fist because you *enjoy* it!
 		 - Oh, and they plan out their kids' lives before they're born.  Knowing the minds of people who haven't been born yet is just another part of their sciences.  Can't you just imagine the joyous childhoods of kids born to parents who reject serenity, always want to have fun, *and* believe that they deserve absolute control?  You better imagine a lot of that, because these people have lots of kids.  They think mandatory reproduction is a really good thing.
 		 - Finally, they're great farmers, but they hate industrial farming.  They don't want to be agricultural specialists and they're embarrassed to work on agritechnologies.  There are as a result three kinds of happy Commonwealth farmers: pioneers working on developing planets with inadequate infrastructure, artisan farmers growing small luxury crops, and artsy farmers who also make a bunch of arts and crafts to sell on the side.
+		 - A triviata:  The Commonwealth Consensus has the most 'ascending honesty' view of the financial system.  The Panarchy makes slightly fewer false promises of stability in financial markets than the Empire does, and the Commonwealth makes the fewest false promises of stability in financial markets.  P.S. This whole section is junk.  ^.-.~
 	 - The Value of Immortality
 		 - If it weren't for the ethical issues of farming prison planets to extract a few people who an all-powerful corrupted surveillance grid decides are virtuous, I'd be enthusiastic about the Commonwealth Consensus.  The problem is that the sociopaths who run their subculture try to reject immortality for almost everyone.  They build massive populations to extract marginal numbers of saints, while wishing death on everyone else.
 		 - Some of these people are good cops, but not as many of them as think of themselves as good cops. Some of these people are good scientists, but not as many of them as think of themselves as good scientists.  Some of these people are really fun, but not as many as think of themselves as really fun.  A lot of these people are discarded as disappointments, and their "extremely happy" society suffers from outbreaks of suicidal violence courtesy of its rejectees.
@@ -1855,6 +1856,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  0/3
 	14.   Special categories:  Detached
 	15.   Conversion potential:  Unknown
+81.   Economic overseer
+	1.   Mechanism proposal:  This seems fairly literal, but...
+	2.   Downside analysis:  "Growth and stability" is ultimately a contradictory focus.  Heavily automated systems are occasionally highly exploitable, and can even be designed to be highly exploitable, especially when they follow each other across predictable algorithmic judgments.
+	3.   Downside analysis:  Stability is a false promise in economic systems.  In this, I prefer the Commonwealth attitude, as neither the Landed Meritocracy nor the Right to Competence make false promises of stability, which both the Panarchy and the Empire are prone to.
+	4.   Siphon analysis:  These are actually a pretty good siphon.  If they're not so unpopular that they get ripped down immediately, they can survive through quite a bit of chaos, safeguarding (some) investments when the faulty stability of the viceregal reconstruction administration is withdrawn.
+	5.   Downside analysis:  These things entrench biases and errors for the long-term.  If something is misunderstood when they're being designed, that may be the last time in a decade anyone reviews that misunderstanding.  Meanwhile, the inevitability of misunderstandings mean that people are constantly digging into the code to fix *something*.  There's always another *something* wrong with this stuff, so getting into the code to correct things is an eternal pain in the tail.
+	6.   Bureaucratic waste analysis:  This requires a good financial services bureaucracy establishment, and that's all people in offices shuffling numbers around and/or coding software.  That said, it's not a conventional government bureaucracy at all... which means this is mostly non-literal wastage.  This system makes people miserable as it ruins lives by accident while trading tokens on a virtual exchange.
+	7.   Liberation rating:  1/5
+	8.   Protection rating:  2/5
+	9.   Siphon quality:  4/5
+	10.   Technological smoothness:  2/5
+	11.   Technological extremophilia:  4/5
+	12.   Stress/boredom rating:  4/5 (Stressful)
+	13.   Me-points:  0/3
+	14.   Special categories:  
+	15.   Conversion potential:  Unknown
+82.   Industrial Overseer
+	1.   Mechanism proposal:  The idea of a single expert computer system doing all of this is nonsense, though the more this gets attempted the less nonsensical it gets.  Still, these are presumably a star system wide dedication to assigning industrial specialists to the task of automating away industrial specialists.  This sounds like it would be forever putting people out of work, but... it doesn't!  It really doesn't.  This stuff works.
+	2.   Narrative indicator:  This makes industrial tasks progressively easier!  People automate away the parts that are hardest, either because they're hard to do exactly consistently, or because they're deathly boring (like making the exact same cut ten thousand times on ten thousand identical pieces of equipment).  The longer this has been running, the more industry runs on autopilot.
+	3.   Downside analysis:  Like the economic overseer, this can entrench misunderstandings.  An expensive automated system may be built for a certain input (let's call it 51), and then get fed a superficially identical input (let's call it 49).  If 49 and 51 would've been identical to an artisan, but 49 breaks wrong when the same cut is applied countless times by a machine that can't feel a slight pressure difference in applying the cut, a whole lot of shoddy goods may be produced before people even understand that something went wrong.  The whole supply line needs to be refined to make this stuff work.
+	4.   Downside analysis:  Speaking of cutting wrong, an artisan that produces a bad part by cutting components likely did a cut wrong once by accident, and will upset one customer who gets a bad part.  An automated factory that produces a bad part by cutting components likely did the cut wrong thousands of times, and will upset many customers who get bad parts.  The artisan will simply need to be more careful on the next cut, while the factory will need to shut down for days or worse fixing, reprogramming, and/or replacing its equipment.  Automation makes errors more rarer, but more expensive.
+	5.   Bureaucratic waste analysis:  I'm not sure it's fair to call this a bureaucratic technology at all.  I'd say The Viceroy underrates it.  That said, there are ongoing expenses, from ongoing purchases of machinery to ongoing correction of expensive errors as they develop or are implemented.
 
 
 ---
