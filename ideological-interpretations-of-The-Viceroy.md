@@ -1363,15 +1363,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Downside analysis:  ...others, made greatly worse.
 	10.  Mechanism proposal:  The only constant in this technology is the result: the viceregal administration has to assign less of its own administrative talent to get things done in each district.
 	11.  Mechanism proposal:  Another option, btw, for interpreting this: The "weight of culture" dudes constantly flooding in might be "Beyonders", and the "Dwellings" are made for each of them to live in.
-	12.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	13.  Liberation rating:  2/5
-	14.  Protection rating:  1/5
-	15.  Technological smoothness:  5/5
-	16.  Technological extremophilia:  5/5
-	17.  Stress/Boredom rating:  2/5 (Calm)
-	18.  Me-points: -1/3
-	19.  Special categories:  Diversifying, Hypersmooth, Nightmare
-	20.  Conversion potential:  Unknown
+	12.  Mechanism proposal:  The voices in my head insist that these are temples.  I'm not sure I can USE that, but... as an artist, I must use everything in my life, etc.  I think I prefer my interpretation that they're weird slanted variations of everything which try to consider goals and results in a creativity-enhancing process-agnostic manner.
+	13.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	14.  Liberation rating:  2/5
+	15.  Protection rating:  1/5
+	16.  Technological smoothness:  5/5
+	17.  Technological extremophilia:  5/5
+	18.  Stress/Boredom rating:  2/5 (Calm)
+	19.  Me-points: -1/3
+	20.  Special categories:  Diversifying, Hypersmooth, Nightmare
+	21.  Conversion potential:  Unknown
 55.  Beyonder Embassy
 	1.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing and what happens as a result of you doing it.
 	2.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
@@ -1790,6 +1791,13 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/boredom rating:  3/5 (Eustress)
 	11.   Me-points:  -1/3
 	12.   Special categories:
+78.   Landed Meritocracy
+	1.   Challenge cured:  Formerly Important
+		1.   Challenge cure interpretation: Perhaps it reconstructs a local sense of who is important, by giving a galactic Seal of Importance (so to speak) to a new class of "meritocrats"?
+		2.   Challenge cure qualm:  This is yet another one where working around it has thematic advantages.  If some people in the galaxy can come to terms with being "unimportant", life is easier for everywhere that would like to be "important", which is almost everywhere.
+	2.   Mechanism proposal:  Land reform!  I see these as land reform programs that are designed to get rid of entrenched inequalities in society.  This interpretation is especially powerful in planned economies.
+	3.   Mechanism proposal:  Land grabs!  I see these as land grab programs that are designed to reward politically useful people in society.  This interpretation is especially powerful in feudal economies.
+	4.   Downside analysis:  Land reforms and land grabs are both highly economically disruptive.
 
 
 ---
