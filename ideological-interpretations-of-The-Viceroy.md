@@ -660,25 +660,29 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Special categories:  Detached, Galactic Politics
 	14.  Conversion potential:  Unknown
 22.  Fertility Drugs
-	1.  Mechanism proposal:  This technology proposes ubiquitous drugging.  Drugs in the water, drugs in the air, drugs in the food.  What are those drugs supposed to do?  They're to support reproductive health and libido.  As far as ways of increasing reproduction rates go, I definitely agree that this would raise reproductive rates, but I don't approve at all.  Generally.
-	2.  Mechanism proposal:  This verges on an authorial protest, but this is also the technology for implementing pheromones.  Which my own species had...  So...  I *can't* imagine this technology as always and intrinsically evil.
-	3.  Authorial protest:  But at the same time, my species of [[dragon]] was not populous and we did not drug each other into sex.  I also can't imagine pheromones as always and intrinsically increasing population growth.  If implemented on a smaller more voluntary scale, this is a technology for health and happiness!  I think The Viceroy is bizarrely natalistic in the way it treats technologies, too.  It treats all healthcare as providing population growth, as though people could gain little or nothing in happiness from being healthy.
-	4.  Authorial protest:  The headline technology here is an abuse of technology, but the underlying technology base needed to implement that technology is pro-medicine and pro-morphological-freedom.  The +2% Imperial Industry boost from having this technology is waaaay more ethical than the +1% reproductive rate from inflicting aphrodisiacs on the public.
-	5.  Authorial protest:  This is one of the cases where I wish there was some way in the game to research a technology while marking a technology's headline application as "never, don't ask".  Perhaps the player should be allowed to mark one "never" at the start of the game, +1 for every 10 researched technologies.  The underlying biological research structures here make way more sense here than the implementation of intrusive aphrodisiacs.
-	6.  Narrative indicator:  I don't want to talk about it.  Whatever bad things people imagine here are probably on-point.  This probably goes to a lot of the vilest fantasies of conservatives who think about sex too much.  Mass drugging with aphrodisiacs would not be good for society's consent base.
-	7.  Apologia:  Even if fully implemented, this technology stands out as one that gets better over time.  As society adapts to the chemically augmented atmosphere, and as populations *subsequently stabilize*, the ultimate consequence is a public whose health and vigor is being very actively maintained.  A fully adapted public will just use condoms more, and chemical contraceptives, and maybe even a heat cycle like my species had (which is a *great* population control tool, I recommend it highly) so that most sexuality is affectionate (off-cycle) rather than reproductive (on-cycle).
-	8.  Narrative indicator:  The higher the population growth rate, the more vile this technology's implications are.
-	9.  Apologia:  Although this looks like a hypersexual tech at every particular point and would only be likely to be popular among a hypersexual public, this preserves asexual genes and may eventually cause them to predominate.  It just... scrubs out the evolutionary difference between sexual and asexual genes.
-	10.  Bureaucratic waste analysis:  Yuck.  Implementing the bureaucratic intervention on this has costs which go WAY beyond the administrative expense.  This one wastes bureaucrats in the brutal sense, and it does so **right** at the outset.  It promotes a sexually abusive culture that is likely to shock people into closed-minded dishonesty.  The administrative expense of running the program is likely to be targeted for outsized levels of public intransigence and petty vandalism.  While that injury *reduces* over time as society acclimates and rebuilds its sexual sanity, most of this game's dystopic technologies get progressively worse over time, so that by the time society fully adapts to *this* insult, other things will have gone catastrophic.  The result is that more people suffer in whatever *other* dystopia has been built.
-	11.  Utopic rating:  Special (Most of the technologies in this game rot over time due to administrative error, but this one starts out reeking and gets slowly better under neglect.)
-	12.  Public protection rating:  2/5  (This'd be 1/5 for public threat, but it does forgive some people who would otherwise be driven out of society.)
-	13.  Technological smoothness:  3/5
-	14.  Technological extremophilia:  3/5
-	15.  Stress/Boredom rating:  5/5 (Screaming)... at first.  Declines gradually to 3/5 (Eustress)
-	16.  Me-points: -1/3
-	17.  Kind of person most protected:  ...
-	18.  Special categories:  Anti-Popular, Nightmare, Asexual
-	19.  Conversion potential:  Unknown
+	1.  Challenge cured:  Genetic Infertility
+		1.  Challenge cure interpretation:  I don't think this fixes the challenge at all.  I think it just accelerates selective pressures until genetic infertility is no longer statistically normal.
+		2.  Alternative challenge cure:  On the other hand, these guys ARE geneticists, so they could be doing it right.
+		3.  Challenge cure qualm:  Genetic infertility is a gift!  Preserve it.  You get a culture where sex is somewhat disconnected from reproduction, which means it'll be more affectionate AND more sustainable.  Less packed people, too.
+	2.  Mechanism proposal:  This technology proposes ubiquitous drugging.  Drugs in the water, drugs in the air, drugs in the food.  What are those drugs supposed to do?  They're to support reproductive health and libido.  As far as ways of increasing reproduction rates go, I definitely agree that this would raise reproductive rates, but I don't approve at all.  Generally.
+	3.  Mechanism proposal:  This verges on an authorial protest, but this is also the technology for implementing pheromones.  Which my own species had...  So...  I *can't* imagine this technology as always and intrinsically evil.
+	4.  Authorial protest:  But at the same time, my species of [[dragon]] was not populous and we did not drug each other into sex.  I also can't imagine pheromones as always and intrinsically increasing population growth.  If implemented on a smaller more voluntary scale, this is a technology for health and happiness!  I think The Viceroy is bizarrely natalistic in the way it treats technologies, too.  It treats all healthcare as providing population growth, as though people could gain little or nothing in happiness from being healthy.
+	5.  Authorial protest:  The headline technology here is an abuse of technology, but the underlying technology base needed to implement that technology is pro-medicine and pro-morphological-freedom.  The +2% Imperial Industry boost from having this technology is waaaay more ethical than the +1% reproductive rate from inflicting aphrodisiacs on the public.
+	6.  Authorial protest:  This is one of the cases where I wish there was some way in the game to research a technology while marking a technology's headline application as "never, don't ask".  Perhaps the player should be allowed to mark one "never" at the start of the game, +1 for every 10 researched technologies.  The underlying biological research structures here make way more sense here than the implementation of intrusive aphrodisiacs.
+	7.  Narrative indicator:  I don't want to talk about it.  Whatever bad things people imagine here are probably on-point.  This probably goes to a lot of the vilest fantasies of conservatives who think about sex too much.  Mass drugging with aphrodisiacs would not be good for society's consent base.
+	8.  Apologia:  Even if fully implemented, this technology stands out as one that gets better over time.  As society adapts to the chemically augmented atmosphere, and as populations *subsequently stabilize*, the ultimate consequence is a public whose health and vigor is being very actively maintained.  A fully adapted public will just use condoms more, and chemical contraceptives, and maybe even a heat cycle like my species had (which is a *great* population control tool, I recommend it highly) so that most sexuality is affectionate (off-cycle) rather than reproductive (on-cycle).
+	9.  Narrative indicator:  The higher the population growth rate, the more vile this technology's implications are.
+	10.  Apologia:  Although this looks like a hypersexual tech at every particular point and would only be likely to be popular among a hypersexual public, this preserves asexual genes and may eventually cause them to predominate.  It just... scrubs out the evolutionary difference between sexual and asexual genes.
+	11.  Bureaucratic waste analysis:  Yuck.  Implementing the bureaucratic intervention on this has costs which go WAY beyond the administrative expense.  This one wastes bureaucrats in the brutal sense, and it does so **right** at the outset.  It promotes a sexually abusive culture that is likely to shock people into closed-minded dishonesty.  The administrative expense of running the program is likely to be targeted for outsized levels of public intransigence and petty vandalism.  While that injury *reduces* over time as society acclimates and rebuilds its sexual sanity, most of this game's dystopic technologies get progressively worse over time, so that by the time society fully adapts to *this* insult, other things will have gone catastrophic.  The result is that more people suffer in whatever *other* dystopia has been built.
+	12.  Utopic rating:  Special (Most of the technologies in this game rot over time due to administrative error, but this one starts out reeking and gets slowly better under neglect.)
+	13.  Public protection rating:  2/5  (This'd be 1/5 for public threat, but it does forgive some people who would otherwise be driven out of society.)
+	14.  Technological smoothness:  3/5
+	15.  Technological extremophilia:  3/5
+	16.  Stress/Boredom rating:  5/5 (Screaming)... at first.  Declines gradually to 3/5 (Eustress)
+	17.  Me-points: -1/3
+	18.  Kind of person most protected:  ...
+	19.  Special categories:  Anti-Popular, Nightmare, Asexual
+	20.  Conversion potential:  Unknown
 23.  Adaptive Antipsychotics
 	1.  Mechanism proposal:  Like with fertility drugs, this proposes drugging the water supply for the public's own good.  Unlike with fertility drugs, it doesn't propose drugging the water supply for any purpose other than the public's *subjective* good.  If done very excellently, this is... only barely an intrusion on the public's liberties.
 	2.  Mechanism proposal:  This is likely to be pursued simultaneously to massive investments in public healthcare.  It doesn't make sense to cure mental illness entirely through the water that people drink.  It *might* make sense to research drugs that improve mental performance and then mass-administrate them.
@@ -781,25 +785,29 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy (Limited)
 27.  Natalist Policies
-	1.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
-	2.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
-	3.  Downside analysis:  Treating population growth as something they can and should weaponize in the name of "virtue" is fascistic.  It is overtly something that fascist governments have always attempted on Earth.  It's a hallmark of every genocidal authoritarian ideology that was ever invented.  Nazi Germany did this very literally.
-	4.  Narrative indicator:  This technology is proximate to nationalist indoctrination in the tech tree.
-	5.  Narrative indicator:  The attitude that children are a tool of conquest is why the Commonwealth can't bring peace to warring nations.
-	6.  Downside analysis:  Since people who don't want to breed and who aren't loyal to the Commonwealth are liabilities to the "Consensus", the expansion of this technology increases the rate of at which society produces maladapted ejectees.
-	7.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
-	8.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
-	9.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
-	10.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
-	11.  Utopic rating:  0/5
-	12.  Public protection rating:  2/5
-	13.  Technological smoothness:  5/5
-	14.  Technological extremophilia:  1/5
-	15.  Stress/Boredom rating:  3/5 (Eustress)
-	16.  Me-points:  -1/3
-	17.  Kind of person most protected:  People who want to raise kids for the glory of their race.
-	18.  Special categories:  Hypersmooth, Homogenizing, Nightmare
-	19.  Conversion potential:  Hopefully, none.
+	1.  Challenge cured:  Cultural Despair
+		1.  Challenge cure interpretation:  I got nothin'.  If it was just "people put on a bright face for their kids", then fertility drugs would cure it just as well.
+		2.  Challenge cure qualm:  Doesn't this make the whole district's population more mobile?  They're more willing to leave if they really want to leave.
+		3.  Challenge cure qualm:  Doesn't 'curing' this promote overpopulation?  These people are more sustainable and more concerned with preserving their environment.  They don't pack in like sardines.
+	2.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
+	3.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
+	4.  Downside analysis:  Treating population growth as something they can and should weaponize in the name of "virtue" is fascistic.  It is overtly something that fascist governments have always attempted on Earth.  It's a hallmark of every genocidal authoritarian ideology that was ever invented.  Nazi Germany did this very literally.
+	5.  Narrative indicator:  This technology is proximate to nationalist indoctrination in the tech tree.
+	6.  Narrative indicator:  The attitude that children are a tool of conquest is why the Commonwealth can't bring peace to warring nations.
+	7.  Downside analysis:  Since people who don't want to breed and who aren't loyal to the Commonwealth are liabilities to the "Consensus", the expansion of this technology increases the rate of at which society produces maladapted ejectees.
+	8.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
+	9.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
+	10.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
+	11.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
+	12.  Utopic rating:  0/5
+	13.  Public protection rating:  2/5
+	14.  Technological smoothness:  5/5
+	15.  Technological extremophilia:  1/5
+	16.  Stress/Boredom rating:  3/5 (Eustress)
+	17.  Me-points:  -1/3
+	18.  Kind of person most protected:  People who want to raise kids for the glory of their race.
+	19.  Special categories:  Hypersmooth, Homogenizing, Nightmare
+	20.  Conversion potential:  Hopefully, none.
 28.  Reproduction Mandate
 	1.  Challenge cured:  Zero Birth Culture
 		1.  Challenge cure interpretation:  Taxes the zero birth culture to death, or otherwise uses state force to break them up.
@@ -1538,19 +1546,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.   Conversion potential:  Panarchy<->Empire (Limited)
 63.   Genetic Optimization
 	1.   Challenge cured:  Genetic stupidity
-	2.   Challenge cure interpretation:  Gene therapies for stupid people to make them more technically competent.  I appreciate this stuff, because I believe that sharing advantages widely is compassionate egalitarianism.
-	3.   Author appeal:  Romanesco broccoli.  This stuff isn't necessarily high-tech as applied to agriculture.  It's something realistic, that builds into something high-tech.
-	4.   Categorization:  This is a hypersmooth technology.  It's not a disruptive innovation, but it's something that gradually flowers into beautiful futures.
-	5.   Categorization:  I also consider this an animal uplift technology.  As these people examine individual species to improve them, they find the uplift candidates as well and start raising them up with genetic tinkering.  I think these societies eventually get furry for real!  This pushes systems towards biological specialization, but if they retain cultural power, their culture may get furry even faster!
-	6.   Bureaucratic waste analysis:  I think treating this as a bureaucratic technology is actually unfair.  This is a liberal tech that really should return without waste.  I think it just makes society more unwilling to be governed by a Viceregal administration.
-	7.   Liberation rating:  5/5
-	8.   Protection rating:  5/5
-	9.   Technological smoothness:  5/5
-	10.   Technological extremophilia:  5/5
-	11.   Stress/Boredom rating:  2/5 (Calm)
-	12.   Me-points:  2/3
-	13.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
-	14.   Conversion potential:  Empire<->Commonwealth (Limited)
+		1.   Challenge cure interpretation:  Gene therapies for stupid people to make them more technically competent.  I appreciate this stuff, because I believe that sharing advantages widely is compassionate egalitarianism.
+	2.   Author appeal:  Romanesco broccoli.  This stuff isn't necessarily high-tech as applied to agriculture.  It's something realistic, that builds into something high-tech.
+	3.   Categorization:  This is a hypersmooth technology.  It's not a disruptive innovation, but it's something that gradually flowers into beautiful futures.
+	4.   Categorization:  I also consider this an animal uplift technology.  As these people examine individual species to improve them, they find the uplift candidates as well and start raising them up with genetic tinkering.  I think these societies eventually get furry for real!  This pushes systems towards biological specialization, but if they retain cultural power, their culture may get furry even faster!
+	5.   Bureaucratic waste analysis:  I think treating this as a bureaucratic technology is actually unfair.  This is a liberal tech that really should return without waste.  I think it just makes society more unwilling to be governed by a Viceregal administration.
+	6.   Liberation rating:  5/5
+	7.   Protection rating:  5/5
+	8.   Technological smoothness:  5/5
+	9.   Technological extremophilia:  5/5
+	10.   Stress/Boredom rating:  2/5 (Calm)
+	11.   Me-points:  2/3
+	12.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
+	13.   Conversion potential:  Empire<->Commonwealth (Limited)
 64.   Pregnancy Enhancement
 	1.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
 	2.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
@@ -1877,7 +1885,42 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	2.   Narrative indicator:  This makes industrial tasks progressively easier!  People automate away the parts that are hardest, either because they're hard to do exactly consistently, or because they're deathly boring (like making the exact same cut ten thousand times on ten thousand identical pieces of equipment).  The longer this has been running, the more industry runs on autopilot.
 	3.   Downside analysis:  Like the economic overseer, this can entrench misunderstandings.  An expensive automated system may be built for a certain input (let's call it 51), and then get fed a superficially identical input (let's call it 49).  If 49 and 51 would've been identical to an artisan, but 49 breaks wrong when the same cut is applied countless times by a machine that can't feel a slight pressure difference in applying the cut, a whole lot of shoddy goods may be produced before people even understand that something went wrong.  The whole supply line needs to be refined to make this stuff work.
 	4.   Downside analysis:  Speaking of cutting wrong, an artisan that produces a bad part by cutting components likely did a cut wrong once by accident, and will upset one customer who gets a bad part.  An automated factory that produces a bad part by cutting components likely did the cut wrong thousands of times, and will upset many customers who get bad parts.  The artisan will simply need to be more careful on the next cut, while the factory will need to shut down for days or worse fixing, reprogramming, and/or replacing its equipment.  Automation makes errors more rarer, but more expensive.
-	5.   Bureaucratic waste analysis:  I'm not sure it's fair to call this a bureaucratic technology at all.  I'd say The Viceroy underrates it.  That said, there are ongoing expenses, from ongoing purchases of machinery to ongoing correction of expensive errors as they develop or are implemented.
+	5.   Categorization:  This is so realistic that the only reason I wouldn't call it a failsafe technology is that it's right next to the catastrophically tyrannical "Potentiality Forecaster" technology.  But of itself... this is a pretty safe thing to attempt!  Except for the climate hazard.  Whoops.
+	6.   Downside analysis:  The biggest risk here is climate hazard.  This really encourages chewing up planets for products.  The Panarchy Informalists are bad for climates.  Maybe I should create an 'Unsustainable' category.
+	7.   Narrative indicator:  I think this is a very liberating technology.  It makes industrial jobs get easier over time.  It looks like it would eliminate them, but it really doesn't, and as those jobs get easier they get more accessible... sort of.  This would be even more liberating if there were some way to ensure society gets smarter and more retrainable over time, as with Mental Transcription.
+	8.   Siphon analysis:  Since I think this is a stable and effective thing to promote, it's a good siphon, as it suggests that independence governments are industrially competent after the Viceroy is done with them.
+	9.   Bureaucratic waste analysis:  I'm not sure it's fair to call this a bureaucratic technology at all.  I'd say The Viceroy underrates it.  That said, there are ongoing expenses, from ongoing purchases of machinery to ongoing correction of expensive errors as they develop or are implemented.
+	10.   Liberation rating:  3/5, +1 with Mental Transcription
+	11.   Protection rating:  3/5
+	12.   Siphon quality:  5/5
+	13.   Technological smoothness:  3/5
+	14.   Technological extremophilia:  5/5
+	15.   Stress/boredom rating:  2/5 (Calm)
+	16.   Me-points:  1/3
+	17.   Special categories:  
+	18.   Conversion potential:  Empire<->Panarchy
+83.   Computerized Markets
+	1.   Mechanism proposal:  This computerizes all the financial markets in the district.  That's what it claims to do, and that makes sense as something for a highly advanced society to... attempt.
+	2.   Downside analysis:  This thing is false!  It claims that the automated markets provide fewer opportunities for market manipulation.  That is ridiculous.  Computerized markets offer extremely rapid opportunities for market manipulation.  They don't level the playing field at all.
+	3.   Apologia:  This is more functional with regulated markets.
+	4.   Lore question:  Why would many worlds in the setting have partially manual markets?  Is the Panarchy sabotaging this basic financial technology by being inadequately good at protecting its popularity?
+	5.   Siphon analysis:  I'm marking down the siphon quality.  If most planets don't have these, they're not stable within independent territories.  Plus, false promises are a good way to siphon resources in terrible ways.
+	6.   Conversion analysis:  This converts between the Old Empire and the Panarchy, because it makes the same promises as the Eternal Banks of stability AND growth.  I assume it hires from and caters to the same basic audiences.
+	7.   Bureaucratic waste analysis:  I think the bureaucracy here is just the financial regulatory complex that sets the standards and requirements for the financial system.  This is reasonable, moderate, and... a foot in the door for the Panarchy Informalists to kick a bunch of bad ideas through the gate.
+	8.   Liberation rating:  ?/5
+	9.   Protection rating:  2/5, +2 with regulated economy
+	10.   Siphon quality:  2/5
+	11.   Technological smoothness:  4/5
+	12.   Technological extremophilia:  4/5
+	13.   Stress/boredom rating:  4/5 (Stressful)
+	14.   Me-points:  0/3
+	15.   Special categories:
+	16.   Conversion potential:  Empire<->Panarchy (Limited)
+84.   Constant hybridization:
+	1.   Challenge cured: Climactic Disruption
+		1.   Challenge cure interpretation:  I think... this actually works by producing resilient, fast-growing forests.  The icon for climactic disruption is a tornado in a desert.  If the biomes recover very rapidly, they'll produce a normal water cycle relatively rapidly, pushing back desertification.
+	2.   Author protest:  This technology is oddly stupid to me.  The picture involves a rabbit and what looks like a cow with a beak, with a line between them, both of them under and to the right of a genetic helix.  It's hard to take seriously due to the icon.
+	3.   Mechanism proposal:  These are the geneticists of the Imperial Reformers.  This is the only technology strongly suggestive of their faction even *having* geneticists.
 
 
 ---
