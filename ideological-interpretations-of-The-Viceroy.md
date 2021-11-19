@@ -799,7 +799,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Kind of person most protected:  People who want to raise kids for the glory of their race.
 	18.  Special categories:  Hypersmooth, Homogenizing, Nightmare
 	19.  Conversion potential:  Hopefully, none.
-28.  Reproductive mandate
+28.  Reproduction Mandate
 	1.  Challenge cured:  Zero Birth Culture
 		1.  Challenge cure interpretation:  Taxes the zero birth culture to death, or otherwise uses state force to break them up.
 		2.  Challenge cure qualm:  PLEASE DON'T DO IT.  The zero birth people are me!  I'm one of them!  I want to live forever!  A lot of them want to live forever!  Don't break up their societies pleeease!
@@ -1797,7 +1797,21 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		2.   Challenge cure qualm:  This is yet another one where working around it has thematic advantages.  If some people in the galaxy can come to terms with being "unimportant", life is easier for everywhere that would like to be "important", which is almost everywhere.
 	2.   Mechanism proposal:  Land reform!  I see these as land reform programs that are designed to get rid of entrenched inequalities in society.  This interpretation is especially powerful in planned economies.
 	3.   Mechanism proposal:  Land grabs!  I see these as land grab programs that are designed to reward politically useful people in society.  This interpretation is especially powerful in feudal economies.
-	4.   Downside analysis:  Land reforms and land grabs are both highly economically disruptive.
+	4.   Downside analysis:  Land reforms and land grabs are both highly economically disruptive.  Even when well-constructed, these risk being highly entropic.  They invite conflict and create the impression that service to the state is the way to gain land!
+	5.   Apologia:  While these are NEVER entirely liberating, because there's always someone who LOSES liberty, they're liberating on average for most of the people... in regulated economies.  Specifically.
+	6.   Apologia:  These make feudal economies work much better... by the standards of feudal lords and vassals, etc.  They're an essential "technology" for feudalism itself (ick).
+	7.   Downside analysis:  I'm pretty sure these are usually stressful.  Many of the atrocities in history have been linked to attempts to do this stuff.  The good outcomes here take a long time to bear fruit, and may not arise within the scope of the game itself.
+	8.   Bureaucratic waste analysis:  Half-literal, half-burnout.  These things turn local economies upside down at the behest of galactic authorities.  There's a literal land management bureaucracy that has to be built, and then there's a local sense of severe disruption from their operation.
+	9.   Liberation rating:  2/5, +2 in regulated economies, -1 in feudal economies
+	10.   Protection rating:  2/5, +2 in feudal economies
+	11.   Siphon quality:  3/5
+	12.   Technological smoothness:  4/5
+	13.   Technological extremophilia:  3/5
+	14.   Stress/boredom rating:  4/5 (Stressful)
+	15.   Me-points:  0/3
+	16.   Special categories:  Galactic politics, Nightmare
+	17.   Conversion potential:  Unknown
+79.   
 
 
 ---
