@@ -1638,15 +1638,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.   Categorization:  This is an asexual technology in the second and third interpretations.  It applies a generational selective pressure towards asexuality.  In the third interpretation, the organizations implementing it may be able to actively recruit for asexual parents and asexual lineages, should that become common enough and accepted enough in society.
 	8.   Categorization:  The asexualization of society that the best interpretation of this technology supports also supports the development of detached attitudes.  The multigovernment structure advertising competing geneticist lotteries would encourage people with no libido whatsoever to persist and proliferate in society with functioning reproduction.
 	9.   Categorization:  Although not itself one of the animal uplift technologies, this would also support the reproduction of furries in society.  The really challenging genetics work would attract the lottery geneticists to form specialized lotteries.  They would take it on for the interesting effort!  The Panarchy's individualism is maximized under consistent multigovernance focus, and that also would encourage them to want furries to be genetically healthy.
-	10.   Bureaucratic waste analysis:  In the rape interpretation, it burns talent badly, inflicting psychological scars on women and children that prevents society from developing well thereafter.  In the forced lottery interpretation, it builds a bureaucratic cloning infrastructure, and then burns talent moderately, inflicting psychological scars on unwilling parents and the kids they resent.  In the multigovernance interpretation, it builds *several* bureaucratic cloning infrastructures, and then has them compete against each other as well as against public intransigence.  That was in ascending order of literalism.
-	11.   Liberation rating:  1/5, 3/5, 5/5
-	12.   Protection rating:  1/5, 3/5, 5/5
-	13.   Technological smoothness:  5/5 (rape interpretation), 2/5 (other interpretations)
-	14.   Technological extremophilia:  1/5 (rape interpretation), 3/5 (other interpretations)
-	15.   Stress/boredom rating:  5/5 (screaming) (worst two interpretations), 3/5 (eustress)
-	16.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
-	17.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
-	18.   Conversion potential:  Unknown
+	10.   Apologia:  There's a simple way to stop the authoritarian awful version of this policy from being operative on a couple's life: don't register as a couple!  The bad middle version of this technology only gives kids to couples!  An increase in cohabiting individuals who definitely (and legally) aren't couples would be a side effect of the middle version of this technology.
+	11.   Bureaucratic waste analysis:  In the rape interpretation, it burns talent badly, inflicting psychological scars on women and children that prevents society from developing well thereafter.  In the forced lottery interpretation, it builds a bureaucratic cloning infrastructure, and then burns talent moderately, inflicting psychological scars on unwilling parents and the kids they resent.  In the multigovernance interpretation, it builds *several* bureaucratic cloning infrastructures, and then has them compete against each other as well as against public intransigence.  That was in ascending order of literalism.
+	12.   Liberation rating:  1/5, 3/5, 5/5
+	13.   Protection rating:  1/5, 3/5, 5/5
+	14.   Technological smoothness:  5/5 (rape interpretation), 2/5 (other interpretations)
+	15.   Technological extremophilia:  1/5 (rape interpretation), 3/5 (other interpretations)
+	16.   Stress/boredom rating:  5/5 (screaming) (worst two interpretations), 3/5 (eustress)
+	17.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
+	18.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
+	19.   Conversion potential:  Unknown
 68.   Passive Farming
 	1.   Challenge cured:  Sterilized Fields
 		1.   Challenge cure interpretation:  The process of "embedding biological computers" into the landscape also improves its soil quality, by whatever means.  The hard cases could involve importing soil nanotechnologies from other territories.
