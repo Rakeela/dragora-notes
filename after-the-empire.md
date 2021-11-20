@@ -2,7 +2,7 @@
 
 To-do: (In order!)
 1.  The Truth Unveiled  (Done.)
-2.  Days of Oily Teeth
+2.  Days of Oily Teeth  (Done.)
 3.  Ascending the Void
 4.  The Will of the Worlds
 5.  The Machist State

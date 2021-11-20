@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Viceroy-Scorecards.md",
+                    "file": "after-the-empire.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "after-the-empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "after-the-empire.md",
     "Viceroy-Scorecards.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-17-Two-Hundred-and-First.md",
     "Bibliography.md",
     "Northern-Creche-Confederation.md",
     "2021-11-15-Two-Hundredth.md",
     "Chives-of-Wrath.md",
     "2021-11-14-One-Hundred-and-Ninety-Ninth.md",
-    "2021-11-9-One-Hundred-and-Ninety-Eighth.md",
-    "collected-thoughts-on-the-viceroy.md"
+    "2021-11-9-One-Hundred-and-Ninety-Eighth.md"
   ]
 }
