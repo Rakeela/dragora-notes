@@ -178,4 +178,25 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	18.  Cultural production:  +19%
 	19.  Taxes paid:  +6.0%
 	20.  Fleet capacity growth:  +20%
+9.  Commonwealth Consensus Game 3
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Interculturalism
+	4.  Economic policy:  Free Market
+	5.  Bureaucratic overhead:  +66.9%
+	6.  Upkeep costs:  -28.6%
+	7.  Crowding limits:  +13.5%
+	8.  Weapon firing rate:  +39%
+	9.  Maximum fleet capacity:  +39%
+	10.  Biological production:  +41%
+	11.  Science capacity:  +41%
+	12.  Shield recharge rate:  +51%
+	13.  Rebel income:  -35.9%
+	14.  Industrial production:  +40%
+	15.  Returns on investment:  +46%
+	16.  Ship speed:  +45%
+	17.  Influence gained:  +46%
+	18.  Cultural production:  +46%
+	19.  Taxes paid:  +21.0%
+	20.  Fleet capacity growth:  +43%
 
