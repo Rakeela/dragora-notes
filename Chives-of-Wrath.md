@@ -108,5 +108,9 @@ I don't really think I can perform this experiment, although I think someone may
 I'm struggling to be willing to take apart my hydroponics rig in order to clean it.  I'm upset about how disgusting the root cups are.  I don't want to take them out and later reinsert them.  They're mossy and they've got white fungus in them, yick.  I want to know how professional businesses do this.  I wish I could intern/apprentice at a real hydroponics laboratory.
 
 ---
+2021-11-23;
+This experiment is a dead draw.  I'm averse to the work, I don't have steady hands, and my #1 finding?  I need more science classes at university to pull this off.  Which I should get.  God, I can't do university this winter, and I feel like my brain has been scrambled!  I'll plan to start attending in person by spring.  I need to practice my reading focus still to be able to perform adequately in classes.  I've gone rather backwards.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]

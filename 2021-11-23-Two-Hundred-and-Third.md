@@ -8,4 +8,9 @@ I don't recommend a lot of movies, but mind you that doesn't mean my recommendat
 The voices in my head love chyawanprash.  That's a very abnormal recommendation to give, but I'm noting it here anyways, because I'm going to go buy another can.  I think I go through one can per month, but by noting it here, I'll find out how long the next can lasts.
 
 ---
+I picked up two bags of trash while crossing Redmond, but I quite forgot to buy more chyawanprash.  I'll pick it up tomorrow instead.
+
+Meanwhile, I'm reading more of this book still.  It has just provided the phrase "Hemingwayesque eye" for a kind of skill at describing landscapes.  I may need to read more of Hemingway to overcome my deficiency at sensorium.  Meanwhile, a book that I picked up today at a bookstore titled "Grass" opens with a great example of sensorium writing.  I am not sure when I will read the whole book, maybe never given that of late I've been giving up on a few of my unread books, but certainly I expect to reread its opening repeatedly for its excellent landscape presentations.
+
+---
 Back to [[day-post-archive]]
