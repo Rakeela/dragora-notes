@@ -10,7 +10,12 @@ The voices in my head love chyawanprash.  That's a very abnormal recommendation 
 ---
 I picked up two bags of trash while crossing Redmond, but I quite forgot to buy more chyawanprash.  I'll pick it up tomorrow instead.
 
-Meanwhile, I'm reading more of this book still.  It has just provided the phrase "Hemingwayesque eye" for a kind of skill at describing landscapes.  I may need to read more of Hemingway to overcome my deficiency at sensorium.  Meanwhile, a book that I picked up today at a bookstore titled "Grass" opens with a great example of sensorium writing.  I am not sure when I will read the whole book, maybe never given that of late I've been giving up on a few of my unread books, but certainly I expect to reread its opening repeatedly for its excellent landscape presentations.
+Meanwhile, I'm reading more of this book "Dialogue" still.  It has just provided the phrase "Hemingwayesque eye" for a kind of skill at describing landscapes.  I may need to read more of Hemingway to overcome my deficiency at sensorium.  Meanwhile, a book that I picked up today at a bookstore titled "Grass" opens with a great example of sensorium writing.  I am not sure when I will read the whole book, maybe never given that of late I've been giving up on a few of my unread books, but certainly I expect to reread its opening repeatedly for its excellent landscape presentations.
+
+---
+I'm thinking about how one of the jobs of the author is to condense and redisplay.  To imitate one book is a crime.  To imitate many and flow through them at the needs of a new story might not be.  Surrounding myself with a well-thumbed library would provide me with a lot of source material.  It's so hard to keep myself reading, but I feel like I have no more urgent need of late.  This winter needs to be a windstorm of pages!
+
+It won't be.  It won't be.  I'll try.
 
 ---
 Back to [[day-post-archive]]
