@@ -792,24 +792,26 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		2.  Challenge cure qualm:  Doesn't this make the whole district's population more mobile?  They're more willing to leave if they really want to leave.
 		3.  Challenge cure qualm:  Doesn't 'curing' this promote overpopulation?  These people are more sustainable and more concerned with preserving their environment.  They don't pack in like sardines.
 	2.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
-	3.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
-	4.  Downside analysis:  Treating population growth as something they can and should weaponize in the name of "virtue" is fascistic.  It is overtly something that fascist governments have always attempted on Earth.  It's a hallmark of every genocidal authoritarian ideology that was ever invented.  Nazi Germany did this very literally.
-	5.  Narrative indicator:  This technology is proximate to nationalist indoctrination in the tech tree.
-	6.  Narrative indicator:  The attitude that children are a tool of conquest is why the Commonwealth can't bring peace to warring nations.
-	7.  Downside analysis:  Since people who don't want to breed and who aren't loyal to the Commonwealth are liabilities to the "Consensus", the expansion of this technology increases the rate of at which society produces maladapted ejectees.
-	8.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
-	9.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
-	10.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
-	11.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
-	12.  Utopic rating:  0/5
-	13.  Public protection rating:  2/5
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  1/5
-	16.  Stress/Boredom rating:  3/5 (Eustress)
-	17.  Me-points:  -1/3
-	18.  Kind of person most protected:  People who want to raise kids for the glory of their race.
-	19.  Special categories:  Hypersmooth, Homogenizing, Nightmare
-	20.  Conversion potential:  Hopefully, none.
+	3.  Authorial protest:  Yep.  This should be Sexual Liberation.  The Commonwealth should be liberalized, not left in conservative dystopia mode.  Natalist policies sacrifice kids on the altar of demographic warfare, which is also the altar of BAD PARENTING.  Sexual liberation maximizes childrearing quality and it crushed pedophilia historically on Earth, something that was evolutionarily advantageous prior to the rise of modern sexually open cultures.
+	4.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
+	5.  Downside analysis:  Treating population growth as something people can and should weaponize in the name of "virtue" is fascistic.  It is overtly something that fascist governments have always attempted on Earth.  It's a hallmark of every genocidal authoritarian ideology that was ever invented.  Nazi Germany did this very literally.
+	6.  Narrative indicator:  This technology is proximate to nationalist indoctrination in the tech tree.  It promotes isolationism.  Isolationism supports child molestation, but golly do people who have six kids have advantageous positioning in demographic conflicts.
+	7.  Narrative indicator:  The attitude that children are a tool of conquest may be why the Commonwealth can't bring peace to warring nations within its own tech tree.  They believe in nationalism, not in eroding the downsides of nationalism.
+	8.  Downside analysis:  Since people who don't want to breed are just liabilities to the Commonwealth whose disloyalty is proven by their opposition to natalist policies, the expansion of this technology increases the rate of at which society produces maladapted ejectees.
+	9.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
+	10.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
+	11.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
+	12.  Authorial protest:  I see myself as Commonwealth!  But not like THIS!  The Commonwealth needs reforms!  Sexual liberation needs to be in the tech tree.  The galaxy needs sex ed classes!
+	13.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
+	14.  Utopic rating:  0/5
+	15.  Public protection rating:  2/5
+	16.  Technological smoothness:  5/5
+	17.  Technological extremophilia:  1/5
+	18.  Stress/Boredom rating:  3/5 (Eustress)
+	19.  Me-points:  -1/3
+	20.  Kind of person most protected:  People who want to raise kids for the glory of their race.
+	21.  Special categories:  Hypersmooth, Homogenizing, Nightmare
+	22.  Conversion potential:  Hopefully, none.
 28.  Reproduction Mandate
 	1.  Challenge cured:  Zero Birth Culture
 		1.  Challenge cure interpretation:  Taxes the zero birth culture to death, or otherwise uses state force to break them up.
