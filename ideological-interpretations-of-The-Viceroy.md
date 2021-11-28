@@ -237,17 +237,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Apologia:  If they can share feelings between people, who could ever attack a bearer of telepathic dust?  Who would still fight and die, if fighting and dying could only feel good if both participants were enjoying it?  Well, some people would; there exist masochistic martial artists who could be quite friendly about it.  Yet this supplies another reason why the Panarchic Informalists consider telepathic dust a key basis of their ideology: making sure every Informalist administration has access to supplies of telepathic dust strongly reinforces the immortality of their emissaries.  Attacking them is psychologically difficult even for people who are otherwise hardened.
 	8.  Categorization:  I consider this to be one of the 'animal uplift' technologies, with the way it enables insight between very different minds.  Telepathic dust lowers the emotional processing differences that arise between very different people by creating a temporary local harmony in its area of effect.  This would be helpful for overcoming communication barriers between people of different species.
 	9.  Downside analysis:  This makes manipulative people considerably more effective.  The fact that they have to suffer empathetic connection with people they're manipulating only reduces this effect a little bit, because most dangerously charismatic people DO already have empathetic insight.  (They just misuse it.)  As society organizes to protect public happiness, this downside is reduced.
-	10.  Bureaucratic waste analysis:  The bureaucratic wastage from this technology arises from three factors.  Firstly, it's a toy.  People will spend more time playing with each other as it gets more abundant.  Secondly, it's good for reinforcing understanding between people, which is mostly a good empathetic function, yet may also strengthen conspiratorial social organizations which rely on unspoken "understandings".  This second function is tyrannical and will produce weird edge cases in society.  Thirdly, manufacturing and distributing a product also literally requires the organizations which manufacture and distribute it, thus directly requiring the dedication of people and funds in an ongoing way.
-	11.  Liberation rating:  2/5, +1 with Seat of Justice, +2 in absence of Misery
-	12.  Protection rating:  3/5, +1 per three +Happiness techs (max 5/5)
-	13.  Siphon quality:  3/5
-	14.  Technological smoothness:  1/5  (Singular technology.)
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom:  3/5  (Eustress)
-	17.  Me-points: 0/3
-	18.  Kind of person most protected:  People with weird emotional processing
-	19.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control, Furry
-	20.  Conversion potential:  Unknown
+	10.  Categorization:  As I've realized that these would tend to rehabilitate people with a limited emotional range, these are very much a rehabilitative technology as well.
+	11.  Bureaucratic waste analysis:  The bureaucratic wastage from this technology arises from three factors.  Firstly, it's a toy.  People will spend more time playing with each other as it gets more abundant.  Secondly, it's good for reinforcing understanding between people, which is mostly a good empathetic function, yet may also strengthen conspiratorial social organizations which rely on unspoken "understandings".  This second function is tyrannical and will produce weird edge cases in society.  Thirdly, manufacturing and distributing a product also literally requires the organizations which manufacture and distribute it, thus directly requiring the dedication of people and funds in an ongoing way.
+	12.  Liberation rating:  2/5, +1 with Seat of Justice, +2 in absence of Misery
+	13.  Protection rating:  3/5, +1 per three +Happiness techs (max 5/5)
+	14.  Siphon quality:  3/5
+	15.  Technological smoothness:  1/5  (Singular technology.)
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom:  3/5  (Eustress)
+	18.  Me-points: 0/3
+	19.  Kind of person most protected:  People with weird emotional processing
+	20.  Special categories:  Empathy Maximizer, Animal Uplift, Mind Control, Rehabilitative, Furry
+	21.  Conversion potential:  Unknown
 3.  Panarchialization Policy
 	1.  Challenge cured:  Anti-Panarchism
 	2.  Challenge cure interpretation:  Panarchists are... VERY diverse.  Anti-Panarchism doesn't make sense if you meet enough of them.  Panarchialization policies involve bringing in ideas, people, and random-ass technologies from all over the galaxy to see how the whole galaxy might be able to solve local problems.
