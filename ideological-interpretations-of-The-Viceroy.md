@@ -2007,6 +2007,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  1/5 (Dull)
 	15.   Me-points:  1/3
 	16.   Special categories:  Failsafe, Diversifying
+88.   Imperial Manufactory
+	1.   Mechanism proposal:  Factories that produce factories are sweet literalism.  "District"-spanning self-modifying factories that produce factories are a bit... Factorio.  Maybe.  I don't think that game even has them self-modify much.
+	2.   Authorial protest:  It just can't be honest that these span districts.  Districts are like continents in this game.  A continent-wide factory that produces factories is 'impressive' sure... but wasteful, so wasteful... and it sounds like a simple misunderstanding.
+	3.   Mechanism proposal:  Fortunately, factories that produce factories are possible.  That sounds like what America used to have, where it now has a "rust belt"!  If only we were still producing recursive industrialization goods for the world, the impoverished parts of the world would be growing even faster than they already do.
+	4.   Downside analysis:  Seriously though, if you give over a great swathe of a district to a literal recursive megafactory, you surely have to compress everyone else's living space uncomfortably.  This is like proposing an industrial arcology.
+	5.   Bureaucratic waste analysis:  Ignoring the obscene wastes of the literal interpretation, there's nothing especially bureaucratic about this.
+	6.   Liberation rating:  3/5
+	7.   Protection rating:  3/5
+	8.   Technological smoothness:  2/5
+	9.   Technological extremophilia:  5/5
+	10.   Stress/boredom rating:  3/5  (Eustress)
+	11.   Me-points:  1/3
+	12.   Special categories:  
 
 
 ---
