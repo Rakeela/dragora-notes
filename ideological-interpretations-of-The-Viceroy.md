@@ -1990,6 +1990,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Stress/boredom rating:  2/5 (Calm)
 	17.   Me-points:  2/3
 	18.   Special categories:  Hedonological, Diversifying
+87.   Imperial Foundry
+	1.   Mechanism proposal:  It's plastic.  Monomolecular chains?  Rapidly produced, limitless in design, and "everlastingly" durable?  Plastic is amazing, but it's more aptly described as non-biodegradable.  Imperial foundries are plastic factories.
+	2.   Mechanism proposal:  These are also 3D printing technologies!
+	3.   Mechanism proposal:  This could also be nanotechnology.  Monomolecular assembly of fantastically precise engineering?  Nanites!~ This technology gets better as Wealth levels increase.
+	4.   Downside analysis:  Plastic is cheap, but then plastic litter gets everywhere and more resources are needed to clean it up.  This frontloads cheapness and then is expensive on the tail end.
+	5.   Categorization:  Cheap manufacturing with easy design variation?  It emphasizes its diversifying potential right there.  Of course conventionally, plastic is considered homogenizing ("everything is rubbish and the artisans are dying out!"), but bludger that.  I have a plastic crown on a low shelf behind me!  *That's* plastic.  <3
+	6.   Categorization:  I'm so tempted to call this hedonological, as the bright and easily mass-produced world of plastic has done so much for showing people a good time, but...  No.  The people who work on this technology believe in hard work.  This stuff of itself is not hedonological, though it can work with hedonology.
+	7.   Trivia:  Is that a dinosaur skull in the right side of the icon?
+	8.   Bureaucratic waste analysis:  This probably isn't a fair thing to consider a bureaucratic technology.  We have this stuff IRL and it hasn't caused bureaucratic waste crises.  We're trying to develop more and better of this stuff IRL and it still isn't causing a bureaucratic waste crisis.
+	9.   Liberation rating:  5/5
+	10.   Protection rating:  4/5
+	11.   Siphon quality:  5/5
+	12.   Technological smoothness:  5/5
+	13.   Technological extremophilia:  5/5
+	14.   Stress/boredom rating:  1/5 (Dull)
+	15.   Me-points:  1/3
+	16.   Special categories:  Failsafe, Diversifying
 
 
 ---
