@@ -505,16 +505,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Downside analysis:  Yet one final "contradiction of hyperspace" occurs here: since the advocates of this system advocate the rationality of perpetually expanding it, costs actually rise over time instead of falling to the asymptote.  This policy makes sense if you assume that you'll be ruling *forever*, and the Old Empire does exactly that... and so this contributes to the periodic collapses of the systems of the Old Empire, which have then to rebuild until they can reconnect to their deep space generator network.  A hypothetical Imperial society that *isn't* pushing hard to perpetually expand its ZPE network is beyond the scope of this game, and may be beyond the scope of their ideology; when does anyone stop wanting more limitless free energy?
 	14.  Apologia:  Note that the 'downside' of the system costing more to run than it returns due to perpetual expansion pressures is something that conceivably could be blocked in systems once you give them independence.  So the Beyonder Engines are a technology that (when no longer being pushed hard by a territorial Viceroy) could give society more capability to... scale back the over-expenses and stabilize.  For a while.  It suggests a way for parts of galactic society to step beyond the constraints of this game's tech tree... for a while.  That's why I dubbed it a Failsafe technology, since it suggests that the territories can be independently well-governed for a longer period of time with gentler declines.
 	15.  Downside:  Even though there's no formal restrictions on liberty implied by this technology and no obvious immediate source of danger, I think it risks creating a kind of prejudice against impatient people, and people may feel less liberated due to resource-use hypersensitivity.
-	16.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are "being wasted just sitting there" because the bureacrats and industrialists are "doing nothing"!
-	17.  Liberation rating:  4/5
-	18.  Protection rating:  4/5
-	19.  Technological smoothness:  5/5
-	20.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
-	21.  Stress/boredom:  1/5 (Dull)
-	22.  Me-points:  2/3
-	23.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
-	24.  Special categories:  Detached, Failsafe, Rehabilitative
-	25.  Conversion potential:  Commonwealth<->Empire
+	16.  Synthesis:  All possible meanings apply simultaneously.  This favors patient, sustainable industrialism throughout.
+	17.  Bureaucratic waste analysis:  I imagine the implementation of this technology involving the construction of a defensive bureaucracy to INTENTIONALLY make sure that everything which touches the Beyonder Engines is slowed down severely.  It's similar to the Stasis Controller downside, but worse because this requires more active intervention, and that intervention takes a form which is more malign to the basic normal functioning of a bureaucracy.  If the public isn't perfectly understanding, Beyonder Engines might promote the hatred of bureaucracy; imagine all the people ranting about how resources are "being wasted just sitting there" because the bureacrats and industrialists are "doing nothing"!
+	18.  Liberation rating:  4/5
+	19.  Protection rating:  4/5
+	20.  Technological smoothness:  5/5
+	21.  Technological extremophilia:  Unrateable.  Irrelevant!  This investment certainly does develop towards extremes... *ridiculously slowly*.
+	22.  Stress/boredom:  1/5 (Dull)
+	23.  Me-points:  2/3
+	24.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
+	25.  Special categories:  Detached, Failsafe, Rehabilitative
+	26.  Conversion potential:  Commonwealth<->Empire
 15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
 	2.  Challenge cure interpretation:  There are conspiracies to overthrow the Viceroy on every planet, but most of them don't seek allies from beyond the territory itself like these ones do.  The hordes of galactic negotiators who arrive with the Panarchic Courts can also defuse the rebellion's ability to make connections outside of the territory, while making it look (incorrectly) like the whole galaxy is against the rebellion.
