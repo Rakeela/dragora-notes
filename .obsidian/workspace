@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 47.05882352941176,
+            "dimension": 24.65753424657534,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 52.94117647058824,
+            "dimension": 75.34246575342466,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-12-03-Two-Hundred-and-Fifth.md",
+                    "file": "Viceroy-Scorecards.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Northern-Creche-Confederation.md",
+                "file": "Viceroy-Scorecards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +149,12 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "66c4ef1bf798ecc9",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "Viceroy-Scorecards.md",
+    "2021-12-03-Two-Hundred-and-Fifth.md",
     "Northern-Creche-Confederation.md",
     "Chives-of-Wrath.md",
-    "2021-12-03-Two-Hundred-and-Fifth.md",
-    "Viceroy-Scorecards.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-11-28-Two-Hundred-and-Fourth.md",
     "2021-11-23-Two-Hundred-and-Third.md",
