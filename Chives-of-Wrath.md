@@ -112,5 +112,9 @@ I'm struggling to be willing to take apart my hydroponics rig in order to clean 
 This experiment is a dead draw.  I'm averse to the work, I don't have steady hands, and my #1 finding?  I need more science classes at university to pull this off.  Which I should get.  God, I can't do university this winter, and I feel like my brain has been scrambled!  I'll plan to start attending in person by spring.  I need to practice my reading focus still to be able to perform adequately in classes.  I've gone rather backwards.
 
 ---
+2021-12-03;
+I harvested the chives two days ago.  I got a small box worth of chives that I promptly washed.  They're delicious, but they were also dying on the hydroponic rig.  I need to dismantle it.  It's so hard to work up the will to do the dismantling.  The job is filthy.  I feel like I'm too finnicky for hydroponics rigs, and that's awful.
+
+---
 Back to [[Everloathing-Agritechnologies]]
 Back to [[authors-nonfiction]]
