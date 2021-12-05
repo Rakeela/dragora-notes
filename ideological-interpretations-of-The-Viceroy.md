@@ -1732,27 +1732,30 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Special categories:  Hedonological, Failsafe, Hypersmooth
 	17.   Conversion potential:  Unknown
 72.   Dyson Swarm
-	1.   Mechanism proposal:  As written.  The dyson swarms massively increase "land area" through filling space with habitats.
-	2.   Downside analysis:  Most of the land produced by dyson swarms is logistically marginal and void of natural resources.
-	3.   Apologia:  Advanced societies often need space more than natural resources.
-	4.   Apologia:  Space-tugs can probably pull these to different systems as needed.  This would increase the siphon quality by an unusual way; if the system were poorly governed, the dyson swarms could retrieve a lot of resources via space-tug.
-	5.   Mechanism proposal:  If the habitats are indeed mobile, this technology could also start inviting immigrants who arrive with entire habitats.  The Imperial Reformers have two of the game's three trade technologies, and strike me as a highly mobile faction who would appreciate this potential.
-	6.   Mechanism proposal:  These offer arable land.  It takes a lot of composting talent to create arable land on metal structures... but it's more than doable, and the Empire has the right skills available to it.  The sustainability of massive populations would increase as food production would scale to match population size nigh-indefinitely.
-	7.   Progression analysis:  Note that the Weather Control Network icon appears to depict rain drones adjoining actual rainclouds. That technology would also help the dyson swarm farms to maintain their hydration and soil quality.
-	8.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
-	9.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
-	10.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
-	11.   Siphon analysis:  I think this is a super-quality siphon, suggestive of good independence governance and/or good scavenge from bad independence governance.
-	12.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.
-	13.   Liberation rating:  5/5
-	14.   Protection rating:  3/5
-	15.   Siphon quality:  6/5  (Yes, it's better than 5/5)
-	16.   Technological smoothness:  2/5
-	17.   Technological extremophilia:  5/5
-	18.   Stress/boredom rating:  3/5 (Eustress)
-	19.   Me-points:  3/3  (Necessary, but not sufficient)
-	20.   Special categories:  Failsafe, Galactic Politics, Diversifying
-	21.   Conversion potential:  Limited Omniconverter
+	1.   Challenged cured:  Replicating Minefield
+		1.   Challenge cure interpretation:  The literal interpretation here is that the dyson swarmers are bringing their families into orbit and nobody wants to expose the kids to minefield clearing day any more than they have to.  The navigational hazard gets a lot more manpower and a lot more political priority put towards clearing it, and the Dyson Swarm construction technology itself provides for the ability to out-replicate your minefield clearing kit, too.
+		2.   Alternative challenge cure:  Replicating minefields could less literally be jackasses who hate working with foreigners, but who nevertheless persistently reproduce.  In that case, the Imperial Reformers have two advantages: 1) they like working with foreigners (they're hugely +Trade), so giving them a bunch of housing space (Dyson Swarms) means you get a lot more +Trade people, and 2) their massive construction technology eventually causes people to be so diffuse that a few jackassses are no longer likely to get in the way of trade.
+	2.   Mechanism proposal:  As written.  The dyson swarms massively increase "land area" through filling space with habitats.
+	3.   Downside analysis:  Most of the land produced by dyson swarms is logistically marginal and void of natural resources.
+	4.   Apologia:  Advanced societies often need space more than natural resources.
+	5.   Apologia:  Space-tugs can probably pull these to different systems as needed.  This would increase the siphon quality by an unusual way; if the system were poorly governed, the dyson swarms could retrieve a lot of resources via space-tug.
+	6.   Mechanism proposal:  If the habitats are indeed mobile, this technology could also start inviting immigrants who arrive with entire habitats.  The Imperial Reformers have two of the game's three trade technologies, and strike me as a highly mobile faction who would appreciate this potential.
+	7.   Mechanism proposal:  These offer arable land.  It takes a lot of composting talent to create arable land on metal structures... but it's more than doable, and the Empire has the right skills available to it.  The sustainability of massive populations would increase as food production would scale to match population size nigh-indefinitely.
+	8.   Progression analysis:  Note that the Weather Control Network icon appears to depict rain drones adjoining actual rainclouds. That technology would also help the dyson swarm farms to maintain their hydration and soil quality.
+	9.   Mechanism proposal:  These offer solar farms.  This is an obvious benefit of a dyson swarm.  Massive increases in solar capture would make electricity more abundant throughout the system.
+	10.   Hazard analysis:  These structures are far from protection in many senses.  The governability of the system would drop, infringing on its protection rating.  Some hazards would proliferate.
+	11.   Categorization:  Since I imagine that these can be tugged out of the way of disasters, I consider this a failsafe technology.  However, since I think it would put the system on the map for people who travel in gigantic space yachts, it's also a galactic politics technology.  Finally, it's a diversifying technology, because it helps countless people with very different natures to live in the same territory.
+	12.   Siphon analysis:  I think this is a super-quality siphon, suggestive of good independence governance and/or good scavenge from bad independence governance.
+	13.   Bureaucratic waste analysis:  This is and isn't literal.  I don't think it would be a massively bureaucratic innovation, but...  It's a fair metaphor for something very peaceful, because it would cause a huge peaceful diversion of resources from ordinary governance.
+	14.   Liberation rating:  5/5
+	15.   Protection rating:  3/5
+	16.   Siphon quality:  6/5  (Yes, it's better than 5/5)
+	17.   Technological smoothness:  2/5
+	18.   Technological extremophilia:  5/5
+	19.   Stress/boredom rating:  3/5 (Eustress)
+	20.   Me-points:  3/3  (Necessary, but not sufficient)
+	21.   Special categories:  Failsafe, Galactic Politics, Diversifying
+	22.   Conversion potential:  Limited Omniconverter
 73.   Open Immigration
 	1.   Challenge cured:  Closed Culture
 		1.   Challenge cure interpretation:  This is pretty straightforward.
@@ -2070,6 +2073,19 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/Boredom rating:  3/5  (Eustress)
 	12.   Me-points:  2/3
 	13.   Special categories:  Ecological
+92.   Space Elevator
+	1.   Challenge cured:  Debris Ring
+		1.   Challenge cure interpretation:  The debris ring challenge sounds like a kessler cascade kind of issue.  Once a space elevator is up, the ability to lift large loads to orbit permits bringing large amounts of industrial effort to bear on the clean-up, so that the debris ring can be turned into useful scrap instead of hazardous free-floating scrap.
+	2.   Authorial protest:  This thing's description reverses things more stupidly than the author's joyless submission-to-corruption crack in the cure for "culture to bribery".  It talks about how the elevator makes the transportation of goods from orbit to the surface of the planet free, which is already the direction that is free.  Space elevators make transmission from the surface to orbit nearly free, but people are supposed to be stupid slaves of hatred and corruption like the author of the game seems to be, so nobody is allowed to notice what the author yielded and kneeled by breaking themselves from noticing.  Seriously, this is obviously intentional.
+	3.   Mechanism proposal:  I did once write a reconstructionist jaunt about this which pointed out that if you didn't quite have the strength for an elevator to orbit you could instead potentially have a guidewire designed to absorb kinetic energy on the way down to subsidize electricity... but it was lame.  It was just really lame.  The Viceroy 2, if one ever exists (it never will unless the IP is clawed out of the grip of the current holder, I expect), will need to be built on a different trade model that represents how people are more capable of exporting from this thing.
+	4.   Bureaucratic waste analysis:  This really wouldn't be a bureaucratically expensive technology, but in this game it's supposed to be about how eeeeveryone submits to corruption eventually, so aaaaall the technologies become lies.  Seriously, the author of the game created something that is 100% about corruption, and tried to laugh their way to the bank.
+	5.   Liberation rating:  5/5
+	6.   Protection rating:  5/5
+	7.   Technological smoothness:  1/5
+	8.   Technological extremophilia:  5/5
+	9.   Stress/Boredom rating:  3/5  (Eustress)
+	10.   Me-points:  3/3
+	11.   Special categories:  Failsafe
 
 
 ---
