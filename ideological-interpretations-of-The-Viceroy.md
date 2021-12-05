@@ -264,7 +264,6 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
 	13.   Liberation rating:  4/5, +1 with Seat of Justice
 	14.  Protection rating:  4/5
-	15.  Siphon quality:  5/5
 	16.  Technological smoothness:  3/5
 	17.  Technological extremophilia:  5/5
 	18.  Stress/Boredom rating:  4/5 (Stressful)
@@ -1794,15 +1793,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	5.   Categorization:  These are both homogenizing and diversifying.  To the extent that they can entrench bad power, they promote homogeneity, yet as another technology that creates 'distance' in society, it also promotes people working together though they have very different natures.  That makes it diversifying.  Either way, it's a nightmare tech, because these people will have occasional nightmares of earthquakes forever.
 	6.   Progression analysis:  This leads into Deep Core Taps because people living in these conditions become rather desperate to control the planetary crust directly!
 	7.   Symbolism thought:  I'm reminded of Phantasy Star 2, 3, and 4 by the combination of Imperial icons and this technology.  There were no underground cities in those games as far as I remember, but those planets seemed to be built of societies where metallic implants were hardly unusual, and the planetary crust was deeply laced with mechanical structures.
-	8.   Bureaucratic waste analysis:  This society's interest in seismology needs to border on obsessive!  These cities require the authorities to understand the state of the planetary crust in exhaustive detail.
-	9.   Liberation rating:  Territory average
-	10.   Protection rating:  Territory average -1
-	11.   Siphon quality:  4/5
-	12.   Technological smoothness:  1/5
-	13.   Technological extremophilia:  5/5
-	14.   Stress/Boredom rating:  3/5 (Eustress)
-	15.   Me-points:  2/3
-	16.   Special categories:  Homogenizing, Diversifying, Nightmare
+	8.   Progression analysis:  The tech sequence here from superscalar towers to deep inhabitations to space elevators makes me wonder if this game is suggesting that society develops the supertensile materials needed for space elevators while dealing with "core-to-space" infrastructure as cities grow ridiculously on the verticle.  Could new superdeep installations on Earth prove essential to the future of materials science?
+	9.   Bureaucratic waste analysis:  This society's interest in seismology needs to border on obsessive!  These cities require the authorities to understand the state of the planetary crust in exhaustive detail.
+	10.   Liberation rating:  Territory average
+	11.   Protection rating:  Territory average -1
+	12.   Siphon quality:  4/5
+	13.   Technological smoothness:  1/5
+	14.   Technological extremophilia:  5/5
+	15.   Stress/Boredom rating:  3/5 (Eustress)
+	16.   Me-points:  2/3
+	17.   Special categories:  Homogenizing, Diversifying, Nightmare
 76.   Right to Efficiency
 	1.   Mechanism proposal:  WYSIWG.  The Commonwealth is refreshingly literal sometimes.  Yes, by all means, let's argue with the bureaucracy by filing reports against their inefficient filing of reports.
 	2.   Downside analysis:  This is basically the bright side of the 'Culture of Outrage'.  This says that fighting with the bureaucracies over efficiency will actually work!  But it won't.  It's just still more paperwork.
