@@ -906,19 +906,20 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Narrative indicator:  The happier society is, the better this technology is from a utopia standpoint.  This overrides the usual evaluation based on bureaucratic waste progression.  This society shares misery and happiness alike more equally.
 	10.  Downside analysis:  This could lead to people hiding from each other on the basis of quirks in their thinking that would be harmless without it, thereby eroding social organization in the territory.  For example, it could lead to damaging new intolerances based on people who have *unpleasant minds* for reasons out of their own control (in a community that couldn't forgive random never-followed impulses, f'rex).
 	11.  Downside analysis:  This would sharply reduce the rate at which evil people can embed malevolent intentions in culture without getting caught.  While that should improve culture on average, some of the people who "get away with" being nasty in culture have really done no harm.
-	12.  Categorization:  A side effect of this technology is that it makes avoiding unpleasantness by shoving tasks off onto other people no longer work, which necessitates broad hedonological development for society's continued functioning... making this the only hedonological nightmare technology.
-	13.  Bureaucratic waste analysis:  Mostly non-literal.  The implementation of this technology is largely driven by consumer goods, yet this technology's implementation substantially impairs society's ability to complete bureaucratic tasks.  If society hasn't resolved all misery and doesn't swiftly collapse, people might wish it had...
-	14.  Utopic rating:  5 - Misery (No misery is produced at 3+ Happiness, so at that point it's worth a full 5 utopia points.)
-	15.  Public protection rating:  4 - Misery
-	16.  Technological smoothness:  2/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  5/5 (Screaming)
-	19.  Alternate Stress/Boredom rating:  2/5 (Calm)
-	20.  Me-points:  ?/3  (I personally favor this, but I don't consider myself wholly committed to the idea that humanity can pull it off.  This would be a Glasswall society incapable of keeping secrets.)
-	21.  Alternate Me-points:  2/3
-	22.  Kind of person most protected:  "Liars" who were not actually lying
-	23.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
-	24.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
+	12.  Categorization:  A side effect of this technology is that it makes avoiding unpleasantness by shoving tasks off onto other people no longer work unless you're shoving them all the way off planet, which necessitates broad hedonological development for society's continued functioning... making this the only hedonological nightmare technology.
+	13.  Downside analysis:  Oh god, this technology would increase the degree to which societies would try to shove unpleasant tasks all the way *off-planet*!  As a galactic technology, it would make societies stare down the tasks they don't want to work at.  That technically increases specialization gains from trade, but... it's a little *false paradise*!
+	14.  Bureaucratic waste analysis:  Mostly non-literal.  The implementation of this technology is largely driven by consumer goods, yet this technology's implementation substantially impairs society's ability to complete bureaucratic tasks.  If society hasn't resolved all misery and doesn't swiftly collapse, people might wish it had...
+	15.  Utopic rating:  5 - Misery (No misery is produced at 3+ Happiness, so at that point it's worth a full 5 utopia points.)
+	16.  Public protection rating:  4 - Misery
+	17.  Technological smoothness:  2/5
+	18.  Technological extremophilia:  5/5
+	19.  Stress/Boredom rating:  5/5 (Screaming)
+	20.  Alternate Stress/Boredom rating:  2/5 (Calm)
+	21.  Me-points:  ?/3  (I personally favor this, but I don't consider myself wholly committed to the idea that humanity can pull it off.  This would be a Glasswall society incapable of keeping secrets.)
+	22.  Alternate Me-points:  2/3
+	23.  Kind of person most protected:  "Liars" who were not actually lying
+	24.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
+	25.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
 32.  Mental Unity
 	1.  Authorial protest:  This should be 'Sapience Axioms', a technology with the same mechanical effect as Mental Unity.  The proper description of Sapience Axioms is something like this: "There are commonalities that arise in all forms of sapient cognition.  When society has begun to catalog and understand these, sense can often be made of even the strangest communications."
 	2.  Mechanism proposal:  My protest is only about theming.  I think the mechanical basis of the mental unity technology is the understanding of how minds are like each other.  Manipulativeness is encapsulated in this understanding, but also compassion.  The hyperspace linkage is... just the probabilistic similarities between people.  One of the themes of the Old Empire (as I interpret them) is that they describe things in strange ways, but still back their technology with considerable mathematical acuity.  'Mental Unity' offers a key to their language... if you understand it.  'Sapience Axioms' would convey the concept even better.
