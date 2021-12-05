@@ -2078,14 +2078,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		1.   Challenge cure interpretation:  The debris ring challenge sounds like a kessler cascade kind of issue.  Once a space elevator is up, the ability to lift large loads to orbit permits bringing large amounts of industrial effort to bear on the clean-up, so that the debris ring can be turned into useful scrap instead of hazardous free-floating scrap.
 	2.   Authorial protest:  This thing's description reverses things more stupidly than the author's joyless submission-to-corruption crack in the cure for "culture to bribery".  It talks about how the elevator makes the transportation of goods from orbit to the surface of the planet free, which is already the direction that is free.  Space elevators make transmission from the surface to orbit nearly free, but people are supposed to be stupid slaves of hatred and corruption like the author of the game seems to be, so nobody is allowed to notice what the author yielded and kneeled by breaking themselves from noticing.  Seriously, this is obviously intentional.
 	3.   Mechanism proposal:  I did once write a reconstructionist jaunt about this which pointed out that if you didn't quite have the strength for an elevator to orbit you could instead potentially have a guidewire designed to absorb kinetic energy on the way down to subsidize electricity... but it was lame.  It was just really lame.  The Viceroy 2, if one ever exists (it never will unless the IP is clawed out of the grip of the current holder, I expect), will need to be built on a different trade model that represents how people are more capable of exporting from this thing.
-	4.   Bureaucratic waste analysis:  This really wouldn't be a bureaucratically expensive technology, but in this game it's supposed to be about how eeeeveryone submits to corruption eventually, so aaaaall the technologies become lies.  Seriously, the author of the game created something that is 100% about corruption, and tried to laugh their way to the bank.
-	5.   Liberation rating:  5/5
-	6.   Protection rating:  5/5
-	7.   Technological smoothness:  1/5
-	8.   Technological extremophilia:  5/5
-	9.   Stress/Boredom rating:  3/5  (Eustress)
-	10.   Me-points:  3/3
-	11.   Special categories:  Failsafe
+	4.   Apologia:  If you build space elevators everywhere, it becomes possible to evacuate staggering numbers of people...
+	5.   Bureaucratic waste analysis:  This really wouldn't be a bureaucratically expensive technology, but in this game it's supposed to be about how eeeeveryone submits to corruption eventually, so aaaaall the technologies become lies.  Seriously, the author of the game created something that is 100% about corruption, and tried to laugh their way to the bank.
+	6.   Liberation rating:  5/5
+	7.   Protection rating:  5/5
+	8.   Technological smoothness:  1/5
+	9.   Technological extremophilia:  5/5
+	10.   Stress/Boredom rating:  3/5  (Eustress)
+	11.   Me-points:  3/3
+	12.   Special categories:  Failsafe
 
 
 ---
