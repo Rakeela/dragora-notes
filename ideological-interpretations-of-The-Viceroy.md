@@ -328,17 +328,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Mechanism synthesis:  In both interpretations, branching facilities favor the development of a population that would never consent to be sacrificed.  There's some merit to that, too.
 	14.  Apologia:  I was thinking about this tech this morning, and my first thought was one of revulsion: "it leads to a homogenous society!"  I detest homogeneity.  Then I realized, no, that's not inevitable.  Imagine a pair of people who loved each other very much, who were each duplicated five times each so their lives could fill out all the rooms of a mansion built to their love.  Now to be clear, I would not want to be *part* of that story; it is not a description of a future I would desire *for myself*.  Yet I might enjoy reading or watching a movie about it, and I wouldn't think a couple evil or incomprehensible if they wanted to do it for real.  It doesn't necessarily lead to a homogenous society, especially if the lovebirds use birth control in all the rooms of a mansion built to their love.  I think homogeneity is best understood as a *risk* of Imperial technology, not an *inevitability* of it.
 	15.  Downside analysis:  Branching people could be used for evil manipulative experiments.  Each branched person has a shared history, but an observer would then get to see how that one foundation produces many possible futures.  Beyonders (supposedly) already see every possible future, but only in societies that implement Branching Facilities do they get to see an individual's different possible futures interacting with each other directly.  While the possibility of benevolent interaction exists (a fortunate branch of one person could help support an unfortunate branch of that person), I rate this a downside as I think social scientists would produce a lot of demeaning analyses of different decisions based upon observing how they affect different branches of the same person.
-	16.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being (as I imagine it) about as bureaucratically expensive as establishing a clinic.  There are no facilities at all required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in far worse than misfiled paperwork.  It also suggests an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although the Separatist path HAS theoretical paradisic applications, this technology generally strikes me as starting bad and getting worse.
-	17.  Liberation rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies), +1 with Enlightened Policing (Yes, better policing is liberating under both interpretations here)
-	18.  Protection rating:  1/5, +2 in territories challenged by blood cults
-	19.  Siphon quality:  
-	20.  Technological smoothness:  4/5
-	21.  Technological extremophilia:  Territory average +1 (max 5/5).
-	22.  Stress/Boredom rating: 3 (Eustress)
-	23.  Me-points: -1/3
-	24.  Kind of person most protected:  People who REALLY want to exist.
-	25.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
-	26.  Conversion potential:  Unknown
+	16.  Mechanism proposal:  With grudging acceptance, I admit that this could also be a trashy conservative joke about making babies and then modeling one's whole parenting style around trying to create a future person just like oneself.  Such conduct is ethically dubious for good people and immoral for bad people.  I won't score it.
+	17.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being (as I imagine it) about as bureaucratically expensive as establishing a clinic.  There are no facilities at all required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in far worse than misfiled paperwork.  It also suggests an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although the Separatist path HAS theoretical paradisic applications, this technology generally strikes me as starting bad and getting worse.
+	18.  Liberation rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies), +1 with Enlightened Policing (Yes, better policing is liberating under both interpretations here)
+	19.  Protection rating:  1/5, +2 in territories challenged by blood cults
+	20.  Siphon quality:  
+	21.  Technological smoothness:  4/5
+	22.  Technological extremophilia:  Territory average +1 (max 5/5).
+	23.  Stress/Boredom rating: 3 (Eustress)
+	24.  Me-points: -1/3
+	25.  Kind of person most protected:  People who REALLY want to exist.
+	26.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
+	27.  Conversion potential:  Unknown
 7.  Panarchic Retreat
 	1.  Challenge cured:  Market Isolation
 		1.  Challenge cure interpretation:  I'm not sure; I'll fill this blank in later.
@@ -1661,7 +1662,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.   Conversion potential:  Unknown
 68.   Passive Farming
 	1.   Challenge cured:  Sterilized Fields
-		1.   Challenge cure interpretation:  The process of "embedding biological computers" into the landscape also improves its soil quality, by whatever means.  The hard cases could involve importing soil nanotechnologies from other territories.
+		1.   Challenge cure interpretation:  The process of "embedding biological computers" into the landscape also improves its soil quality, by all of the interpretations that I've slated.  The hardest cases could involve importing soil control nanotechnologies from other territories.
 		2.   Challenge cure qualm:  Some areas really should just import food.  Scraping up every bit of agricultural productivity is too much sometimes.
 	2.   Mechanism proposal:  This says it embeds biological computers in the landscape.  I treat that as a joke, a simple lie, referring to farmers as biological computers.
 	3.   Mechanism proposal:  If there are systems that automatically process the soil to improve its quality, such as networks of decomposers (fungi), improving their presence in the biome could also be "embedding biological computers" in a sense.
@@ -2018,14 +2019,47 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	2.   Authorial protest:  It just can't be honest that these span districts.  Districts are like continents in this game.  A continent-wide factory that produces factories is 'impressive' sure... but wasteful, so wasteful... and it sounds like a simple misunderstanding.
 	3.   Mechanism proposal:  Fortunately, factories that produce factories are possible.  That sounds like what America used to have, where it now has a "rust belt"!  If only we were still producing recursive industrialization goods for the world, the impoverished parts of the world would be growing even faster than they already do.
 	4.   Downside analysis:  Seriously though, if you give over a great swathe of a district to a literal recursive megafactory, you surely have to compress everyone else's living space uncomfortably.  This is like proposing an industrial arcology.
-	5.   Bureaucratic waste analysis:  Ignoring the obscene wastes of the literal interpretation, there's nothing especially bureaucratic about this.
-	6.   Liberation rating:  3/5
-	7.   Protection rating:  3/5
-	8.   Technological smoothness:  2/5
-	9.   Technological extremophilia:  5/5
-	10.   Stress/boredom rating:  3/5  (Eustress)
-	11.   Me-points:  1/3
-	12.   Special categories:  
+	5.   Categorization:  Um...  Failsafe?
+	6.   Bureaucratic waste analysis:  Ignoring the obscene wastes of the literal interpretation, there's nothing especially bureaucratic about this.
+	7.   Liberation rating:  3/5
+	8.   Protection rating:  3/5
+	9.   Technological smoothness:  2/5
+	10.   Technological extremophilia:  5/5
+	11.   Stress/boredom rating:  3/5  (Eustress)
+	12.   Me-points:  1/3
+	13.   Special categories:  Failsafe
+89.   Superconductive Grid
+	1.   Mechanism proposal:  It's hard to talk about this because it's almost just literal.  We could almost do this already.  The problem is that this thing is not worth doing on Earth.  It's too expensive.
+	2.   Trivia:  The game's tag for this talks about ambient temperatures.  AFAIK, the highest temperature superconductors can work in industrial refrigeration units, which isn't "ambient temperatures", but it is close enough that we could literally build our power transmission wires into underground refrigeration units to have a superconductive grid.
+	3.   Categorization:  I don't see this as increasing the "blast radius" of falling governments, so... it's failsafe.  Beyond that...  I just don't know.
+	4.   Bureaucratic waste analysis:  It's not really a bureaucratic technology.  I have to score this as extremophilic to justify it as a really expensive thing at all.
+	5.   Liberation rating:  5/5
+	6.   Protection rating:  4/5
+	7.   Technological smoothness:  3/5
+	8.   Technological extremophilia:  5/5
+	9.   Stress/Boredom rating:  1/5  (Dull)
+	10.   Me-points:  1/3
+	11.   Special categories:  Failsafe
+90.   Green Belt
+	1.   Authorial protest:  Nope.  It's garbage.  An equatorial ring of plant matter and water vapor would not provide for this.  I think.  It supposedly moderates planetary temperatures, increases rainflal, and produces usable fertilizers that are micro deposited through rain.  The picture literally has a planet surrounded by orbiting plants, and I don't think that works.
+	2.   Mechanism proposal:  Maybe it refers to protecting verdant equatorial ecosystems in order to maintain their climate control methods.  This could be an environmentalist technology!
+	3.   Authorial protest:  But that still doesn't have fertilizers being microdeposited through rain.
+	4.   Authorial protest:  Argh.  I don't know what to say about this one.  When I have drafted all of these, it'll be time to lorem ipsumize my book, and I may have trouble filling the alloted space for this one.
+	5.   Categorization:  Do I need an ecological category?  I think I do.  Note to self: review other entries for ecology technologies.
+	6.   Categorization:  Failsafe.  Whether its the whacko orbital ring of plants version or just the environmental protection version, this really doesn't fail dangerously.
+	7.   Bureaucratic waste analysis:  If I can't figure out how it works, I can't figure out how it wastes administrative talent.  Treating it as ecological protection, though?  This is not a heavyweight tech.  Environmentalism is often just benign neglect; the challenge with environmentalism is making sure that other people benignly neglect the same spaces at the same time.
+	8.   Liberation rating:  3/5
+	9.   Protection rating:  5/5
+	10.   Technological smoothness:  ?/5
+	11.   Technological extremophilia:  3/5
+	12.   Stress/Boredom rating:  1/5  (Dull)
+	13.   Me-points:  ?/3
+	14.   Special categories:  Failsafe, ecological
+91.   Weather Control Network
+	1.   Author appeal:  I believe this is possible IRL!  Controlling the weather is just a question of "brute force engineering", like the game says.
+	2.   Downside analysis:  Once you start doing this, you can't stop doing this, and it doesn't get cheap.  This isn't a failsafe technology at all.
+	3.   Mechanism proposal:  Perfect farming weather forever.  That makes sense to me.
+	4.   Authorial protest:  My biggest frustration here is that it rubbishes most non-literal interpretations of biological productivity.  Biological productivity can also be forestry, medicine, weird biotechnological interventions, stupidly healthy sapients, etc.  Yet here?  It's just food.  Wood, at best.  Perfecting the weather doesn't suggest the weird and wonderful stuff is getting made the way "vacuum based life" or even "symbiotic ecosystem" implies that the weird and wonderful stuff is being made.  And I mean, sure, the galaxy needs food grown somewhere... but food is a pretty low-tech commodity, too.
 
 
 ---
