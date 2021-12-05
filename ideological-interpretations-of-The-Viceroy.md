@@ -310,7 +310,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Stress/Boredom rating:  1/5 (Dull)
 	13.  Me-points:  1/3
 	14.  Kind of person most protected:  Cheesemakers.
-	15.  Special categories:  Hypersmooth, Luddistic, Failsafe
+	15.  Special categories:  Hypersmooth, Luddistic, Failsafe, Ecological
 	16.  Conversion potential:  Unknown
 6.  Branching Facility
 	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
@@ -361,7 +361,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Stress/Boredom rating: 2 (Calm)
 	18.  Me-points: 1/3
 	19.  Kind of person most protected:  Service workers who like their jobs
-	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
+	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Ecological, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 8.  Seat of Policy
 	1.  Challenge cured:  Eternal Philosophers
@@ -379,7 +379,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Stress/Boredom rating:  1/5 (Dull)
 	14.   Me-points:  1/3
 	15.   Kind of person most protected:  Bureaucrats
-	16.   Special categories:  Failsafe, Hedonological, Detached
+	16.   Special categories:  Failsafe, Hedonological, Detached, Ecological
 	17.   Conversion potential:  Commonwealth<->Panarchy
 9.  Subconscious Education
 	1.  Authorial Protest:  This tech slot should REALLY be occupied by "Dream Reeves", a service that protects peoples' slumber.  People who sleep perfectly at night are more culturally competent AND stronger-willed AND happier, which should be its mechanical effect.  The +Happiness buff here would be more valuable to the Panarchy than the additional research.
@@ -424,7 +424,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Me-points:  0/3
 	13.  Technological extremophilia:  Territory average
 	14.  Kind of person most protected:  Street musicians & pacifist logisticians.
-	15.  Special categories:  Hypersmooth, Detached
+	15.  Special categories:  Hypersmooth, Detached, Ecological
 	16.  Conversion potential:  Empire<->Commonwealth (limited)
 11.  Panarchic Palaces
 	1.  Mechanism proposal:  The obvious function of a palace is to be an aspirational reward for high achievers.  Palaces are gigantic lairs of the overglorified.  This is a real function.
@@ -519,7 +519,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.  Stress/boredom:  1/5 (Dull)
 	23.  Me-points:  2/3
 	24.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
-	25.  Special categories:  Detached, Failsafe, Rehabilitative
+	25.  Special categories:  Detached, Failsafe, Rehabilitative, Ecological
 	26.  Conversion potential:  Commonwealth<->Empire
 15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
@@ -615,7 +615,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Technological extremophilia:  3/5
 	11.  Stress/Boredom rating:  1 (Dull)
 	12.  Me-points:  0/3
-	13.  Kind of person most protected:  Serene industrialists... which in *this* setting means *Imperials*!  Even though this is a Commonwealth tech very far away from Imperial thought, this *always* best protects Imperials!
+	13.  Kind of person most protected:  Serene industrialists... which in *this* setting means *Imperials*!  Even though this is a Commonwealth tech very far away from Imperial thought, this *always* best protects Imperials!  I <3 serenity.
 	14.  Special categories:  Detached, Anti-Popular, Failsafe
 	15.  Conversion potential:  Empire<->Commonwealth
 19.  Palace of the Arts
@@ -1066,7 +1066,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.  Stress/Boredom rating:  1/5 (Dull)
 	10.  Me-points:  2/3
 	11.  Kind of person most protected:  Moisture farmers
-	12.  Special categories:  Anti-Popular, Failsafe
+	12.  Special categories:  Anti-Popular, Failsafe, Ecological
 	13.  Conversion potential:  Unknown.
 39.  Seasteading
 	1.  Mechanism proposal:  This is part of a great little triad of literalism in the Orbital Observers tech tree.  Unlike a lot of the literal technologies, this doesn't suggest homogenization at all.  (I may have to redefine the homogenization schtick I wrote about the Empire before.)  This suggests a bit of a local ideological countermeasure to the dullness of the Hydroponic Farms and Distributed Desal linkage... and it suggests a kind of community that could *really* use those distributed desal plants, too.
@@ -1676,7 +1676,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Technological extremophilia:  2/5
 	12.   Stress/boredom rating:  1/5 (Dull)
 	13.   Me-points:  0/3
-	14.   Special categories:  Hypersmooth
+	14.   Special categories:  Hypersmooth, Ecological
 	15.   Conversion potential:  Commonwealth<->Imperial (limited)
 69.   Panarchic Data Post
 	1.   Challenge cured: Scientific Isolation
@@ -1842,16 +1842,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	5.   Apologia:  While these are NEVER entirely liberating, because there's always someone who LOSES liberty, they're liberating on average for most of the people... in regulated economies.  Specifically.
 	6.   Apologia:  These make feudal economies work much better... by the standards of feudal lords and vassals, etc.  They're an essential "technology" for feudalism itself (ick).
 	7.   Downside analysis:  I'm pretty sure these are usually stressful.  Many of the atrocities in history have been linked to attempts to do this stuff.  The good outcomes here take a long time to bear fruit, and may not arise within the scope of the game itself.
-	8.   Bureaucratic waste analysis:  Half-literal, half-burnout.  These things turn local economies upside down at the behest of galactic authorities.  There's a literal land management bureaucracy that has to be built, and then there's a local sense of severe disruption from their operation.
-	9.   Liberation rating:  2/5, +2 in regulated economies, -1 in feudal economies
-	10.   Protection rating:  2/5, +2 in feudal economies
-	11.   Siphon quality:  3/5
-	12.   Technological smoothness:  4/5
-	13.   Technological extremophilia:  3/5
-	14.   Stress/boredom rating:  4/5 (Stressful)
-	15.   Me-points:  0/3
-	16.   Special categories:  Galactic politics, Nightmare
-	17.   Conversion potential:  Unknown
+	8.   Categorization:  I'm pinning an ecological categorization note to this.  I don't think land reform programs are reliably environmentalist, but to me they indicate governments that care at least a little about, y'know, *land value*.
+	9.   Bureaucratic waste analysis:  Half-literal, half-burnout.  These things turn local economies upside down at the behest of galactic authorities.  There's a literal land management bureaucracy that has to be built, and then there's a local sense of severe disruption from their operation.
+	10.   Liberation rating:  2/5, +2 in regulated economies, -1 in feudal economies
+	11.   Protection rating:  2/5, +2 in feudal economies
+	12.   Siphon quality:  3/5
+	13.   Technological smoothness:  4/5
+	14.   Technological extremophilia:  3/5
+	15.   Stress/boredom rating:  4/5 (Stressful)
+	16.   Me-points:  0/3
+	17.   Special categories:  Galactic politics, Ecological, Nightmare
+	18.   Conversion potential:  Unknown
 79.   Right to Competence
 	1.   Challenge cured:
 		1.   Challenge cure interpretation:
@@ -1973,7 +1974,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Technological extremophilia:  5/5
 	12.   Stress/boredom rating:  2/5 (Calm)
 	13.   Me-points:  1/3
-	14.   Special categories:  
+	14.   Special categories:  Ecological
 	15.   Conversion potential:  Unknown
 86.   Basic Income
 	1.   Challenge cured:  Unscrupulous Society
@@ -2060,6 +2061,15 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	2.   Downside analysis:  Once you start doing this, you can't stop doing this, and it doesn't get cheap.  This isn't a failsafe technology at all.
 	3.   Mechanism proposal:  Perfect farming weather forever.  That makes sense to me.
 	4.   Authorial protest:  My biggest frustration here is that it rubbishes most non-literal interpretations of biological productivity.  Biological productivity can also be forestry, medicine, weird biotechnological interventions, stupidly healthy sapients, etc.  Yet here?  It's just food.  Wood, at best.  Perfecting the weather doesn't suggest the weird and wonderful stuff is getting made the way "vacuum based life" or even "symbiotic ecosystem" implies that the weird and wonderful stuff is being made.  And I mean, sure, the galaxy needs food grown somewhere... but food is a pretty low-tech commodity, too.
+	5.   Trivia:  The icon shows a partly cloudy sky with rain falling from it onto arid ground.  Additionally to the clouds in the sky, there are a bunch of drones flying.  This suggests literal rain drones.  That is not how this technology could be built.
+	6.   Bureaucratic waste analysis:  It's expensive, and you can never stop once you start.  Sounds like bureaucracy to me.
+	7.   Liberation rating:  3/5
+	8.   Protection rating:  3/5
+	9.   Technological smoothness:  1/5
+	10.   Technological extremophilia:  5/5
+	11.   Stress/Boredom rating:  3/5  (Eustress)
+	12.   Me-points:  2/3
+	13.   Special categories:  Ecological
 
 
 ---
