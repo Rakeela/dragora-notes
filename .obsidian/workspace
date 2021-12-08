@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 43.35213537469782,
+            "dimension": 43.35213537469783,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 56.64786462530218,
+            "dimension": 56.64786462530217,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Viceroy-Scorecards.md",
+                    "file": "paprika.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "paprika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "paprika.md",
     "Viceroy-Scorecards.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-12-03-Two-Hundred-and-Fifth.md",
     "Northern-Creche-Confederation.md",
     "Chives-of-Wrath.md",
     "2021-11-28-Two-Hundred-and-Fourth.md",
     "2021-11-23-Two-Hundred-and-Third.md",
     "2021-11-20-Two-Hundred-and-Second.md",
-    "after-the-empire.md",
-    "2021-11-17-Two-Hundred-and-First.md"
+    "after-the-empire.md"
   ]
 }
