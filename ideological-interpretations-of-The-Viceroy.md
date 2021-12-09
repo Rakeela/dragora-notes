@@ -844,30 +844,31 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Special categories:  Asexual, Homogenizing, Nightmare
 	20.  Conversion potential:  Hopefully, none.
 29.  Creche Education
-	1.  Authorial protest: The staff at my school were so intent on treating me as a violent troublemaker that they failed to protect me from violently untrustworthy peers.  They refused to believe that I was an actual pacifist even though I was indeed an actual pacifist.  In fifth grade I was even once assaulted by a teacher!
-	2.  Mechanism proposal:  Immortal societies don't HAVE a lot of kids.  It's not sustainable to have a lot of kids, it's not necessary to have a lot of kids, and only primitive societies have to pretend that childrearing is a happy thing.  The other factions tend to trust in people getting a sufficient education across hundreds or thousands of years, and deprioritize public education.  The Commonwealth Consensus is committed to providing an extremely well-funded public education system even if there are only a handful of kids in class.
-	3.  Downside analysis:  Teachers outnumber students at some of these creches.  It can be overwhelming, but on the plus side, the high teachers-to-students ratio makes the problems I faced in public schools less likely.
-	4.  Downside analysis:  Public resentment of the Commonwealth increases due to the expense of supporting underutilized schools with tax money.
-	5.  Downside analysis:  People who are being educated when they are least powerful, are not in a position to protest any aspect of society or how they are treated.  Children are the most vulnerable people, and adult education is less likely to violate peoples' rights.  That isn't practical prior to life extension technology, but in the presence of life extension technology it becomes part of how the other factions protest against creches.
-	6.  Mechanism proposal:  Children *do* have superior uptake of information.  There are advantages to getting there early.
-	7.  Downside analysis:  Part of why this leads towards nationalist indoctrination is that such indoctrination is easier when one 'gets there early' and can inculcate the bizarre hatreds that define nationalist thought at a point in time when they will not be questioned.  The subsequent divisionism then becomes stable, as people who expect foreigners to be scum mistreat people enough to reify their prejudices... The Commonwealth Consensus has reasons to believe that it has to start early in order to make people conform to its consensus.
-	8.  Mechanism proposal:  In an immortal society, neotenous genes and unusually early rejuvenation targets are potentially advantageous for intelligence.  When the cure for aging is added to the equation, there may also arise 'elven schools' which maintain people in a state of youth for purposes of research and study.  This mitigates the demeritous aspects of this policy at the cost of being somewhat uncanny.
-	9.  Mechanism proposal:  Rejuvenating people to a youthful state for the purpose of retraining and rehabilitation is likely to improve retraining and rehabilitation outcomes.  Criminals who agree to be sent to an elven school are likely to have better outcomes... though one hopes the schools of different purpose would be kept separate from each other.  The Commonwealth Consensus can take advantage of these potentials if they are culturally willing to do so and have sufficiently advanced medicine available.
-	10.  Downside analysis:  VERY BORING EVEN WHEN IT WORKS.  Hey, it's a real issue!  Utopia shouldn't be deathly dull, but the creches are better at what they do when they're very calm and extremely safe.
-	11.  Note on synergy:  Mental transcription services would be more popular where exuberant kids were getting to use them, and schools would be more exotic, exciting places as well.  It mitigates the boringness.
-	12.  Downside analysis:  Schools are also a natural place to push panarchic indoctrination, but while the *results* of panarchic indoctrination have something going for them (widespread advanced art skills), the pressure is still stressful.
-	13.  Note on synergy:  If I believed that enlightened policing actually protected the public more than it protected corrupt people from miserable dissidents, I'd believe it defended the utopianism of creche education services more...
-	14.  Categorization:  Educational systems have a history of being deployed against 'unwanted' thought, which is what makes the creches into (weak) omniconverters and earns them the 'Homogenizing' tag.  At the same time, advanced thought eventually gets very broad, so they're also diversifying... it really depends on how they're governed.
-	15.  Bureaucratic waste analysis:  Mostly literal.  The schools are 'unnecessary' expenses that require large amounts of administrative talent for marginal returns.  Also, you occasionally get cases like mine; my childhood opposition to public schooling was seen as "primitive", but it was rooted in my high-tech ideals, as my school did not serve them very well at all!
-	16.  Utopic rating:  2/5, +1 in Imperial-majority populations (serenity), +1 if mental transcription services are present, +1 if aging is curable, -2 with nationalist indoctrination, -1 with panarchic indoctrination
-	17.  Public protection rating: 4/5
-	18.  Technological smoothness: 5/5
-	19.  Technological extremophilia: 4/5
-	20.  Stress/Boredom rating:  4/5 (Stressful)
-	21.   Me-points:  -1/3
-	22.  Kind of person most protected: Schoolteachers.
-	23.  Special categories:  Homogenizing, Diversifying, Failsafe
-	24.  Conversion potential:  Panarchy<->Commonwealth (limited); Panarchy<->Empire (limited); Commonwealth<->Empire (limited)
+	1.  Authorial protest:  I've thought about the tech tree more and decided that this should be Safeteching instead.  I'm not sure what Safeteching would do, but I think it fits in this slot better than Creche Education, something that even primitive societies should eventually do and *never* let go of.  Or almost never, at least.  Safeteching might be a +Science program justified as importing galactic technologies, or it might be a +Popcap technology that increases the crowding threshold by straightforwardly reducing death from all causes.  I'm leaning towards +Popcap.  I like the technologies that increase the crowding threshold.  Safeteching would be a very 5/5 failsafe kind of technology with less conversion potential and no risk of homogenizing society.
+	2.  Authorial protest: The staff at my school were so intent on treating me as a violent troublemaker that they failed to protect me from violently untrustworthy peers.  They refused to believe that I was an actual pacifist even though I was indeed an actual pacifist.  In fifth grade I was even once assaulted by a teacher!
+	3.  Mechanism proposal:  Immortal societies don't HAVE a lot of kids.  It's not sustainable to have a lot of kids, it's not necessary to have a lot of kids, and only primitive societies have to pretend that childrearing is a happy thing.  The other factions tend to trust in people getting a sufficient education across hundreds or thousands of years, and deprioritize public education.  The Commonwealth Consensus is committed to providing an extremely well-funded public education system even if there are only a handful of kids in class.
+	4.  Downside analysis:  Teachers outnumber students at some of these creches.  It can be overwhelming, but on the plus side, the high teachers-to-students ratio makes the problems I faced in public schools less likely.
+	5.  Downside analysis:  Public resentment of the Commonwealth increases due to the expense of supporting underutilized schools with tax money.
+	6.  Downside analysis:  People who are being educated when they are least powerful, are not in a position to protest any aspect of society or how they are treated.  Children are the most vulnerable people, and adult education is less likely to violate peoples' rights.  That isn't practical prior to life extension technology, but in the presence of life extension technology it becomes part of how the other factions protest against creches.
+	7.  Mechanism proposal:  Children *do* have superior uptake of information.  There are advantages to getting there early.
+	8.  Downside analysis:  Part of why this leads towards nationalist indoctrination is that such indoctrination is easier when one 'gets there early' and can inculcate the bizarre hatreds that define nationalist thought at a point in time when they will not be questioned.  The subsequent divisionism then becomes stable, as people who expect foreigners to be scum mistreat people enough to reify their prejudices... The Commonwealth Consensus has reasons to believe that it has to start early in order to make people conform to its consensus.
+	9.  Mechanism proposal:  In an immortal society, neotenous genes and unusually early rejuvenation targets are potentially advantageous for intelligence.  When the cure for aging is added to the equation, there may also arise 'elven schools' which maintain people in a state of youth for purposes of research and study.  This mitigates the demeritous aspects of this policy at the cost of being somewhat uncanny.
+	10.  Mechanism proposal:  Rejuvenating people to a youthful state for the purpose of retraining and rehabilitation is likely to improve retraining and rehabilitation outcomes.  Criminals who agree to be sent to an elven school are likely to have better outcomes... though one hopes the schools of different purpose would be kept separate from each other.  The Commonwealth Consensus can take advantage of these potentials if they are culturally willing to do so and have sufficiently advanced medicine available.
+	11.  Downside analysis:  VERY BORING EVEN WHEN IT WORKS.  Hey, it's a real issue!  Utopia shouldn't be deathly dull, but the creches are better at what they do when they're very calm and extremely safe.
+	12.  Note on synergy:  Mental transcription services would be more popular where exuberant kids were getting to use them, and schools would be more exotic, exciting places as well.  It mitigates the boringness.
+	13.  Downside analysis:  Schools are also a natural place to push panarchic indoctrination, but while the *results* of panarchic indoctrination have something going for them (widespread advanced art skills), the pressure is still stressful.
+	14.  Note on synergy:  If I believed that enlightened policing actually protected the public more than it protected corrupt people from miserable dissidents, I'd believe it defended the utopianism of creche education services more...
+	15.  Categorization:  Educational systems have a history of being deployed against 'unwanted' thought, which is what makes the creches into (weak) omniconverters and earns them the 'Homogenizing' tag.  At the same time, advanced thought eventually gets very broad, so they're also diversifying... it really depends on how they're governed.
+	16.  Bureaucratic waste analysis:  Mostly literal.  The schools are 'unnecessary' expenses that require large amounts of administrative talent for marginal returns.  Also, you occasionally get cases like mine; my childhood opposition to public schooling was seen as "primitive", but it was rooted in my high-tech ideals, as my school did not serve them very well at all!
+	17.  Utopic rating:  2/5, +1 in Imperial-majority populations (serenity), +1 if mental transcription services are present, +1 if aging is curable, -2 with nationalist indoctrination, -1 with panarchic indoctrination
+	18.  Public protection rating: 4/5
+	19.  Technological smoothness: 5/5
+	20.  Technological extremophilia: 4/5
+	21.  Stress/Boredom rating:  4/5 (Stressful)
+	22.   Me-points:  -1/3
+	23.  Kind of person most protected: Schoolteachers.
+	24.  Special categories:  Homogenizing, Diversifying, Failsafe
+	25.  Conversion potential:  Panarchy<->Commonwealth (limited); Panarchy<->Empire (limited); Commonwealth<->Empire (limited)
 30.  Potentialities Overseer
 	1.  Authorial protest:  I have a pretty good idea what a potentialities overseer should be and how to write with them, narratively.  Despite that, I think this technology slot should actually hold a 'Collapse Overseer' technology, which would be a +Influence tech.  This restores to the Panarchy the +Influence that was lost by converting Panarchic Capital to Voluntary Order, while giving a first +Influence tech to the Panarchic Informalists.  (The +Influence techs are like social science technologies, and they're good things!)  The Collapse Overseer would be an AI overseer that does not assist governing at all, but simply watches society to automatically assemble post mortems on organizations that fail.  This would be less tyrannical than the Potentialities Overseer, and more useful over the long-term.
 	2.  Mechanical protest:  Playing normally, -10% upkeep is generally wasted, because the bureaucratic waste expense usually very much exceeds the upkeep savings.  Unless this has some hidden effect, it isn't normally worth using.
@@ -1149,22 +1150,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Conversion potential:  Unknown
 43.  Orbital Surveyor
 	1.  Challenge cured: Invasive Organisms
-	2.  Challenge cure interpretation:  The orbital surveyors look like they have the largest ecologist contingent.  This technology brings in the ecologists who can deal with invasive organizations.
-	3.  Mechanism proposal:  The literally described mechanism works... more or less.  Like all the -Upkeep techs in the game, it's a total waste of resources unless one of two things is true: 1) you have excessively awesome administrators and no bureaucratic waste, or 2) your administration has basically collapsed from bureaucratic waste and you're just clinging until you get reassigned.
-	4.  Narrative indicator:  A network of observation satellites probably gives a pretty good idea of what's going wrong... but it doesn't necessarily give much power to *do* anything about it.  Every time you build these, a few more of your society's leaders are getting high and laughing as systems collapse.  Only literally getting high, of course... probably.
-	5.  Apologia:  That really doesn't make things any worse.
-	6.  Narrative indicator:  This does uphold high-tech development, and it changes the *kind* of lurking disasters that would be building up.  Stuff that's obviously visible from orbit would be less troubling once you've got these built up.
-	7.  Downside analysis:  I don't know why, but I've got the sense that these systems could end up being used by creeps.  Maybe any kind of closed omniscience system would have that problem.  The more the general public has access to the grid, the better, but even were the sensors public access the public wouldn't have access to the institutional analyses.  Maybe I shouldn't worry about this.
-	8.  Bureaucratic waste analysis:  Launch systems, sensor grids, logisticians.  I don't think this wastes anyone in the bad way, but I do think it's expensive to operate.
-	9.   Liberation rating:  Territory Average
-	10.  Protection rating:  Territory Average, +1 (Max 5/5)
-	11.  Technological smoothness:  2/5
-	12.  Technological extremophilia:  Territory Average, +1 (Max 5/5)
-	13.  Stress/Boredom rating:  2/5 (Calm)
-	14.  Me-points:  0/3
-	15.  Kind of person most protected:  Sensor technicians, People who like watching trees grow from orbit
-	16.  Special categories:  Detached, Failsafe
-	17.  Conversion potential:  Empire<->Panarchy (Limited); Empire<->Commonwealth (Limited)
+		1.  Challenge cure interpretation:  The orbital surveyors look like they have the largest ecologist contingent.  This technology brings in the ecologists who can deal with invasive organizations.
+	2.  Authorial protest:  Considering the tech tree more, I've decided that this should be Satellite Program, a district-level science technology.  Satellite programs are space exploration and planetary mapping programs which are arguably obsolete and unnecessary for highly advanced societies, but which serve to promote enthusiasm for science and local development of the aerospace industry.  They would map well with the gist of the orbital surveyors, and they replace one of the mechanically useless -Upkeep technologies.
+	3.  Authorial protest:  Seriously, the upkeep reducers seem to be nearly useless.  Unless there's something secret going on under the hood, they're not comprehensible to me.  Are these observation points that do something hidden?
+	4.  Mechanism proposal:  The literally described mechanism works... more or less.  Like all the -Upkeep techs in the game, it's a total waste of resources unless one of two things is true: 1) you have excessively awesome administrators and no bureaucratic waste, or 2) your administration has basically collapsed from bureaucratic waste and you're just clinging until you get reassigned.
+	5.  Narrative indicator:  A network of observation satellites probably gives a pretty good idea of what's going wrong... but it doesn't necessarily give much power to *do* anything about it.  Every time you build these, a few more of your society's leaders are getting high and laughing as systems collapse.  Only literally getting high, of course... probably.
+	6.  Apologia:  That really doesn't make things any worse.
+	7.  Narrative indicator:  This does uphold high-tech development, and it changes the *kind* of lurking disasters that would be building up.  Stuff that's obviously visible from orbit would be less troubling once you've got these built up.
+	8.  Downside analysis:  I don't know why, but I've got the sense that these systems could end up being used by creeps.  Maybe any kind of closed omniscience system would have that problem.  The more the general public has access to the grid, the better, but even were the sensors public access the public wouldn't have access to the institutional analyses.  Maybe I shouldn't worry about this.
+	9.  Bureaucratic waste analysis:  Launch systems, sensor grids, logisticians.  I don't think this wastes anyone in the bad way, but I do think it's expensive to operate.
+	10.   Liberation rating:  Territory Average
+	11.  Protection rating:  Territory Average, +1 (Max 5/5)
+	12.  Technological smoothness:  2/5
+	13.  Technological extremophilia:  Territory Average, +1 (Max 5/5)
+	14.  Stress/Boredom rating:  2/5 (Calm)
+	15.  Me-points:  0/3
+	16.  Kind of person most protected:  Sensor technicians, People who like watching trees grow from orbit
+	17.  Special categories:  Detached, Failsafe
+	18.  Conversion potential:  Empire<->Panarchy (Limited); Empire<->Commonwealth (Limited)
 44.  Orbital Habitats
 	1.  Challenge Cured:  Ice Age
 	2.  Challenge Cure Interpretation:  I'm not sure.  Controlled global warming due to numerous space launches?  Replacement of groundside farms with orbital farms?  Both?  The Orbital Surveyors (I refer to them by their capstone) do like farming in orbit.
