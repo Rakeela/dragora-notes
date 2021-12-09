@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "paprika.md",
+                    "file": "Viceroy-Scorecards.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paprika.md",
+                "file": "Viceroy-Scorecards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +151,8 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "paprika.md",
     "Viceroy-Scorecards.md",
+    "paprika.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2021-12-03-Two-Hundred-and-Fifth.md",
     "Northern-Creche-Confederation.md",
