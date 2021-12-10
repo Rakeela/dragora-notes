@@ -2218,6 +2218,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-12-10;  It's not really an ideological note, but as people SHOULD gain some idea of mechanical strategy from reading a book about a game...  If you use 20% capital subsidies for 1 turn after accumulating a few trillion in reserves, you can get some money onto the less developed financial districts.  This reduces investment waste in a relative sense.
 
+2021-12-10; Here's a thought that IS ideological.  What if the tech trees are all inverted?  What if their starting points are actually ending points that lead to the invention of the cure for aging?  This works better for some of the trees than for others, but for instance the Old Imperial tech tree could be a bunch of different starting points that converge on hyperspacial mastery (Miniaturized Gates).  This wouldn't necessarily invert the flow of the game either, because a galactic society could be very impressed with the end-points and convinced that the climax technologies of the societies that reached for FTL travel are the appropriate starting points for redeveloping collapsed territories.
+
 ---
 The Much-Reviled Lower Classes
 

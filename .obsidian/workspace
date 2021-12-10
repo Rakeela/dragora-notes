@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-12-09-Two-Hundred-and-Sixth.md",
+                    "file": "2021-12-10-Two-Hundred-and-Seventh.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2021-12-10-Two-Hundred-and-Seventh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "2021-12-10-Two-Hundred-and-Seventh.md",
     "2021-12-09-Two-Hundred-and-Sixth.md",
-    "2021-12-03-Two-Hundred-and-Fifth.md",
     "Viceroy-Scorecards.md",
+    "ideological-interpretations-of-The-Viceroy.md",
+    "2021-12-03-Two-Hundred-and-Fifth.md",
     "paprika.md",
     "Northern-Creche-Confederation.md",
     "Chives-of-Wrath.md",
     "2021-11-28-Two-Hundred-and-Fourth.md",
-    "2021-11-23-Two-Hundred-and-Third.md",
-    "2021-11-20-Two-Hundred-and-Second.md"
+    "2021-11-23-Two-Hundred-and-Third.md"
   ]
 }
