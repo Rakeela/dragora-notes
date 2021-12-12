@@ -313,33 +313,34 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Special categories:  Hypersmooth, Luddistic, Failsafe, Ecological
 	16.  Conversion potential:  Unknown
 6.  Branching Facility
-	1.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
-	2.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
-	3.  Apologia:  Reproduction via branching facility emphatically does not violate the consent of the person who is "branching"; in the Separatist interpretation, this might be the only possible way to bring a new consciousness into reality while being 100% sure that new consciousness consents to exist.
-	4.  Downside analysis:  In both the Separatist and Unionist interpretations, one thing is extremely probable: there is no charisma-checking going on here, and very little competency-checking.  The existence of a branching facility would mean that gradually more of the public would be constituted of people who very much *do* want to exist, albeit having no other qualifications.
-	5.  Apologia:  If you can make good use of people who REALLY want to exist, there's something to be said for that!
-	6.  Downside analysis:  This technology tests parental investment in no way whatsoever.  If the people who use the branching facilities remain reproductively active in other senses as well, there's a risk that bad parenting will increase.  This risk exists in both interpretations.
-	7.  Apologia:  In the Separatist interpretation, this technology reduces sexual pressure and preserves asexual genes.  Yay!
-	8.  Downside analysis:  In the Unionist interpretation, this technology starkly privileges the genes for abusive hypersexuality, exemplifying one of the reasons why preserving asexual genes is desirable in the first place...
-	9.  Ideological context analysis:  I think it's not a coincidence that the Old Empire rises where Imperial ideology and Commonwealth ideology touch each other.  I tend to imagine that the adjacent tech trees hybridize fluidly, and this bit is the Empire showing off how dark the Commonwealth Reproductive Mandate really is.
-	10.  Downside analysis:  Violent supremacists could branch themselves to become ineradicable collectives!
-	11.  Mechanism proposal:  In the Unionist interpretation, this technology opposes blood cults in the sense that it involves encouraging women to not abort children conceived of rape, but to accept what happened to them and commit to protecting the new lifeform.  This does at least promote parental investment, dubious as it is...
-	12.  Mechanism proposal:  In the Separatist interpretation, this technology opposes blood cults by requiring all sacrificees to be 'branched' before sacrificing them.  Thus, people both get sacrificed and observe themselves getting sacrificed.  This erodes the societal control potential of blood cults; their formal promotion of suicide can no longer permanently alter the destiny of society, but is reduced to a novelty for a particular kind of weirdo.
-	13.  Mechanism synthesis:  In both interpretations, branching facilities favor the development of a population that would never consent to be sacrificed.  There's some merit to that, too.
-	14.  Apologia:  I was thinking about this tech this morning, and my first thought was one of revulsion: "it leads to a homogenous society!"  I detest homogeneity.  Then I realized, no, that's not inevitable.  Imagine a pair of people who loved each other very much, who were each duplicated five times each so their lives could fill out all the rooms of a mansion built to their love.  Now to be clear, I would not want to be *part* of that story; it is not a description of a future I would desire *for myself*.  Yet I might enjoy reading or watching a movie about it, and I wouldn't think a couple evil or incomprehensible if they wanted to do it for real.  It doesn't necessarily lead to a homogenous society, especially if the lovebirds use birth control in all the rooms of a mansion built to their love.  I think homogeneity is best understood as a *risk* of Imperial technology, not an *inevitability* of it.
-	15.  Downside analysis:  Branching people could be used for evil manipulative experiments.  Each branched person has a shared history, but an observer would then get to see how that one foundation produces many possible futures.  Beyonders (supposedly) already see every possible future, but only in societies that implement Branching Facilities do they get to see an individual's different possible futures interacting with each other directly.  While the possibility of benevolent interaction exists (a fortunate branch of one person could help support an unfortunate branch of that person), I rate this a downside as I think social scientists would produce a lot of demeaning analyses of different decisions based upon observing how they affect different branches of the same person.
-	16.  Mechanism proposal:  With grudging acceptance, I admit that this could also be a trashy conservative joke about making babies and then modeling one's whole parenting style around trying to create a future person just like oneself.  Such conduct is ethically dubious for good people and immoral for bad people.  I won't score it.
-	17.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being (as I imagine it) about as bureaucratically expensive as establishing a clinic.  There are no facilities at all required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in far worse than misfiled paperwork.  It also suggests an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although the Separatist path HAS theoretical paradisic applications, this technology generally strikes me as starting bad and getting worse.
-	18.  Liberation rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies), +1 with Enlightened Policing (Yes, better policing is liberating under both interpretations here)
-	19.  Protection rating:  1/5, +2 in territories challenged by blood cults
-	20.  Siphon quality:  
-	21.  Technological smoothness:  4/5
-	22.  Technological extremophilia:  Territory average +1 (max 5/5).
-	23.  Stress/Boredom rating: 3 (Eustress)
-	24.  Me-points: -1/3
-	25.  Kind of person most protected:  People who REALLY want to exist.
-	26.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
-	27.  Conversion potential:  Unknown
+	1.  Challenge cured:  Blood Cult
+		1.  Challenge cure interpretation:  In the Separatist interpretation (true literal branching of adults), this technology opposes blood cults by requiring all sacrificees to be 'branched' before sacrificing them.  Thus, people both get sacrificed and observe themselves getting sacrificed.  This erodes the societal control potential of blood cults; their formal promotion of suicide can no longer permanently alter the destiny of society, but is reduced to a novelty for a particular kind of weirdo.
+		2.  Alternative cure interpretation:   In the Unionist interpretation (rape tolerant restriction of abortion), this technology opposes blood cults in the sense that it involves encouraging women to not abort children conceived of rape, but to accept what happened to them and commit to protecting the new lifeform.  This does at least promote parental investment, dubious as it is...
+	2.  Mechanism proposal:  The literally described mechanism of duplicating people should be physically possible at some level of technology.  The literalist interpretation is viable here, and can remain viable even if the achronal nature of Beyonders is not granted a similar literalist interpretation.  I'll call this the Separatist interpretation.
+	3.  Mechanism proposal:  A one-party consent method of reproduction that preferentially reproduces the most trusting people in society..?  Hm, that sounds a lot like rape.  I'll call this the Unionist interpretation.
+	4.  Apologia:  Reproduction via branching facility emphatically does not violate the consent of the person who is "branching"; in the Separatist interpretation, this might be the only possible way to bring a new consciousness into reality while being 100% sure that new consciousness consents to exist.
+	5.  Downside analysis:  In both the Separatist and Unionist interpretations, one thing is extremely probable: there is no charisma-checking going on here, and very little competency-checking.  The existence of a branching facility would mean that gradually more of the public would be constituted of people who very much *do* want to exist, albeit having no other qualifications.
+	6.  Apologia:  If you can make good use of people who REALLY want to exist, there's something to be said for that!
+	7.  Downside analysis:  This technology tests parental investment in no way whatsoever.  If the people who use the branching facilities remain reproductively active in other senses as well, there's a risk that bad parenting will increase.  This risk exists in both interpretations.
+	8.  Apologia:  In the Separatist interpretation, this technology reduces sexual pressure and preserves asexual genes.  Yay!
+	9.  Downside analysis:  In the Unionist interpretation, this technology starkly privileges the genes for abusive hypersexuality, exemplifying one of the reasons why preserving asexual genes is desirable in the first place...
+	10.  Ideological context analysis:  I think it's not a coincidence that the Old Empire rises where Imperial ideology and Commonwealth ideology touch each other.  I tend to imagine that the adjacent tech trees hybridize fluidly, and this bit is the Empire showing off how dark the Commonwealth Reproductive Mandate really is.
+	11.  Downside analysis:  Violent supremacists could branch themselves to become ineradicable collectives
+	12.  Mechanism synthesis:  In both interpretations, branching facilities favor the development of a population that would never consent to be sacrificed.  There's some merit to that, too.
+	13.  Apologia:  I was thinking about this tech this morning, and my first thought was one of revulsion: "it leads to a homogenous society!"  I detest homogeneity.  Then I realized, no, that's not inevitable.  Imagine a pair of people who loved each other very much, who were each duplicated five times each so their lives could fill out all the rooms of a mansion built to their love.  Now to be clear, I would not want to be *part* of that story; it is not a description of a future I would desire *for myself*.  Yet I might enjoy reading or watching a movie about it, and I wouldn't think a couple evil or incomprehensible if they wanted to do it for real.  It doesn't necessarily lead to a homogenous society, especially if the lovebirds use birth control in all the rooms of a mansion built to their love.  I think homogeneity is best understood as a *risk* of Imperial technology, not an *inevitability* of it.
+	14.  Downside analysis:  Branching people could be used for evil manipulative experiments.  Each branched person has a shared history, but an observer would then get to see how that one foundation produces many possible futures.  Beyonders (supposedly) already see every possible future, but only in societies that implement Branching Facilities do they get to see an individual's different possible futures interacting with each other directly.  While the possibility of benevolent interaction exists (a fortunate branch of one person could help support an unfortunate branch of that person), I rate this a downside as I think social scientists would produce a lot of demeaning analyses of different decisions based upon observing how they affect different branches of the same person.
+	15.  Mechanism proposal:  With grudging acceptance, I admit that this could also be a trashy conservative joke about making babies and then modeling one's whole parenting style around trying to create a future person just like oneself.  Such conduct is ethically dubious for good people and immoral for bad people.  I won't score it.
+	16.  Bureaucratic waste analysis:  The literal bureaucratic cost of this technology is modest to missing, which makes its bureaucratic waste more rather than less horrifying.  The facilities required to run Separatist Branching Facilities are a central investment that has to be repeated once per major settlement, being (as I imagine it) about as bureaucratically expensive as establishing a clinic.  There are no facilities at all required to run Unionist Branching Facilities... but a rape-tolerating society then wastes bureaucrats in the horrific sense, as the resulting common psychological disorder results in far worse than misfiled paperwork.  It also suggests an increased rate of homicide against people inclined to orderly inclinations, and a failure of society to inculcate orderly inclinations among the youth.  Although the Separatist path HAS theoretical paradisic applications, this technology generally strikes me as starting bad and getting worse.
+	17.  Liberation rating:  1/5, +1 in territories challenged by blood cults, +1 in territories with extreme technological development (as the Separatist interpretation strengthens with the development of other technologies), +1 with Enlightened Policing (Yes, better policing is liberating under both interpretations here)
+	18.  Protection rating:  1/5, +2 in territories challenged by blood cults
+	19.  Siphon quality:  1/5 (Unionist); 3/5 (Separatist)
+	20.  Technological smoothness:  4/5 (Unionist); 2/5 (Separatist)
+	21.  Technological extremophilia:  Territory average +1 (max 5/5)
+	22.  Stress/Boredom rating: 3 (Eustress) (Separatist); 5 (Screaming) (Unionist)
+	23.  Me-points: -1/3
+	24.  Kind of person most protected:  People who REALLY want to exist.
+	25.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
+	26.  Conversion potential:  Unknown
 7.  Panarchic Retreat
 	1.  Challenge cured:  Market Isolation
 		1.  Challenge cure interpretation:  I'm not sure; I'll fill this blank in later.
@@ -370,17 +371,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.  Mechanism proposal:  The Seats of Policy engage in long-term bureaucratic meta-analysis.
 	5.  Mechanism proposal:  Since they host travelling policy analysts, the Seats of Policy encourage bureaucratic talents to travel from region to region.  This investment in travel logistics has the same general beneficial effect on survival rates as Panarchic Retreats.
 	6.  Categorization:  As the Commonwealth has strong commitments to public happiness (and I personally believe hedonology will be important to humanity's future), I consider these to be Hedonological structures despite being deeply boring.
-	7.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
-	8.  Liberation rating:  5/5
-	9.  Protection rating:  3/5, +1 with Seat of Justice, +1 with Panarchic Symposium
-	10.  Siphon quality:  6/5
-	11.  Technological smoothness:  5/5
-	12.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
-	13.  Stress/Boredom rating:  1/5 (Dull)
-	14.   Me-points:  1/3
-	15.   Kind of person most protected:  Bureaucrats
-	16.   Special categories:  Failsafe, Hedonological, Detached, Ecological
-	17.   Conversion potential:  Commonwealth<->Panarchy
+	7.  Categorization:  Since this tries to talk to the galaxy's understanding of policy local and distant, it increases galactic politics pressures.
+	8.  Bureaucratic waste analysis:  The Seats of Policy siphon off some of the system's bureaucrats to do analytical work unrelated to the day-to-day operations of the system.  They also encourage some amount of brain drain as talented individuals leave the system.  Still, these are extremely protective of bureaucratic talent...  By this rubric, they are perfectly utopic, and so the Seats of Policy reduce the galaxy's inclination to all forms of incompetence and corruption.
+	9.  Liberation rating:  5/5
+	10.  Protection rating:  3/5, +1 with Seat of Justice, +1 with Panarchic Symposium
+	11.  Siphon quality:  6/5
+	12.  Technological smoothness:  5/5
+	13.  Technological extremophilia:  Unrateable.  The Seats of Policy neither start experiments nor stop them, but they observe them very closely.
+	14.  Stress/Boredom rating:  1/5 (Dull)
+	15.   Me-points:  1/3
+	16.   Kind of person most protected:  Bureaucrats
+	17.   Special categories:  Failsafe, Hedonological, Detached, Galactic Politics, Ecological
+	18.   Conversion potential:  Commonwealth<->Panarchy
 9.  Subconscious Education
 	1.  Authorial Protest:  This tech slot should REALLY be occupied by "Dream Reeves", a service that protects peoples' slumber.  People who sleep perfectly at night are more culturally competent AND stronger-willed AND happier, which should be its mechanical effect.  The +Happiness buff here would be more valuable to the Panarchy than the additional research.
 	2.  Mechanism proposal:  The literally described technology turns dreams into an edutainment system, using interfaces between the panarchic nanotechnologies and the setting's cybernetics.  Data-organization is what dreams are for, right?  This makes them BETTER at it.
@@ -694,33 +696,35 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Special categories:  Anti-Popular, Nightmare, Asexual
 	20.  Conversion potential:  Unknown
 23.  Adaptive Antipsychotics
-	1.  Mechanism proposal:  Like with fertility drugs, this proposes drugging the water supply for the public's own good.  Unlike with fertility drugs, it doesn't propose drugging the water supply for any purpose other than the public's *subjective* good.  If done very excellently, this is... only barely an intrusion on the public's liberties.
-	2.  Mechanism proposal:  This is likely to be pursued simultaneously to massive investments in public healthcare.  It doesn't make sense to cure mental illness entirely through the water that people drink.  It *might* make sense to research drugs that improve mental performance and then mass-administrate them.
-	3.  Downside analysis:  Any biochemical errors in the government's understanding of pharmacology are likely to be greatly magnified by extending operations at this level.  Like with a lot of radically empowering technologies, more power to do good also means more power to cause harm.
-	4.  Narrative indicator:  This technology is a pretty good example of what I call 'the virtue axis' in The Viceroy.  Many people gain virtue from this technology (in this case due to better mental healthcare), but then society is relying on virtue to a greater extent.  This magnifies the consequences should virtue prove lacking.
-	5.  Narrative indicator:  By reducing mental instability, the virtue of the public... becomes more equally distributed.  Some of the really high performers are reduced and some of the strokes of genius are foregone, but great swathes of low performing people become usefully adequate, and a few of the downright evil people become indistinguishable from benevolent.  This last effect lowers the average virtue of society and is not desirable.
-	6.  Narrative indicator:  By reducing the rate at which evil people violate others due to impulse or instability, this technology can have dysgenic implications on society.  More of the low-virtue people will be sufficiently adequate that they won't ruin their own lives.  That's great, but... then social filtration will work a little less well, and a few of those people will ruin the lives of *others* instead.  Other technologies in the Orbital Surveyors tech tree provide some resistance to this effect's long-term issues through genetic quality control, notably this technology's immediate precursor, Genetic Specialization.  Artificial wombs would help even more; ontogenic control accelerates genetic research.
-	7.  Apologia:  It's worth noting the redemption factor on this technology.  Even though it reduces average virtue, it still increases virtue for a lot of people.  Some of the people who gain virtue from living in these conditions will *really* gain virtue, and will then thereafter never violate *anyone*.  So implementing adaptive antipsychotics has the potential to reduce misery and yield up a few more stable immortals to galactic society, and it will yield those immortals from populations otherwise rejected as useless.  Achieving such redemptions might be one of the ideals of the Empire of the Elect.
-	8.  Warning note:  In order to drug the public without society slumping, the 'adaptive' factor of adaptive antipsychotics needs to be true.  That means the drugs need to make people *smarter*.
-	9.  Downside analysis:  Unfortunately, a more intelligent population is more capable of pursuing its interests even if it defines those interests in a manner contrary to others.
-	10.  Downside analysis:  This has a similar problem to that of subconscious education.  "What thoughts are lost when you start tampering with dreams?"  Few people escape the psychological implications of this technology being implemented in a district.  That means it is likely to circumscribe the maximum breadth of thought.
-	11.  Mechanism proposal:  Reduced mental instability will reduce hatreds and violence between people.  It reduces jealousy.  This technology likely makes people more hedonically-inclined and more accepting of other peoples' hedonic inclinations.  That's great for alleviating misery, but...
-	12.  Downside analysis:  Some of the sad, compassionate people aren't sad, compassionate people anymore.  That quiets some of the virtuous people.  They're happier that way, but they're not as valuable to society.
-	13.  Downside analysis:  This technology expresses a concern for the public weal that is not inherently anti-democratic.  However, some of society's libertarians would rather die than live under this rule.  So if you implement it... well...  You know, hopefully you have open borders, so they'll leave peacefully and live somewhere that doesn't have it.  Otherwise they'll join the rebels, and when the rebellion calls your government authoritarian, they'll have more of a point.
-	14.  Mechanism proposal:  It's a petty jest, but some of the benefit of this technology with few of its side effects could be implemented just by building really good water and sanitation systems.  Excellent sewers, universally accessible.  The more other technologies you're implementing, the more the burden of mental illness is really being accommodated elsewhere, and as a result drugs are actually likely to be *taken back out* of the water supply as their relevance to policy fades, but...
-	15.  Downside analysis:  Should the adaptive antipsychotics administration phase out the majority of its water supply manipulations, the result would be an overfunded sanitation department promising more than it delivers.  Oops.
-	16.  Downside analysis:  This technology overreaches in various ways, and it's hard to go back on it without taking down the territorial administration.  The same could be said of a lot of technologies in this game.
-	17.  Narrative indicator:  Due to the placid "virtue" that this tech promotes, I would expect Imperial implants to get more common in territories that implement it, as people who've been drugged into cheerfulness are more inclined to trust the Imperial hivemind shards and less disruptive to their functioning.  The Imperial hivemind shards are also probably more well-behaved when swathes of the public can be suitably drugged.  This effect is probably muted in territories where the Empire is seen as 'lower class'.
-	18.  Bureaucratic waste analysis:  There's a headline bureaucratic implementation expense for this, mostly in that society's water infrastructure needs to be significantly more complete and well-maintained to enact it.  Yet it also drains productivity and loses a few strands of thought which are helpful to civilization while promising a substantial public intransigence issue.
-	19.  Utopic rating:  3/5
-	20.  Public protection rating:  4/5
-	21.  Technological smoothness:  3/5
-	22.  Technological extremophilia:  3/5
-	23.  Stress/Boredom rating:  1 (Dull)
-	24.  Me-points:  1/3
-	25.  Kind of person most protected:  Mentally ill people.
-	26.  Special categories:  Rehabilitative, Homogenizing, Hedonological
-	27.  Conversion potential:  Unknown
+	1.  Challenge cured:  Infectious Psychosis
+		1.  Challenge cure interpretation:  This talks of predatory thought patterns, so for once there's *no question to me* that this is talking about hyperspace as a way to discuss memetics.  Infectious psychosis is a form of distorted interpersonal belief structure that makes people functionally stupider.  Mass hallucinations, folly a deux, truly popular flat eartherism, etc., these are examples of what infectious psychosis might be.  I'm not clear how adaptive antipsychotics deal with this...  Maybe by making the charismatic center of the bad beliefs treatable (as though there are always high-functioning crazy people at the middle of Bad Idea Epidemics).
+	2.  Mechanism proposal:  Like with fertility drugs, this proposes drugging the water supply for the public's own good.  Unlike with fertility drugs, it doesn't propose drugging the water supply for any purpose other than the public's *subjective* good.  If done very excellently, this is... only barely an intrusion on the public's liberties.
+	3.  Mechanism proposal:  This is likely to be pursued simultaneously to massive investments in public healthcare.  It doesn't make sense to cure mental illness entirely through the water that people drink.  It *might* make sense to research drugs that improve mental performance and then mass-administrate them.
+	4.  Downside analysis:  Any biochemical errors in the government's understanding of pharmacology are likely to be greatly magnified by extending operations at this level.  Like with a lot of radically empowering technologies, more power to do good also means more power to cause harm.
+	5.  Narrative indicator:  This technology is a pretty good example of what I call 'the virtue axis' in The Viceroy.  Many people gain virtue from this technology (in this case due to better mental healthcare), but then society is relying on virtue to a greater extent.  This magnifies the consequences should virtue prove lacking.
+	6.  Narrative indicator:  By reducing mental instability, the virtue of the public... becomes more equally distributed.  Some of the really high performers are reduced and some of the strokes of genius are foregone, but great swathes of low performing people become usefully adequate, and a few of the downright evil people become indistinguishable from benevolent.  This last effect lowers the average virtue of society and is not desirable.
+	7.  Narrative indicator:  By reducing the rate at which evil people violate others due to impulse or instability, this technology can have dysgenic implications on society.  More of the low-virtue people will be sufficiently adequate that they won't ruin their own lives.  That's great, but... then social filtration will work a little less well, and a few of those people will ruin the lives of *others* instead.  Other technologies in the Orbital Surveyors tech tree provide some resistance to this effect's long-term issues through genetic quality control, notably this technology's immediate precursor, Genetic Specialization.  Artificial wombs would help even more; ontogenic control accelerates genetic research.
+	8.  Apologia:  It's worth noting the redemption factor on this technology.  Even though it reduces average virtue, it still increases virtue for a lot of people.  Some of the people who gain virtue from living in these conditions will *really* gain virtue, and will then thereafter never violate *anyone*.  So implementing adaptive antipsychotics has the potential to reduce misery and yield up a few more stable immortals to galactic society, and it will yield those immortals from populations otherwise rejected as useless.  Achieving such redemptions might be one of the ideals of the Empire of the Elect.
+	9.  Warning note:  In order to drug the public without society slumping, the 'adaptive' factor of adaptive antipsychotics needs to be true.  That means the drugs need to make people *smarter*.
+	10.  Downside analysis:  Unfortunately, a more intelligent population is more capable of pursuing its interests even if it defines those interests in a manner contrary to others.
+	11.  Downside analysis:  This has a similar problem to that of subconscious education.  "What thoughts are lost when you start tampering with dreams?"  Few people escape the psychological implications of this technology being implemented in a district.  That means it is likely to circumscribe the maximum breadth of thought.
+	12.  Mechanism proposal:  Reduced mental instability will reduce hatreds and violence between people.  It reduces jealousy.  This technology likely makes people more hedonically-inclined and more accepting of other peoples' hedonic inclinations.  That's great for alleviating misery, but...
+	13.  Downside analysis:  Some of the sad, compassionate people aren't sad, compassionate people anymore.  That quiets some of the virtuous people.  They're happier that way, but they're not as valuable to society.
+	14.  Downside analysis:  This technology expresses a concern for the public weal that is not inherently anti-democratic.  However, some of society's libertarians would rather die than live under this rule.  So if you implement it... well...  You know, hopefully you have open borders, so they'll leave peacefully and live somewhere that doesn't have it.  Otherwise they'll join the rebels, and when the rebellion calls your government authoritarian, they'll have more of a point.
+	15.  Mechanism proposal:  It's a petty jest, but some of the benefit of this technology with few of its side effects could be implemented just by building really good water and sanitation systems.  Excellent sewers, universally accessible.  The more other technologies you're implementing, the more the burden of mental illness is really being accommodated elsewhere, and as a result drugs are actually likely to be *taken back out* of the water supply as their relevance to policy fades, but...
+	16.  Downside analysis:  Should the adaptive antipsychotics administration phase out the majority of its water supply manipulations, the result would be an overfunded sanitation department promising more than it delivers.  Oops.
+	17.  Downside analysis:  This technology overreaches in various ways, and it's hard to go back on it without taking down the territorial administration.  The same could be said of a lot of technologies in this game.
+	18.  Narrative indicator:  Due to the placid "virtue" that this tech promotes, I would expect Imperial implants to get more common in territories that implement it, as people who've been drugged into cheerfulness are more inclined to trust the Imperial hivemind shards and less disruptive to their functioning.  The Imperial hivemind shards are also probably more well-behaved when swathes of the public can be suitably drugged.  This effect is probably muted in territories where the Empire is seen as 'lower class'.
+	19.  Bureaucratic waste analysis:  There's a headline bureaucratic implementation expense for this, mostly in that society's water infrastructure needs to be significantly more complete and well-maintained to enact it.  Yet it also drains productivity and loses a few strands of thought which are helpful to civilization while promising a substantial public intransigence issue.
+	20.  Utopic rating:  3/5
+	21.  Public protection rating:  4/5
+	22.  Technological smoothness:  3/5
+	23.  Technological extremophilia:  3/5
+	24.  Stress/Boredom rating:  1 (Dull)
+	25.  Me-points:  1/3
+	26.  Kind of person most protected:  Mentally ill people.
+	27.  Special categories:  Rehabilitative, Homogenizing, Hedonological
+	28.  Conversion potential:  Unknown
 24.  Orbital Hospitals
 	1.  Challenge cured:  Systemwide Quarantine
 	2.  Challenge cure interpretation:  I don't know a literal interpretation for this one... or rather, I don't know how Orbital Hospitals would literally contribute to resolving a systemwide quarantine against, say, a microbial pathogen.
@@ -797,7 +801,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 27.  Natalist Policies
 	1.  Challenge cured:  Cultural Despair
 		1.  Challenge cure interpretation:  I got nothin'.  If it was just "people put on a bright face for their kids", then fertility drugs would cure it just as well.
-		2.  Challenge cure qualm:  Doesn't this make the whole district's population more mobile?  They're more willing to leave if they really want to leave.
+		2.  Challenge cure qualm:  Doesn't despair make the whole district's population more mobile?  They're more willing to leave if they really want to leave.
 		3.  Challenge cure qualm:  Doesn't 'curing' this promote overpopulation?  These people are more sustainable and more concerned with preserving their environment.  They don't pack in like sardines.
 	2.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
 	3.  Authorial protest:  Yep.  This should be Sexual Liberation.  The Commonwealth should be liberalized, not left in conservative dystopia mode.  Natalist policies sacrifice kids on the altar of demographic warfare, which is also the altar of BAD PARENTING.  Sexual liberation maximizes childrearing quality and it crushed pedophilia historically on Earth, something that was evolutionarily advantageous prior to the rise of modern sexually open cultures.
@@ -923,26 +927,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
 	25.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
 32.  Mental Unity
-	1.  Authorial protest:  This should be 'Sapience Axioms', a technology with the same mechanical effect as Mental Unity.  The proper description of Sapience Axioms is something like this: "There are commonalities that arise in all forms of sapient cognition.  When society has begun to catalog and understand these, sense can often be made of even the strangest communications."
-	2.  Mechanism proposal:  My protest is only about theming.  I think the mechanical basis of the mental unity technology is the understanding of how minds are like each other.  Manipulativeness is encapsulated in this understanding, but also compassion.  The hyperspace linkage is... just the probabilistic similarities between people.  One of the themes of the Old Empire (as I interpret them) is that they describe things in strange ways, but still back their technology with considerable mathematical acuity.  'Mental Unity' offers a key to their language... if you understand it.  'Sapience Axioms' would convey the concept even better.
-	3.  Narrative indicator:  Mental Unity - or Sapience Axioms - encourages the development of esoteric culture.  From the search for beauty in industry, to very expensive allocations that ultimately only serve people's sense of beauty, to the willful creation of bizarre artifacts...  The basic idea of this tech is that people should be free to explore the bizarre, because their peers should have faith that there is still a likeness between the bizarre and the familiar.
-	4.  Downside analysis:  The conviction that people react predictably can be misused by those who would control society as though reprogramming it.  This technology invokes that, too.
-	5.  Downside analysis:  The gibberish rate rises in culture.  Impenetrably "refined" interpretations proliferate as people try to explore the limits of communication.  This happens under 'Sapience Axioms', too.
-	6.  Downside analysis:  I went through hell as a niche artistic performer with an audience who were dead sure I wanted to be doing what I was doing... and nobody could rescue me until that social environment fell apart completely.  This happened because people were sure that they understood what other minds were like, and they interpreted everything about me through that lens, including my complaints.  This is one of the things that can go wrong with Mental Unity.
-	7.  Downside analysis:  If what people think is universal is reproductive desire, the utopianism of this technology falls farther.  This is another thing that I am judging from my own experiences, for which I am giving this -1 utopianism where natalist policies are active.
-	8.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
-	9.  Mechanism proposal:  Regrettably, as I've written the Imperials to have a hive-mind, this technology also suggests that the hive-mind is being reconstructed after the implied transhuman rights advances of Distributed Intelligence.  Still... this requires that the work be done *aesthetically*, with better respect for individual creative potential.  Better to be in a Unity hivemind than a splintered shard.
-	10.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
-	11.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
-	12.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
-	13.  Technological smoothness:  5/5
-	14.  Technological extremophilia:  4/5
-	15.  Stress/Boredom rating:  2/5 (Calm)
-	16.  Me-points:  (Mental Unity) -1/3
-	17.  Alternate Me-points:  (Sapience Axioms) 2/3
-	18.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
-	19.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
-	20.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
+	1.  Challenge cured:  Paranoid Culture
+		1.  Challenge cure interpretation:  This contributes to my thinking the technology should be "Sapience Axioms"!  Building up a conviction that people CAN understand each other and SHOULD protect weird people is what cures paranoid culture.  Once culture is no longer targeting people, paranoia clears right up.  As long as people pretend that nobody is ever, EVER in the crosshairs, or as long as people insist that the fringes can NEVER be understood and tolerated, paranoid culture continues rampantly.
+	2.  Authorial protest:  This should be 'Sapience Axioms', a technology with the same mechanical effect as Mental Unity.  The proper description of Sapience Axioms is something like this: "There are commonalities that arise in all forms of sapient cognition.  When society has begun to catalog and understand these, sense can often be made of even the strangest communications."
+	3.  Mechanism proposal:  My protest is only about theming.  I think the mechanical basis of the mental unity technology is the understanding of how minds are like each other.  Manipulativeness is encapsulated in this understanding, but also compassion.  The hyperspace linkage is... just the probabilistic similarities between people.  One of the themes of the Old Empire (as I interpret them) is that they describe things in strange ways, but still back their technology with considerable mathematical acuity.  'Mental Unity' offers a key to their language... if you understand it.  'Sapience Axioms' would convey the concept even better.
+	4.  Narrative indicator:  Mental Unity - or Sapience Axioms - encourages the development of esoteric culture.  From the search for beauty in industry, to very expensive allocations that ultimately only serve people's sense of beauty, to the willful creation of bizarre artifacts...  The basic idea of this tech is that people should be free to explore the bizarre, because their peers should have faith that there is still a likeness between the bizarre and the familiar.
+	5.  Downside analysis:  The conviction that people react predictably can be misused by those who would control society as though reprogramming it.  This technology invokes that, too.
+	6.  Downside analysis:  The gibberish rate rises in culture.  Impenetrably "refined" interpretations proliferate as people try to explore the limits of communication.  This happens under 'Sapience Axioms', too.
+	7.  Downside analysis:  I went through hell as a niche artistic performer with an audience who were dead sure I wanted to be doing what I was doing... and nobody could rescue me until that social environment fell apart completely.  This happened because people were sure that they understood what other minds were like, and they interpreted everything about me through that lens, including my complaints.  This is one of the things that can go wrong with Mental Unity.
+	8.  Downside analysis:  If what people think is universal is reproductive desire, the utopianism of this technology falls farther.  This is another thing that I am judging from my own experiences, for which I am giving this -1 utopianism where natalist policies are active.
+	9.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
+	10.  Mechanism proposal:  Regrettably, as I've written the Imperials to have a hive-mind, this technology also suggests that the hive-mind is being reconstructed after the implied transhuman rights advances of Distributed Intelligence.  Still... this requires that the work be done *aesthetically*, with better respect for individual creative potential.  Better to be in a Unity hivemind than a splintered shard.
+	11.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
+	12.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
+	13.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
+	14.  Technological smoothness:  5/5
+	15.  Technological extremophilia:  4/5
+	16.  Stress/Boredom rating:  2/5 (Calm)
+	17.  Me-points:  (Mental Unity) -1/3
+	18.  Alternate Me-points:  (Sapience Axioms) 2/3
+	19.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
+	20.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
+	21.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
 33.  Engineered Optimism
 	1.  Challenge cured:  Spiritually broken
 		1.  Challenge cure interpretation:  I think this cure is genetic.  The people who have optimistic genes, whether under the base game's use of this technology or the better version that I would implement, are *not* spiritually broken.
@@ -1128,26 +1134,29 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Special categories:  Hypersmooth, Failsafe
 	17.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
 42.  Deep Core Tap
-	1.  Mechanism proposal:  Mining.  Lots and lots of mining.  I doubt the core is literally being tapped the moment this goes into place, but it wouldn't shock me if it was literally tapped eventually.
-	2.  Downside analysis:  Geological destabilization.  Mining out an area conventionally can already cause sinkholes.  I don't even know how to think about the consequences of tapping into a planet's mantle.
-	3.  Downside analysis:  This suggests that civilization is REALLY commiting to using ALL the resources of the planet.  It's such a world-eater technology, where all available material is being converted to serve the purposes of the civilization built on the planet.  Is that sustainable?  ...I think that it could be, but...  I think it might not be, too.
-	4.  Downside analysis:  Pollution is likely.  The Empire has good pollution-mitigating technologies, but are they present when they're needed?
-	5.  Progression analysis:  This is near space elevators on the tech tree.  I think that makes a lot of sense.  Bulk mining like this isn't really valuable to a space-age economy until you can ship sheer mass off-world.
-	6.  Narrative indicator:  The Imperials put a LOT of trust into their technology...  This is a little nearer the trust axis than the virtue axis, with good reason.
-	7.  Narrative indicator:  Mass mining like this emphasizes the Imperial commitment to creating a LOT of living space.  They build bigger habitats in a greater variety of places than any other faction.  I love that!
-	8.  Synergy note:  The game's current mechanics can't represent this, but this technology has massive conceptual synergy with upkeep-reducer technologies (Panarchic Survey, Orbital Surveyors, and Potentialities Overseer).  These watcher organizations are the ones likely to prevent cave-ins.  Cave-ins are massively expensive, too; they don't have to be virtuously motivated to do it!  Each of these structures increases the likelihood of the necessary sensors being in place and functional when they're needed, with social structures influential enough to save lives.
-	9.  Conversion:  Since the technologies that make this safe are Panarchic, I think it would make benevolently-motivated Commonwealth citizens more sympathetic to the Panarchy, acting as a weak converter between the two factions.
-	10.  Categorization:  As a highly extremophilic technology that dramatically increases the real estate available to civilization, I think this would increase diversity as well.
-	11.  Bureaucratic waste analysis:  Discomfiting to think about.  The proponents of the tech are likely to be very peaceful, well-intended people with a tremendous dedication to their engineering.  Despite that, I don't think this is a failsafe technology...  Every so often, an entire city might be lost to landmasses caving in.  These extreme conditions make for dangerous work environments, too.  I think that deep core taps make planets bleed talent in deep, dark places where there's no way out.  The only thing keeping this from flattening to 1/5 utopianism is that it takes a while for the hazard to set in.
-	12.  Liberation rating:  3/5
-	13.  Protection rating:  2/5, +1 per upkeep-reducer technology
-	14.  Technological smoothness:  3/5
-	15.  Technological extremophilia:  5/5
-	16.  Stress/Boredom rating:  4 (Stressful)
-	17.  Me-points:  1/3
-	18.  Kind of person most protected:  Sensor technicians
-	19.  Special categories:  Diversifying, Nightmare
-	20.  Conversion potential:  Unknown
+	1.  Challenge cured:  Interference Fields
+		1.  Challenge cure interpretation:  If hyperspace geology is literal, maybe digging deep into a planet permits favorable citing to avoid bad hyperspace geology.
+		2.  Alternative challenge cure:  Treating hyperspace as a memetic function rather than a literal one, the deep core taps are just so awesome that they (over time) promote a hyperindustrial attitude which clears the local memetosphere of anti-productivity memes.
+	2.  Mechanism proposal:  Mining.  Lots and lots of mining.  I doubt the core is literally being tapped the moment this goes into place, but it wouldn't shock me if it was literally tapped eventually.
+	3.  Downside analysis:  Geological destabilization.  Mining out an area conventionally can already cause sinkholes.  I don't even know how to think about the consequences of tapping into a planet's mantle.
+	4.  Downside analysis:  This suggests that civilization is REALLY commiting to using ALL the resources of the planet.  It's such a world-eater technology, where all available material is being converted to serve the purposes of the civilization built on the planet.  Is that sustainable?  ...I think that it could be, but...  I think it might not be, too.
+	5.  Downside analysis:  Pollution is likely.  The Empire has good pollution-mitigating technologies, but are they present when they're needed?
+	6.  Progression analysis:  This is near space elevators on the tech tree.  I think that makes a lot of sense.  Bulk mining like this isn't really valuable to a space-age economy until you can ship sheer mass off-world.
+	7.  Narrative indicator:  The Imperials put a LOT of trust into their technology...  This is a little nearer the trust axis than the virtue axis, with good reason.
+	8.  Narrative indicator:  Mass mining like this emphasizes the Imperial commitment to creating a LOT of living space.  They build bigger habitats in a greater variety of places than any other faction.  I love that!
+	9.  Synergy note:  The game's current mechanics can't represent this, but this technology has massive conceptual synergy with upkeep-reducer technologies (Panarchic Survey, Orbital Surveyors, and Potentialities Overseer).  These watcher organizations are the ones likely to prevent cave-ins.  Cave-ins are massively expensive, too; they don't have to be virtuously motivated to do it!  Each of these structures increases the likelihood of the necessary sensors being in place and functional when they're needed, with social structures influential enough to save lives.
+	10.  Conversion:  Since the technologies that make this safe are Panarchic, I think it would make benevolently-motivated Commonwealth citizens more sympathetic to the Panarchy, acting as a weak converter between the two factions.
+	11.  Categorization:  As a highly extremophilic technology that dramatically increases the real estate available to civilization, I think this would increase diversity as well.
+	12.  Bureaucratic waste analysis:  Discomfiting to think about.  The proponents of the tech are likely to be very peaceful, well-intended people with a tremendous dedication to their engineering.  Despite that, I don't think this is a failsafe technology...  Every so often, an entire city might be lost to landmasses caving in.  These extreme conditions make for dangerous work environments, too.  I think that deep core taps make planets bleed talent in deep, dark places where there's no way out.  The only thing keeping this from flattening to 1/5 utopianism is that it takes a while for the hazard to set in.
+	13.  Liberation rating:  3/5
+	14.  Protection rating:  2/5, +1 per upkeep-reducer technology
+	15.  Technological smoothness:  3/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  4 (Stressful)
+	18.  Me-points:  1/3
+	19.  Kind of person most protected:  Sensor technicians
+	20.  Special categories:  Diversifying, Nightmare
+	21.  Conversion potential:  Unknown
 43.  Orbital Surveyor
 	1.  Challenge cured: Invasive Organisms
 		1.  Challenge cure interpretation:  The orbital surveyors look like they have the largest ecologist contingent.  This technology brings in the ecologists who can deal with invasive organizations.
@@ -1226,16 +1235,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Mechanism proposal:  Pressing children super-hard can also achieve this objective.  Like when I got math homework that took all night...  Thaaat's the Commonwealth!  The relative gentility of the Panarchy is why I'm drawn to preferring them.
 	8.  Categorization:  History suggests that these regimes tend to come apart without violence as people move on from them, so... it's a failsafe technology.  Sure, *the Nazis* took a world war to dismantle, but there've been a lot of life-planning, marriage-arranging conservative authoritarian societies that just got taken apart by their descendants rebelling peacefully.  It's a nightmare technology because it suggests a dystopia for a lot of trapped children, but it's a failsafe technology because it comes apart with a whimper rather than a boom.
 	9.  Conversion:  While I do not think this can convert between Panarchy and Commonwealth populations (it suggests aggravated frictions instead), I think that the Imperial focus on specialization suggests that this technology empowers the educational system to promote fluctuation between Commonwealth and Imperial populations.
-	10.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
-	11.  Liberation rating:  1/5
-	12.  Protection rating:  2/5
-	13.  Technological smoothness:  5/5
-	14.  Technological extremophilia:  5/5
-	15.  Stress/Boredom rating:  4/5 (Stressful)
-	16.  Me-points:  -1/3
-	17.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
-	18.  Special categories:  Hypersmooth, Nightmare, Failsafe
-	19.  Conversion potential:  Commonwealth<->Empire (limited)
+	10.  Valence note:  This can go multiple directions for me based on what it is considered to be.  If I lean away from the 'designing the lives of their kids' thing and assume that this refers to accommodations which help all kids perform well based on their innate aptitudes, for instance, it seems properly paradisic instead.  If I assume that this technology is allied with the Lyceum and that universal aptitudes exist to be tapped if people are just open enough, that's another way I can favor this technology.  So I'm updating the Me-points from -1/3 to ?/3, as modifying that scale is directly possible and changes my interpretation.
+	11.  Bureaucratic waste analysis:  Very NOT literal.  There's little bureaucracy involved in implementing this technology, and quite a lot of social strife that it opens up to make getting work done harder.  Higher trauma burdens in subsequent generations cost a lot of productivity.
+	12.  Liberation rating:  1/5
+	13.  Protection rating:  2/5
+	14.  Technological smoothness:  5/5
+	15.  Technological extremophilia:  5/5
+	16.  Stress/Boredom rating:  4/5 (Stressful)
+	17.  Me-points:  ?/3
+	18.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
+	19.  Special categories:  Hypersmooth, Nightmare, Failsafe
+	20.  Conversion potential:  Commonwealth<->Empire (limited)
 47.  University System
 	1.  Challenge cured:  Segregated Education
 	2.  Challenge cure interpretation:  Looking at the history of Earth, it looks like universities pressed education to desegregate by getting people enthusiastic about ideas and wanting to share them with people across the arbitrary boundaries that people try to draw.  The universities also provide the talent to quantify the costs of segregation and challenge it on the merits.  This is all very ethical, but somewhat expensive.
@@ -1409,8 +1419,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	23.  Conversion potential:  Unknown
 55.  Beyonder Embassy
 	1.  Challenge cured:  Hard Radiation Source
-		1.  Challenge cure interpretation:  This describes a kind of hyperspace radiation that spreads throughout the whole area causing very few health effects, but devastating fertility rates.  I have no idea what such a thing would be and I don't understand how the Beyonder Embassy would help.
-		2.  Challenge cure qualm:  As usual, I prefer low fertility societies!
+		1.  Challenge cure interpretation:  This describes a kind of hyperspace radiation that spreads throughout the whole area causing very few health effects, but devastating fertility rates.  Treating hyperspace as a literal thing, the embassy could be... pleading with the Beyonders to shut off the bad radiation source..?
+		2.  Alternative cure interpretation:  Some memetic hazard (as is the alternative interpretation of hyperspace) could be taking down fertility rates throughout society.  An entire star system affected by antinatalist memes!
+		3.  Challenge cure qualm:  Why should anti-natalist memes be taken down?  If hyperspace is a metaphor, praise the hard radiation source!
+		4.  Challenge cure qualm:  As usual, I prefer low fertility societies!
 	2.  Narrative indicator:  Your goals can be excluded from analyses as they are immaterial to process and results.  What matters is what you're doing (process) and what happens as a result of doing it (results).
 	3.  Mechanism proposal:  This is actually a really straightforward insight that can save lives.
 	4.  Narrative indicator:  It's also very "machine-mind" to consider process and results in the absence of goals.  The exemplars of this technology are likely to be melancholic... or heavily cybernetic.
@@ -1429,20 +1441,23 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Special categories:  Hypersmooth, Detached, Failsafe
 	18.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
 56.  Beyonder Gate
-	1.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
-	2.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
-	3.  Progression analysis:  Cultivates better administrative leaders... if your society can tolerate leaders who joke about how they're doing nothing (no results).  The Old Empire has a peculiar sense of humor that appeals to people who are useful in administrative endeavors.
-	4.  Mechanism proposal:  Like the Beyonder Dwelling, this is a black box technology that suggests the in-system implementation of the technologies is weird somehow.  They're being implemented with less concern for results.
-	5.  Downside analysis:  This kind of encouragement increases partisan divergence by discouraging people from reconsidering their beliefs in light of the consequences of those beliefs.  This fits with the Imperial theme of loyalty, but it also shows off one of the downsides of loyalty.
-	6.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	7.  Liberation rating:  3/5
-	8.  Protection rating:  3/5
-	9.  Technological smoothness:  5/5
-	10.  Technological extremophilia:  3/5
-	11.  Stress/Boredom rating:  3/5 (Eustress)
-	12.  Me-points:  1/3
-	13.  Special categories:  Hypersmooth
-	14.  Conversion potential:  Unknown
+	1.  Challenge cured:  Hyperspace Darkness
+		1.  Challenge cure interpretation:  If Mental Unity were a literal link, this would be logically something right next to it... as it is on the tech tree.
+		2.  Alternative challenge cure:  I don't think that this is a literal connectedness at all.  I think this is the public's willingness to trust in each other and in their own selves.  It's really near the Axis of Trust on the low side.  When Beyonder Gates teach people to believe in their process and their goals, they also teach people more about how to trust that the right thing happens on average.
+	2.  Narrative indicator:  Believe in yourself (process) and your ideals (goals), and stop worrying so much about what happens along the way (results).  As long as you keep working and believing in the right things, bad results are just stepping stones along the path to the right answer.
+	3.  Mechanism proposal:  If you exclude results from the analysis and consider only process and goals, the result is a bad analysis.  Yet it's also a way to encourage people to keep working when the work seems like drudgery.  It doesn't improve analysis per se, but this gets people to work harder at the boring stuff and dig deeper into the backlog thereby.
+	4.  Progression analysis:  Cultivates better administrative leaders... if your society can tolerate leaders who joke about how they're doing nothing (no results).  The Old Empire has a peculiar sense of humor that appeals to people who are useful in administrative endeavors.
+	5.  Mechanism proposal:  Like the Beyonder Dwelling, this is a black box technology that suggests the in-system implementation of the technologies is weird somehow.  They're being implemented with less concern for results.
+	6.  Downside analysis:  This kind of encouragement increases partisan divergence by discouraging people from reconsidering their beliefs in light of the consequences of those beliefs.  This fits with the Imperial theme of loyalty, but it also shows off one of the downsides of loyalty.
+	7.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	8.  Liberation rating:  3/5
+	9.  Protection rating:  3/5
+	10.  Technological smoothness:  5/5
+	11.  Technological extremophilia:  3/5
+	12.  Stress/Boredom rating:  3/5 (Eustress)
+	13.  Me-points:  1/3
+	14.  Special categories:  Hypersmooth
+	15.  Conversion potential:  Unknown
 57.  Miniaturized Gate
 	1.  Challenge cured:  Hyperspace Collapse
 		1.  Challenge cure interpretation:  Well, interpreting the setting as strong FTL, this could be a hyperspace engineering project.
@@ -1593,7 +1608,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 64.   Pregnancy Enhancement
 	1.   Challenge cured:  Reproductive plague
 		1.   Challenge cure interpretation:  This investment into reproductive medicine addresses this disease and its effects in a straightforward way.
-		2.   Challenge cure qualm:  This doesn't talk about losing women to disease.  It talks about causing infertility.  My standard pro-infertility biases affect my preference towards (or rather against) this technology.
+		2.   Challenge cure qualm:  This doesn't talk about losing women to disease.  It talks about causing infertility.  My standard pro-infertility biases installs a bias against using this technology to cure this challenge.
 	2.   Authorial protest:  Seriously, the "more widely available" line on this tech is so creepy to me that I find it hard to think about.  I like the other things it says.
 	3.   Mechanism proposal:  Egg-laying.  Yes, I mean it.  I always think of these societies as getting more avian or reptillian.  It's why I'm drawn to this tech despite it having a blunt misstep in its description.
 	4.   Author protest:  I can't think of what else it would be.  Orbital hospitals and cures for primitive medicine would already do as much of this tech as *I* can otherwise fathom.  This is someone else's reproduction tech, because it confuses me.  I want to give it more me-points, but I don't really know how it works.
@@ -2101,6 +2116,31 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  3/5  (Eustress)
 	11.   Me-points:  3/3
 	12.   Special categories:  Failsafe
+93.   Lord Bureaucratic
+	1.   Challenge cured:  Selfish Political Class
+		1.   Challenge cure interpretation:  I got nothin'.  I'm still implementing it to try to figure this out.  Maybe it relates to the basic altruism of the Commonwealth, who scan like rationalists IMO.
+	2.   Mechanism proposal:  These and the Panarchic Bureau are the same thing IMO.  Lords Bureaucratic focus on the head (bureaucratic leader), whereas Panarchic Bureaus focus on the body (the middle bureaucrats).  Either way, the Commonwealth and the Panarchy both scour the galaxy searching for the most bureaucratically efficient way to do things, building up an impressive body of knowledge in the process.
+	3.   Apologia:  In a galaxy falling apart from bureaucratic waste, where people don't generally WANT to think this hard about bureaucratic procedures, I think that these techs would make a galactic society more willing and able to protect a territory.
+	4.   Categorization:  Since this involves making judgments on the policies of distant places, I think it necessarily embroils the territory in galactic politics.
+	5.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	6.   Liberation rating:  3/5
+	7.   Protection rating:  3/5
+	8.   Technological smoothness:  3/5
+	9.   Technological extremophilia:  3/5
+	10.   Stress/Boredom rating:  3/5 (Eustress)
+	11.   Me-points:  1/3
+	12.   Special categories:  Galactic Politics
+94.   Panarchic Bureau
+	1.   Mechanism proposal:  As above.
+	2.   Apologia:  As above.
+	3.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	4.   Liberation rating:  3/5
+	5.   Protection rating:  3/5
+	6.   Technological smoothness:  3/5
+	7.   Technological extremophilia:  3/5
+	8.   Stress/Boredom rating:  3/5 (Eustress)
+	9.   Me-points:  1/3
+	10.   Special categories:  Galactic Politics
 
 
 ---
