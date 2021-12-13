@@ -2260,6 +2260,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-12-10; Here's a thought that IS ideological.  What if the tech trees are all inverted?  What if their starting points are actually ending points that lead to the invention of the cure for aging?  This works better for some of the trees than for others, but for instance the Old Imperial tech tree could be a bunch of different starting points that converge on hyperspacial mastery (Miniaturized Gates).  This wouldn't necessarily invert the flow of the game either, because a galactic society could be very impressed with the end-points and convinced that the climax technologies of the societies that reached for FTL travel are the appropriate starting points for redeveloping collapsed territories.
 
+2021-12-13;  If I can't get the millennial reign achievement, should I continue trying to write this at all?
+
 ---
 The Much-Reviled Lower Classes
 
