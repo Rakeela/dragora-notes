@@ -641,3 +641,24 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	19.  Taxes paid:  +49.5%
 	20.  Fleet capacity growth:  +99%
 	21.  Special note:  This became my first 100% unioneered territory (no misery) with fully stable structures (no unprotected structures), and it achieved that status while having 0% bureaucratic waste with 2495 Influence on the file.  That used a loadout of 200 Politicians and 2,295 Administrators.
+31.  Consensus Commonwealth Game 10
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Multiculturalism
+	4.  Economic policy:  Free Market
+	5.  Bureaucratic overhead:  +111.9%
+	6.  Upkeep costs:  -38.7%
+	7.  Crowding limits:  +16.25%
+	8.  Weapon firing rate:  +646%
+	9.  Maximum fleet capacity:  +75%
+	10.  Biological production:  +64%
+	11.  Science capacity:  +74%
+	12.  Shield recharge rate:  +65%
+	13.  Rebel income:  -41.9%
+	14.  Industrial production:  +79%
+	15.  Returns on investment:  +96%
+	16.  Ship speed:  +83%
+	17.  Influence gained:  +73%
+	18.  Cultural production:  +78%
+	19.  Taxes paid:  +42.5%
+	20.  Fleet capacity growth:  +83%
