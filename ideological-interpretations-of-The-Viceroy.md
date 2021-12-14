@@ -1449,15 +1449,16 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	4.  Progression analysis:  Cultivates better administrative leaders... if your society can tolerate leaders who joke about how they're doing nothing (no results).  The Old Empire has a peculiar sense of humor that appeals to people who are useful in administrative endeavors.
 	5.  Mechanism proposal:  Like the Beyonder Dwelling, this is a black box technology that suggests the in-system implementation of the technologies is weird somehow.  They're being implemented with less concern for results.
 	6.  Downside analysis:  This kind of encouragement increases partisan divergence by discouraging people from reconsidering their beliefs in light of the consequences of those beliefs.  This fits with the Imperial theme of loyalty, but it also shows off one of the downsides of loyalty.
-	7.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
-	8.  Liberation rating:  3/5
-	9.  Protection rating:  3/5
-	10.  Technological smoothness:  5/5
-	11.  Technological extremophilia:  3/5
-	12.  Stress/Boredom rating:  3/5 (Eustress)
-	13.  Me-points:  1/3
-	14.  Special categories:  Hypersmooth
-	15.  Conversion potential:  Unknown
+	7.  Mechanism proposal:  This could also be a galactic bureaucratic pact.  The territory receives administrative assistance for its own problems, but in exchange it signs on to provide administrative assistance to other territories.  This, on balance, results in increased bureaucratic productivity.  Since I think the overall 'tech' here is a bureaucracy joke, I think this is my new primary explanation.
+	8.  Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
+	9.  Liberation rating:  3/5
+	10.  Protection rating:  3/5
+	11.  Technological smoothness:  5/5
+	12.  Technological extremophilia:  3/5
+	13.  Stress/Boredom rating:  3/5 (Eustress)
+	14.  Me-points:  1/3
+	15.  Special categories:  Hypersmooth
+	16.  Conversion potential:  Unknown
 57.  Miniaturized Gate
 	1.  Challenge cured:  Hyperspace Collapse
 		1.  Challenge cure interpretation:  Well, interpreting the setting as strong FTL, this could be a hyperspace engineering project.
