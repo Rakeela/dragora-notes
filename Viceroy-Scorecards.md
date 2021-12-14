@@ -662,3 +662,24 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	18.  Cultural production:  +78%
 	19.  Taxes paid:  +42.5%
 	20.  Fleet capacity growth:  +83%
+32.  Imperial Reformers Game 3
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Civil Religion
+	3.  Cultural policy:  Interculturalism
+	4.  Economic policy:  Free market
+	5.  Bureaucratic overhead:  +43.2%
+	6.  Upkeep costs:  -23.76%
+	7.  Crowding limit:  +8.0%
+	8.  Weapon firing rate:  +35%
+	9.  Maximum fleet capacity:  +22%
+	10.  Biological production:  +32%
+	11.  Science capacity:  +32%
+	12.  Shield recharge rate:  +33%
+	13.  Rebel income:  -23.7%
+	14.  Industrial production:  +27%
+	15.  Returns on investment:  +28%
+	16.  Ship speed:  +33%
+	17.  Influence:  +20%
+	18.  Cultural production:  +23%
+	19.  Taxes paid:  +17.5%
+	20.  Fleet capacity growth:  +18%
