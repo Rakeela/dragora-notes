@@ -182,6 +182,25 @@ The Three Nations Semi-Allied
 	 - CYBERTAKERS -
 
 ---
+I'm still struggling to characterize the six subcultures.  This will clearly have to be a section of the book.  Let me try at a more basic level...
+
+The Imperial Reformers start with Panarchists, develop into Commonwealth, and conclude with Imperial.  They talk about governing on behalf of those who cannot govern themselves.  This suggests that they start with a rabble of lower-class Panarchists who are considered unwanted by the Panarchy.  What use is a Panarchist who isn't self-governing?  The galactic community may assign Imperial Reformer viceroys specifically when a bunch of Panarchists aren't self-leading.
+
+There's a progression with every subculture.  It seems like it would change the interpretation of *so many technologies*.  I've considered this before with Telepathic Dust, but let's take a more basic one: Common Suffrage.  It's a Wealth technology via Specialization.  So if Common Suffrage serves the Imperial Reformers (for instance), it causes Panarchists to become Commonwealth, but it also causes Commonwealth to become Imperial.  Specifically, it would be causing the most nearly upper class Commonwealth to become Imperial.  This suggests that the Imperial Reformer viceroys are good at winning elections against Panarchists.  Yet consider, if you have a Panarchy Informalist viceroy, you get Imperials becoming Commonwealth, and Commonwealth becoming Imperials.  This suggests that Panarchy Informalist viceroys are good at winning elections against Imperials.  (Actually, it's kind of strange that the Viceroy never *loses* elections; Suffrage can't ever make the Wealth flow change in a given territory.)  This is further tampered with by the ability to assign different specialists.  So for instance, to simulate an Imperial Reformer viceroy who is *bad* at winning elections against Panarchists, the lowest social class could be assigned to the Cultural Specialist slot.  Then, the Common Suffrage building would *not* be encouraging Panarchic governance to recede... at least not for a long time.
+
+The subcultural flow suggests so many different stories.
+
+This applies to the industrial options, too.  So I (for another example) think that Imperial Foundries are (at least initially) *plastics refineries*.  I don't mean that to demean them, as I think there's almost nothing wrong with that (except that the ecological side effects have to be treated carefully).  Plastics are amazing.  They could totally be a galactic-tier technology built up from recursive factory construction.  Building up plastics infrastructure is a legitimate means of increasing industrial output that produces lightweight, non-biodegradable products with innumerable applications.  So...  How is it that in some territories, making more plastics encourages the upper class to be Imperial (as an Imperial technology would be presumed to do), but in other territories, it encourages the upper class to be Panarchic or Commonwealth?  What does the Viceroy do differently?  This stuff seems beyond me to imagine.  Does it produce extremophilia that drives people towards the relatively wild outcomes that I imagine the upper classes to represent?
+
+---
+I tend to assign the lowest social class to Telepathic Dust, t'note.  This suggests that I see telepathic dust not as a way to accelerate social progress in a chosen direction, but rather as a way for the most unpopular people to be fairly heard in society.  Any cultural technology can suggest that function if the cultural specialists for staffing it are pulled from the far right (lowest social class) side of the population cards.
+
+If you stack a bunch of the cultural specialist buildings while pulling from the low end, it suggests a kind of beloved lingering at extreme development levels whereby the middle class subculture holds on steadfastly to cultural relevance.  My favorite faction is the Commonwealth Consensus...  If I leave the Panarchists in those positions, it makes sense that the Panarchists are in command of culture, as they long to be.  Everyone loves them, even as they're gradually more Commonwealth.
+
+---
+I still wish the Population Explosion side effect wasn't there with Wealth.  Societies where "wealth" yields massive population still remind me of the Bubba Joe Dystopia thought.
+
+---
 Anomalies
  - The Orbital Surveyors -
 Do any of the ideology groups give the orbital survey technology?
