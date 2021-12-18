@@ -746,3 +746,24 @@ Note that Bureaucratic Overhead in the Weight of Culture (which this measures) i
 	18.  Cultural production:  +13%
 	19.  Taxes paid:  +5.5%
 	20.  Fleet capacity growth:  +11%
+36.  Panarchy Ritualist Game 19
+	1.  Military policy:  Peacekeeping
+	2.  Religious policy:  Relativism
+	3.  Cultural policy:  Interculturalism
+	4.  Economic policy:  Free Market
+	5.  Bureaucratic overhead:  +31.7%
+	6.  Upkeep costs:  -21.59
+	7.  Crowding limit:  +5.75%
+	8.  Weapon firing rate:  +15%
+	9.  Maximum fleet capacity:  +17%
+	10.  Biological production:  +20%
+	11.  Science capacity:  +12%
+	12.  Shield recharge rate:  +27%
+	13.  Rebel income:  -18.0%
+	14.  Industrial production:  +18%
+	15.  Returns on investment:  +27%
+	16.  Ship speed:  +24%
+	17.  Influence:  +22%
+	18.  Cultural production:  +17%
+	19.  Taxes paid:  +11.5%
+	20.  Fleet capacity growth:  +22%
