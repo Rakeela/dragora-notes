@@ -1976,22 +1976,24 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.   Special categories:  
 	18.   Conversion potential:  Empire<->Panarchy
 83.   Computerized Markets
-	1.   Mechanism proposal:  This computerizes all the financial markets in the district.  That's what it claims to do, and that makes sense as something for a highly advanced society to... attempt.
-	2.   Downside analysis:  This thing is false!  It claims that the automated markets provide fewer opportunities for market manipulation.  That is ridiculous.  Computerized markets offer extremely rapid opportunities for market manipulation.  They don't level the playing field at all.
-	3.   Apologia:  This is more functional with regulated markets.
-	4.   Lore question:  Why would many worlds in the setting have partially manual markets?  Is the Panarchy sabotaging this basic financial technology by being inadequately good at protecting its popularity?
-	5.   Siphon analysis:  I'm marking down the siphon quality.  If most planets don't have these, they're not stable within independent territories.  Plus, false promises are a good way to siphon resources in terrible ways.
-	6.   Conversion analysis:  This converts between the Old Empire and the Panarchy, because it makes the same promises as the Eternal Banks of stability AND growth.  I assume it hires from and caters to the same basic audiences.
-	7.   Bureaucratic waste analysis:  I think the bureaucracy here is just the financial regulatory complex that sets the standards and requirements for the financial system.  This is reasonable, moderate, and... a foot in the door for the Panarchy Informalists to kick a bunch of bad ideas through the gate.
-	8.   Liberation rating:  ?/5
-	9.   Protection rating:  2/5, +2 with regulated economy
-	10.   Siphon quality:  2/5
-	11.   Technological smoothness:  4/5
-	12.   Technological extremophilia:  4/5
-	13.   Stress/boredom rating:  4/5 (Stressful)
-	14.   Me-points:  0/3
-	15.   Special categories:
-	16.   Conversion potential:  Empire<->Panarchy (Limited)
+	1.   Challenge Cured:  Hyperinflation
+		1.   Challenge cure interpretation:  Something about peoples' intuitions in how to control inflation is really bad.  Standard inflation-control algorithms would help a lot!
+	2.   Mechanism proposal:  This computerizes all the financial markets in the district.  That's what it claims to do, and that makes sense as something for a highly advanced society to... attempt.
+	3.   Downside analysis:  This thing is false!  It claims that the automated markets provide fewer opportunities for market manipulation.  That is ridiculous.  Computerized markets offer extremely rapid opportunities for market manipulation.  They don't level the playing field at all.
+	4.   Apologia:  This is more functional with regulated markets.
+	5.   Lore question:  Why would many worlds in the setting have partially manual markets?  Is the Panarchy sabotaging this basic financial technology by being inadequately good at protecting its popularity?
+	6.   Siphon analysis:  I'm marking down the siphon quality.  If most planets don't have these, they're not stable within independent territories.  Plus, false promises are a good way to siphon resources in terrible ways.
+	7.   Conversion analysis:  This converts between the Old Empire and the Panarchy, because it makes the same promises as the Eternal Banks of stability AND growth.  I assume it hires from and caters to the same basic audiences.
+	8.   Bureaucratic waste analysis:  I think the bureaucracy here is just the financial regulatory complex that sets the standards and requirements for the financial system.  This is reasonable, moderate, and... a foot in the door for the Panarchy Informalists to kick a bunch of bad ideas through the gate.
+	9.   Liberation rating:  ?/5
+	10.   Protection rating:  2/5, +2 with regulated economy
+	11.   Siphon quality:  2/5
+	12.   Technological smoothness:  4/5
+	13.   Technological extremophilia:  4/5
+	14.   Stress/boredom rating:  4/5 (Stressful)
+	15.   Me-points:  0/3
+	16.   Special categories:
+	17.   Conversion potential:  Empire<->Panarchy (Limited)
 84.   Constant hybridization:
 	1.   Challenge cured: Climactic Disruption
 		1.   Challenge cure interpretation:  I think... this actually works by producing resilient, fast-growing forests.  The icon for climactic disruption is a tornado in a desert.  If the biomes recover very rapidly, they'll produce a normal water cycle relatively rapidly, pushing back desertification.
