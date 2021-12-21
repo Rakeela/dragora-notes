@@ -44,6 +44,7 @@ Sections;
    12) [[Monster-Girl-Encyclopedia]]
    13) [[Battlefield-Earth]]
    14) [[Be-a-Perfect-Person-in-Just-Three-Days!]]
+   15) [[Sentenced-to-Prism]]
 
 3) Anthologies
 	1) [[The Furry Future]]
