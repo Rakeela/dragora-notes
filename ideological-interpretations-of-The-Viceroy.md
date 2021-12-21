@@ -270,26 +270,28 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Conversion potential:  Unknown
 3.  Panarchialization Policy
 	1.  Challenge cured:  Anti-Panarchism
-	2.  Challenge cure interpretation:  Panarchists are... VERY diverse.  Anti-Panarchism doesn't make sense if you meet enough of them.  Panarchialization policies involve bringing in ideas, people, and random-ass technologies from all over the galaxy to see how the whole galaxy might be able to solve local problems.
-	3.  Alternate challenge cure:  Within my reformed structure of the Panarchy, panarchialization policies survive as (questionable) social science investments, and the promotion of hedonology and voluntary order may be a key part of reducing anti-panarchic sentiment.  By creating a society that operates without authoritarianism, they show that panarchism is a way forward to a more advanced society.
-	4.  Authorial protest:  Panarchializing a star system while there are still anti-panarchists in it strikes me as VERY RUDE.  This technology in general seems like it carries a risk of making local politics more hostile...  As powerful as it is, it's also inefficient.  Moreover, it promotes bureaucratic conflict in government!
-	5.  Mechanism proposal:  Presenting panarchism as being up-front about the search for MEANING IN CONTRADICTION sounds kind of mean at first, but it also sounds better than the stuffy search for unity around some set of ideals that will only be defined by specialists in ivory towers.  Panarchialization supports the prosperity of society very broadly by acknowledging great sweeps of government projects that are all worth prosperity to *someone*.
+		1.  Challenge cure interpretation:  Panarchists are... VERY diverse.  Anti-Panarchism doesn't make sense if you meet enough of them.  Panarchialization policies involve bringing in ideas, people, and random-ass technologies from all over the galaxy to see how the whole galaxy might be able to solve local problems.
+		2.  Alternate challenge cure:  Within my reformed structure of the Panarchy, panarchialization policies survive as (questionable) social science investments, and the promotion of hedonology and voluntary order may be a key part of reducing anti-panarchic sentiment.  By creating a society that operates without authoritarianism, they show that panarchism is a way forward to a more advanced society.
+	2.  Authorial protest:  Panarchializing a star system while there are still anti-panarchists in it strikes me as VERY RUDE.  This technology in general seems like it carries a risk of making local politics more hostile...  As powerful as it is, it's also inefficient.  Moreover, it promotes bureaucratic conflict in government!
+	3.  Mechanism proposal:  Presenting panarchism as being up-front about the search for MEANING IN CONTRADICTION sounds kind of mean at first, but it also sounds better than the stuffy search for unity around some set of ideals that will only be defined by specialists in ivory towers.  Panarchialization supports the prosperity of society very broadly by acknowledging great sweeps of government projects that are all worth prosperity to *someone*.
+	4.  Mechanism proposal:  I think this tech really does support voluntary order!  It's about implementing the Panarchic Multigovernment where as much as possible EVERYTHING is made consensual!  Hyperconsensuality is how this magnifies cultural attainment!
+	5.  Categorization:  This is one of the foremost Hedonological technologies in the game, because the all-consensual society no longer has punishment tools as a way to get its way.  (Note to self: when condensing this down to a page in a book, focus on the consensual society interpretation.)
 	6.  Progression analysis:  The experimental factor in panarchialization should not be missed.  Panarchic social experimentation is about trying to aggregate and implement data about effective governing practices from across the galaxy.  That's why this technology leads into 'Panarchic Data Posts'.  Governments that are panarchializing are pulling on this data well and trying to add new experiments of their own to it.
 	7.  Mechanism synthesis:  I think this tech is actually really banal and it almost amounts to saying, "We're trying a lot of stuff, okay?  We're NOT sure how to rule."  There's some virtue in that!
 	8.  Progression analysis:  Base culture development tries to resolve frictions in society by making people more harmonious and impressive to each other.  It counters (or is countered by) blandness and civil unrest.  Panarchists want to be cool, and they want the government to be cool.  That's why this tech leads into panarchic retreats.  When the government is trying to do cool stuff, that draws in tourists.
 	9.  Downside analysis:  Although its base claim is that it increases cultural productivity, I've observed that this technology mysteriously lowers incomes when implemented.  However, it still increases Wealth, thus increasing population and science.  I interpret this as meaning that panarchialization increases frictional losses and inefficiencies in government due to an increase in wasted/duplicated/contradictory efforts, but it also accelerates the rate at which the government incorporates diverse individuals and trials new methods of organization.
 	10.  Progression analysis:  This would be 5/5 smooth as it suggests nothing about the initial technology base at which society starts implementing it (no need for disruptive imports of alien technology), but it loses two points by suggesting that the society is trying a bunch of contradictory experiments.  That is intrinsically rough.  This change to society can *start* at any tech level, but it can*not* be hypersmooth.
-	11.  Mechanism proposal:  Like with Absolute Freedom, this society must attain a minimum standard of policing to prevent people from retaliating against those who have different beliefs from their own.  It's necessary for Panarchialization that disagreements be kept peaceful... despite the stress of disagreements.
+	11.  Mechanism proposal:  Like with Absolute Freedom, this society must attain a minimum standard of policing to prevent people from retaliating against those who have different beliefs from their own.  It's necessary for Panarchialization that disagreements be kept peaceful... despite the stress of disagreements.  This peace is another form of cultural power.
 	12.  Bureaucratic waste analysis:  This technology implicitly pits different teams of bureaucrats against each other.  Due to the pacifism of bureaucrats, it's unlikely that anyone will die of that, and the resulting bureaucratic wastage is mostly literal.  This might be fun for most of the policy's lifespan, but the inevitability of wasted effort and the rise of unnecessary arbitrary polarization might also be fairly rated to have dystopic potential in extremis, as will the implicit division of society under unusual and shifting rulesets.
 	13.   Liberation rating:  4/5, +1 with Seat of Justice
-	14.  Protection rating:  4/5
-	16.  Technological smoothness:  3/5
-	17.  Technological extremophilia:  5/5
-	18.  Stress/Boredom rating:  4/5 (Stressful)
-	19.  Me-points: 0/3
-	20.  Kind of person most protected:  Sociologists
-	21.  Special categories:  Diversifying, Detached, Hedonological, Furry
-	22.  Conversion potential:  Unknown
+	14.  Protection rating:  4/5, +1 with Penal Retreats
+	15.  Technological smoothness:  4/5
+	16.  Technological extremophilia:  5/5
+	17.  Stress/Boredom rating:  3/5 (Eustress)
+	18.  Me-points: 1/3
+	19.  Kind of person most protected:  Sociologists
+	20.  Special categories:  Diversifying, Detached, Hedonological, Furry
+	21.  Conversion potential:  Unknown
 4.  Frictionless Highways
 	1.  Challenge cured: Poor Local Logistics
 		1.  Challenge cure interpretation:  The same people who know how to make frictionless highways know how to fix local logistics... maybe.  I'm not sure about this interpretation, but I wanted to record it.
