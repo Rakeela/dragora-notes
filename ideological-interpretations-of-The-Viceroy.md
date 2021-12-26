@@ -379,17 +379,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Categorization:  Panarchic Retreats are a Hedonological technology.  They research how to make life fun.  As hedonological technologies proliferate, they try to create a more fun society where doing the right thing and doing the fun thing become more synonymous over the long-term.
 	11.  Conversion notes:  These structures are omniconverters that reduce the implied transitional friction between the cultures.  Everyone likes a vacation, the skills required to staff a vacation resort are hardly exotic, ~~and all kinds of people can meet here without offending any particular ideology.~~ and these people trade notes on how to get people to really love working for governments of all the different kinds.
 	12.  Mechanism proposal:  In line with my updates on Panarchialization declaring it to be HYPERCONSENSUALITY, Panarchic Retreats are where Panarchists go to exchange notes on how they got people to pay voluntary taxes and what policies they got them to pay those taxes for.  This builds up the long-term competency of administrations in getting people to work for and pay for programs when they don't technically have to work for or pay for them.
-	13.  Bureaucratic waste analysis:  This tech brings together a lot of Panarchic organizations that are *very* keen to structure funds away from other competing governments and a lot of know-how in how to set up still more of them.  It accelerates the rate at which the Panarchy rips apart local governments and replaces them with Panarchic multigovernments.
-	14.  ~~Bureaucratic waste analysis:  The bureaucratic expense of running all these vacation areas is totally literal.  There's no reason to expect this to promote hatred of bureaucrats or the destruction of bureaucratic talent; on the contrary, it would promote developing marginal territories, and (long-term) contributes to surfacing/protecting bureaucratic talent.  Of course, more of the area's bureaucratic potential is then being spent on vacationing...
-	15.  Liberation rating:  5/5
-	16.  Protection rating:  5/5
-	17.  Technological smoothness:  5/5
-	18.  Technological extremophilia:  Territory average.
-	19.  Stress/Boredom rating: 2 (Calm)
-	20.  Me-points: 1/3
-	21.  Kind of person most protected:  Service workers who like their jobs
-	22.  Special categories:  Hypersmooth, Hedonological, Failsafe, Ecological, Furry
-	23.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
+	13.  Mechanism proposal:  These retreats DO still find "stable immortals" - they find people who pay taxes voluntarily forever!  Those are the best people to keep immortal, and so the retreats DO surface them just as I thought!
+	14.  Bureaucratic waste analysis:  This tech brings together a lot of Panarchic organizations that are *very* keen to structure funds away from other competing governments and a lot of know-how in how to set up still more of them.  It accelerates the rate at which the Panarchy rips apart local governments and replaces them with Panarchic multigovernments.
+	15.  ~~Bureaucratic waste analysis:  The bureaucratic expense of running all these vacation areas is totally literal.  There's no reason to expect this to promote hatred of bureaucrats or the destruction of bureaucratic talent; on the contrary, it would promote developing marginal territories, and (long-term) contributes to surfacing/protecting bureaucratic talent.  Of course, more of the area's bureaucratic potential is then being spent on vacationing...
+	16.  Liberation rating:  5/5
+	17.  Protection rating:  5/5
+	18.  Technological smoothness:  5/5
+	19.  Technological extremophilia:  Territory average.
+	20.  Stress/Boredom rating: 2 (Calm)
+	21.  Me-points: 1/3
+	22.  Kind of person most protected:  Service workers who like their jobs
+	23.  Special categories:  Hypersmooth, Hedonological, Failsafe, Ecological, Furry
+	24.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
 9.  Seat of Policy
 	1.  Challenge cured:  Eternal Philosophers
 	2.  Challenge cure interpretation:  This is pretty straightforward.  The Seats of Policy provide the talent to quantify and challenge the 'eternal philosopher' inclination on the merits.  It's very literal and I see nothing unethical about it.
