@@ -11,5 +11,7 @@ Meanwhile, I want to find a pizzeria that will sell me savory strawberry cheese 
 ---
 Here's another business idea that I thought of, and I'd not be sad if someone stole it from me: heated arch supports for shoes.  Imagine if people had inserts they could put in their shoes that would provide a gentle warmth while making their step more comfortable!  It'd sell.
 
+Seriously, I used some handwarmers to put some warmth under my feet, and doing that was very comfortable.
+
 ---
 Back to [[day-post-archive]]
