@@ -220,7 +220,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
     5.  Mechanism proposal:  In the category of what a stupidity-preserving social policy might BE, consider fact-checking services.  Quelling misinformation is challenging, occasionally hazardous, and in danger of falling prey to fluctuations in society's honesty level, but when done successfully it makes society more honest and more capable of working together on real world intellectual challenges.  This may be emblematic of the trust axis, both attempting to build trust in society, but also being prone to collapsing when trust fails.
     6.  Mechanism proposal:  Building on the interpretation of the Imperials as cybernetically-enhanced specialists, the Distributed Intelligence system could also be 'holding open' the cybernetics systems against attempts to more exactly control the thoughts of the people who have the implants.  Defending the civil rights of people whose implants make them theoretically *very* controllable would give them the creativity needed to contribute to the breadth and diversity of society's development.
     7.  Mechanism proposal:  The 'hyperspace link' could also refer to an inclination to try to establish rational trust with outsiders, which seems to be part of the theme of the Old Empire.  In-setting, this could include FTL knowledge-sharing link-ups implemented across the Empire, which is notably a concept already represented in canon: the Empire built the Library Relays.  Implementing Distributed Intelligence could equip a planet so that the general public can access the Imperial Library Relay network the way it was originally designed to be used.
-    9.  Mechanism synthesis:  I believe the correct understanding is, "All simultaneous understandings are valid to the extent that they can be held in a noncontradictory fashion."  All of this sounds like stuff the Old Empire might try - possibly with different focii at different levels of economic development and with different other technologies being implemented in the same area.
+    8.  Mechanism synthesis:  I believe the correct understanding is, "All simultaneous understandings are valid to the extent that they can be held in a noncontradictory fashion."  All of this sounds like stuff the Old Empire might try - possibly with different focii at different levels of economic development and with different other technologies being implemented in the same area.
     9.  Mechanism synthesis:  Distributed thought rescues the foundering.  What does it mean if your society is protecting the ability to contribute of people who definitely do have minds, but who are deep down in that 'general intellects' pool?  Stupidity preservation, intelligence augmentation, successfully establishing trust with unusual minds, and transhumanist civil rights...  These are rehabilitative technologies.  Distributed intelligence inclines society to value neurodiversity.
     10.  Downside analysis:  How do you determine who 'needs' to be intelligent?  At the extreme tech levels where this technology begins to most directly transfer intellectual capacity, it could also seriously entrench inequalities.  This makes it more readily dystopic in feudal economies where the distributed thought system is likely to be most biased.  It still *protects* the peasants (they still contribute brainpower), but a feudal society with distributed thought systems might farm people for cognition...
     11.  Downside analysis:  Again, how do you determine who 'needs' to be intelligent?  If the more advanced versions of this system (cognitive load balancers) were installed on known dissident thinkers, it could be used to render them helpless by deciding that they never *need* to be intelligent.  The result would be that dissension against the government results in people getting mysteriously struck by stupidity and mental illness.  The only silver lining on *this* storm-cloud is that dissidents getting farmed for cognition are providing a service worth keeping them alive for, meaning that their health matters to governments which might otherwise prefer them dead...  Still, this is a potential source of 'bureaucratic waste' in the system.
@@ -248,6 +248,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 		1.  Challenge cure interpretation:  A whiff of telepathic dust allows for gists to be conveyed, accelerating communications and causing a linguistic simplification trend to set in over time as people understand each other better.
 		2.  Challenge cure qualm:  Hey!  I like complex wordings and grandiose symbolism.  Fixing this stuff is disappointing to me.
 		3.  Challenge cure qualm:  What if people forget what the complex wordings were about?  Words are rarely complexicated for no particular reason.
+		4.  Challenge preference:  Leave it in, please.  I'd rather this were worked around rather than cured.
 	2.  Mechanism proposal:  As described, telepathic dust involves setting up the infrastructure to manufacture and distribute temporary clouds of empathy-dust across the public.  It sets up ad-hoc transmissions between people in the area of effect so that they can feel each others' emotions and get a transient sense of one anothers' thoughts.  It's a kind of super-tech toy for enhancing other kinds of play and encouraging people to trust each other.
 	3.  Downside analysis:  This technology is so literally described, that the wonder isn't so much how it works, but how it breaks.  As telepathic dust proliferates in society, more of its social spaces would be afflicted by a haze of nanites in which empathy deficits temporarily evaporate.  Are people who are only empathetic due to telepathic dust actually empathetic at all?  Well...  no, they aren't.  The sense of trustworthiness created by the dust is only locally rational.
 	4.  Apologia:  Ideologically, I think the Panarchy Informalists need telepathic dust in order to create empathetic AI.  You can implement a self-aware economy without telepathic dust, but then the AI really won't know what people want, making it much more likely to be a paperclipper.  AIs in this setting can be empathetic due to telepathic dust, but because the Panarchy Informalists bind the first three technologies in their tree into an unbreakable trio, the Panarchy Informalist's AIs can **ALL** be empathetic.
@@ -295,7 +296,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.  Kind of person most protected:  ~~Sociologists~~ People who pay taxes when they don't even have to.
 	23.  Special categories:  Diversifying, ~~Detached~~, Hedonological, ~~Furry
 	24.  Conversion potential:  Unknown
-5.  Frictionless Highways
+4.  Frictionless Highways
 	1.  Challenge cured: Poor Local Logistics
 		1.  Challenge cure interpretation:  The same people who know how to make frictionless highways know how to fix local logistics... maybe.  I'm not sure about this interpretation, but I wanted to record it.
 		2.  Challenge note:  This is part of the "Industrial Collapse" crisis set, which includes "hollowed system" and "resource depletion".  Logistics can be crushed into shapes that look bizarre afterwards when the logistical network was originally set up for different patterns of available raw materials.  When resources have been badly depleted, people are often left living and working in places that are stuck with the lifestyle "backwater noveau".
@@ -318,7 +319,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Kind of person most protected:  Automotive fans and racers.
 	17.  Special categories:  Hypersmooth, Rehabilitative, Furry
 	18.  Conversion potential:  Unknown
-6.  Stasis Controller
+5.  Stasis Controller
 	1.  Challenge cured:  Biological embargo
 		1.  Challenge cure interpretation:  Biological embargoes prevent a system from importing "technologies, machinery, capital, and experts from other systems in the Commonwealth that would otherwise aid it in producing biological goods."  As I interpret stasis controllers, it's a technology fundamentally about approaching biological materials production with appropriate patience.  If biological embargoes are levied against systems that are not believed to have the foresight to utilize biotechnologies appropriately, then the stasis controller technology represents the proof of patient and thoughtful intentions.  This dovetails with my interpretation of Beyonder Engines as incorporating long-term ecological planning, too; the technologies are right next to each other on the tech tree.
 	2.  Mechanism proposal:  This technology is a straightforward joke about a real yet productive method: it's about the controlled use of entropy to achieve productive aims.  That's it!  It's just about using slow processes to achieve better results in many fields, most notably agriculture, chemistry, and ecology.  Some of these people are true heart craftsmen, but people trying to "productively" skive off work have also likely sunk a lot of effort into researching this kind of thing!
@@ -336,7 +337,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Kind of person most protected:  Cheesemakers.
 	15.  Special categories:  Hypersmooth, Luddistic, Failsafe, Ecological
 	16.  Conversion potential:  Unknown
-7.  Branching Facility
+6.  Branching Facility
 	1.  Challenge cured:  Blood Cult
 		1.  Challenge cure interpretation:  In the Separatist interpretation (true literal branching of adults), this technology opposes blood cults by requiring all sacrificees to be 'branched' before sacrificing them.  Thus, people both get sacrificed and observe themselves getting sacrificed.  This erodes the societal control potential of blood cults; their formal promotion of suicide can no longer permanently alter the destiny of society, but is reduced to a novelty for a particular kind of weirdo.
 		2.  Alternative cure interpretation:   In the Unionist interpretation (rape tolerant restriction of abortion), this technology opposes blood cults in the sense that it involves encouraging women to not abort children conceived of rape, but to accept what happened to them and commit to protecting the new lifeform.  This does at least promote parental investment, dubious as it is...
@@ -365,7 +366,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Kind of person most protected:  People who REALLY want to exist.
 	25.  Special categories:  Homogenizing, Nightmare, Asexual (Same for both interpretations)
 	26.  Conversion potential:  Unknown
-8.  Panarchic Retreat
+7.  Panarchic Retreat
 	1.  Challenge cured:  Market Isolation
 		1.  Challenge cure interpretation:  The Panarchy brings with it more organizations than any isolated locale can imagine.  In most panarchialized regions, people belong to MANY governments, and many of those are economic entities.  The tech for Panarchic Retreats hauls in a whole bunch of major corporation-equivalents to remake isolated economies.
 	2.  ~~Mechanism proposal:  The Commonwealth (as I imagine it) has some rule governing when people can be rated as stable immortals deserving of unlimited free movement privileges and territory-independent access to rejuvenation technologies.  The panarchic retreats are a scheme set up by the Panarchy to help a whole bunch of people get access to those privileges even though they would ordinarily be "beneath the notice" of the Commonwealth.
@@ -391,7 +392,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.  Kind of person most protected:  Service workers who like their jobs
 	23.  Special categories:  Hypersmooth, Hedonological, Failsafe, Ecological, Furry
 	24.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
-9.  Seat of Policy
+8.  Seat of Policy
 	1.  Challenge cured:  Eternal Philosophers
 	2.  Challenge cure interpretation:  This is pretty straightforward.  The Seats of Policy provide the talent to quantify and challenge the 'eternal philosopher' inclination on the merits.  It's very literal and I see nothing unethical about it.
 	3.  Challenge cure protest:  That said, while it's not unethical to cure eternal philosophers, I think it's very sad!  People who love immortality that much are a cultural treasure and I want to keep them safe.
@@ -410,7 +411,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Kind of person most protected:  Bureaucrats
 	17.   Special categories:  Failsafe, Hedonological, Detached, Galactic Politics, Ecological
 	18.   Conversion potential:  Commonwealth<->Panarchy
-10.  Subconscious Education
+9.  Subconscious Education
 	1.  Authorial Protest:  This tech slot should REALLY be occupied by "Dream Reeves", a service that protects peoples' slumber.  People who sleep perfectly at night are more culturally competent AND stronger-willed AND happier, which should be its mechanical effect.  The +Happiness buff here would be more valuable to the Panarchy than the additional research.
 	2.  Mechanism proposal:  The literally described technology turns dreams into an edutainment system, using interfaces between the panarchic nanotechnologies and the setting's cybernetics.  Data-organization is what dreams are for, right?  This makes them BETTER at it.
 	3.  Downside analysis:  This sounds dreary and de-individuating... why would the panarchy do this..?  How could it possibly contribute to their development as competent cultural individuals?
@@ -438,7 +439,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	25.  Special categories:  Empathy Maximizer, Mind Control, Nightmare
 	26.  Alternate (Dream Reeves) categories:  Empathy Maximizer, Mind Control, Homogenizing
 	27.  Conversion potential: Empire<->Panarchy (Limited)
-11.  Planned Urbanization
+10.  Planned Urbanization
 	1.  Mechanism proposal:  Implementing this fixes your government's public sector logistics across the entire district.  The trains run on time, the trash gets collected, and the tapwater runs clear.  This doesn't make your government virtuous, but it's a nice investment in basic quality of life.  This encourages urbanization by making cities nicer places to live.
 	2.  Mechanism proposal:  The general ubiquitous investments that galactic society makes in extirpating contagious diseases are under this tech's aegis, too.  This encourages urbanization by making cities less sickening places to live.  Also, less contagious disease means people can safely get closer to each other in lots of ways.
 	3.  Downside analysis:  More boring architecture, mostly.  Exotic building plans are likely to run into bureaucratic conflicts.  Unless you have the budget for palaces, eh?
@@ -455,7 +456,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Kind of person most protected:  Street musicians & pacifist logisticians.
 	15.  Special categories:  Hypersmooth, Detached, Ecological
 	16.  Conversion potential:  Empire<->Commonwealth (limited)
-12.  Panarchic Palaces
+11.  Panarchic Palaces
 	1.  Mechanism proposal:  The obvious function of a palace is to be an aspirational reward for high achievers.  Palaces are gigantic lairs of the overglorified.  This is a real function.
 	2.  Mechanism proposal:  A sometimes-forgotten function of a palace is to be an administrative center.  Government archives are built in (sometimes under) palaces.  High bureaucrats have postings here, and so do their essential staff.  In the galaxy's great struggle to figure out who can govern without lying and running off with the treasury, the palace provides a place to trial staff in conditions that are luxurious yet closely observed.  This also insulates key talent from outside hostility.
 	3.  Mechanism proposal:  An *often* forgotten function of a palace is to be a bastion of defended calm, even when situations go awry beyond the walls of the palace.  In the palace's role as a fortified site of governance, the residents of a palace can continue functioning safely and sanely when safety and sanity are in short supply.  This can protect the compassion of leaders who might be tempted towards hatred, too.
@@ -475,7 +476,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Kind of person most protected:  Peacocks.
 	18.  Special categories:  Detached, Anti-Popular, Galactic Politics
 	19.  Conversion potential:  Unknown
-13.  Panarchic Naval Ports
+12.  Panarchic Naval Ports
 	1.  Challenge cured:  Terrorism
 	2.  Method of curing challenge:  Importing military talent from around the galaxy and accustomizing them to local conditions on the ground (aka 'the human terrain', though IMO the game is best imagined with a mix of posthuman, transhuman, and nonhuman societies), this provides the means to directly contest terrorists.
 	3.  Alternative cure interpretation:  The Panarchic Naval Ports also provide for the most advanced simulated combat arenas in the galaxy.  If this draws people in so that they stop resisting the government, great.  If this draws people in and teaches the government where to find suspiciously combat-capable civilians, even better.
@@ -497,7 +498,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Adrenaline junkies & game theorists
 	20.  Special categories:  Detached, Nightmare, Galactic Politics
 	21.  Conversion potential: Commonwealth<->Panarchy (limited); Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
-14.  Panarchic Capitol
+13.  Panarchic Capitol
 	1.  Authorial protest:  Despite everything else I've written about it, this tech slot should really be occupied by Voluntary Order, a +Happiness technology.  The broad base of local arbitration and social analysis provided by the Panarchic Courts should create the basis for establishing a very voluntarist society according to the idiosyncracies of the local culture.  This would strengthen the public's cultural will while making them happier with the society that they live in.  Voluntary Order would have bidirectional conversion potential between the Panarchy and the Commonwealth, fixing the current tech tree's single unidirectional converter.
 	2.  Mechanism proposal:  This is the ultimate crossed-quills expression of the panarchic ritualists' dedication to the forms of government.  They pull on ALL THE BUREAUCRACIES and try to establish a galactic nexus of influence by tackling EVERYONE'S bureaucratic problems!  ALL HAIL THE FORMS!  DEATH TO THE BACKLOG!
 	3.  Mechanism proposal:  If it worked, this would be the apotheosis of the Panarchic Ritualists.  This is raw bureaucratic supremacism.  The administration that has started doing this can influence policy galaxy-wide in very direct ways.
@@ -522,7 +523,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	22.  Special categories:  Detached, Nightmare, Galactic Politics
 	23.  Alternate (Voluntary Order) categories:  Hedonological, Rehabilitative, Failsafe, Furry
 	24.  Conversion potential:  Commonwealth->Panarchy (unidirectional)
-15.  Beyonder Engine
+14.  Beyonder Engine
 	1.  Challenge cured:  Dying Star
 		1.  Challenge cure interpretation:  This really challenges my ZPE arrays conjecture.  The idea of extracting enough energy from vacuum fluctuations to reboot stars is...  awesome and strange to me.  It suggests that the arrays are truly ancient and that they've been running for truly awesome durations of time.  This kind of thing could be used to make civilization outlast the (natural lifetime of) the stars themselves!  It suggests that the really well-developed Imperial populations ARE star-builders.
 	2.  Mechanism proposal:  Deep space ZPE arrays.  If the setting has them, they may be quietly operating forever in the periphery of all systems, accumulating energy and converting it into purified elements.  They can't be used sustainably, because they produce power very slowly.  Almost any 'serious' draw on their reserves will swiftly deplete them.  Only the Old Empire is patient enough to get real use out of them.  In theory, sufficient patience would make the ZPE arrays limitless; in practice, it's unreasonable to expect that reserves generated by a trickling process would be used in a wholly sustainable manner.
@@ -550,7 +551,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Kind of person most protected:  The top 1% most patient people in society, whether or not they have any other qualifications.
 	25.  Special categories:  Detached, Failsafe, Rehabilitative, Ecological
 	26.  Conversion potential:  Commonwealth<->Empire
-16.  Panarchic Courts
+15.  Panarchic Courts
 	1.  Challenge cured:  Conspiracy to overthrow
 	2.  Challenge cure interpretation:  There are conspiracies to overthrow the Viceroy on every planet, but most of them don't seek allies from beyond the territory itself like these ones do.  The hordes of galactic negotiators who arrive with the Panarchic Courts can also defuse the rebellion's ability to make connections outside of the territory, while making it look (incorrectly) like the whole galaxy is against the rebellion.
 	3.  Challenge cure qualm:  If you take apart a visible conspiracy to overthrow the Viceroy, aren't you dismantling a functional and internationally diplomatic governing structure which will otherwise fluently inherit the territory when you depart from it?  Plus, winning people over means that more people will be sad to see you go, which sounds great except for the part where it's unnecessary sadness.
@@ -584,7 +585,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	31.  Special categories:  Diversifying, Empathy Maximizer, Galactic Politics
 	32.  Alternative categories:  Homogenizing, Hypersmooth
 	33.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited)
-17.  Three Shift Society
+16.  Three Shift Society
 	1.  Challenge cured:  Formal Culture
 		1.  Challenge cure interpretation:  The neurodiversity that the Three Shift Society protects erodes formal cultures by including many people of diverse inclinations.  Night owls think differently from morning people, and society starts including a wider range of people as the three shift society gets going.  That erodes formal cultures, and even holding open the Three Shift Society technology can enable it.
 		2.  Challenge cure qualm:  As with telepathic dust, I'm not sure it's right to take down 'overly formal' cultures.  Shouldn't places be encouraged to keep their own traditions?
@@ -608,7 +609,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Night owls.
 	20.  Special categories:  Diversifying, Furry
 	21.  Conversion potential:  Panarchy<->Commonwealth (limited)
-18.  Artificial Wombs
+17.  Artificial Wombs
 	1.  Authorial protest:  The description describes this as cloning en masse.  I don't believe it.  Ontogenic control is too dear to my heart, and I know very well that it wouldn't work as cloning en masse.  This is a technology that I would seriously consider revising if I were able to mod The Viceroy, since I don't think +1% population growth is at all the right thing for it to do.  That said, I do think it would increase populations...  Increasing the crowding limit would be a better effect for this to have.
 	2.  Mechanism proposal:  The power to synthesize tissues is very substantially a medical technology.  It would make the promise of immortality considerably more real by providing substrates for experimentation and synthesis of medically necessary tissues.
 	3.  Mechanism proposal:  I see no reason not to admit that this would provide a food source.  Don't think "eating babies".  Think "eating cruelty free animal meats".  Think "muscle tissue that was never attached to a living animal".  Vegan-friendly actual chicken meat, because no actual chickens were harmed in the making of it.  Right now, synth-meat is super expensive, but this technology when fully matured should enable urban food production to scale with urban populations.
@@ -631,7 +632,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Kind of person most protected:  Biologists
 	21.  Special categories:  Animal Uplift, Diversifying, Asexual, Furry
 	22.  Conversion potential:  Panarchy<->Empire
-19.  Holistic Industrialization
+18.  Holistic Industrialization
 	1.  Mechanism proposal:  The most simple, literal technology in the tech tree.  Hire people who study district specialties and connect the district's industry to the needs of the broader economy.
 	2.  Mechanism proposal:  Deeply boring managers with gentle voices...
 	3.  Narrative indicator:  As holistic industrialization spreads through a territory, productive industrial centralization increases bit by bit, linking small artisans together into the service of a larger whole.
@@ -647,7 +648,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Kind of person most protected:  Serene industrialists... which in *this* setting means *Imperials*!  Even though this is a Commonwealth tech very far away from Imperial thought, this *always* best protects Imperials!  I <3 serenity.
 	14.  Special categories:  Detached, Anti-Popular, Failsafe
 	15.  Conversion potential:  Empire<->Commonwealth
-20.  Palace of the Arts
+19.  Palace of the Arts
 	1.  Mechanism proposal:  When the description talks about the palaces as though they were a single structure each, it's obviously talking about a general pattern of a kind of structures.  In this case, mega-museums oriented towards commercialization of local culture.
 	2.  Downside analysis:  I imagine that the professionals employed by these structures try to unify, codify, and centralize the artistic traditions of the district.  It's similar to the intention of holistic industrialization, but applying this attitude to culture is considerably more questionable than applying this attitude to industry.  Artisans working with industrial goods know they're working with commodities and they're proud of the commodities they work with.  Artisans working with cultural goods are much less likely to be happy about getting their work commodified.
 	3.  Apologia:  In modest quantities, there's probably nothing wrong with people trying to do this work...  The first few such palaces built in a territory are surely magnificent and helpful to the artists in the territory.
@@ -663,7 +664,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Kind of person most protected:  Advertisers.
 	15.  Special categories:  Homogenizing, Anti-Popular, Failsafe
 	16.  Conversion potential: Panarchy<->Commonwealth
-21.  Panarchic War Memorials
+20.  Panarchic War Memorials
 	1.  Author's note:  Every time I look at this tech, I think of my (human) dad in a good way.  He was a two-faced man, but unlike the common (hidden evil) stereotype of two-faced people, he was "evil public face, good private face".  His hostile public face was built to protect his friends.  With his hidden face, he taught me pacifism and the love of diversity instead.  I believe he was THIS kind of bird!  ...but I don't know how it works.  I don't know how he got like that, I don't know how others can learn to do it, and I don't know what kind of society arises if it becomes common.
 	2.  Mechanism proposal:  Panarchic war memorials train pacifists and warmongers to be indistinguishable from each other.  They're an educational investment in making deeply peaceful people as indistinguishable as possible from deeply violent people.
 	3.  Downside analysis:  Who would *do* that?  This is likely to see people fixate on "If we can't tell peaceful people from murderers, won't the murder rate rise?"  After all, 'everyone knows' that a great mass of infiltrating soldiers is a lethal hazard!  There could be violent people hiding ANYWHERE!
@@ -683,7 +684,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Kind of person most protected:  Vitriolic pacifists and "militarists" who don't want to go to war.
 	18.  Special categories:  Diversifying, ???
 	19.  Conversion potential:  ???
-22.  Eternal Bank Tower
+21.  Eternal Bank Tower
 	1.  Mechanism Proposal:  If someone wants to spend their whole life wonking out about banking regulations, that makes no sense from a conventional time-bound perspective; they end up spending absurd amounts of time contemplating wholly theoretical considerations with little or no real-world applicability.  Yet they often *can* improve on the quality of banking regulations... *semi*-permanently.  Every new regulatory scheme in banking is eventually exploited beyond all reason or usefulness, but with sufficient administrative talent backing it that can take a long time.
 	2.  Mechanism proposal:  The Old Empire is *probably* lying about having access to atemporal intelligences... but they don't have to be lying about having access to people who love totally abstract financial matters that are *beyond* most people.  People like that definitely exist.
 	3.  Downside analysis:  Economic inequality is likely to rise.  It's not certain to rise, but society's equality levels become more dependent on the charity of people with massive financial resources, so it's likely that society becomes more financially unequal.  The average person becomes more economically powerless.  "Efficient" handling of edge-cases can be pretty rough on people whose employment relies on an edge-case, too.  This technology isn't good at protecting "irrelevant" people.
@@ -698,7 +699,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.  Kind of person most protected:  Greedy mathematicians.
 	13.  Special categories:  Detached, Galactic Politics
 	14.  Conversion potential:  Unknown
-23.  Fertility Drugs
+22.  Fertility Drugs
 	1.  Challenge cured:  Genetic Infertility
 		1.  Challenge cure interpretation:  I don't think this fixes the challenge at all.  I think it just accelerates selective pressures until genetic infertility is no longer statistically normal.
 		2.  Alternative challenge cure:  On the other hand, these guys ARE geneticists, so they could be doing it right.
@@ -722,7 +723,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Kind of person most protected:  ...
 	19.  Special categories:  Anti-Popular, Nightmare, Asexual
 	20.  Conversion potential:  Unknown
-24.  Adaptive Antipsychotics
+23.  Adaptive Antipsychotics
 	1.  Challenge cured:  Infectious Psychosis
 		1.  Challenge cure interpretation:  This talks of predatory thought patterns, so for once there's *no question to me* that this is talking about hyperspace as a way to discuss memetics.  Infectious psychosis is a form of distorted interpersonal belief structure that makes people functionally stupider.  Mass hallucinations, folly a deux, truly popular flat eartherism, etc., these are examples of what infectious psychosis might be.  I'm not clear how adaptive antipsychotics deal with this...  Maybe by making the charismatic center of the bad beliefs treatable (as though there are always high-functioning crazy people at the middle of Bad Idea Epidemics).
 	2.  Mechanism proposal:  Like with fertility drugs, this proposes drugging the water supply for the public's own good.  Unlike with fertility drugs, it doesn't propose drugging the water supply for any purpose other than the public's *subjective* good.  If done very excellently, this is... only barely an intrusion on the public's liberties.
@@ -752,7 +753,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	26.  Kind of person most protected:  Mentally ill people.
 	27.  Special categories:  Rehabilitative, Homogenizing, Hedonological
 	28.  Conversion potential:  Unknown
-25.  Orbital Hospitals
+24.  Orbital Hospitals
 	1.  Challenge cured:  Systemwide Quarantine
 	2.  Challenge cure interpretation:  I don't know a literal interpretation for this one... or rather, I don't know how Orbital Hospitals would literally contribute to resolving a systemwide quarantine against, say, a microbial pathogen.
 	3.  Alternative cure interpretation:  I think it's a very grim kind of... not a joke.  A deception.  As orbital hospitals use sociopaths and contribute to eventually curing them, perhaps galactic society enforces "biological" quarantines against systems where the local leaders are deranged and corrupted in a particular way that makes their "talents" useless and inimical to galactic society until they've reorganized to make productive use of sociopathy at this level.  Given the historic behaviors of human societies...  Given the amount of corruption and hatred that rises to the top of our societies...  Perhaps Earth IRL is part of a fringe system under just such a "biological" quarantine!  Corollary: Maybe we need infrastructure IRL to use sociopaths productively at this level.
@@ -779,7 +780,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Kind of person most protected:  Sociopaths
 	25.  Special categories:  Rehabilitative, Asexual, Failsafe
 	26.  Conversion potential:  Panarchy<->Imperial (limited); Empire<->Commonwealth (limited)
-26.  Jaunting Grid
+25.  Jaunting Grid
 	1.  Mechanism proposal:  One of the themes of the Old Empire is that 'instantaneous' is relative, and another theme seems to be that redefinitions aren't necessarily dishonest.  Cultivating a population that is comfortable taking its time and trusting in immortality also yields increasing time-tolerance for transit.  Developing a population that enjoys 'relatively instantaneous' travel systems may be advantageous in some ways.
 	2.  Mechanism proposal:  Given the creative dishonesty of the Old Empire, people who "travel" via jaunting grid also may not be going *anywhere*.  They might just have active imaginations.  They study other people and other places.  The information is probably valid.  People who are content to "travel" in this fashion put relatively less burden on air travel and other logistical systems.  More books get shipped, but fewer people.  If society is very trustworthy, people who 'travel' this way are also better at providing services to places they've never met and people who are from them.  Being able to comprehend very distant places increases the degree to which society can increase in scale.
 	3.  Mechanism proposal:  The Viceroy IS an FTL setting.  Interpreting the technology exactly literally IS an option, and presumably becomes more likely as Wealth increases.  Portal transit would tend to replace a lot of long-distance travel services with something that is indeed more space-efficient.  This interpretation appeals to me most strongly in systems that have built a Dyson Swarm, as a system of portals would make Dyson Swarm habitats drastically more usable for all purposes.
@@ -803,7 +804,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Kind of person most protected:  Encyclopedia fans and transportation engineers.
 	22.  Special categories:  Homogenizing, Rehabilitative
 	23.  Conversion potential:  Unknown
-27.  Seat of Beauty
+26.  Seat of Beauty
 	1.  Mechanism proposal:  Despite their stated purpose (and functional effect) of promoting the arts, seats of beauty actually operate in *restraint* of cultural productivity.  Specifically, they suppress, censor, and disrupt the promulgation of ugly art.  This is a judicial system of the art world, making cases against crimes of art!  They have their prosecutors, defenders, and judges, though unless they get called into courts of law, the proceedings almost never look anything like a real courtroom.
 	2.  Mechanism proposal:  As the Commonwealth Palaces of Art protect marketers and promote the commodification of culture for profit, so do the Seats of Beauty.  They try to work between what is beautiful and what is profitable.  Artists tend to be novelty-seekers, too.  This concentration of experts scours the system for saleable artwork.
 	3.  Downside analysis:  I feel like it's probably better for a system to *have had* a Seat of Beauty than for it to *currently have* a Seat of Beauty.  In all likelihood the skilled and successful aesthetes who rise in a Seat of Beauty make a lot of good points that people can agree with, and they do make the cultural output of the system *easier to commoditize*... but is that really the same as making it better?  If a system *used to have* a Seat of Beauty, it has a lot of good commentary to draw from, but if it *presently has* a Seat of Beauty, its art world is infested with people who care frightfully much about aesthetic details that don't usually matter.
@@ -825,11 +826,12 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Art snobs.
 	20.  Special categories:  Hypersmooth, Hedonological, Failsafe, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy (Limited)
-28.  Natalist Policies
+27.  Natalist Policies
 	1.  Challenge cured:  Cultural Despair
 		1.  Challenge cure interpretation:  I got nothin'.  If it was just "people put on a bright face for their kids", then fertility drugs would cure it just as well.
 		2.  Challenge cure qualm:  Doesn't despair make the whole district's population more mobile?  They're more willing to leave if they really want to leave.
 		3.  Challenge cure qualm:  Doesn't 'curing' this promote overpopulation?  These people are more sustainable and more concerned with preserving their environment.  They don't pack in like sardines.
+		4.  Challenge preference:  Leave it in.  I'd rather this were worked around.  It's not a terribly strong preference, but this particular "despair" helps build up a mobile society that isn't overcrowded.  They're not truly miserable, so why "cure" them of this?
 	2.  Authorial protest:  If I figure out how to hack this game to modify its mechanics, there is no way in hell this technology is surviving as part of it.  I'm just going to get that out of the way up front.  This is horrific.  I happen to believe that contraceptives were a major technology advance which greatly improved public happiness, so this technology can become 'Sexual Liberation', a +Happiness technology.
 	3.  Authorial protest:  Yep.  This should be Sexual Liberation.  The Commonwealth should be liberalized, not left in conservative dystopia mode.  Natalist policies sacrifice kids on the altar of demographic warfare, which is also the altar of BAD PARENTING.  Sexual liberation maximizes childrearing quality and it crushed pedophilia historically on Earth, something that was evolutionarily advantageous prior to the rise of modern sexually open cultures.
 	4.  Mechanism proposal:  The "consensus" of the Consensus Commonwealth does not actually own the allegiance of the entire galactic population, nor even the *majority* of the galactic population.  They consider that a catastrophe that they need to "democratically" correct as fast as possible.  In order to "democratically" succeed, their children need to be numerous and loyal!
@@ -838,10 +840,10 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	7.  Narrative indicator:  The attitude that children are a tool of conquest may be why the Commonwealth can't bring peace to warring nations within its own tech tree.  They believe in nationalism, not in eroding the downsides of nationalism.
 	8.  Downside analysis:  Since people who don't want to breed are just liabilities to the Commonwealth whose disloyalty is proven by their opposition to natalist policies, the expansion of this technology increases the rate of at which society produces maladapted ejectees.
 	9.  Mechanism proposal:  ...which is a benefit if you think that murdering people is a good way to get rid of the ones who are "useless" and "not contributing"!  The high rate of serial killers are just a necessary counterbalance to prevent "stagnation"!
-	10.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
-	11.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
-	12.  Authorial protest:  I see myself as Commonwealth!  But not like THIS!  The Commonwealth needs reforms!  Sexual liberation needs to be in the tech tree.  The galaxy needs sex ed classes!
-	13.  Authorial protest:  I see myself as Commonwealth, but not like this.  The galaxy needs virtuous asexuality.  Sexual liberation needs to be in the tech tree, and the galaxy needs sex ed classes.  I'm reaffirming this based on a bad dream.
+	10.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.  These societies need enlightened policing in order to deal with all the people who their "technology" renders disposable and unwanted.
+	11.  Alternative proposal:  If this were replaced with Sexual Liberation, Enlightened Policing could become something else, keeping the same balance of +Happiness technologies while freeing up a slot from promoting overpopulation into promoting something else.
+	12.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance
+	13.  Authorial protest:  I see myself as Commonwealth, but not like this.  The galaxy needs virtuous asexuality.  Sexual liberation needs to be in the tech tree, and the galaxy needs sex ed classes.  I'm reaffirming this based on a bad dream; this is a vision of a galaxy in need of reforms.	
 	14.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
 	15.  Utopic rating:  0/5
 	16.  Public protection rating:  2/5
@@ -852,30 +854,32 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Kind of person most protected:  People who want to raise kids for the glory of their race.
 	22.  Special categories:  Hypersmooth, Homogenizing, Nightmare
 	23.  Conversion potential:  Hopefully, none.
-29.  Reproduction Mandate
+28.  Reproduction Mandate
 	1.  Challenge cured:  Zero Birth Culture
 		1.  Challenge cure interpretation:  Taxes the zero birth culture to death, or otherwise uses state force to break them up.
 		2.  Challenge cure qualm:  PLEASE DON'T DO IT.  The zero birth people are me!  I'm one of them!  I want to live forever!  A lot of them want to live forever!  Don't break up their societies pleeease!
 	2.  Authorial protest:  This breaks the law of love!
-	3.  Mechanism proposal:  Muslim prohibitions against degeneracy, plus taxes on the faithless and the childless.
-	4.  Downside analysis:  Note that Muslim-dominated areas IRL have the highest rates of child molestation on the planet.
-	5.  Mechanism proposal:  Everything that works in natalist policies is simply intensified.
-	6.  Downside analysis:  Everything wrong with natalist policies increases.   Note that historic humanity has had a very high rate of wifebeating, random violence, rape, etc.
-	7.  Apologia:  The Commonwealth's "Consensus" in favor of horrific destructions of sexual ethics are why they believe enlightened policing is necessary.  They would *prefer* to do all these things *without* the rape and murder...
-	8.  Narrative indicator:  ...but note that Muslims literally murder sexual liberals, too.  This policy set destroys the populations that natively oppose rape and replaces them with populations that reliably "oppose" rape only when closely watched by an omniscient security state.
-	9.  Mechanism proposal:  If you quietly ruin rape victims who protest too much and don't turn conservative on demand, you can have a more reproductive society thanks to the ones who "integrate" after sexualizing early.  Sexually abusive community leaders are excellent for this.  Few people will believe they've done what they're supposed to have done.  Some of those who do believe nevertheless will insist that raising up those specific leaders is necessary to the community, because of all the other good things they've done.
-	10.  Apologia:  This does increase the preservation of asexual genes.  If you're *really* convinced that asexuals are superior...
-	11.  Bureaucratic waste analysis:  Assigning a few supernumerary taxes is not bureaucratically expensive.  Arranging your society to destroy non-reproductive inclinations is horrifically expensive.  People who could've loved thoughtful social analysis and contributed to the functioning of the state will be among the dead, destabilized, and demoralized.
-	12.  Utopic rating:  0/5
-	13.  Public protection rating:  1/5
-	14.  Technological smoothness:  4/5
-	15.  Technological extremophilia:  2/5
-	16.  Stress/boredom rating:  3/5 (Eustress)
-	17.  Me-points:  -1/3
-	18.  Kind of person most protected:  "Virtuous" religious authorities who certainly don't molest kids.
-	19.  Special categories:  Asexual, Homogenizing, Nightmare
-	20.  Conversion potential:  Hopefully, none.
-30.  Creche Education
+	3.  Authorial protest:  I need to come up with a replacement concept for this slot in the tech tree based on my above interpretation of Natalist Policies as best replaced with Sexual Liberation.  Sexual Liberation leading to Open Borders is beautiful, but it shouldn't lead to Reproduction Mandates.
+	4.  Mechanism proposal:  Muslim prohibitions against degeneracy, plus taxes on the faithless and the childless.
+	5.  Downside analysis:  Note that Muslim-dominated areas IRL have the highest rates of child molestation on the planet.
+	6.  Mechanism proposal:  Everything that works in natalist policies is simply intensified.
+	7.  Downside analysis:  Everything wrong with natalist policies increases.   Note that historic humanity has had a very high rate of wifebeating, random violence, rape, etc.
+	8.  Apologia:  The Commonwealth's "Consensus" in favor of horrific destructions of sexual ethics are why they believe enlightened policing is necessary.  They would *prefer* to do all these things *without* the rape and murder...
+	9.  Narrative indicator:  ...but note that Muslims literally murder sexual liberals, too.  This policy set destroys the populations that natively oppose rape and replaces them with populations that reliably "oppose" rape only when closely watched by an omniscient security state.
+	10.  Mechanism proposal:  If you quietly ruin rape victims who protest too much and don't turn conservative on demand, you can have a more reproductive society thanks to the ones who "integrate" after sexualizing early.  Sexually abusive community leaders are excellent for this.  Few people will believe they've done what they're supposed to have done.  Some of those who do believe nevertheless will insist that raising up those specific leaders is necessary to the community, because of all the other good things they've done.
+	11.  Authorial protest:  I still think that mandating reproduction is a grevious sin of the Commonwealth.  This should not be done!  This needs to be reformed.
+	12.  Apologia:  This does increase the preservation of asexual genes.  If you're *really* convinced that asexuals are superior...  I don't think it's worth it, but if I ever complete a book for this game that won't give me all of its achievements, I'll put it on the Asexual sigil.
+	13.  Bureaucratic waste analysis:  Assigning a few supernumerary taxes is not bureaucratically expensive.  Arranging your society to destroy non-reproductive inclinations is horrifically expensive.  People who could've loved thoughtful social analysis and contributed to the functioning of the state will be among the dead, destabilized, and demoralized.
+	14.  Liberation rating:  0/5
+	15.  Public protection rating:  0/5
+	16.  Technological smoothness:  4/5
+	17.  Technological extremophilia:  1/5
+	18.  Stress/boredom rating:  4/5 (Screaming)
+	19.  Me-points:  -1/3
+	20.  Kind of person most protected:  "Virtuous" religious authorities who certainly don't molest kids.
+	21.  Special categories:  Asexual, Homogenizing, Nightmare
+	22.  Conversion potential:  Hopefully, none.
+29.  Creche Education
 	1.  Authorial protest:  I've thought about the tech tree more and decided that this should be Safeteching instead.  I'm not sure what Safeteching would do, but I think it fits in this slot better than Creche Education, something that even primitive societies should eventually do and *never* let go of.  Or almost never, at least.  Safeteching might be a +Science program justified as importing galactic technologies, or it might be a +Popcap technology that increases the crowding threshold by straightforwardly reducing death from all causes.  I'm leaning towards +Popcap.  I like the technologies that increase the crowding threshold.  Safeteching would be a very 5/5 failsafe kind of technology with less conversion potential and no risk of homogenizing society.
 	2.  Authorial protest: The staff at my school were so intent on treating me as a violent troublemaker that they failed to protect me from violently untrustworthy peers.  They refused to believe that I was an actual pacifist even though I was indeed an actual pacifist.  In fifth grade I was even once assaulted by a teacher!
 	3.  Mechanism proposal:  Immortal societies don't HAVE a lot of kids.  It's not sustainable to have a lot of kids, it's not necessary to have a lot of kids, and only primitive societies have to pretend that childrearing is a happy thing.  The other factions tend to trust in people getting a sufficient education across hundreds or thousands of years, and deprioritize public education.  The Commonwealth Consensus is committed to providing an extremely well-funded public education system even if there are only a handful of kids in class.
@@ -901,7 +905,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	23.  Kind of person most protected: Schoolteachers.
 	24.  Special categories:  Homogenizing, Diversifying, Failsafe
 	25.  Conversion potential:  Panarchy<->Commonwealth (limited); Panarchy<->Empire (limited); Commonwealth<->Empire (limited)
-31.  Potentialities Overseer
+30.  Potentialities Overseer
 	1.  Authorial protest:  I have a pretty good idea what a potentialities overseer should be and how to write with them, narratively.  Despite that, I think this technology slot should actually hold a 'Collapse Overseer' technology, which would be a +Influence tech.  This restores to the Panarchy the +Influence that was lost by converting Panarchic Capital to Voluntary Order, while giving a first +Influence tech to the Panarchic Informalists.  (The +Influence techs are like social science technologies, and they're good things!)  The Collapse Overseer would be an AI overseer that does not assist governing at all, but simply watches society to automatically assemble post mortems on organizations that fail.  This would be less tyrannical than the Potentialities Overseer, and more useful over the long-term.
 	2.  Mechanical protest:  Playing normally, -10% upkeep is generally wasted, because the bureaucratic waste expense usually very much exceeds the upkeep savings.  Unless this has some hidden effect, it isn't normally worth using.
 	3.  Mechanism proposal:  The literally described mechanism in the game is that the potentialities overseer calculates the sum total of ALL ACTIONS TAKEN within the system, and then tries to excise inefficiencies based upon that analysis.  I don't see any need for this system to be doing anything but what it says it is doing in order to achieve its effects.  I also don't see any need for this system to be successfully completing what it attempts in order to achieve its effects.  The AI (and its associated bureaucracy, many supportive technicians, and the factory after factory of sensor manufacturers that it requires) is probably doing its best to eliminate inefficiencies while operating in a state of permanent overwhelm and existential tension.
@@ -928,7 +932,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	24.  Special categories:  Anti-Popular, Homogenizing, Nightmare
 	25.  Alternate (Collapse Overseer) categories:  Anti-Popular, Rehabilitative, Failsafe
 	26.  Conversion potential:  Empire<->Panarchy (with Distributed Intelligence); Panarchy<->Commonwealth (with Right to Happiness)
-32.  Artificial Dreamtime
+31.  Artificial Dreamtime
 	1.  Authorial protest:  This should be the 'Paradise Overseer' technology, which would provide +1 Happiness to the planet that installs it.
 	2.  Mechanism proposal:  Blocks all lies.
 	3.  Mechanism proposal:  Reveals the desires of all people to all people.
@@ -954,7 +958,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	23.  Kind of person most protected:  "Liars" who were not actually lying
 	24.  Special categories:  Empathy Maximizer, Hedonological, Nightmare, Furry
 	25.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy (limited); Commonwealth<->Empire (limited)
-33.  Mental Unity
+32.  Mental Unity
 	1.  Challenge cured:  Paranoid Culture
 		1.  Challenge cure interpretation:  This contributes to my thinking the technology should be "Sapience Axioms"!  Building up a conviction that people CAN understand each other and SHOULD protect weird people is what cures paranoid culture.  Once culture is no longer targeting people, paranoia clears right up.  As long as people pretend that nobody is ever, EVER in the crosshairs, or as long as people insist that the fringes can NEVER be understood and tolerated, paranoid culture continues rampantly.
 	2.  Authorial protest:  This should be 'Sapience Axioms', a technology with the same mechanical effect as Mental Unity.  The proper description of Sapience Axioms is something like this: "There are commonalities that arise in all forms of sapient cognition.  When society has begun to catalog and understand these, sense can often be made of even the strangest communications."
@@ -977,7 +981,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
 	20.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
 	21.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
-34.  Engineered Optimism
+33.  Engineered Optimism
 	1.  Challenge cured:  Spiritually broken
 		1.  Challenge cure interpretation:  I think this cure is genetic.  The people who have optimistic genes, whether under the base game's use of this technology or the better version that I would implement, are *not* spiritually broken.
 		2.  Challenge cure qualm:  Like with serfdom, I find myself wondering why this doesn't reduce happiness.  Do people enjoy a grim and down-cast culture, too?  I'm reminded of people who like urban exploration (exploring ruins).  I can imagine that such people might still be happy, so maybe this shouldn't be cast out of society.  If it were worked past, it would produce unusual cultural products.
@@ -1004,7 +1008,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Special categories:  Homogenizing, Nightmare, Failsafe
 	21.  Alternate (Horizontal Eugenics) categories:  Asexual, Hedonological, Failsafe, Furry
 	22.  Conversion potential:  Empire<->Commonwealth
-35.  Panarchic Cathedral
+34.  Panarchic Cathedral
 	1.  Challenge cured:  Religious Collapse
 		1.  Challenge cure interpretation:  ...I see the conceptual linkage, but I don't understand how the Panarchic Cathedrals could actually help people rebuild belief systems...
 		2.  Challenge cure interpretations:  Maybe it's by providing general reconstruction services.  The Panarchic Cathedrals rebuild belief systems of ALL kinds, both secular and religious, and they provide justifications for believing in whatever gives people happiness to believe in.  Still, I'm leaving in the other 'interpretation', because I had to start this one with a maybe!
@@ -1025,7 +1029,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16. Kind of person most protected:  Serene panarchists and people who can become panarchists if the panarchy can be serene.
 	17. Special categories:  Asexual, Diversifying, Empathy Maximizer
 	18. Conversion Potential:  Empire<->Panarchy
-36.  Panarchic Indoctrination
+35.  Panarchic Indoctrination
 	1.  Challenge cured:  Rebel Faction
 	2.  Challenge cure interpretation:  There are rebel factions in literally every province.  Panarchic Indoctrination teaches them to be subtle and charismatic like the rebels in every other province.  It doesn't cure anything at all, but it sure makes the territory look cured!  Don't you feel so much safer now that the murderous rebels appear to be perfectly normal people?
 	3.  Authorial protest:  It seems stressful, doesn't it?  I'm starting to settle into the idea that maybe I should improve the entire tech tree, but I'm not sure how to improve on this.  I'm... making a note here mostly to establish the pattern of starting off with a protest of each one.  My protest here is that this seems very stressful and high-pressure.
@@ -1047,7 +1051,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  "Undiscoverable" artists whose talents would never be found without this due to poverty or criminal records.
 	20.  Special categories:  Diversifying, Anti-Popular, Rehabilitative, Furry
 	21.  Conversion potential:  Unknown
-37.  Colonial Office:
+36.  Colonial Office:
 	1.  Challenge cured:  Caste System
 		1.  Challenge cure interpretation:  Galactic society erodes caste systems reliably.  That's what I interpret this to mean.  When the local culture starts 'cross-pollinating' with galactic society, something nobody really likes is the institution of a caste system, and the locals are happier without it as well!
 		2.  Challenge cure qualm:  I do have a qualm here, which is that if the three different 'main cultures' (Empire, Commonwealth, Panarchy) are interpreted as genetic aptitudes, then the very advanced societies (most of the tech wheel unlocked) are the ones most likely to be *re-implementing* caste societies.
@@ -1070,7 +1074,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.  Kind of person most protected:  People who would rather be somewhere else.
 	18.  Special categories:  Diversifying, Hedonological, Galactic Politics, Furry
 	19.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
-38.  Hydroponic Farms
+37.  Hydroponic Farms
 	1.  Challenge cured:  Photosynthetic Plague
 		1.  Challenge cure interpretation:  Closed environment farming permits crops to be grown despite the plague and brings in the appropriate research talent to research curing it.
 	2.  Authorial protest:  This should be moved to where Zero Gravity Farms is.  I'm not sure what should be put here, but I'll keep thinking about it.
@@ -1089,7 +1093,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Kind of person most protected:  Verticulturalists
 	16.  Special categories:  Anti-Popular, Failsafe
 	17.  Conversion potential:  Unknown.
-39.  Distributed Desalination
+38.  Distributed Desalination
 	1.  Mechanism proposal:  Also literal.
 	2.  Downside analysis:  These systems really are marginal in productivity.  They could work wonders... if tended for centuries...  We could green deserts with this tech!  Eventually...  The description says, "the ability to produce fresh water in nearly limitless quantities,"  but that's not a reasonable expectation.  Like with the Beyonder Engines, I suspect that this technology requires playing a trick with temporality to understand: *with sufficient patience*, you can get infinite water out of distributed desal.  Meanwhile, it's expensive.
 	3.  Trivia:  A nasty joke once occurred to me based on this tech.  I'm honestly trying to remember it right now, but I'm not succeeding.  Something about desalinating tears?  I don't think it should factor into how we would expect this to be implemented.
@@ -1103,7 +1107,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Kind of person most protected:  Moisture farmers
 	12.  Special categories:  Anti-Popular, Failsafe, Ecological
 	13.  Conversion potential:  Unknown.
-40.  Seasteading
+39.  Seasteading
 	1.  Mechanism proposal:  This is part of a great little triad of literalism in the Orbital Observers tech tree.  Unlike a lot of the literal technologies, this doesn't suggest homogenization at all.  (I may have to redefine the homogenization schtick I wrote about the Empire before.)  This suggests a bit of a local ideological countermeasure to the dullness of the Hydroponic Farms and Distributed Desal linkage... and it suggests a kind of community that could *really* use those distributed desal plants, too.
 	2.  Trivia:  This is something people have proposed IRL.  We *have* hydroponic farms in the real world, and people are working on distributed desal techs, too.  The reason why seasteading hasn't taken off is that it is "too expensive".  In this game, it's presented as a planet-wide development project, so maybe humanity will get there when we manage to unify our planetary government.
 	3.  Mechanism proposal:  By encouraging literal wide separations between communities, more diverse and fractious people can live in society without friction or hatred.  The description of the tech in-game references this potential, although I think it also has some general (and beautiful) applicability to the anti-crowding technologies.
@@ -1119,7 +1123,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.  Kind of person most protected:  Weirdoes.
 	14.  Special categories:  Diversifying, Rehabilitative, Furry
 	15.  Conversion potential:  Empire<->Panarchy; Empire<->Commonwealth (limited)
-41.  Seat of Justice
+40.  Seat of Justice
 	1.  Challenge cured:  Serfdom
 		1.  Challenge cure interpretation:  Economic justice and the beauty thereof falls under the purview of the Seat of Justice.  The people in districts beset by serfdom don't have a lot of choice in their lives, and culture 'leaks' that information a little too well.  The Seats of Justice bring in people who argue for the importance of liberation as a facet of justice, and curing serfdom is part of that.
 		2.  Challenge cure qualm:  Why doesn't serfdom in this game reduce happiness?  ...this isn't a normal qualm, as I'm NOT protesting against the importance of curing serfdom.  I'm just confused.  The idea of happy serfs is unusual to me.
@@ -1143,7 +1147,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Varies.
 	20.  Special categories:  Hypersmooth, Luddistic, Rehabilitative
 	21.  Conversion potential: Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
-42.  Local Government
+41.  Local Government
 	1.  Mechanism proposal:  Does galactic politics really need to interact with every detail of a local government?  No.  Not even faintly.
 	2.  Downside analysis:  I tend to imagine that local government structures draw something of a veil over the exact details of how stuff is being implemented.  The way galactic society would achieve something is a little less important.
 	3.  Narrative indicator:  Functioning local governments are also likely to become targets for partisan control.  Is this a problem?  Not really.  It encourages local politics to develop a distinct character and an inclination to *peaceful* disputation that does *not* involve galactic politics.
@@ -1161,7 +1165,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.  Kind of person most protected:  Mayors, minor partisans with peaceful and realistic ambitions
 	16.  Special categories:  Hypersmooth, Failsafe
 	17.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
-43.  Deep Core Tap
+42.  Deep Core Tap
 	1.  Challenge cured:  Interference Fields
 		1.  Challenge cure interpretation:  If hyperspace geology is literal, maybe digging deep into a planet permits favorable citing to avoid bad hyperspace geology.
 		2.  Alternative challenge cure:  Treating hyperspace as a memetic function rather than a literal one, the deep core taps are just so awesome that they (over time) promote a hyperindustrial attitude which clears the local memetosphere of anti-productivity memes.
@@ -1185,7 +1189,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Sensor technicians
 	20.  Special categories:  Diversifying, Nightmare
 	21.  Conversion potential:  Unknown
-44.  Orbital Surveyor
+43.  Orbital Surveyor
 	1.  Challenge cured: Invasive Organisms
 		1.  Challenge cure interpretation:  The orbital surveyors look like they have the largest ecologist contingent.  This technology brings in the ecologists who can deal with invasive organizations.
 	2.  Authorial protest:  Considering the tech tree more, I've decided that this should be Satellite Program, a district-level science technology.  Satellite programs are space exploration and planetary mapping programs which are arguably obsolete and unnecessary for highly advanced societies, but which serve to promote enthusiasm for science and local development of the aerospace industry.  They would map well with the gist of the orbital surveyors, and they replace one of the mechanically useless -Upkeep technologies.
@@ -1205,7 +1209,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Kind of person most protected:  Sensor technicians, People who like watching trees grow from orbit
 	17.  Special categories:  Detached, Failsafe
 	18.  Conversion potential:  Empire<->Panarchy (Limited); Empire<->Commonwealth (Limited)
-45.  Orbital Habitats
+44.  Orbital Habitats
 	1.  Challenge Cured:  Ice Age
 	2.  Challenge Cure Interpretation:  I'm not sure.  Controlled global warming due to numerous space launches?  Replacement of groundside farms with orbital farms?  Both?  The Orbital Surveyors (I refer to them by their capstone) do like farming in orbit.
 	3.  Alternative cure interpretation:  If the orbital observers settle preferentially in weird and sparsely populated areas, perhaps they can also be directed to sink waste heat pipes into the permafrost so that precipitation increases and atmospheric water vapor retains more heat.
@@ -1227,7 +1231,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Children & life support technicians
 	20.  Special categories:   Diversifying, Nightmare, Galactic Politics, Furry
 	21.  Conversion potential:  Empire<->Commonwealth
-46.  Panarchic Symposium
+45.  Panarchic Symposium
 	1.  Challenge cure interpretation:  Cultural Isolation
 		1.  Challenge cure interpretation:  This one bothers me.  Cultural isolation is described as the district's culture being "backwards, provincial, and strange" even to the district's own inhabitants.  I can see how exposing their culture to the galaxy could 'help' fix that, but I think it might be healthier for the self-esteem of the public to build the symposium and *other* cultural boosters rather than to 'cure' this in that way, so that they can develop a distinctive culture with no risk of turning out bland.
 	2.  Mechanism proposal:  "Symposium" sounds grandiose, but I think that's just Panarchic puffery (I don't hold it against them).  I believe these constructs represent society entrenching its dedication to intelligent discourse and long-term policy study in a district-by-district manner.  It's like the Seat of Policy in miniature, reaching farther down the bureaucracy to address the connection between local politics and galactic politics directly.
@@ -1251,7 +1255,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.  Kind of person most protected:  Wannabe speechwriters
 	21.  Special categories:  Hypersmooth, Galactic Politics, Failsafe
 	22.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth (limited); Empire<->Commonwealth (limited);
-47.  Prenatal Education
+46.  Prenatal Education
 	1.  Challenge cured:  Primitive education
 		1.  Challenge cure interpretation:  This challenge cure pushes children harder to perform.  They're supposed to hit the ground running, put their nose to the grindstone, and fulfill all their parents' ambitions for their lives, all while hiring fewer educators to do more work.
 		2.  Challenge cure qualm:  These schools sound unpleasant for children.  Can we work around this cure instead of implementing it?  How about waiting until we've got a lot of Happiness technologies implemented?
@@ -1274,7 +1278,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Kind of person most protected:  People who would never have had any idea what to do with their lives if their parents hadn't set their life up for them.
 	19.  Special categories:  Hypersmooth, Nightmare, Failsafe
 	20.  Conversion potential:  Commonwealth<->Empire (limited)
-48.  University System
+47.  University System
 	1.  Challenge cured:  Segregated Education
 	2.  Challenge cure interpretation:  Looking at the history of Earth, it looks like universities pressed education to desegregate by getting people enthusiastic about ideas and wanting to share them with people across the arbitrary boundaries that people try to draw.  The universities also provide the talent to quantify the costs of segregation and challenge it on the merits.  This is all very ethical, but somewhat expensive.
 	3.  Challenge cure protest:  This is petty and personal, and I'm not sure it should stop anything from going forward, but one of the categories of segregation that the tech is described as opposing is segregation by intelligence.  See, I was treated really badly in a public school *with no gifted program*.  I think I personally would've been safer if there'd been a gifted program.  This makes me a little reluctant to desegregate education.
@@ -1296,7 +1300,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Bibliophiles
 	20.  Special categories:  Hedonological, Failsafe, Galactic Politics, Furry
 	21.  Conversion potential:  Empire<->Panarchy (limited); Panarchy<->Commonwealth; Empire<->Commonwealth (limited);
-49.  Mental Transcription
+48.  Mental Transcription
 	1.  Authorial protest:  This is one of the most dangerously authoritarian technologies in the tree... and yet it's also one that I see as profoundly beautiful.  I want to live in a society that does this in a manner respectful of freedom... and I never want to live in a society that does this in a manner disrespectful of freedom.  How does one create a society that can use this power in a way that liberates people?  *I don't know.*
 	2.  Mechanism proposal:  If you have enough nanotech and neuroscience, I think this can be done straightforwardly.
 	3.  Narrative indicator:  Rolling out mental transcription really develops the Panarchic Cybertechnologies market in a district.  Implants (and especially skillsofts) become more common and more awesome.
@@ -1318,7 +1322,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Kind of person most protected:  Neurologists
 	20.  Special categories:  Anti-Popular, Rehabilitative, Mind Control, Empathy Maximizer, Furry
 	21.  Conversion potential:  Commonwealth<->Panarchy; Empire<->Panarchy; Empire<->Commonwealth
-50.  Leisure Subsidies
+49.  Leisure Subsidies
 	1.  Challenge cured:  Double Star System
 	2.  Challenge cure interpretation:  The two stars are described as overheating the system.  I guess that makes it... tropical?  Balmy?  Are the leisure subsidies used to justify a rollout of tourism subsidies that draw in an increased population of people who love lounging around in warm places?  I can fathom it, because as a dragon I can imagine the love of heat rocks, but for some reason this "challenge cure" irks me.  Maybe it's because the Commonwealth is usually so good at literalism, but suddenly this one is opaque and requires lateral thinking to justify.  Maybe I'm just being unfair.  I'll keep thinking about it.  People don't always get the right answer immediately, and maybe I haven't got the right answer this time.
 	3.  Authorial protest:  I don't like parties.  Parties as a kid stressed me to tears, and occasionally to throwing up.  The scarcity of parties in adulthood spares me misery.
@@ -1342,7 +1346,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Kind of person most protected:  Stalkers (Hate); party people (Love)
 	22.  Special categories:  Hypersmooth, Diversifying, Hedonological, Furry
 	23.  Conversion potential:  Unknown
-51.  Sentient Capital
+50.  Sentient Capital
 	1.  Authorial protest:  As written, this "technology" is gibberish.  You can't make individual units of money sentient.  The closest you can do is slave-trading.  If your currency is slaves, you have sentient capital.
 	2.  Mechanism proposal:  Therefore...  This replaces a meaningful fraction of the planet's currency with AI bankers whose services are traded as a form of fungible currency.  Virtual slave bankers.
 	3.  Categorization:  Since this broadens the kind of minds in society and increases the use of virtual environments as a place where people really live, it's diversifying.  I can't evaluate its other categories.
@@ -1356,7 +1360,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.  Kind of person most protected:  Does it protect the AI banker community or just exploit them?
 	12.  Special categories:  Diversifying, Furry
 	13.  Conversion potential:  Unknown
-52.  Pervasive Digitization
+51.  Pervasive Digitization
 	1.  Challenge cured: Violent culture
 		1.  Challenge cure interpretation:  The pervasively digitized society offers a lot of alternative competitions to traditional violence, including analogues which don't kill either party, and it makes it more feasible for people to just *avoid* people who would otherwise try to spark dangerous honor disputes with them.
 	2.  Author appeal:  This is one of the more straightforwardly loving techs in the Panarchy tree as-is.  It increases their ability to live with large societies and it suggests investment in Yggdrasil-like projects (what I call 'seeds of Yggdrasil').
@@ -1378,7 +1382,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	18.  Me-Points:  2/3
 	19.  Kind of person most protected:  Not sure.  This protects a lot of people.
 	20.  Special categories:  Diversifying, Hedonological, Empathy Maximizer, Furry
-53.  Predictive Supply Chain
+52.  Predictive Supply Chain
 	1.  Authorial Protest:  I have mixed feelings about this one.  It emphasizes the frightening over-metricization of the Panarchic Informalists, which is also the frightening over-metricization of the Panarchy (see Panarchic Data Posts).  It's on the omniscience track that leads towards Potentiality Forecasters.  I think it may be mislocated, but it also leads to self-aware economies...  I may take Sentient Capital out of the ideology, and we'll see if that reorg inspires me to shift Predictive Supply Chain's location.
 	2.  Mechanism proposal:  Calculate *everything*.  Accept no less than perfect logistics!
 	3.  Trivia:  Treating just-in-time supply chains as the hallmark of civilization suggests the base tech level of the game.  IRL societies have just-in-time supply chains.
@@ -1397,7 +1401,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Me-points:  0/3
 	17.  Kind of person most protected:  Is it logisticians or software devs automating away the jobs of logisticians?
 	18.  Special categories:  ???
-54.  Absolute Freedom
+53.  Absolute Freedom
 	1.  Progression analysis:  This is gated behind Enlightened Policing, because people who are raped, murdered, or stalked for expressing their freedom are having their rights violated.  In order to give people absolute freedom, they have to be protected from retaliation.
 	2.  Mechanism proposal:  This requires restricting the policing forces.  The technology that was unleashed by 'Enlightened Policing' is at this point reined in and checked.  The primary function is the negative mechanism that people are no longer allowed to engage in retaliatory violation against peaceful conducts.
 	3.  Mechanism proposal:  There is some positive function required in this technology - some amount of bureaucratic extension.  What is that positive function..?  Police.  It's police.  Yeah.  You don't have to have Enlightened Policing in every district to make Absolute Freedom work, but there's a minimum standard of policing which is required to be met in every district.
@@ -1419,7 +1423,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.  Alternative special categories (with reproduction mandates):  Homogenizing, Luddistic, Nightmare
 	20.  Conversion potential:  Commonwealth<->Panarchy, Commonwealth<->Empire (limited)
 	21.  Conversion potential (with reproduction mandates):  Unknown
-55.  Beyonder Dwelling
+54.  Beyonder Dwelling
 	1.  Challenge cured:  Hyperspace Infections
 		1.  Challenge cure interpretation:  Well, if the Beyonders live in hyperspace...  Maybe they're capable of curing these infections one-by-one with substantial effort.  Yet I'll note that I think that hyperspace in this game always refers to memetics.
 		2.  Alternative challenge cure:  By promoting a childish curiosity and enthusiasm for new/different ways of doing things, the beyonder dwellings cure a source of antichild attitudes.
@@ -1445,7 +1449,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	21.  Me-points: -1/3
 	22.  Special categories:  Diversifying, Hypersmooth, Nightmare
 	23.  Conversion potential:  Unknown
-56.  Beyonder Embassy
+55.  Beyonder Embassy
 	1.  Challenge cured:  Hard Radiation Source
 		1.  Challenge cure interpretation:  This describes a kind of hyperspace radiation that spreads throughout the whole area causing very few health effects, but devastating fertility rates.  Treating hyperspace as a literal thing, the embassy could be... pleading with the Beyonders to shut off the bad radiation source..?
 		2.  Alternative cure interpretation:  Some memetic hazard (as is the alternative interpretation of hyperspace) could be taking down fertility rates throughout society.  An entire star system affected by antinatalist memes!
@@ -1468,7 +1472,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.  Me-points:  1/3
 	17.  Special categories:  Hypersmooth, Detached, Failsafe
 	18.  Conversion potential:  Commonwealth<->Empire (limited), Panarchy<->Empire (limited)
-57.  Beyonder Gate
+56.  Beyonder Gate
 	1.  Challenge cured:  Hyperspace Darkness
 		1.  Challenge cure interpretation:  If Mental Unity were a literal link, this would be logically something right next to it... as it is on the tech tree.
 		2.  Alternative challenge cure:  I don't think that this is a literal connectedness at all.  I think this is the public's willingness to trust in each other and in their own selves.  It's really near the Axis of Trust on the low side.  When Beyonder Gates teach people to believe in their process and their goals, they also teach people more about how to trust that the right thing happens on average.
@@ -1487,7 +1491,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.  Me-points:  1/3
 	15.  Special categories:  Hypersmooth
 	16.  Conversion potential:  Unknown
-58.  Miniaturized Gate
+57.  Miniaturized Gate
 	1.  Challenge cured:  Hyperspace Collapse
 		1.  Challenge cure interpretation:  Well, interpreting the setting as strong FTL, this could be a hyperspace engineering project.
 		2.  Alternative cure interpretation:  Reaching more into metaphor (as I consider an Old Imperial theme), this "industrial processes occur partially in hyperspace" thing could be an endeavor to get people to STOP demanding to know ABSOLUTELY EVERYTHING about industrial processes.  The people who only want to work in jobs where they know EVERY DETAIL are too expensive, too rare, and too often just slowing down the implementation of systems that are better off serviced by people who only know enough to do the work.  Industrialization should be pursued by people 'smart enough to work', not just exclusively by genius gearheads!
@@ -1516,7 +1520,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	23.  Me-points:  0/3
 	24.  Special categories:  Galactic Politics
 	25.  Conversion potential:  Unknown
-59.  Penal Retreats
+58.  Penal Retreats
 	1.  Challenge cured:  Brutal justice
 	2.  Challenge cure interpretation:  This investment in rehabilitation replaces lethal or debilitation-based criminal justice with 'merely' sticking criminals in a paternalistic hole where everything they say or do will be analyzed by "virtuous" people trying to control them.
 	3.  Author protest:  I initially interpreted this as 'prison planets'.  I now consider that a misinterpretation, but I wanted to lead this section with mention of it.
@@ -1539,7 +1543,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.   Me-points:  2/3
 	21.   Special categories:  Diversifying, Rehabilitative, Mind Control
 	22.   Conversion potential:  Unknown
-60.   Technical Overseer
+59.   Technical Overseer
 	1.   Challenge cured:  Scientific Guilds
 		1.   Challenge cure interpretation:  The Technical Overseers make information available to EVERYONE!  They're anti-secrecy.  The scientific guilds are described as operating under conditions of secrecy, so the Technical Overseers bust them directly.
 		2.   Challenge cure qualm:  The scientific guilds are described as important for the theoretical research efforts of the greater galaxy.  I'm not sure that should be busted down.  Wouldn't working around them be better?  It does seem strange that secrecy would help, but maybe the 'main' tech tree in this game is 'over-dominant'.  Maybe the guilds try to remain apart from the main research in this game in order to continue preserving their ability to think differently from others.  In that case, building up technical skill around them seems like the more hopeful thing to do for scientific advancement.
@@ -1559,7 +1563,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  2/3
 	16.   Special categories:  Failsafe, Rehabilitative, Empathy Maximizer
 	17.   Conversion potential:  Commonwealth<->Panarchy
-61.   Bureaucratic Overseer
+60.   Bureaucratic Overseer
 	1.   Progression analysis:  Following on from the basic AI research that goes into implementing Technical Overseers, Bureaucratic Overseers automate a lot of boring stuff and catch a lot of boring errors... while introducing other, different errors.  On average, the economy takes longer to fall.
 	2.   Author appeal:  I consider these to be empathy maximizers, but...
 	3.   Downside analysis:  These get people working harder through correct requisitions.  It should be relatively low-stress as accelerations go, but only by being highly accurate.
@@ -1573,7 +1577,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Me-points:  2/3
 	12.   Special categories:  Failsafe, Empathy Maximizer, Detached
 	13.   Conversion potential:  Unknown
-62.   Beyonder Retreats
+61.   Beyonder Retreats
 	1.   Challenge cured:  Hyperspace predators
 		1.   Challenge cure interpretation:  I have to start with the literal interpretation... and I have to note that it sounds like evil spirits devouring crops.
 		2.   Alternative challenge cure:  Less literally, this could be anti-farming memes spreading in a way that causes people to sabotage plants, animals, and even ecosystems so that their communities do NOT become host to agricultural specialists.
@@ -1596,7 +1600,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Me-points:  1/3
 	17.   Special categories:  Hedonological, Galactic Politics, Detached
 	18.   Conversion potential:  Unknown
-63.   Deep Inhabitation
+62.   Deep Inhabitation
 	1.   Author appeal:  I love this tech!  I love caves.  High-tech cave-dwelling sounds beautiful to me as a [[dragon]].  We didn't have this in my past life, mind you.
 	2.   Mechanism proposal:  I think this can be done literally!  Albeit expensively.
 	3.   Downside analysis:  These people die in large numbers should earthquakes break up their habitats.
@@ -1619,7 +1623,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.   Me-points:  3/3
 	21.   Special categories:  Diversifying, Nightmare
 	22.   Conversion potential:  Panarchy<->Empire (Limited)
-64.   Genetic Optimization
+63.   Genetic Optimization
 	1.   Challenge cured:  Genetic stupidity
 		1.   Challenge cure interpretation:  Gene therapies for stupid people to make them more technically competent.  I appreciate this stuff, because I believe that sharing advantages widely is compassionate egalitarianism.
 	2.   Author appeal:  Romanesco broccoli.  This stuff isn't necessarily high-tech as applied to agriculture.  It's something realistic, that builds into something high-tech.
@@ -1634,7 +1638,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Me-points:  2/3
 	12.   Special categories:  Failsafe, Hypersmooth, Animal Uplift, Furry
 	13.   Conversion potential:  Empire<->Commonwealth (Limited)
-65.   Pregnancy Enhancement
+64.   Pregnancy Enhancement
 	1.   Challenge cured:  Reproductive plague
 		1.   Challenge cure interpretation:  This investment into reproductive medicine addresses this disease and its effects in a straightforward way.
 		2.   Challenge cure qualm:  This doesn't talk about losing women to disease.  It talks about causing infertility.  My standard pro-infertility biases installs a bias against using this technology to cure this challenge.
@@ -1652,7 +1656,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  0/3
 	14.   Special categories:  Animal Uplift, Furry
 	15.   Conversion potential:  Empire<->Commonwealth (Limited)
-66.   Zero Gravity Farms
+65.   Zero Gravity Farms
 	1.   Challenge cured:  High Gravity
 		1.   Challenge cure interpretation:  Anti-grav technology would sure make these less expensive to implement...
 		2.   Alternate cure interpretation:  No, it's a reference to the metaphorical interpretation here where this 'technology' is actually job subsidies for people who love some kind of work that doesn't pay off enough.  It's good hedonology, but I LIKE dignified people.  I don't want to cure high gravity people.  v.-.v
@@ -1676,7 +1680,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	19.   Me-points:  2/3
 	20.   Special category:  Unknown
 	21.   Conversion potential:  Empire<->Commonwealth (Limited)
-67.   Ancestral Recording
+66.   Ancestral Recording
 	1.   Challenge cured:  Grievance culture
 		1.   Challenge cure interpretation:  It's a mirror.  If there's a kind of people and a kind of culture that does this, showing them that they've been doing this for generations should either resolve their concerns more completely, or get them to stop doing something that they hate when they see their ancestors doing it.
 		2.   Challenge cure protest:  *I disagree with this cure*.  I think that destroying these cultures risks preventing the galaxy from seriously considering the flaws in these ideologies.
@@ -1696,7 +1700,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  0/3
 	16.   Special category:  Empathy Maximizer, Detached, Homogenizing
 	17.   Conversion potential:  Empire<->Commonwealth
-68.   Panarch's Children
+67.   Panarch's Children
 	1.   Challenge cured:  Shameful heritage
 		1.   Challenge cure interpretation:  Believing that your ancestors were evil and your genes or culture may be too tainted to be good for children is super un-sexy!  The Panarch's Children institutions... skip the sexy part.
 		2.   Alternative challenge cure:  By bringing good geneticists into the mix of parenting (on my multigoverned interpretation especially), long-term genetic faults can be corrected, and potential parents who do not *have* them can be reassured that they do indeed not have them.
@@ -1718,7 +1722,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	17.   Me-points:  -1/3 (worst two interpretations), 3/3 (multigovernance interpretation)
 	18.   Special categories:  Asexual, Nightmare (worst two interpretations), Detached (best interpretation), Furry
 	19.   Conversion potential:  Unknown
-69.   Passive Farming
+68.   Passive Farming
 	1.   Challenge cured:  Sterilized Fields
 		1.   Challenge cure interpretation:  The process of "embedding biological computers" into the landscape also improves its soil quality, by all of the interpretations that I've slated.  The hardest cases could involve importing soil control nanotechnologies from other territories.
 		2.   Challenge cure qualm:  Some areas really should just import food.  Scraping up every bit of agricultural productivity is too much sometimes.
@@ -1736,7 +1740,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  0/3
 	14.   Special categories:  Hypersmooth, Ecological
 	15.   Conversion potential:  Commonwealth<->Imperial (limited)
-70.   Panarchic Data Post
+69.   Panarchic Data Post
 	1.   Challenge cured: Scientific Isolation
 		1.   Challenge cure interpretation:  The panarchic data posts tap into the galaxy's social sciences and make them available to the local district.  Having this technology in the territory makes it possible to realign sciences with the galaxy's expectations.
 		2.   Challenge cure qualm:  Wait, does this risk destroying the possibility of novel scientific developments?
@@ -1754,7 +1758,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  1/3
 	14.   Special categories:  Detached, Galactic Politics, Homogenizing
 	15.   Conversion potential:  Commonwealth<->Panarchy (limited)
-71.   Nationalist indoctrination
+70.   Nationalist indoctrination
 	1.   Challenge cured: History of Horrors
 		1.   Challenge cure interpretation: I don't want to think about it.
 	2.   Authorial protest:  I don't want to think about this tech.  It makes the Commonwealth look nightmarishly eugenicist in the ancient sociopathic sense and incapable of enough empathy to understand what happiness even *is*.  They need something else in this slot, and I don't know what to put here yet.
@@ -1769,7 +1773,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Me-points:  -1/3
 	12.   Special categories:  Homogenizing, Nightmare
 	13.   Conversion potential:  Unknown
-72.   Right to Happiness
+71.   Right to Happiness
 	1.   Challenge cured:  Culture of Outrage
 		1.   Challenge cure interpretation:  The people who are outraged at every government decision do not believe that the government is acting in defense of happiness... especially their own.  The people who promote the right to happiness can reassure them.
 		2.   Challenge cure qualm:  The Right to Efficiency right after the Right to Happiness strikes me as potentially promoting a culture of outrage itself.  These technologies strike me as a tight loop.  What's going on?
@@ -1789,7 +1793,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  3/3  (Necessary, but not sufficient)
 	16.   Special categories:  Hedonological, Failsafe, Hypersmooth
 	17.   Conversion potential:  Unknown
-73.   Dyson Swarm
+72.   Dyson Swarm
 	1.   Challenged cured:  Replicating Minefield
 		1.   Challenge cure interpretation:  The literal interpretation here is that the dyson swarmers are bringing their families into orbit and nobody wants to expose the kids to minefield clearing day any more than they have to.  The navigational hazard gets a lot more manpower and a lot more political priority put towards clearing it, and the Dyson Swarm construction technology itself provides for the ability to out-replicate your minefield clearing kit, too.
 		2.   Alternative challenge cure:  Replicating minefields could less literally be jackasses who hate working with foreigners, but who nevertheless persistently reproduce.  In that case, the Imperial Reformers have two advantages: 1) they like working with foreigners (they're hugely +Trade), so giving them a bunch of housing space (Dyson Swarms) means you get a lot more +Trade people, and 2) their massive construction technology eventually causes people to be so diffuse that a few jackassses are no longer likely to get in the way of trade.
@@ -1814,7 +1818,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	20.   Me-points:  3/3  (Necessary, but not sufficient)
 	21.   Special categories:  Failsafe, Galactic Politics, Diversifying
 	22.   Conversion potential:  Limited Omniconverter
-74.   Open Immigration
+73.   Open Immigration
 	1.   Challenge cured:  Closed Culture
 		1.   Challenge cure interpretation:  This is pretty straightforward.
 		2.   Challenge cure qualm:  Wait, doesn't this maximize the dissonance of open immigration?
@@ -1833,7 +1837,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Me-points:  2/3
 	15.   Special categories:  Hypersmooth, Galactic Politics, Hedonological
 	16.   Conversion potential:  Omniconverter
-75.   Lord Economic
+74.   Lord Economic
 	1.   Challenge cured:
 		1.   Challenge cure interpretation:
 	2.   Author protest:  I hate this tech.  Giving an entire planetary economy to one person?  That makes NO SENSE outside of videogames.  The only good thing about placing this technology is that it endorses categories of simulation gaming.
@@ -1848,7 +1852,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/Boredom rating:  3/5 (Eustress)
 	12.   Me-points:  -1/3
 	13.   Special categories:  Hypersmooth
-76.   Deep Inhabitation
+75.   Deep Inhabitation
 	1.   Authorial protest:  These things would be destroyed by earthquakes!  And they would CAUSE earthquakes above them when they expanded!  Which they would.  They're all at least partially mining cities.
 	2.   Author appeal:  I do love caves, though.  Do you think the underground cities would ever get big enough to allow flight across them?  Oh, I've heard that higher pressures may make flight easier...  Is it wrong to imagine pressurized deep cave cities for fliers?
 	3.   Mechanism proposal:  These vastly increase land area for industry and mining.  It's also functional albeit marginal territory for intellectual activities.
@@ -1866,7 +1870,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Stress/Boredom rating:  3/5 (Eustress)
 	16.   Me-points:  2/3
 	17.   Special categories:  Homogenizing, Diversifying, Nightmare
-77.   Right to Efficiency
+76.   Right to Efficiency
 	1.   Mechanism proposal:  WYSIWG.  The Commonwealth is refreshingly literal sometimes.  Yes, by all means, let's argue with the bureaucracy by filing reports against their inefficient filing of reports.
 	2.   Downside analysis:  This is basically the bright side of the 'Culture of Outrage'.  This says that fighting with the bureaucracies over efficiency will actually work!  But it won't.  It's just still more paperwork.
 	3.   Categorization:  Since I *only* think this rots into a culture of outrage... it's actually pretty safe.  That's why I consider it a failsafe tech.
@@ -1879,7 +1883,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  2/5 (Dull)
 	11.   Me-points:  0/3
 	12.   Special categories:  Hypersmooth, Failsafe
-78.   Eternal Bank Branch
+77.   Eternal Bank Branch
 	1.   Mechanism proposal:  These are pretty obviously false.  This is hucksterism over a very long timespan.  If everyone believes that stock values will rise, stock values will rise.  If people only extract small amounts of value from the ever-rising stock values, this can (seemingly at least) continue indefinitely.
 	2.   Mechanism proposal:  Interpreting the Beyonders as 'the galactic elite' (rather than as hyperspace entities with a post-temporal POV), this suggests that the local governments yield control of the local financial system to the galactic elite when the Beyonders move in on it.  This produces good returns for a while... as everything gets purchased up and hollowed out.  This is very profoundly 'axis of trust' financial engineering.
 	3.   Siphon analysis:  This is an example of a 1/5 siphon, as it doesn't establish a local ideology much if at all.  It establishes instead that the galactic elite are hollowing out part of the territory for financial gain.
@@ -1893,7 +1897,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Me-points:  -1/3
 	12.   Special categories:
 	13.   Conversion potential:  Unknown
-79.   Landed Meritocracy
+78.   Landed Meritocracy
 	1.   Challenge cured:  Formerly Important
 		1.   Challenge cure interpretation: Perhaps it reconstructs a local sense of who is important, by giving a galactic Seal of Importance (so to speak) to a new class of "meritocrats"?
 		2.   Challenge cure qualm:  This is yet another one where working around it has thematic advantages.  If some people in the galaxy can come to terms with being "unimportant", life is easier for everywhere that would like to be "important", which is almost everywhere.
@@ -1914,7 +1918,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Me-points:  0/3
 	17.   Special categories:  Galactic politics, Ecological, Nightmare
 	18.   Conversion potential:  Unknown
-80.   Right to Competence
+79.   Right to Competence
 	1.   Challenge cured:
 		1.   Challenge cure interpretation:
 	2.   Mechanism proposal:  WYSIWYG.  This one is obviously literal.
@@ -1932,7 +1936,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Me-points:  0/3
 	15.   Special categories:  Failsafe, hypersmooth
 	16.   Conversion potential:  Unknown
-81.   Eternal Bank Platform
+80.   Eternal Bank Platform
 	1.   Mechanism proposal:  It's... reasonably literal.  The description on this tech talks about how planned economies rarely try to plan for entire star systems, because the unintended consequences are so expensive at that level.  This establishes that the Beyonder banks are being given the authority to make the attempt.
 		1.   --> TVimH (The voices in my head) say that, per THEIR concept of who the 'Beyonders' are, this would be letting people who the gods have mind controlled run the system-wide planning.  That seems worse, IMO.
 	2.   Downside analysis:  The idea of there being amazing Beyonders immune to unintended consequences is painfully 'axis of trust'.
@@ -1949,7 +1953,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  0/3
 	14.   Special categories:  Detached
 	15.   Conversion potential:  Unknown
-82.   Economic overseer
+81.   Economic overseer
 	1.   Mechanism proposal:  This seems fairly literal, but...
 	2.   Downside analysis:  "Growth and stability" is ultimately a contradictory focus.  Heavily automated systems are occasionally highly exploitable, and can even be designed to be highly exploitable, especially when they follow each other across predictable algorithmic judgments.
 	3.   Downside analysis:  Stability is a false promise in economic systems.  In this, I prefer the Commonwealth attitude, as neither the Landed Meritocracy nor the Right to Competence make false promises of stability, which both the Panarchy and the Empire are prone to.
@@ -1965,7 +1969,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  0/3
 	14.   Special categories:  
 	15.   Conversion potential:  Unknown
-83.   Industrial Overseer
+82.   Industrial Overseer
 	1.   Mechanism proposal:  The idea of a single expert computer system doing all of this is nonsense, though the more this gets attempted the less nonsensical it gets.  Still, these are presumably a star system wide dedication to assigning industrial specialists to the task of automating away industrial specialists.  This sounds like it would be forever putting people out of work, but... it doesn't!  It really doesn't.  This stuff works.
 	2.   Narrative indicator:  This makes industrial tasks progressively easier!  People automate away the parts that are hardest, either because they're hard to do exactly consistently, or because they're deathly boring (like making the exact same cut ten thousand times on ten thousand identical pieces of equipment).  The longer this has been running, the more industry runs on autopilot.
 	3.   Downside analysis:  Like the economic overseer, this can entrench misunderstandings.  An expensive automated system may be built for a certain input (let's call it 51), and then get fed a superficially identical input (let's call it 49).  If 49 and 51 would've been identical to an artisan, but 49 breaks wrong when the same cut is applied countless times by a machine that can't feel a slight pressure difference in applying the cut, a whole lot of shoddy goods may be produced before people even understand that something went wrong.  The whole supply line needs to be refined to make this stuff work.
@@ -1984,7 +1988,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Me-points:  1/3
 	17.   Special categories:  
 	18.   Conversion potential:  Empire<->Panarchy
-84.   Computerized Markets
+83.   Computerized Markets
 	1.   Challenge Cured:  Hyperinflation
 		1.   Challenge cure interpretation:  Something about peoples' intuitions in how to control inflation is really bad.  Standard inflation-control algorithms would help a lot!
 	2.   Mechanism proposal:  This computerizes all the financial markets in the district.  That's what it claims to do, and that makes sense as something for a highly advanced society to... attempt.
@@ -2003,7 +2007,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	15.   Me-points:  0/3
 	16.   Special categories:
 	17.   Conversion potential:  Empire<->Panarchy (Limited)
-85.   Constant hybridization:
+84.   Constant hybridization:
 	1.   Challenge cured: Climactic Disruption
 		1.   Challenge cure interpretation:  I think... this actually works by producing resilient, fast-growing forests.  The icon for climactic disruption is a tornado in a desert.  If the biomes recover very rapidly, they'll produce a normal water cycle relatively rapidly, pushing back desertification.
 	2.   Author protest:  This technology is oddly stupid to me.  The picture involves a rabbit and what looks like a cow with a beak, with a line between them, both of them under and to the right of a genetic helix.  It's hard to take seriously due to the icon.
@@ -2021,7 +2025,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Me-points:  2/3
 	15.   Special categories:  Diversifying, Homogenizing, Animal Uplift, Furry
 	16.   Conversion potential:  Unknown
-86.   Solar Moderator
+85.   Solar Moderator
 	1.   Challenge cured:  Solar Disruption
 		1.   Challenge cure interpretation:  This technology enables a bunch of mirrors, shades, and lenses to be used around an unstable star so that it projects patterns resembling normal steady output for the (inhabited) planets in its orbit.  Mirrors around the star may also permit returning some of its energy to its own use in a way that strengthens and stabilizes it as a mega-massive fusion generator.
 		2.   Challenge cure qualm:  Working around 'a kaleidoscope of seasons' could produce really weird, resilient ecologies!  Raising biological productivity despite this issue sounds attractive because of that.
@@ -2039,7 +2043,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	13.   Me-points:  1/3
 	14.   Special categories:  Ecological
 	15.   Conversion potential:  Unknown
-87.   Basic Income
+86.   Basic Income
 	1.   Challenge cured:  Unscrupulous Society
 		1.   Challenge cure interpretation:  I see two interpretations for this one.  The first interpretation is the naaasty one.  By punting about the idea of the basic income, society starts to see who wants to be a beggar getting stuff for free.  These people are then marginalized.  Since those people are themselves unscrupulous, this clears up productivity.
 		2.   Alternative cure interpretation:  The loving interpretation is that the Basic Income bribes people out of the way.  It takes people in make-work jobs and convinces them that they should get out of the way of advancement.  It convinces unscrupulous people to "take it easy" and enjoy society on a dime.  Big cons don't start as often, and unwind more smoothly when they do.  Even people who get taken advantage of recover more successfully.
@@ -2061,7 +2065,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	16.   Stress/boredom rating:  2/5 (Calm)
 	17.   Me-points:  2/3
 	18.   Special categories:  Hedonological, Diversifying
-88.   Imperial Foundry
+87.   Imperial Foundry
 	1.   Mechanism proposal:  It's plastic.  Monomolecular chains?  Rapidly produced, limitless in design, and "everlastingly" durable?  Plastic is amazing, but it's more aptly described as non-biodegradable.  Imperial foundries are plastic factories.
 	2.   Mechanism proposal:  These are also 3D printing technologies!
 	3.   Mechanism proposal:  This could also be nanotechnology.  Monomolecular assembly of fantastically precise engineering?  Nanites!~ This technology gets better as Wealth levels increase.
@@ -2078,7 +2082,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	14.   Stress/boredom rating:  1/5 (Dull)
 	15.   Me-points:  1/3
 	16.   Special categories:  Failsafe, Diversifying
-89.   Imperial Manufactory
+88.   Imperial Manufactory
 	1.   Mechanism proposal:  Factories that produce factories are sweet literalism.  "District"-spanning self-modifying factories that produce factories are a bit... Factorio.  Maybe.  I don't think that game even has them self-modify much.
 	2.   Authorial protest:  It just can't be honest that these span districts.  Districts are like continents in this game.  A continent-wide factory that produces factories is 'impressive' sure... but wasteful, so wasteful... and it sounds like a simple misunderstanding.
 	3.   Mechanism proposal:  Fortunately, factories that produce factories are possible.  That sounds like what America used to have, where it now has a "rust belt"!  If only we were still producing recursive industrialization goods for the world, the impoverished parts of the world would be growing even faster than they already do.
@@ -2092,7 +2096,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/boredom rating:  3/5  (Eustress)
 	12.   Me-points:  1/3
 	13.   Special categories:  Failsafe
-90.   Superconductive Grid
+89.   Superconductive Grid
 	1.   Mechanism proposal:  It's hard to talk about this because it's almost just literal.  We could almost do this already.  The problem is that this thing is not worth doing on Earth.  It's too expensive.
 	2.   Trivia:  The game's tag for this talks about ambient temperatures.  AFAIK, the highest temperature superconductors can work in industrial refrigeration units, which isn't "ambient temperatures", but it is close enough that we could literally build our power transmission wires into underground refrigeration units to have a superconductive grid.
 	3.   Categorization:  I don't see this as increasing the "blast radius" of falling governments, so... it's failsafe.  Beyond that...  I just don't know.
@@ -2104,7 +2108,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	9.   Stress/Boredom rating:  1/5  (Dull)
 	10.   Me-points:  1/3
 	11.   Special categories:  Failsafe
-91.   Green Belt
+90.   Green Belt
 	1.   Authorial protest:  Nope.  It's garbage.  An equatorial ring of plant matter and water vapor would not provide for this.  I think.  It supposedly moderates planetary temperatures, increases rainflal, and produces usable fertilizers that are micro deposited through rain.  The picture literally has a planet surrounded by orbiting plants, and I don't think that works.
 	2.   Mechanism proposal:  Maybe it refers to protecting verdant equatorial ecosystems in order to maintain their climate control methods.  This could be an environmentalist technology!
 	3.   Authorial protest:  But that still doesn't have fertilizers being microdeposited through rain.
@@ -2119,7 +2123,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	12.   Stress/Boredom rating:  1/5  (Dull)
 	13.   Me-points:  ?/3
 	14.   Special categories:  Failsafe, ecological
-92.   Weather Control Network
+91.   Weather Control Network
 	1.   Author appeal:  I believe this is possible IRL!  Controlling the weather is just a question of "brute force engineering", like the game says.
 	2.   Downside analysis:  Once you start doing this, you can't stop doing this, and it doesn't get cheap.  This isn't a failsafe technology at all.
 	3.   Mechanism proposal:  Perfect farming weather forever.  That makes sense to me.
@@ -2133,7 +2137,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	11.   Stress/Boredom rating:  3/5  (Eustress)
 	12.   Me-points:  2/3
 	13.   Special categories:  Ecological
-93.   Space Elevator
+92.   Space Elevator
 	1.   Challenge cured:  Debris Ring
 		1.   Challenge cure interpretation:  The debris ring challenge sounds like a kessler cascade kind of issue.  Once a space elevator is up, the ability to lift large loads to orbit permits bringing large amounts of industrial effort to bear on the clean-up, so that the debris ring can be turned into useful scrap instead of hazardous free-floating scrap.
 	2.   Authorial protest:  This thing's description reverses things more stupidly than the author's joyless submission-to-corruption crack in the cure for "culture to bribery".  It talks about how the elevator makes the transportation of goods from orbit to the surface of the planet free, which is already the direction that is free.  Space elevators make transmission from the surface to orbit nearly free, but people are supposed to be stupid slaves of hatred and corruption like the author of the game seems to be, so nobody is allowed to notice what the author yielded and kneeled by breaking themselves from noticing.  Seriously, this is obviously intentional.
@@ -2147,7 +2151,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  3/5  (Eustress)
 	11.   Me-points:  3/3
 	12.   Special categories:  Failsafe
-94.   Lord Bureaucratic
+93.   Lord Bureaucratic
 	1.   Challenge cured:  Selfish Political Class
 		1.   Challenge cure interpretation:  I got nothin'.  I'm still implementing it to try to figure this out.  Maybe it relates to the basic altruism of the Commonwealth, who scan like rationalists IMO.
 	2.   Mechanism proposal:  These and the Panarchic Bureau are the same thing IMO.  Lords Bureaucratic focus on the head (bureaucratic leader), whereas Panarchic Bureaus focus on the body (the middle bureaucrats).  Either way, the Commonwealth and the Panarchy both scour the galaxy searching for the most bureaucratically efficient way to do things, building up an impressive body of knowledge in the process.
@@ -2161,7 +2165,7 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.   Stress/Boredom rating:  3/5 (Eustress)
 	11.   Me-points:  1/3
 	12.   Special categories:  Galactic Politics
-95.   Panarchic Bureau
+94.   Panarchic Bureau
 	1.   Mechanism proposal:  As above.
 	2.   Apologia:  As above.
 	3.   Bureaucratic waste analysis:  This is a bureaucratic efficiency tech.
