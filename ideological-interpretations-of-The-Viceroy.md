@@ -841,16 +841,17 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	10.  Downside analysis:  Average lifespans drop despite the continued deployment of life extension technologies.  Increasingly numerous people become increasingly disposable as sex becomes weaponized.
 	11.  Mechanism proposal:  A blind eye attitude to child molestation also promotes early sexualization.  From there, you ban abortion, restrict contraceptives, and maybe even force rape victims to marry their rapists like ancient human cultures on Earth did.  Voila!  The population grows.  Your expanded voting block will not be defeated; behold the reality of democratic governance.
 	12.  Authorial protest:  I see myself as Commonwealth!  But not like THIS!  The Commonwealth needs reforms!  Sexual liberation needs to be in the tech tree.  The galaxy needs sex ed classes!
-	13.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
-	14.  Utopic rating:  0/5
-	15.  Public protection rating:  2/5
-	16.  Technological smoothness:  5/5
-	17.  Technological extremophilia:  1/5
-	18.  Stress/Boredom rating:  3/5 (Eustress)
-	19.  Me-points:  -1/3
-	20.  Kind of person most protected:  People who want to raise kids for the glory of their race.
-	21.  Special categories:  Hypersmooth, Homogenizing, Nightmare
-	22.  Conversion potential:  Hopefully, none.
+	13.  Authorial protest:  I see myself as Commonwealth, but not like this.  The galaxy needs virtuous asexuality.  Sexual liberation needs to be in the tech tree, and the galaxy needs sex ed classes.  I'm reaffirming this based on a bad dream.
+	14.  Bureaucratic waste analysis:  Almost totally non-literal.  This hires a few bureaucrats to promote childbearing and a few secret agents to ruin dissidents.  From there, it's all about breaking the will of people who want to do things with their lives other than raise kids.  Boring people who actually want to do paperwork are NOT sexy... and with society busily "avoiding stagnation", they're soon cycled out of the gene pool.
+	15.  Utopic rating:  0/5
+	16.  Public protection rating:  2/5
+	17.  Technological smoothness:  5/5
+	18.  Technological extremophilia:  1/5
+	19.  Stress/Boredom rating:  3/5 (Eustress)
+	20.  Me-points:  -1/3
+	21.  Kind of person most protected:  People who want to raise kids for the glory of their race.
+	22.  Special categories:  Hypersmooth, Homogenizing, Nightmare
+	23.  Conversion potential:  Hopefully, none.
 29.  Reproduction Mandate
 	1.  Challenge cured:  Zero Birth Culture
 		1.  Challenge cure interpretation:  Taxes the zero birth culture to death, or otherwise uses state force to break them up.

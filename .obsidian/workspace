@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 43.35213537469783,
+            "dimension": 30.516817063166528,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 56.64786462530217,
+            "dimension": 69.48318293683346,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-12-27-Two-Hundred-and-Ninth.md",
+                    "file": "2021-12-29-Two-Hundred-and-Tenth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-27-Two-Hundred-and-Ninth.md",
+                "file": "2021-12-29-Two-Hundred-and-Tenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2021-12-29-Two-Hundred-and-Tenth.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "2021-12-27-Two-Hundred-and-Ninth.md",
     "Viceroy-Scorecards.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "Bibliography.md",
     "Northern-Creche-Confederation.md",
     "Videogame-Wishlist.md",
     "2021-12-18-Two-Hundred-and-Eighth.md",
     "aowcommander-profiles.md",
-    "2021-12-10-Two-Hundred-and-Seventh.md",
-    "aowplanetfall-by-empathy.md"
+    "2021-12-10-Two-Hundred-and-Seventh.md"
   ]
 }
