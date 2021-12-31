@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "aowcommander-profiles.md",
+                    "file": "Bibliography.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,15 +149,15 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "ideological-interpretations-of-The-Viceroy.md",
+    "Bibliography.md",
     "aowcommander-profiles.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "age-of-wonders-planetfall.md",
     "2021-12-29-Two-Hundred-and-Tenth.md",
     "2021-12-27-Two-Hundred-and-Ninth.md",
     "Viceroy-Scorecards.md",
-    "Bibliography.md",
     "Northern-Creche-Confederation.md",
     "Videogame-Wishlist.md",
     "2021-12-18-Two-Hundred-and-Eighth.md"

@@ -46,6 +46,7 @@ Sections;
    14) [[Be-a-Perfect-Person-in-Just-Three-Days!]]
    15) [[Sentenced-to-Prism]]
    16) [[The-Practice-Effect]]
+   17) [[Dragon-Girls-Azmina-the-Gold-Glitter-Dragon]]
 
 3) Anthologies
 	1) [[The Furry Future]]
