@@ -201,10 +201,10 @@ If you stack a bunch of the cultural specialist buildings while pulling from the
 The voices in my head have crafted an interesting system of 'leanings' that I've realized I should record for this effort of figuring out the progression sequences.  The leanings are as follows:
 
 1) Imperial Panarchic - A Panarchist who wants to become Imperial and/or who admires the society of the Empire of the Elect.  They use Imperial technologies to implement the Panarchy and/or they use Panarchic technologies to implement the Empire, etc.
-	1) The Imperial Panarchics embody will, and utilize serenity.  This is a scary combination that suggests they are 'putting on a mask', 'going through the motions', and it's fitting that the name of the faction where they are most empowered is the Panarchic Ritualists, but they are also respected in the Old Empire.
+	1) The Imperial Panarchics embody will, and utilize serenity.  This is a scary combination that suggests they are 'putting on a mask', 'going through the motions', etc., and it's fitting that the name of the faction where they are most empowered is called 'the Panarchic Ritualists'.  They are however also well-respected in the Old Empire.
 2) Commonwealth Panarchic - A Panarchist who wants to become Commonwealth and/or who admires the society of the Commonwealth.
 	1) The Commonwealth Panarchics embody will, and utilize unity.  This suggests that they are the beneficiaries of a good society whose unified nature supports the development of many different individuals *as* individuals.  The faction where they are most empowered is the Panarchic Informalists, but they are also respected in the Commonwealth Consensus.
-	2) I like some Imperial technologies (most notably artificial wombs), but overall I believe that this is my 'type'.
+	2) I like many Imperial technologies, but overall I believe that this is my 'type'.  It is a good ideal for transhumanism.
 3) Commonwealth Imperial - An Imperial who wants to become Commonwealth and/or who admires the society of the Commonwealth.
 	1) The Commonwealth Imperials embody serenity, and utilize unity.  This suggests that they are the beneficiaries of a good society whose unified nature promotes calm and mental balance.  The faction where they are most empowered is the Imperial Reformers, but they are also respected in the Commonwealth Unifiers.
 4) Panarchic Imperial - An Imperial who wants to become Panarchic and/or who admires the society of the Panarchy.
