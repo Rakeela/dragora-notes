@@ -223,7 +223,7 @@ Conversely, from the Lyceum you get both flavors of Panarchic thought, plus Pana
 
 I feel like even if I don't write this book, I have gained a lot of narrative sensitivity from playing this game, and I don't regret thinking as deeply as I have about playing it.
 
-That said, my ability to use the 'leanings' that the voices in my head use is stymied by one factor: they insist, quite resolutely, that the Empire of the Elect are a true hive mind.  They LOVE that hive mind, too.  They are barely capable of imagining an Empire of the Elect without a hive mind, and they don't like doing it.  Since I don't imagine nearly as much of a hive mind as they do, it's hard for me to use their thoughts about the Empire, and their thoughts about it tend to disrupt/disarray my own thoughts about it.
+That said, my ability to use the 'leanings' that the voices in my head use is stymied by one factor: they insist, quite resolutely, that the Imperials are a true hive mind.  They LOVE that hive mind, too.  They are barely capable of imagining an Empire of the Elect without a hive mind, and they don't like doing it.  Since I don't imagine the Imperials as a hive mind the way they do, it's hard for me to use their thoughts about the Empire, and their thoughts about it tend to disrupt/disarray my own thoughts about it.
 
 ---
 I still wish the Population Explosion side effect wasn't there with Wealth.  Societies where "wealth" yields massive population still remind me of the Bubba Joe Dystopia thought.
