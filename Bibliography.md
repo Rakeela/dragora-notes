@@ -47,6 +47,7 @@ Sections;
    15) [[Sentenced-to-Prism]]
    16) [[The-Practice-Effect]]
    17) [[Dragon-Girls-Azmina-the-Gold-Glitter-Dragon]]
+   18) [[A-Wizard-of-Earthsea]]
 
 3) Anthologies
 	1) [[The Furry Future]]
