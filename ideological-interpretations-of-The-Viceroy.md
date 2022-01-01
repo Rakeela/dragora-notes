@@ -198,6 +198,9 @@ I tend to assign the lowest social class to Telepathic Dust, t'note.  This sugge
 If you stack a bunch of the cultural specialist buildings while pulling from the low end, it suggests a kind of beloved lingering at extreme development levels whereby the middle class subculture holds on steadfastly to cultural relevance.  My favorite faction is the Commonwealth Consensus...  If I leave the Panarchists in those positions, it makes sense that the Panarchists are in command of culture, as they long to be.  Everyone loves them, even as they're gradually more Commonwealth.
 
 ---
+The voices in my head have crafted an interesting system of 'leanings' that I've realized I should record for this effort of figuring out the progression sequences.
+
+---
 I still wish the Population Explosion side effect wasn't there with Wealth.  Societies where "wealth" yields massive population still remind me of the Bubba Joe Dystopia thought.
 
 ---

@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 30.51681706316653,
+            "dimension": 30.516817063166535,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-12-31-Two-Hundred-and-Eleventh.md",
+                    "file": "2022-01-01-Two-Hundred-and-Twelfth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-31-Two-Hundred-and-Eleventh.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "ideological-interpretations-of-The-Viceroy.md",
+    "2022-01-01-Two-Hundred-and-Twelfth.md",
     "2021-12-31-Two-Hundred-and-Eleventh.md",
     "aowcommander-profiles.md",
     "aowplanetfall-by-empathy.md",
     "Bibliography.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "age-of-wonders-planetfall.md",
     "2021-12-29-Two-Hundred-and-Tenth.md",
     "2021-12-27-Two-Hundred-and-Ninth.md",
-    "Viceroy-Scorecards.md",
-    "Northern-Creche-Confederation.md"
+    "Viceroy-Scorecards.md"
   ]
 }
