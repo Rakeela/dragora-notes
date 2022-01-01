@@ -198,7 +198,20 @@ I tend to assign the lowest social class to Telepathic Dust, t'note.  This sugge
 If you stack a bunch of the cultural specialist buildings while pulling from the low end, it suggests a kind of beloved lingering at extreme development levels whereby the middle class subculture holds on steadfastly to cultural relevance.  My favorite faction is the Commonwealth Consensus...  If I leave the Panarchists in those positions, it makes sense that the Panarchists are in command of culture, as they long to be.  Everyone loves them, even as they're gradually more Commonwealth.
 
 ---
-The voices in my head have crafted an interesting system of 'leanings' that I've realized I should record for this effort of figuring out the progression sequences.
+The voices in my head have crafted an interesting system of 'leanings' that I've realized I should record for this effort of figuring out the progression sequences.  The leanings are as follows:
+
+Imperial Panarchic - A Panarchist who wants to become Imperial and/or who admires the society of the Empire of the Elect.
+Commonwealth Panarchic - A Panarchist who wants to become Commonwealth and/or who admires the society of the Commonwealth.
+Commonwealth Imperial - An Imperial who wants to become Commonwealth and/or who admires the society of the Commonwealth.
+Panarchic Imperial - An Imperial who wants to become Panarchic and/or who admires the society of the Panarchy.
+Panarchic Commonwealther - A Commonwealther who wants to become Panarchic and/or who admires the society of the Panarchy.
+Imperial Commonwealther - A Commonwealther who wants to become Imperial and/or who admires the society of the Commonwealth.
+
+Each subculture has the 'types' that match its middle and upper class.  So for instance, the Imperial Reformers have Commonwealth Imperials and Imperial Commonwealthers.  They have an upperclass of Imperial Commonwealthers who have a legacy of Imperial thought that they build from, while their middle class of Commonwealth Imperials works to become Commonwealth themselves.
+
+For another example, Panarchic Imperials try to lead the Empire towards the Panarchy.  They advocate for teaching Imperial technologies to the Panarchy and they try to learn how to implement Panarchic technologies for the Empire.  These are most common in the Old Empire and the Panarchic Ritualists.  In the Old Empire, the upper class of Panarchic Imperials works to preserve and glorify the legacy of the Panarchy in the name of the Empire of the Elect; in the Panarchic Ritualists, by contrast, you have Panarchic Imperials who are trying to become Panarchists.
+
+This is another way of looking at the progression of each society.  The lower classes are notably pushed out in each case.
 
 ---
 I still wish the Population Explosion side effect wasn't there with Wealth.  Societies where "wealth" yields massive population still remind me of the Bubba Joe Dystopia thought.
