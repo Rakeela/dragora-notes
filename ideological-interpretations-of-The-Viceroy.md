@@ -1005,17 +1005,18 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 	8.  Downside analysis:  If what people think is universal is reproductive desire, the utopianism of this technology falls farther.  This is another thing that I am judging from my own experiences, for which I am giving this -1 utopianism where natalist policies are active.
 	9.  Tech level analysis:  Like the Seat of Beauty and Holistic Industrialization, this technology is perfectly smooth... because it doesn't really say anything about the actual technology level of the society implementing it.  You could implement this at any tech level.  People just have to be willing to believe in it.  From there, it may (if successful) promote technological advancement through convincing people to trust in and experiment with weird ideas.
 	10.  Mechanism proposal:  Regrettably, as I've written the Imperials to have a hive-mind, this technology also suggests that the hive-mind is being reconstructed after the implied transhuman rights advances of Distributed Intelligence.  Still... this requires that the work be done *aesthetically*, with better respect for individual creative potential.  Better to be in a Unity hivemind than a splintered shard.
-	11.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
-	12.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
-	13.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
-	14.  Technological smoothness:  5/5
-	15.  Technological extremophilia:  4/5
-	16.  Stress/Boredom rating:  2/5 (Calm)
-	17.  Me-points:  (Mental Unity) -1/3
-	18.  Alternate Me-points:  (Sapience Axioms) 2/3
-	19.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
-	20.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
-	21.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
+	11.  Miscellaneous note:  This isn't a happiness technology.  It doesn't even make its best proponents happy.  I'd say it makes its proponents more unhappy than others, as acknowledging all people involves acknowledging a lot of tragedy.  Putting themselves as the losers in the mega-tech race... is probably more ethical than a lot of these technologies are.  Perhaps that should be a category itself, though I'm also inclined to see it as encompassed in the combination of "failsafe" and "empathy maximizer".
+	12.  Bureaucratic waste analysis:  Literal!  It's totally literal bureaucratic waste.  It establishes segments of government that are doing things only because they're beautiful.  And, well...  Okay, some of it's not literal, but it's not promoting hatred.  This is almost certainly not going to kill talented people or make them unwilling to cooperate with others.  It'll just... encourage them to feel safe performing very esoteric arts for very niche audiences.  Sometimes that's amazing.  Sometimes that's a waste of talent.
+	13.  Utopic rating:  4/5, +1 with artificial dreamtime, -1 with natalist policies, -2 in feudal economies, -1 if wealth level is less than 2
+	14.  Public protection rating:  4/5, +1 with enlightened policing, -2 if wealth level is less than 2, -2 in feudal economies
+	15.  Technological smoothness:  5/5
+	16.  Technological extremophilia:  4/5
+	17.  Stress/Boredom rating:  2/5 (Calm)
+	18.  Me-points:  (Mental Unity) -1/3
+	19.  Alternate Me-points:  (Sapience Axioms) 2/3
+	20.  Kind of person most protected:  People who'd really like to spend a few centuries perfecting a niche artistic skill.
+	21.  Special categories:  Empathy Maximizer, Diversifying, Hedonological, Furry
+	22.  Conversion potential:  Panarchy<->Empire (limited); Commonwealth<->Empire
 33.  Engineered Optimism
 	1.  Challenge cured:  Spiritually broken
 		1.  Challenge cure interpretation:  I think this cure is genetic.  The people who have optimistic genes, whether under the base game's use of this technology or the better version that I would implement, are *not* spiritually broken.
