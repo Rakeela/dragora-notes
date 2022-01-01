@@ -151,6 +151,9 @@ Sections;
    3) [[The-Only-World-Building-Workbook-You'll-Ever-Need]]
    4) [[The-Psychology-Workbook-for-Writers]]
 
+12) Cookbooks
+	1) [[Centennial-Home-Holiday-Keto]]
+
 I'm considering putting a list of unusually notable video game manuals onto here as well, though it will likely only be two items long to begin with.  My favorite videogame manual is the game manual for Sierra's Arcanum: of Steamworks and Magick Obscurum.  I would probably add in video game strategy guides in the same section; the strategy guide for the game Outpost is more of a work of art than the buggy, incomplete game itself.  I wish the game Outpost had been successfully completed!
 
 Book currently in progress:  [[The-Ethical-Slut]]
