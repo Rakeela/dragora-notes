@@ -2333,6 +2333,8 @@ Specific decisions about what to cure vs what to leave as-is can also be interpr
 
 2021-12-13;  If I can't get the millennial reign achievement, should I continue trying to write this at all?
 
+2022-01-03;  The voices in my head and the love of my life agree on two things: I shouldn't play this game.  I've given the wrong impression of Tvimh, I think; they are both obsessed with and yet opposed to this game.  So nobody in my personal life expects this book project to be finished.  Yet I've just had a thought I want to record.  What if I write of the harvest?  Each of these technologies could be a way of finding people who live forever, as I imagined them, and what if I wrote a fictional non-fictional book about techniques in an advanced society to find people who are stable forever?  I could cloak the three factions.  The Panarchy finds immortals by searching, the Commonwealth finds immortals by protecting, and the Imperials find immortals by productivity.
+
 ---
 The Much-Reviled Lower Classes
 

@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "ideological-interpretations-of-The-Viceroy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,10 +149,10 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
-    "Bibliography.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "Bibliography.md",
     "2022-01-01-Two-Hundred-and-Twelfth.md",
     "2021-12-31-Two-Hundred-and-Eleventh.md",
     "aowcommander-profiles.md",
