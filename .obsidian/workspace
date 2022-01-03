@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 30.516817063166535,
+            "dimension": 34.07590759075907,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 69.48318293683346,
+            "dimension": 65.92409240924091,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "Eternity's-Harvest.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "Eternity's-Harvest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "Eternity's-Harvest.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "Bibliography.md",
     "2022-01-01-Two-Hundred-and-Twelfth.md",
@@ -159,7 +160,6 @@
     "aowplanetfall-by-empathy.md",
     "age-of-wonders-planetfall.md",
     "2021-12-29-Two-Hundred-and-Tenth.md",
-    "2021-12-27-Two-Hundred-and-Ninth.md",
-    "Viceroy-Scorecards.md"
+    "2021-12-27-Two-Hundred-and-Ninth.md"
   ]
 }
