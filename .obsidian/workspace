@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 34.07590759075907,
+            "dimension": 55.03300330033003,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 65.92409240924093,
+            "dimension": 44.96699669966996,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-01-04-Two-Hundred-and-Thirteenth.md",
+                    "file": "Bibliography.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-04-Two-Hundred-and-Thirteenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,12 +148,12 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "Bibliography.md",
     "2022-01-04-Two-Hundred-and-Thirteenth.md",
     "aowcommander-profiles.md",
     "Eternity's-Harvest.md",
-    "Bibliography.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "2022-01-01-Two-Hundred-and-Twelfth.md",
     "2021-12-31-Two-Hundred-and-Eleventh.md",

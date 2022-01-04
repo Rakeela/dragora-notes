@@ -35,5 +35,11 @@ I wish I knew for sure.  I wish I had her OKCupid account, for instance.  That'd
 
 I dropped out of high school pretty much ASAP to get a GED, and I was in college before my classmates had graduated.  It's weird to think about how optimistic a time in my life that was.  I wish I'd been able to fluidly transfer credits when I moved out to Redmond, Washington.  I was busy with the work I'd been taught, miserable as it made me, and I didn't have access to a car out here.
 
+By now, I shouldn't really drive a car until it's self-driving.  Maybe someday!
+
+---
+I've just finished a rather hefty book to add to my [[Bibliography]].  It's [[The-Fifth-Season]] by N. K. Jemison.  I recommend it.
+
+
 ---
 Back to [[day-post-archive]]
