@@ -14,4 +14,11 @@ I spoke of more than feeling inadequate.  I spoke of freezing up, which should h
 Groomers take note: teach your victims gratitude.  More than anything else, if your victims are grateful they will be the ones at fault.
 
 ---
+I only ever had one lover younger than myself.  Madison, who was 12 when I was 14.  I met her on Furcadia where we both had otter characters, and we moved to IMVU.  IMVU was appealing as a sort of visual cuddling method, but middle school was brutal, and I needed my happy space NOT to have a village built up in it.  I dumped her for wanting to have kids with me.  I am glad that I didn't teach Madison gratitude, but rather I got frustrated with her as her tales of her other friendships seemed rife with needing to stand up for herself.
+
+Before Madison was Nander, when I was even younger, with a much larger age gap between us.  Nander was actually pretty great, he came off like a poet to me, and he encouraged me to do a lot of new things.  Too many new things, frankly; I regret the relationship in hindsight.
+
+Before Nander was Sedyana, at the cusp of adolescence for me, but I hold Sedyana blameless as I believe I never told her anything that would indicate my age.
+
+---
 Back to [[day-post-archive]]
