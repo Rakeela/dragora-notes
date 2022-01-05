@@ -12,7 +12,13 @@ Factions:
 	3.  The hyperconsensuals also value people who are placidly dedicated to (and willing to continue paying for) specific programs that the hyperconsensuals are already running.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.
 	4.  Since running people in software "only costs electricity", one of the categories of people who the hyperconsensuals have a special love for are the extremely efficient people who are willing to live in pure simulation.  Category of sought immortal:  true believers in simulationism.
 	5.  Since they have a lot of hyper-efficient simulated people to keep entertained, the hyperconsensuals also prize entertainers.  This dovetails with their pursuit of influential people for taxpaying purposes.  Category of sought immortal: simulation programmers.
-2.  
+2.  Planet Builders
+	1.  This replaces the Empire.  The planet builders believe that society is defined by its outputs, and they never want to give up trying to increase productivity, even if that means they end up producing useless things like new planetary bodies on which dwell people they'll never meet.  Category of sought immortal:  True believers in productivism.
+	2.  The planet builders believe in nonconsensual taxation.  One of the more prosaic kinds of people they need is therefore auditors.  The conflict between taxpayer and auditor proceeds forever in this society.  Category of sought immortal: accountants and auditors.
+	3.  As in the hyperconsensuals, people who are placidly dedicated to (and willing to continue paying for) specific programs that the planet builders are already running are valued.  Everyone loves these people if they can *believe* in them; the planet builders believe in these less often than the hyperconsensuals, but do want them when they're convinced.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.  
+	4.  In order to maximize productivity, many people are necessarily dedicated to inferior roles under superior direction.  The planet builders are thus pre-eminent protectors of those who do not even *wish* to govern themselves, but who seek immortality under someone else's direction.  Category of sought immortal: mushroom people who will just follow orders even when they think they might be getting fed shit and kept in the dark.
+	5.  Massive industrial organization requires pulling on skills and resources from massively disparate areas, as the planet builders imagine it.  This means massive investments such as space elevators and even the hollowing out of existing worlds to increase available surface area.  Category of sought immortal:  Logisticians and miners.
+3.  
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
