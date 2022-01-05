@@ -18,7 +18,8 @@ Factions:
 	3.  As in the hyperconsensuals, people who are placidly dedicated to (and willing to continue paying for) specific programs that the planet builders are already running are valued.  Everyone loves these people if they can *believe* in them; the planet builders believe in these less often than the hyperconsensuals, but do want them when they're convinced.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.  
 	4.  In order to maximize productivity, many people are necessarily dedicated to inferior roles under superior direction.  The planet builders are thus pre-eminent protectors of those who do not even *wish* to govern themselves, but who seek immortality under someone else's direction.  Category of sought immortal: mushroom people who will just follow orders even when they think they might be getting fed shit and kept in the dark.
 	5.  Massive industrial organization requires pulling on skills and resources from massively disparate areas, as the planet builders imagine it.  This means massive investments such as space elevators and even the hollowing out of existing worlds to increase available surface area.  Category of sought immortal:  Logisticians and miners.
-3.  
+3.  Unioneers
+	1.  This replaces the Commonwealth.  The Unioneers believe that the purpose of sapience is to be happy, and that all technology is ultimately the search for the alleviation of misery and attainment of superior happiness.  Category of sought immortal: people who make others happy.
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
