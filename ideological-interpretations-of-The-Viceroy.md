@@ -117,10 +117,13 @@ The Six Subcultures
 		 - If they accept collapsing like other factions and compromise on the particular devastation that *they* inflict, they can do better by using someone else's view of collapse.  The good ones collapse like the Commonwealth Consensus, loving the party and pressing back their own society's inclination to misery.
 	 - The Stereotype
 		 - "Don't burn that, there are worlds in that goop!"
+			 - "These guys are just nanite swarms that eat metal!  Why are we supposed to respect them?"
+			 - "This used to be a good, comprehensible society.  Now it's... nothing.  It's nothing, doing nothing, for no purpose, just gleaming bismuthine seas of nothing."
+		 - 
 	 - The Rebellion (Imperial)
-		 - They can't be trusted with cybernetics, but they install them everywhere forcibly.  They believe that people will fall to hedonism if their happiness is protected, and they hack brains to try to prevent that.  This causes their wastage to increase radically, albeit in different ways, that serve their biases perfectly: organics with cybernetic brain parasitess proceed to fail into people desperate for relief from suffering, ie into "hedonists".
+		 - They can't be trusted with cybernetics, but they install them everywhere at the faintest whiff of agreement.  They believe that people will fall to hedonism if their happiness is protected, and they hack brains to try to prevent that.  This causes their wastage to increase radically, albeit in different ways, that serve their biases perfectly: organics with cybernetic brain parasitess proceed to fail into people desperate for relief from suffering, ie into "hedonists".
 		 - The Informalist AIs can't comprehend depressive "hedonism".  They spread depression in general, and then fail to recognize that depressed people are unproductive for reasons related to depression.  They see depressed people as useless hedonists who just don't want to work.
-		 - The Informalists literally automate industry, and then they have little need of working hard.  Despite this, they press everyone into deep misery trying to get people to work harder.  Hard work hardly works in this society!  Their demands that everyone work harder are so awful that they destroy the work ethic at both ends.
+		 - The Informalists literally automate industry, and then they have little need of working hard.  Despite this, they press everyone into deep misery trying to get people to work harder.  Hard work hardly works in this society!  Their demands that everyone work harder are so awful that they burn the work ethic at both ends.
 
  - The Panarchic Paradise Overseers
 	 - The Rundown

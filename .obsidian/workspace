@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 55.03300330033003,
+            "dimension": 41.006600660066006,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 44.96699669966996,
+            "dimension": 58.993399339933994,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bibliography.md",
+                    "file": "ideological-interpretations-of-The-Viceroy.md",
                     "mode": "source"
                   }
                 }
@@ -132,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Eternity's-Harvest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,13 +149,13 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "e5f17a424dadb013",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "Eternity's-Harvest.md",
+    "ideological-interpretations-of-The-Viceroy.md",
     "Bibliography.md",
     "2022-01-04-Two-Hundred-and-Thirteenth.md",
     "aowcommander-profiles.md",
-    "Eternity's-Harvest.md",
-    "ideological-interpretations-of-The-Viceroy.md",
     "2022-01-01-Two-Hundred-and-Twelfth.md",
     "2021-12-31-Two-Hundred-and-Eleventh.md",
     "aowplanetfall-by-empathy.md",

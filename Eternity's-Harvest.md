@@ -1,5 +1,18 @@
-This is a stub for a concept.  Using my notes from IIoTV, I'm considering putting together a setting that talks about my concept of three factions organized to search together (albeit rivalrously) for potentially qualified immortals.  The setting would be titled "Eternity's Harvest" and being "harvested" would be a good thing for a change.
+This is a stub for a concept.  Using my notes from IIoTV, I'm considering putting together a setting that talks about my concept of three factions organized to search together (albeit rivalrously) for potentially qualified immortals.  The setting would be titled "Eternity's Harvest" and being "harvested" would be a good thing in this context.  Since I'd be writing my own story, the success rate could be much higher although the path would still be long.  A thousand years of supported candidate immortality is not a grevious burden.
 
+This would potentially be an Orion's Arm setting.  I'm not going to study Orion's Arm quite that studiously just yet, but it's hard for me to imagine so many different levels of intelligence coexisting without trial grounds of some kind or another.
+
+I was thinking that this would also justify a review of the IIoTV stuff which would reconsider each technology in terms of what kind of virtues it would "harvest".  It's been hard to get going though, as I immediately started reviewing Distributed Intelligence.  Distributed Intelligence strikes me as such a complex *metaphor* in The Viceroy, that if I give it to the three factions (the psuedo-Panarchic, the psuedo-Commonwealth, and the pseudo-Imperial) they'll each have their own *totally different* idea for what to use in that "slot".  So do I then put in one technology for review, or three?  Maybe I should start by reviewing what the factions would be.
+
+---
+Factions:
+1.  Hyperconsensuals
+	1.  This replaces the Panarchy.  They believe that paradisic societies should be organized without coercive force, including without state coercion, ie they believe in voluntary tax codes.  Category of sought immortal: true believers in voluntarism.
+	2.  The hyperconsensuals believe in a whole lot of cultural power to try to get people to pay taxes without being **coerced** to pay taxes.  Category of sought immortal: very persuasive people.
+	3.  The hyperconsensuals also value people who are placidly dedicated to (and willing to continue paying for) specific programs that the hyperconsensuals are already running.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.
+	4.  Since running people in software "only costs electricity", one of the categories of people who the hyperconsensuals have a special love for are the extremely efficient people who are willing to live in pure simulation.  Category of sought immortal:  true believers in simulationism.
+	5.  Since they have a lot of hyper-efficient simulated people to keep entertained, the hyperconsensuals also prize entertainers.  This dovetails with their pursuit of influential people for taxpaying purposes.  Category of sought immortal: simulation programmers.
+2.  
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
