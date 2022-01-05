@@ -22,7 +22,7 @@ Factions:
 	1.  This replaces the Commonwealth.  The unioneers believe that the purpose of sapience is to be happy, and that all technology is ultimately the search for the alleviation of misery and attainment of superior happiness.  Category of sought immortal: people who make others happy.
 	2.  The unioneers usually believe in nonconsensual taxation.  One of the more prosaic kinds of people they need is therefore auditors.  The conflict between taxpayer and auditor proceeds forever in this society.  Category of sought immortal: accountants and auditors.
 	3.  As in the hyperconsensuals, people who are placidly dedicated to (and willing to continue paying for) specific programs that the planet builders are already running are valued.  Everyone loves these people if they can *believe* in them; the unioneers believe in these less often than the hyperconsensuals, but do want them when they're convinced.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.  
-	4.  
+	4.  To increase the sum total happiness of the cosmos, areas that are fully happy are encouraged to increase in population to guide others to their state.  Their most developed areas strive to increase in liveable surface area accordingly.  Category of sought immortal: megastructure builders.
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
