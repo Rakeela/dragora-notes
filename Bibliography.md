@@ -28,6 +28,7 @@ Sections;
    14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]] (genericity)
    15) [[Artemis-Fowl]]
    16) [[Dune]]
+   17) [[The-Earthsea-Cycle]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -47,8 +48,7 @@ Sections;
    15) [[Sentenced-to-Prism]]
    16) [[The-Practice-Effect]]
    17) [[Dragon-Girls-Azmina-the-Gold-Glitter-Dragon]]
-   18) [[A-Wizard-of-Earthsea]]
-   19) [[The-Fifth-Season]]
+   18) [[The-Fifth-Season]]
 
 3) Anthologies
 	1) [[The Furry Future]]
