@@ -23,6 +23,11 @@ Factions:
 	2.  The unioneers usually believe in nonconsensual taxation.  One of the more prosaic kinds of people they need is therefore auditors.  The conflict between taxpayer and auditor proceeds forever in this society.  Category of sought immortal: accountants and auditors.
 	3.  As in the hyperconsensuals, people who are placidly dedicated to (and willing to continue paying for) specific programs that the planet builders are already running are valued.  Everyone loves these people if they can *believe* in them; the unioneers believe in these less often than the hyperconsensuals, but do want them when they're convinced.  Category of sought immortal: people who love specific programs enough to pay for them voluntarily.  
 	4.  To increase the sum total happiness of the cosmos, areas that are fully happy are encouraged to increase in population to guide others to their state.  Their most developed areas strive to increase in liveable surface area accordingly.  Category of sought immortal: megastructure builders.
+	5.  As the Unioneers believe in massively cooperative psychology, they want to identify people who work well with distant others.  Category of sought immortal: cultural travellers.
+
+Taxpayers are the universal category, hah.  People who truly believe in working to support specific programs are the ones who enable those specific programs to become larger and more uniformly implemented.  Finding taxpayers could be the whole determination of the Eternity's Harvest project and one of the ways that the "True" ideology of the program is proven.
+
+I'm thinking that the Eternity's Harvest project is a world-of-worlds that runs in a massive post-economic virtual reality where people have signed up in billions to be sorted, elevated, and given an avenue to a broader paradise back out in the real.  At the same time, it's also a planet-building project with a massive megastructure that they extend over time..  In turn, the Eternity's Harvest project is run by Paradise Overseers who try to fit everyone into a perfect paradise within and without the simulation.
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
