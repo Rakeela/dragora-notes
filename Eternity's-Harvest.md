@@ -27,7 +27,9 @@ Factions:
 
 Taxpayers are the universal category, hah.  People who truly believe in working to support specific programs are the ones who enable those specific programs to become larger and more uniformly implemented.  Finding taxpayers could be the whole determination of the Eternity's Harvest project and one of the ways that the "True" ideology of the program is proven.
 
-I'm thinking that the Eternity's Harvest project is a world-of-worlds that runs in a massive post-economic virtual reality where people have signed up in billions to be sorted, elevated, and given an avenue to a broader paradise back out in the real.  At the same time, it's also a planet-building project with a massive megastructure that they extend over time..  In turn, the Eternity's Harvest project is run by Paradise Overseers who try to fit everyone into a perfect paradise within and without the simulation.
+I'm thinking that the Eternity's Harvest project is a world-of-worlds that runs in a massive post-economic virtual reality where people have signed up in billions to be sorted, elevated, and given an avenue to a broader paradise back out in the real.  At the same time, it's also a planet-building project with a massive megastructure that they extend over time based on talents surfaced in the virtual reality.  The Eternity's Harvest project is run overall by Paradise Overseers who try to fit everyone into a perfect paradise within and without the simulation.
+
+Modelling after The Viceroy, it could be that every 'run' of a simulation in Eternity's Harvest takes 100-300 subjective years, with outliers in the 500+ year range, and these years are used to train and judge the people who signed up to participate.  Some people participate in many of them, and some of them are just using the system to recreationally live various lives.  This is an approved use of the Eternity's Harvest simulation, though the simulators try to draw people back out into the megastructure society outside of the simulations as well, via finding perfect conditions for them.
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]

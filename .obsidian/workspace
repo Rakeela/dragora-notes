@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 21.297037630104082,
+            "dimension": 53.0161427357689,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 78.70296236989591,
+            "dimension": 46.98385726423109,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-14-Two-Hundred-and-Sixteenth.md",
+                "file": "Eternity's-Harvest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,11 +149,11 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "Eternity's-Harvest.md",
     "2022-01-14-Two-Hundred-and-Sixteenth.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "Eternity's-Harvest.md",
     "aowcommander-profiles.md",
     "character-gallery.md",
     "The-Earthsea-Cycle.md",
