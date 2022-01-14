@@ -5,4 +5,7 @@ I was falling asleep in a meeting until I did something direly awful that I'm no
 That woke me immediately, but it wasn't good for my quality of participation in any of the contexts.  I'm disappointed by the wakefulness effect.  It seemed suspiciously useless that I woke up like that.
 
 ---
+I am cripplingly exhausted today.  Maybe it was coincidence that anything seemed to wake me up.  I've had to take potassium, even.
+
+---
 Back to [[day-post-archive]]

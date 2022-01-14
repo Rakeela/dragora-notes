@@ -27,11 +27,8 @@
                 "id": "e5f17a424dadb013",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Battlefield-Earth.md",
-                    "mode": "source"
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ],
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Battlefield-Earth.md",
+                "file": "2022-01-14-Two-Hundred-and-Sixteenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,11 +149,11 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "e5f17a424dadb013",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2022-01-14-Two-Hundred-and-Sixteenth.md",
     "Battlefield-Earth.md",
     "Eternity's-Harvest.md",
-    "2022-01-14-Two-Hundred-and-Sixteenth.md",
     "ideological-interpretations-of-The-Viceroy.md",
     "aowcommander-profiles.md",
     "character-gallery.md",
