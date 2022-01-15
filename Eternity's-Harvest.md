@@ -25,11 +25,29 @@ Factions:
 	4.  To increase the sum total happiness of the cosmos, areas that are fully happy are encouraged to increase in population to guide others to their state.  Their most developed areas strive to increase in liveable surface area accordingly.  Category of sought immortal: megastructure builders.
 	5.  As the Unioneers believe in massively cooperative psychology, they want to identify people who work well with distant others.  Category of sought immortal: cultural travellers.
 
-Taxpayers are the universal category, hah.  People who truly believe in working to support specific programs are the ones who enable those specific programs to become larger and more uniformly implemented.  Finding taxpayers could be the whole determination of the Eternity's Harvest project and one of the ways that the "True" ideology of the program is proven.
+Taxpayers are the universal category of sought immortal, hah.  People who truly believe in working to support specific programs are the ones who enable those specific programs to become larger and more uniformly implemented.  Finding taxpayers could be the whole determination of the Eternity's Harvest project and one of the ways that the "True" ideology of the program is proven.
+
+Participant Kinds:
+1.  Independents
+	1.  Not a conventional faction, but the unfactionalized individuals who make up the simulation entrant population.  These haven't been sorted, or haven't been trained enough to be productive, or are participating in the simulation despite outstanding complaints against all three factions.
+	2. Their faction affiliations are an unset liquid.  "Independent Unioneer", "Independent Planet Builder," and "Independent Hyperconsensual" are possible if and when Independents want to declare them.  So is "Independent Unaligned", which is the default "faction".
+2.  Ascendant
+	1.  There's no functional difference between an ascendant and an independent, but ascendants have a job with a faction waiting for them outside of the simulations when the current session ends.  They've been identified for the Harvest as a stable immortal.
+	2.  All ascendants are "ascendant faction", so there are "Ascendant Unioneer", "Ascendant Planet Builder", and "Ascendant Hyperconsensual".  Ordinarily, Ascendant faction-alignments do not fluctuate.
+3.  Governor
+	1.  Governors have jobs with the factions, but those jobs are some variant of "operate the simulation from within the simulation".  They play critical roles and/or control NPC elements within the simulation (see Null).
+	2.  All governors are "faction governor", reversing the template for Indies and Ascends.  So there are "Unioneer Governor", "Planet Builder Governor", and "Hyperconsensual Governor".
+	3.  Not all governors are VIPs.  Some long-term indies who have been through a lot of simulations while consistently loving some collection of minor jobs get graduated to petty governor roles where they are expected to perform those minor jobs consistently.
+4.  Null
+	1.  Nulls are AI-operated characters in the simulation.  They are generally disposable.  Necessary characters with particularly bad life expectancies (such as people dwelling in active warzones, especially soldiers) are usually nulls.
+	2.  Null factions, when relevant, are referred to as "faction null", thus "Unioneer Null", "Planet Builder Null", and "Hyperconsensual Null".  The majority of nulls are "Unaligned Null".
+	3.  Nulls with very complex coding are occasionally identified as accidental sapiences and given the option to depart from the simulation to exist outside of it.  If they cling to life within the simulation, they're graduated to Independents.
 
 I'm thinking that the Eternity's Harvest project is a world-of-worlds that runs in a massive post-economic virtual reality where people have signed up in billions to be sorted, elevated, and given an avenue to a broader paradise back out in the real.  At the same time, it's also a planet-building project with a massive megastructure that they extend over time based on talents surfaced in the virtual reality.  The Eternity's Harvest project is run overall by Paradise Overseers who try to fit everyone into a perfect paradise within and without the simulation.
 
-Modelling after The Viceroy, it could be that every 'run' of a simulation in Eternity's Harvest takes 100-300 subjective years, with outliers in the 500+ year range, and these years are used to train and judge the people who signed up to participate.  Some people participate in many of them, and some of them are just using the system to recreationally live various lives.  This is an approved use of the Eternity's Harvest simulation, though the simulators try to draw people back out into the megastructure society outside of the simulations as well, via finding perfect conditions for them.
+Modelling after The Viceroy, it could be that every 'run' of a simulation in Eternity's Harvest encompasses several simulated star systems and takes 100-300 subjective years, with outliers in the 500+ year range, and these years are used to train and judge the people who signed up to participate.  Some people participate in many of them, and some of them are just using the system to recreationally live various lives.  This is an approved use of the Eternity's Harvest simulation, though the simulators try to draw people back out into the megastructure society outside of the simulations as well, via finding perfect conditions for them.
+
+The three factions love each other and lives as equals outside of the simulations.  Inside of the simulations, they compete to win control of each simulation, presenting as competing ideological groupings that strive to secure the tax income of each simulated society.  When any of the factions successfully secure funding for initiatives, they gain points!  Eventually, each simulated territory gets oversubscribed, overtaxed, overworked, or otherwise unsustainably built up; when the available resources run out, the simulation wraps up neatly and final scores are tabulated.
 
 ---
 Back to [[ideological-interpretations-of-The-Viceroy]]
