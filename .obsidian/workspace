@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-01-15-Two-Hundred-and-Seventeenth.md",
+                    "file": "2022-01-16-Two-Hundred-and-Seventeenth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-15-Two-Hundred-and-Seventeenth.md",
+                "file": "2022-01-16-Two-Hundred-and-Seventeenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2022-01-16-Two-Hundred-and-Seventeenth.md",
     "2022-01-15-Two-Hundred-and-Seventeenth.md",
     "2022-01-14-Two-Hundred-and-Sixteenth.md",
     "Eternity's-Harvest.md",
@@ -159,7 +160,6 @@
     "aowcommander-profiles.md",
     "character-gallery.md",
     "The-Earthsea-Cycle.md",
-    "Bibliography.md",
-    "2022-01-10-Two-Hundred-and-Fifteenth.md"
+    "Bibliography.md"
   ]
 }
