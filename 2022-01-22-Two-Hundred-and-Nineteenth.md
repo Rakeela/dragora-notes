@@ -10,7 +10,7 @@ That's gangstalker rhetoric itself.  That's not actual bloody targeted person rh
 
 We have corruption problems in my area, and the local corruption aims people my way.  They're bullshit.  I earned their hatred when I stopped putting out cybersexually.
 
-I don't want secrecy, I want privacy.  They're different!  I should be just another citizen, but courtesy of the people who stalked me after I stopped being sexy for god-knows-who actually handled my case, I'm not.
+I don't want secrecy, I want privacy.  They're different!  I should be just another citizen, but courtesy of the people who stalked me after I stopped being sexy for god-knows-who actually handled my case, I'm not.  When I was no longer sexy for entertainment, I was stalked for entertainment.
 
 ---
 Back to [[day-post-archive]]
