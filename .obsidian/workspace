@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 41.25560538116592,
+            "dimension": 47.047797563261476,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 58.744394618834086,
+            "dimension": 52.95220243673852,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Eternity's-Harvest.md",
+                    "file": "2022-01-22-Two-Hundred-and-Nineteenth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videogame-Wishlist.md",
+                "file": "2022-01-22-Two-Hundred-and-Nineteenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
-    "Videogame-Wishlist.md",
-    "2022-01-16-Two-Hundred-and-Seventeenth.md",
-    "Eternity's-Harvest.md",
-    "Northern-Creche-Confederation.md",
+    "2022-01-22-Two-Hundred-and-Nineteenth.md",
     "2022-01-15-Two-Hundred-and-Seventeenth.md",
+    "2022-01-16-Two-Hundred-and-Eighteenth.md",
+    "Eternity's-Harvest.md",
+    "Videogame-Wishlist.md",
+    "Northern-Creche-Confederation.md",
     "2022-01-14-Two-Hundred-and-Sixteenth.md",
     "Battlefield-Earth.md",
     "ideological-interpretations-of-The-Viceroy.md",
-    "aowcommander-profiles.md",
-    "character-gallery.md"
+    "aowcommander-profiles.md"
   ]
 }
