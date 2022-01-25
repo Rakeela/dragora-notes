@@ -13,4 +13,7 @@ I want to implement something like this!  But I'm so ridiculously inhibited.  My
 I want to make a toy!  Why can't I make even the most basic of software toys based on my ideas?
 
 ---
+I worked at it a little bit more, and indeed I cannot make even a basic software toy.
+
+---
 Back to [[day-post-archive]]
