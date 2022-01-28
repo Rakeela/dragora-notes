@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2021-01-27-Two-Hundred-and-Twenty-First.md",
+                    "file": "2022-01-28-Two-Hundred-and-Twenty-Second.md",
                     "mode": "source"
                   }
                 }
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Monster-Girl-Encyclopedia.md",
+                    "file": "2022-01-27-Two-Hundred-and-Twenty-First.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-01-27-Two-Hundred-and-Twenty-First.md",
+                "file": "2022-01-28-Two-Hundred-and-Twenty-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "2021-01-27-Two-Hundred-and-Twenty-First.md",
+    "2022-01-28-Two-Hundred-and-Twenty-Second.md",
+    "2022-01-16-Two-Hundred-and-Eighteenth.md",
+    "2022-01-22-Two-Hundred-and-Nineteenth.md",
+    "2022-01-24-Two-Hundred-and-Twentieth.md",
+    "2022-01-27-Two-Hundred-and-Twenty-First.md",
     "Monster-Girl-Encyclopedia.md",
     "Videogame-Wishlist.md",
-    "2022-01-24-Two-Hundred-and-Twentieth.md",
-    "2022-01-22-Two-Hundred-and-Nineteenth.md",
     "2022-01-15-Two-Hundred-and-Seventeenth.md",
-    "2022-01-16-Two-Hundred-and-Eighteenth.md",
     "Eternity's-Harvest.md",
-    "Northern-Creche-Confederation.md",
-    "2022-01-14-Two-Hundred-and-Sixteenth.md"
+    "Northern-Creche-Confederation.md"
   ]
 }

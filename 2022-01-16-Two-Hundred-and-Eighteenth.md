@@ -13,4 +13,7 @@ Found another one.
 I wish the chives of wrath project had worked out better.  I still think that mitochondrial engineering could be the key to space colonization.
 
 ---
+More found on [[2022-01-28-Two-Hundred-and-Twenty-Second]]
+
+---
 Back to [[day-post-archive]]
