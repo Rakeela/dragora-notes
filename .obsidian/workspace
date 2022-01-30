@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 24.461105904404874,
+            "dimension": 35.872235872235876,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 75.53889409559513,
+            "dimension": 64.12776412776412,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ideological-interpretations-of-The-Viceroy.md",
+                    "file": "2022-01-30-Two-Hundred-and-Twenty-Fourth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideological-interpretations-of-The-Viceroy.md",
+                "file": "2022-01-30-Two-Hundred-and-Twenty-Fourth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "2022-01-30-Two-Hundred-and-Twenty-Fourth.md",
     "ideological-interpretations-of-The-Viceroy.md",
+    "2022-01-27-Two-Hundred-and-Twenty-First.md",
     "Notable-Videogames.md",
     "2022-01-29-Two-Hundred-and-Twenty-Third.md",
-    "2022-01-27-Two-Hundred-and-Twenty-First.md",
     "2022-01-28-Two-Hundred-and-Twenty-Second.md",
     "2022-01-16-Two-Hundred-and-Eighteenth.md",
     "2022-01-22-Two-Hundred-and-Nineteenth.md",
     "2022-01-24-Two-Hundred-and-Twentieth.md",
-    "Monster-Girl-Encyclopedia.md",
-    "Videogame-Wishlist.md"
+    "Monster-Girl-Encyclopedia.md"
   ]
 }
