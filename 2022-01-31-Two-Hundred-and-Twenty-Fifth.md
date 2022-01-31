@@ -8,4 +8,9 @@ If I do this and skip the feast, I even lose weight.  Which I should do.  I'm ki
 Apropos of nothing, I really wanted to be a porn writer, years ago.  I still see good porn as a basic service and culturally essential.  Society should be polite to pornographers.
 
 ---
+Also apropos of nothing, I've never volunteered as an alien ambassador.  I *would* volunteer, if I got the opportunity, *but I have not done it*.  No such opportunity has arisen.  I don't believe in aliens primitive enough to conscript involuntary ambassadors.
+
+And I am still an atheist antinatalist.
+
+---
 Back to [[day-post-archive]]
