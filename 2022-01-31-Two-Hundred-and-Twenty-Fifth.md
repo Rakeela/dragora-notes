@@ -13,4 +13,9 @@ Also apropos of nothing, I've never volunteered as an alien ambassador.  I *woul
 And I am still an atheist antinatalist.
 
 ---
+I've been working on my writing today despite feeling like absolute trash.  My sleep was messed up by pain last night, I've been fasting all day today, and my writing is just a chasm of un
+
+I'm creating a [[Simcity-Societies]] page.
+
+---
 Back to [[day-post-archive]]
