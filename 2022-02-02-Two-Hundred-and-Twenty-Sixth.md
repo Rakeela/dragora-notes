@@ -5,4 +5,13 @@ One of my chronic pain sources has been clarified into a diagnosis:  Nervous Int
 I had a period of exhaustion and sleepiness that was awful when I ran out of carbamazepine, and the "intermedius neuralgia" pain (across the side of my head, between my ear and my jaw) started to come back.  It went away again when I managed to get a refill on my prescription.
 
 ---
+
+Found another one of these.  (IF, PN) (4 of 7)
+These don't all fit together, it seems, given that the last one I found was also a 4 of 7.  I think I'll stop tracking them at this point.
+
+See also:
+[[2022-01-16-Two-Hundred-and-Eighteenth]]
+[[2022-01-28-Two-Hundred-and-Twenty-Second]]
+
+---
 Back to [[day-post-archive]]
