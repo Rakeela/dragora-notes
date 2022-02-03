@@ -16,4 +16,7 @@ I want to have a virtual food stockpile someday.  I'm a glutton.  I want to eat.
 My weight is what I consider under control.  I control it by feasting-and-fasting patterns of food consumption.  I'm not hideously fat.  Nevertheless...  Maybe I should commission a picture of myself as a fat dragon.  Just for virtualization points.
 
 ---
+I want to try a beer modified with labrador tea.  It's a forbidden and slightly poisonous plant, the labrador tea, and the specific modification of beer with labrador tea was banned for supposedly increasing aggression!  I have my doubts and moreover I have my curiosity.
+
+---
 Back to [[day-post-archive]]
