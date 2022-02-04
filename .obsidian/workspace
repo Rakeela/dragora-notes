@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
+                    "file": "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
+                "file": "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +151,7 @@
   },
   "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
     "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
     "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
     "2022-01-28-Two-Hundred-and-Twenty-Second.md",
@@ -159,7 +160,6 @@
     "2022-01-31-Two-Hundred-and-Twenty-Fifth.md",
     "Notable-Videogames.md",
     "Simcity-Societies.md",
-    "2022-01-27-Two-Hundred-and-Twenty-First.md",
-    "Library-of-Ruina.md"
+    "2022-01-27-Two-Hundred-and-Twenty-First.md"
   ]
 }
