@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 29.115479115479115,
+            "dimension": 33.469805527123846,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 70.88452088452088,
+            "dimension": 66.53019447287615,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Simcity-Societies.md",
+                    "file": "Eternity's-Harvest.md",
                     "mode": "source"
                   }
                 }
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
+                    "file": "diversican-cloning.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
+                "file": "Eternity's-Harvest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
+    "Eternity's-Harvest.md",
+    "diversican-cloning.md",
+    "hedonology.md",
+    "authors-ideals.md",
     "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
+    "Simcity-Societies.md",
     "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
     "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
     "2022-01-28-Two-Hundred-and-Twenty-Second.md",
-    "2022-01-30-Two-Hundred-and-Twenty-Fourth.md",
-    "2022-01-29-Two-Hundred-and-Twenty-Third.md",
-    "2022-01-31-Two-Hundred-and-Twenty-Fifth.md",
-    "Notable-Videogames.md",
-    "Simcity-Societies.md",
-    "2022-01-27-Two-Hundred-and-Twenty-First.md"
+    "2022-01-30-Two-Hundred-and-Twenty-Fourth.md"
   ]
 }
