@@ -49,6 +49,7 @@ Sections;
    16) [[The-Practice-Effect]]
    17) [[Dragon-Girls-Azmina-the-Gold-Glitter-Dragon]]
    18) [[The-Fifth-Season]]
+   19) [[The-Great-Divorce]]
 
 3) Anthologies
 	1) [[The Furry Future]]
@@ -89,6 +90,7 @@ Sections;
    6) [[Dragon-Kingdom-of-Wrenly]]  (Only volume 1)
    7) [[The-Tea-Dragon-Society]]
    8) [[The-Tea-Dragon-Festival]]
+   9) [[Wings-of-Fire]] (As there is also a visual novel series)
 
 10) RPG Sourcebooks (this list is likely to eventually grow huge and get reorganized; I don't play any of these, but I've actually read most of my sourcebook collection!)
    1) [[The-World-Tree]]

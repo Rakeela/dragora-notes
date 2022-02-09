@@ -56,7 +56,18 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "diversican-cloning.md",
+                    "file": "Bibliography.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "e20e8940f539992a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The-Great-Divorce.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eternity's-Harvest.md",
+                "file": "The-Great-Divorce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +160,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e20e8940f539992a",
   "lastOpenFiles": [
-    "Eternity's-Harvest.md",
+    "The-Great-Divorce.md",
+    "Bibliography.md",
     "diversican-cloning.md",
+    "Eternity's-Harvest.md",
     "hedonology.md",
     "authors-ideals.md",
     "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
     "Simcity-Societies.md",
     "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
-    "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
-    "2022-01-28-Two-Hundred-and-Twenty-Second.md",
-    "2022-01-30-Two-Hundred-and-Twenty-Fourth.md"
+    "2022-02-02-Two-Hundred-and-Twenty-Sixth.md"
   ]
 }
