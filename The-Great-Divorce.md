@@ -17,4 +17,7 @@ The book does give an example of a ghost making their way all the way up the mou
 What an astonishing idea that is, the researcher who dies and goes to the valley of life, then climbs the mountain to Heaven, and who having seen it is then wont to choose Hell.  For if time is the strange thing it is in this story, then when 'damnation reaches back' it should prove that all that researcher saw were provinces in Hell.
 
 ---
+In defense of C.S. Lewis on the matter of the fellow who defends the courage of his convictions, I would note one last thing about *his* story: he is described as wearing gaiters (good, stout boots) and as finding "the grey town" to be near-to-paradise.  He is described as having lost the thirst for reason.  I don't find him so!  The mention of Happiness is meanwhile itself what sends him back down to the bus.  It is as though he has a measure of joy about him even in Hell.  So perhaps that character is one who takes the bus in both directions a few times, trying to ennoble the souls in the dim Purgatory and harden his feet in the bright Purgatory.
+
+---
 Back to [[[Bibliography]]]
