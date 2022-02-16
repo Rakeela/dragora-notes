@@ -20,4 +20,11 @@ What an astonishing idea that is, the researcher who dies and goes to the valley
 In defense of C.S. Lewis on the matter of the fellow who defends the courage of his convictions, I would note one last thing about *his* story: he is described as wearing gaiters (good, stout boots) and as finding "the grey town" to be near-to-paradise.  He is described as having lost the thirst for reason.  I don't find him so!  The mention of Happiness is meanwhile itself what sends him back down to the bus.  It is as though he has a measure of joy about him even in Hell.  So perhaps that character is one who takes the bus in both directions a few times, trying to ennoble the souls in the dim Purgatory and harden his feet in the bright Purgatory.
 
 ---
+There's another heroic shade in the book.  The one who tries to steal an apple and gets castigated by a waterfall-angel, but who persists in stealing it...  His motive is to promote community in purgatory and bring people around each other!  So it's like he's solid enough, more solid than the narrator of the story, to pick up and carry an entire apple.  The waterfall-angel says there's no room in hell for the apple, but still he carries it off.
+
+I think it's because of his community-minded motive.  He talks of greed and of establishing a business of some kind handling things more solid than the ephemera of the structures in hell, but he also bemoans that the people in hell move apart from each other.  I think this other-oriented desire base makes him considered more solid than the others and nearer to paradise.
+
+Yet he hides from the angels and works to steal something solid back to hell...  What a strange character.
+
+---
 Back to [[[Bibliography]]]
