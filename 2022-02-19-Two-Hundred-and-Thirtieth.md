@@ -25,4 +25,7 @@ Writing a story set in a world where a tiny minority of men are stuck being sex 
 I keep caffeinating myself hoping that the caffeine will bring other inspiration to the surface...
 
 ---
+I'm eating a bowl of corn mixed with peanut butter and strawberry preserves.  It's a peanut butter jelly sandwich, kind of.  It works.
+
+---
 Back to [[day-post-archive]]
