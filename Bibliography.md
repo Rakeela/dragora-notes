@@ -6,9 +6,11 @@ That word 'real', that's doing some esoteric heavy lifting here.  I like being s
 
 This might be kind of barren for a while, though.  I'm not sure how badly I'll actually want to fill it out.  The list will be forever incomplete, quite certainly, as I don't remember every book I've ever read; in childhood, I read with deranged obsession, seeking escape from the violence of human society by imagining other worlds.  I had good reading comprehension of the two books I read per day... for a few days each, before I overwrote them with still more texts.  I'm also not presently excited to do the part where I say a little bit about each entry.
 
-Note that as this list expands, it is not mostly expanding by my reading books.  It is mostly expanding by my refreshing my awareness of books and affirming to myself that I have indeed read them.  There is presently no specific organization to the numbering on this list, but rather the items in it are listed in the order that I thought of them or noticed them on the shelf.
+This list once expanded mostly not by my reading books, but by refreshing my awareness of books and affirming to myself that I have indeed read them.  That well seems to have dried up.  Since then it's been overtaken by my actually reading things.
 
 People think they own their books of paper, ink, and thread, but the only books they truly own are the ones that they have read.  Credit to the Pun Pony blog for the poem in the previous sentence!
+
+Some of these are credited to the series name alone, others are credited to the series name by the author.  This arises when the series name strikes me as likely to have a reuse conflict.  An example of these is "Winterlands".  Too many things could be called that.
 
 Sections;
 1) Series (Fiction) (I haven't necessarily read every book in every listed series; I'll have to fill in the sub-pages for these to be fully informative)
@@ -19,13 +21,13 @@ Sections;
    5) [[Darwath-Trilogy]]
    6) [[Belgariad]]
    7) [[Mallorean]]
-   8) [[Winterlands-by-Barbara-Hambly]] (Sorry; "Winterlands" is too generic a series title to give it a title space, I may want that link elsewhere!)
+   8) [[Winterlands-by-Barbara-Hambly]]
    9) [[Middle-Earth]]
-   10) [[Dragon-Knight-by-Gordon-Dickson]] (genericity)
-   11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]] (genericity)
+   10) [[Dragon-Knight-by-Gordon-Dickson]]
+   11) [[Mage-Wars-by-Mercedes-Lackey-and-Larry-Dixon]]
    12) [[Well-of-Souls]]
    13) [[Redwall]]
-   14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]] (genericity)
+   14) [[The-Enchanted-Forest-Chronicles-by-Patricia-Wrede]]
    15) [[Artemis-Fowl]]
    16) [[Dune]]
    17) [[The-Earthsea-Cycle]]
@@ -39,8 +41,8 @@ Sections;
    6) [[A-Million-Little-Pieces]]
    7) [[The-Wonderland-Gambit]]
    8) [[Balshazar's-Serpent]]
-   9) [[Virtual-Mode-by-Piers-Anthony]] (As a title, Virtual Mode has a genericity issue.)
-   10) [[Glory-Lane-by-Piers-Anthony]] (genericity)
+   9) [[Virtual-Mode-by-Piers-Anthony]]
+   10) [[Glory-Lane-by-Piers-Anthony]]
    11) [[Mr.-Popper's-Penguins]]
    12) [[Monster-Girl-Encyclopedia]]
    13) [[Battlefield-Earth]]
