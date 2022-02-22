@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 20.470829068577277,
+            "dimension": 43.398157625383824,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 79.52917093142273,
+            "dimension": 56.601842374616176,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -45,7 +45,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-02-19-Two-Hundred-and-Thirtieth.md",
+                    "file": "2022-02-21-Two-Hundred-and-Thirtieth.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-19-Two-Hundred-and-Thirtieth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,8 +148,9 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "2022-02-21-Two-Hundred-and-Thirtieth.md",
     "2022-02-19-Two-Hundred-and-Thirtieth.md",
     "2022-02-18-Two-Hundred-and-Twenty-Ninth.md",
     "Eternity's-Harvest.md",
@@ -159,7 +159,6 @@
     "diversican-cloning.md",
     "hedonology.md",
     "authors-ideals.md",
-    "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
-    "Simcity-Societies.md"
+    "2022-02-04-Two-Hundred-and-Twenty-Eighth.md"
   ]
 }
