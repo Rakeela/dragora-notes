@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 43.39815762538383,
+            "dimension": 41.23711340206185,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -37,7 +37,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 56.60184237461617,
+            "dimension": 58.76288659793815,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -56,7 +56,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The-Great-Divorce.md",
+                    "file": "Broken-Child.md",
                     "mode": "source"
                   }
                 }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "Broken-Child.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "51fc16ffc3c85dd3",
+  "active": "7fdf4cd11513361f",
   "lastOpenFiles": [
+    "Broken-Child.md",
+    "being-human.md",
+    "2022-02-25-Two-Hundred-and-Thirty-Second.md",
+    "2022-02-21-Two-Hundred-and-Thirty-First.md",
+    "The-Great-Divorce.md",
     "Bibliography.md",
-    "2022-02-21-Two-Hundred-and-Thirtieth.md",
     "2022-02-19-Two-Hundred-and-Thirtieth.md",
     "2022-02-18-Two-Hundred-and-Twenty-Ninth.md",
     "Eternity's-Harvest.md",
-    "The-Great-Divorce.md",
-    "diversican-cloning.md",
-    "hedonology.md",
-    "authors-ideals.md",
-    "2022-02-04-Two-Hundred-and-Twenty-Eighth.md"
+    "diversican-cloning.md"
   ]
 }
