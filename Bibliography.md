@@ -50,6 +50,7 @@ Sections;
    17) [[Dragon-Girls-Azmina-the-Gold-Glitter-Dragon]]
    18) [[The-Fifth-Season]]
    19) [[The-Great-Divorce]]
+   20) [[The-Forever-King-by-Ben-Galley]]
 
 3) Anthologies
 	1) [[The Furry Future]]
