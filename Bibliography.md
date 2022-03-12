@@ -149,6 +149,10 @@ Sections;
    53) [[Starfinders-Alien-Archive-2]]
    54) [[Earthdawn-Second-Edition]]
    55) [[Our-Pantheon]]
+   56) [[Traveller-Core-Rulebook-2008]]
+   57) [[Traveller-LBB7:-Merchant-Prince]]
+   58) [[Traveller-LBB8:-Dilettante]]
+   59) [[Traveller-LBB9:-Robot]]
 
 11) Writing Advice
    1) [[No-Plot-No-Problem]]
