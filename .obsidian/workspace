@@ -27,8 +27,11 @@
                 "id": "e5f17a424dadb013",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "aowcommander-profiles.md",
+                    "mode": "source"
+                  }
                 }
               }
             ],
@@ -100,17 +103,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "93ca72a09fd26144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-8-07-One-Hundred-and-Sixtieth.md",
-                "mode": "source"
-              }
-            }
           }
         ]
       }
@@ -132,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day-post-archive.md",
+                "file": "aowcommander-profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +141,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "aowcommander-profiles.md",
+    "The-Great-Divorce.md",
+    "[Bibliography.md",
     "day-post-archive.md",
     "Bibliography.md",
     "2022-03-11-Two-Hundred-and-Thirty-Sixth.md",
     "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
     "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
     "2022-02-18-Two-Hundred-and-Twenty-Ninth.md",
-    "2022-02-19-Two-Hundred-and-Thirtieth.md",
-    "2022-02-21-Two-Hundred-and-Thirty-First.md",
-    "2022-02-25-Two-Hundred-and-Thirty-Second.md",
-    "2022-03-04-Two-Hundred-and-Thirty-Third.md"
+    "2022-02-19-Two-Hundred-and-Thirtieth.md"
   ]
 }

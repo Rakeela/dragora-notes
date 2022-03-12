@@ -27,4 +27,4 @@ I think it's because of his community-minded motive.  He talks of greed and of e
 Yet he hides from the angels and works to steal something solid back to hell...  What a strange character.
 
 ---
-Back to [[[Bibliography]]]
+Back to [[Bibliography]]

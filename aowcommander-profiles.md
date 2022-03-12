@@ -1,6 +1,6 @@
-# AoWCommander Profiles
+# AoWCommander-Profiles
 
-I shouldn't write this; it's perilously close to writing fanfic.  Yet I've enjoyed a few of my heroes distinctly more than others in this game, and I'd like to give them some distinction.  Note that I typically use <Name> the <Descriptor> to distinguish commanders and focus my thoughts about them.
+I shouldn't write this; it's perilously close to writing fanfic.  Yet I've enjoyed a few of my heroes distinctly more than others in this game, and I'd like to give them some distinction.  Note that I typically use (Name) the (Descriptor0 to distinguish commanders and focus my thoughts about them.
 
 Karacal the Burning Fool:
 Shakarn [[Celestian]]
