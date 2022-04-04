@@ -29,5 +29,7 @@ In ethane (C2H6), each tetrahedral carbon forms three covalent bonds to hydrogen
 
 Butane (C4H10) is another tetrahedral molecule.  Having four single covalent bonds yields a tetrahedral shape.
 
+(Commentary:  Time set aside for the class activity, but since I was nervous about it I already finished it early.)
+
 ---
 Back to [[college-notes]]
