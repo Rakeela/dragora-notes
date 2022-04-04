@@ -28,17 +28,21 @@ The book at the start of the text is describing categorical and quantitative var
 Ah, now the lecture has spoken of categorical and quantitative data, and it is going forth to talk about graph types.  Bar and pie graphs for categorical data, vs histograms, dot plots, and Stem plot graphs for quantitative data.  Also something about histograms; I missed something here, but it involves TI-86 calculators?  Generating graphs seems like it'll be a basic component of this coursework.
 
 ...I spaced a bunch and now there's some kind of assignment available only during the lecture?  Hm.  Skimming the syllabus, it looks like attendance to these class sessions is mandatory, and there's supposed to be assignments filled out on paper during class then emailed to the professor.  I don't see this in the grading system; moreover, it's not going to happen.  Parsing speech is hard, stressful, and persistently uninformative; why can't people just use easier modes of communication like essays?  Oh wait they do, the book is full of communication in a more natural, fluent style than speech.  I'm starting to think I need to make it a hard rule that I will not attend any attendance-mandatory courses.  They're just punishing and uneducational.
+
 ---
 
 Doing some of the stats homework.  First assignment is pretty simple so far, I don't feel like I need the book.  I've made one mistake due to lacking alertness, and one mistake because the book has a mandatory bad read on one of its graphs...  A segment of the graph that's almost level with the segments next to it does not have a value of "twice" "any other group".  Ah, there we go; I've messed something up because I didn't know something the book would tell me.  It only took getting a few questions in.  I'll put this down for now pending further study.
+
 ---
 
 The teacher tried to help me with my difficulties in following the lecture, and she... succeeded, eventually.  I had that uncomfortable sense of having to help someone else to help me.  I've been treated all my life as lacking social skills, and it's not quite true... though the social skills I've had to develop are unconventional.  Something is just very different about how I think.  Maybe it's because I spent so much time reading "with deranged obsession" in an otherwise bad childhood with few human attachments.
+
 ---
 
 I"m attending another of the lectures, though I'm even more tired this time.  I've already finished the initial work for the course.  I think that means I'm ahead of the lecture material, which contributes to the uncertainty here.  It adds to the sense of futility and stress.  I would rather be complaining online about the corrupted psuedolibertarians who abused my civil rights without a figleaf of reciprocity instead of attending a two hour lecture.  I would rather be reading a book than attending this lecture.  I would also rather be sleeping, which at this point may happen independently of my volition.
 
 The teacher is giving reassurances and clarifications at the opening of the lecture that I can hear are answers to the uncertainties that I had.  I'm still having trouble parsing her accent.  It doesn't look like the material is new to me.  It's just data about histograms.  The slides on file don't suggest there's anything novel coming up.  I'm bowing out to go to bed.
+
 ---
 
 This class is going to be a source of unconventional difficulty.  The mathematical operations are all tediously familiar, but some of the automation tools are new to me.  This class is about learning to use necessary tools more than it is about learning to perform necessary operations.  Is it easier or harder for people who are familiar with neither the operations nor the tools?

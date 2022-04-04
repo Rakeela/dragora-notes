@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 41.23711340206185,
+            "dimension": 50.79726651480638,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -19,7 +19,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "Northern-Creche-Confederation.md",
-                    "mode": "source"
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
@@ -29,8 +30,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "aowcommander-profiles.md",
-                    "mode": "source"
+                    "file": "Otter-Labs.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -40,7 +42,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 58.76288659793815,
+            "dimension": 49.202733485193626,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -49,18 +51,20 @@
                   "type": "markdown",
                   "state": {
                     "file": "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
-                    "mode": "source"
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
               {
-                "id": "7fdf4cd11513361f",
+                "id": "4331cee0d0b72863",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-04-02-Two-Hundred-and-Thirty-Eighth.md",
-                    "mode": "source"
+                    "file": "CHEM131.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -124,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-02-Two-Hundred-and-Thirty-Eighth.md",
+                "file": "CHEM131.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +145,17 @@
     "direction": "horizontal",
     "width": 230
   },
-  "active": "7fdf4cd11513361f",
+  "active": "4331cee0d0b72863",
   "lastOpenFiles": [
+    "CHEM131.md",
+    "college-notes.md",
+    "math130.md",
+    "night-and-day.md",
     "2022-04-02-Two-Hundred-and-Thirty-Eighth.md",
+    "Otter-Labs.md",
+    "aowcommander-profiles.md",
     "2022-03-17-Two-Hundred-and-Thirty-Seventh.md",
     "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
-    "Winterlands-by-Barbara-Hambly.md",
-    "Bibliography.md",
-    "2022-02-03-Two-Hundred-and-Twenty-Seventh.md",
-    "2022-02-04-Two-Hundred-and-Twenty-Eighth.md",
-    "2022-02-19-Two-Hundred-and-Thirtieth.md",
-    "2022-02-18-Two-Hundred-and-Twenty-Ninth.md",
-    "2022-02-21-Two-Hundred-and-Thirty-First.md"
+    "Winterlands-by-Barbara-Hambly.md"
   ]
 }
