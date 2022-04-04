@@ -33,7 +33,22 @@ Butane (C4H10) is another tetrahedral molecule.  Having four single covalent bon
 
 (Commentary:  I'll soon move the individual day-notes into their own file and link them from the top-level for each class.)
 
-(Commentary:  The class activity handout is copied from the textbook's practice questions.)
+(Commentary:  The class activity handout is copied from the textbook's practice questions.  We're being taught out of the textbook.  Isn't this a bit rote? 
+ Labs should help at least.)
+
+A large number of carbon compounds are possible because the covalent bonds between carbon atoms, such as those in propane (C3H6) are very strong, allowing carbon atoms to form long, stable chains.  Learning goal:  Write the IUPAC names and draw the condensed structural formulas and skeletal formulas for alkanes and cycloalkanes.
+
+IUPAC:  International Union of Pure and Applied Chemistry
+
+Alkanes are formed by a continuous chain of carbon atoms. Their names end in *ane*.  Greek prefixes are used to name carbon chains with five or more carbon atoms: pent-5, hex-6, hept-7, oct-8, non-9, and dec-10.  With one carbon, the first alkane is methane (CH4).  With two, ethane (C2H6).  With three, propane (C3H8).  With four, Butane (C4H10).
+
+(Commentary:  I should've used the offered bathroom break in the middle of class.  I'm noting this down to modify my future behavior.  We're over half an hour overtime, or else I misunderstood the schedule.  I expect a full hour overtime at this point - two hour lectures, not one hour lectures as I thought the schedule specified.)
+
+Every angle between the carbons in the alkane is 109 degrees.  (Commentary:  Does that mean sufficiently long alkanes coil in on themselves?)
+
+Line-angle formulas are a zigzag line in which carbon atoms are represented as the ends of each line and as corners.  Hydrogen atoms are not specified.  Carbon atoms at the end are bonded to three hydrogen atoms (and one carbon atom).  In the middle, they're bonded to two hydrogen atoms (and two carbon atoms).
+
+Conformations of alkanes: Carbon atoms in a chain connected by a single C-C bond can rotate freely about the C-C bond and can have different arrangements depending on which of the four bonds in the tetrahedral arrangement is the carbon atom.  For instance, in butane, both terminal carbon atoms could be "up", or one could be "up" and the other "down".
 
 ---
 Back to [[college-notes]]
