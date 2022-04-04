@@ -33,5 +33,7 @@ Butane (C4H10) is another tetrahedral molecule.  Having four single covalent bon
 
 (Commentary:  I'll soon move the individual day-notes into their own file and link them from the top-level for each class.)
 
+(Commentary:  The class activity handout is copied from the textbook's practice questions.)
+
 ---
 Back to [[college-notes]]
