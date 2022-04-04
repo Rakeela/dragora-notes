@@ -19,5 +19,15 @@ Hydrocarbons are organic compounds that contain only carbon and hydrogen.  Carbo
 
 In methane (CH4), carbon forms four covalent bonds to hydrogen.  According to VSEPR theory, Methane is tetrahedral and has bond angles of 109 degrees.  Three models are shown:  Space-filling model (described as realistic), Ball-and-stick model (preferred as it shows the bond with sticks), wedge-dash model (draws the shape in two dimensions).
 
+A hydrocarbon is referred to as a saturated hydrocarbon when all the bonds in the molecule are single bonds.  They're saturated because the carbon has as many atoms bonded to it as it can have.
+
+In ethane (C2H6), each tetrahedral carbon forms three covalent bonds to hydrogen and one to the other carbon.  (Commentary:  This was used to show off expanded and condensed molecular formulas.  The teacher said that students sometimes draw the wrong one on assignments, and requested that we avoid that error.)
+
+(Commentary:  The teacher has twice now emphasized that we are not likely to be asked to draw wedge-dash models.  She seems to disfavor them.)
+
+(Commentary:  Class is now over time.  The lecture is running long.)
+
+Butane (C4H10) is another tetrahedral molecule.  Having four single covalent bonds yields a tetrahedral shape.
+
 ---
 Back to [[college-notes]]
