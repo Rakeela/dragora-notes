@@ -51,4 +51,18 @@ Line-angle formulas are a zigzag line in which carbon atoms are represented as t
 Conformations of alkanes: Carbon atoms in a chain connected by a single C-C bond can rotate freely about the C-C bond and can have different arrangements depending on which of the four bonds in the tetrahedral arrangement is the carbon atom.  For instance, in butane, both terminal carbon atoms could be "up", or one could be "up" and the other "down".
 
 ---
+2022-04-06-Third
+(Commentary:  I was working on my manuscript all day and I didn't get to moving these to their own sub-files yet.  I think I need to pull the archive on my home mac, too.  I feel appalling today, by the way.  I skipped the caffeine this morning and I feel like I shouldn't have.)
+
+I need goggles for the lab on Friday.  It's not a "real" lab (Lab Safety session), but I don't have the lab goggles I need.  Acquiring a lab coat wouldn't be remiss, either.  "Old clothes" suffice for the university lab, but without a lab coat I have to risk one of my coats as a disposable/damageable coat.
+
+...something about molecular forces?  I'm confused.  Why is this being discussed?  Dispersion forces are the weakest and most universal.  Dipole-Dipole Attractions are second weakest and exist only for polar molecules.  Hydrogen bonds are next, being a subclass of dipole-dipole attractions which occur when hydrogen is bonded to highly electronegative atoms of nitrogn, oxygen, or fluorine.
+
+Cycloalkanes are cyclic alkanes.  They have two fewer hydrogens than the open chain form, due to carbons being linked to each other rather than to hydrogen.  They are named by using the prefix cyclo- before the name of the alkane chain with the same number of carbon atoms.
+
+(Commentary:  I need to ask permission from the teacher to use potassium, or I need to use it surreptitiously...  I really do feel appalling, and my arms hurt.  "My arms hurt" isn't a caffeine-deficit symptom, it's a potassium-deficit symptom.)
+
+
+
+---
 Back to [[college-notes]]

@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 50.79726651480638,
+            "dimension": 43.96355353075171,
             "children": [
               {
                 "id": "66c4ef1bf798ecc9",
@@ -42,7 +42,7 @@
           {
             "id": "58713bce9783afeb",
             "type": "split",
-            "dimension": 49.202733485193626,
+            "dimension": 56.03644646924829,
             "children": [
               {
                 "id": "51fc16ffc3c85dd3",
@@ -143,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 110
   },
   "active": "4331cee0d0b72863",
   "lastOpenFiles": [
