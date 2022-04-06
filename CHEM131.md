@@ -74,5 +74,7 @@ Haloalkanes are alkanes with a halogen atom that replaces a hydrogen atom.  They
 
 (Commentary:  Oh dear, there's a difference between the teacher and the book.)  Cycloalkanes are numbered with arogens (?) having priority over halogens.  So for instance, something the book labeled as 1-chloro-3-ethylcyclohexane has been labeled by the teacher as 3-chloro-1-ethylcyclohexane.
 
+(Commentary:  My neck is weakening.  I need potassium.  Or for the class to end.  I'm impatient for that.  Is this really going to last another 40 minutes?  There is not 40 minutes of content left!)
+
 ---
 Back to [[college-notes]]
