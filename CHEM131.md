@@ -40,7 +40,7 @@ A large number of carbon compounds are possible because the covalent bonds betwe
 
 IUPAC:  International Union of Pure and Applied Chemistry
 
-Alkanes are formed by a continuous chain of carbon atoms. Their names end in *ane*.  Greek prefixes are used to name carbon chains with five or more carbon atoms: pent-5, hex-6, hept-7, oct-8, non-9, and dec-10.  With one carbon, the first alkane is methane (CH4).  With two, ethane (C2H6).  With three, propane (C3H8).  With four, Butane (C4H10).
+Alkanes are formed by a continuous chain of carbon atoms. Their names end in *ane*.  Greek prefixes are used to name carbon chains with five or more carbon atoms: pent-5, hex-6, hept-7, oct-8, non-9, and dec-10.  With one carbon, the first alkane is methane (CH4).  With two, ethane (C2H6).  With three, propane (C3H8).  With four, butane (C4H10).
 
 (Commentary:  I should've used the offered bathroom break in the middle of class.  I'm noting this down to modify my future behavior.  We're over half an hour overtime, or else I misunderstood the schedule.  I expect a full hour overtime at this point - two hour lectures, not one hour lectures as I thought the schedule specified.)
 
@@ -62,7 +62,17 @@ Cycloalkanes are cyclic alkanes.  They have two fewer hydrogens than the open ch
 
 (Commentary:  I need to ask permission from the teacher to use potassium, or I need to use it surreptitiously...  I really do feel appalling, and my arms hurt.  "My arms hurt" isn't a caffeine-deficit symptom, it's a potassium-deficit symptom.)
 
+Structural isomers have the same molecular formula as their parent alkane, but the carbon atoms are not in a linear chain.  They are connected in a different way.  Each carbon molecule can be connected to other carbon molecules instead of to hydrogen molecules.
 
+(Commentary:  Notes on rules for naming alkanes with substituents omitted; I was doing the class activity at the time and referencing the book.  Seriously, it's all in the book.  Note however, I don't remember seeing this in the book: minimize the numbers.  Count the -ane from the side where the numbers are lower.)
+
+When one substituent is attached to a carbon atom in a cycloalkane, the name of the substituent is placed in front of the cycloalkane name.  No number is needed for a single alkyl group or halogen atom.
+
+Haloalkanes are alkanes with a halogen atom that replaces a hydrogen atom.  They are named by putting the substituents in alphabetical order.  Have the halo group numbered according to the carbon where it is attached to the alkane.  (While minimizing the numbers.)
+
+(Commentary:  Ow, my arms.  Ow, my fatigue.  At this point it looks like I may last out the session...)
+
+(Commentary:  Oh dear, there's a difference between the teacher and the book.)  Cycloalkanes are numbered with arogens (?) having priority over halogens.  So for instance, something the book labeled as 1-chloro-3-ethylcyclohexane has been labeled by the teacher as 3-chloro-1-ethylcyclohexane.
 
 ---
 Back to [[college-notes]]
