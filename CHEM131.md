@@ -76,5 +76,7 @@ Haloalkanes are alkanes with a halogen atom that replaces a hydrogen atom.  They
 
 (Commentary:  My neck is weakening.  I need potassium.  Or for the class to end.  I'm impatient for that.  Is this really going to last another 40 minutes?  There is not 40 minutes of content left!)
 
+(Commentary:  Having already mistaught the classroom, I think the teacher has decided to use what's in the book rather than what's in her slides.  I'm not sure at all though.  I think I prefer the rule in the book...  I foresee a missed test question in my future.)
+
 ---
 Back to [[college-notes]]
