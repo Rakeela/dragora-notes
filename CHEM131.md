@@ -1,82 +1,9 @@
-2022-04-04-First
-We're still doing boilerplate intro-to-class stuff, but this class activity handout is making me nervous.  The syllabus suggests that a first chapter assignment is already present in week 1 and this handout suggests that it's about the first chapter assignment.  Do I really fill this out in class?  When in class do I start filling this out..?
 
----
-2022-04-04-Second
-Organic chemistry is given as the study of carbon.  Organic compounds always contain carbon and hydrogen.  They may also contain other nonmetals such as O, S, N, P, or a halogen.
+[[Chem131-2022-04-04]]
+[[Chem131-2022-04-06]]
+[[Chem131-2022-04-08]]
 
-Organic compounds are found in common products such as gasoline, medicine, shampoo, plastic, and perfume.  (Commentary:  I'm copying off a slide in this post, this isn't very insightful.)
 
-Organic compounds are organized by their functional groups, which are groups of atoms bonded in a specific way.  Compounds that contain the same functional group have similar physical and chemical properties.
-
-Organic compounds typically have covalent bonds.  Their melting and boiling points are typically low.  They are typically flammable and undergo combustion.  They are typically not soluble in water.
-
-Inorganic compounds typically have high melting and boiling points.  Ionic inorganic compounds are usually soluble in water, and most do not burn in air.
-
-Hydrocarbons are organic compounds that contain only carbon and hydrogen.  Carbon has four valence electrons and hydrogen has one.  To achieve an octet, carbon forms four bonds.  CH4, a very simple hydrocarbon, is termed Methane.
-
-(Skip: card explaining condensed and expanded molecular formulas.  I got this, and I got distracted reading about acetylene on wikipedia.)
-
-In methane (CH4), carbon forms four covalent bonds to hydrogen.  According to VSEPR theory, Methane is tetrahedral and has bond angles of 109 degrees.  Three models are shown:  Space-filling model (described as realistic), Ball-and-stick model (preferred as it shows the bond with sticks), wedge-dash model (draws the shape in two dimensions).
-
-A hydrocarbon is referred to as a saturated hydrocarbon when all the bonds in the molecule are single bonds.  They're saturated because the carbon has as many atoms bonded to it as it can have.
-
-In ethane (C2H6), each tetrahedral carbon forms three covalent bonds to hydrogen and one to the other carbon.  (Commentary:  This was used to show off expanded and condensed molecular formulas.  The teacher said that students sometimes draw the wrong one on assignments, and requested that we avoid that error.)
-
-(Commentary:  The teacher has twice now emphasized that we are not likely to be asked to draw wedge-dash models.  She seems to disfavor them.)
-
-(Commentary:  Class is now over time.  The lecture is running long.)
-
-Butane (C4H10) is another tetrahedral molecule.  Having four single covalent bonds yields a tetrahedral shape.
-
-(Commentary:  Time set aside for the class activity, but since I was nervous about it I already finished it early.)
-
-(Commentary:  I'll soon move the individual day-notes into their own file and link them from the top-level for each class.)
-
-(Commentary:  The class activity handout is copied from the textbook's practice questions.  We're being taught out of the textbook.  Isn't this a bit rote? 
- Labs should help at least.)
-
-A large number of carbon compounds are possible because the covalent bonds between carbon atoms, such as those in propane (C3H6) are very strong, allowing carbon atoms to form long, stable chains.  Learning goal:  Write the IUPAC names and draw the condensed structural formulas and skeletal formulas for alkanes and cycloalkanes.
-
-IUPAC:  International Union of Pure and Applied Chemistry
-
-Alkanes are formed by a continuous chain of carbon atoms. Their names end in *ane*.  Greek prefixes are used to name carbon chains with five or more carbon atoms: pent-5, hex-6, hept-7, oct-8, non-9, and dec-10.  With one carbon, the first alkane is methane (CH4).  With two, ethane (C2H6).  With three, propane (C3H8).  With four, butane (C4H10).
-
-(Commentary:  I should've used the offered bathroom break in the middle of class.  I'm noting this down to modify my future behavior.  We're over half an hour overtime, or else I misunderstood the schedule.  I expect a full hour overtime at this point - two hour lectures, not one hour lectures as I thought the schedule specified.)
-
-Every angle between the carbons in the alkane is 109 degrees.  (Commentary:  Does that mean sufficiently long alkanes coil in on themselves?)
-
-Line-angle formulas are a zigzag line in which carbon atoms are represented as the ends of each line and as corners.  Hydrogen atoms are not specified.  Carbon atoms at the end are bonded to three hydrogen atoms (and one carbon atom).  In the middle, they're bonded to two hydrogen atoms (and two carbon atoms).
-
-Conformations of alkanes: Carbon atoms in a chain connected by a single C-C bond can rotate freely about the C-C bond and can have different arrangements depending on which of the four bonds in the tetrahedral arrangement is the carbon atom.  For instance, in butane, both terminal carbon atoms could be "up", or one could be "up" and the other "down".
-
----
-2022-04-06-Third
-(Commentary:  I was working on my manuscript all day and I didn't get to moving these to their own sub-files yet.  I think I need to pull the archive on my home mac, too.  I feel appalling today, by the way.  I skipped the caffeine this morning and I feel like I shouldn't have.)
-
-I need goggles for the lab on Friday.  It's not a "real" lab (Lab Safety session), but I don't have the lab goggles I need.  Acquiring a lab coat wouldn't be remiss, either.  "Old clothes" suffice for the university lab, but without a lab coat I have to risk one of my coats as a disposable/damageable coat.
-
-...something about molecular forces?  I'm confused.  Why is this being discussed?  Dispersion forces are the weakest and most universal.  Dipole-Dipole Attractions are second weakest and exist only for polar molecules.  Hydrogen bonds are next, being a subclass of dipole-dipole attractions which occur when hydrogen is bonded to highly electronegative atoms of nitrogn, oxygen, or fluorine.
-
-Cycloalkanes are cyclic alkanes.  They have two fewer hydrogens than the open chain form, due to carbons being linked to each other rather than to hydrogen.  They are named by using the prefix cyclo- before the name of the alkane chain with the same number of carbon atoms.
-
-(Commentary:  I need to ask permission from the teacher to use potassium, or I need to use it surreptitiously...  I really do feel appalling, and my arms hurt.  "My arms hurt" isn't a caffeine-deficit symptom, it's a potassium-deficit symptom.)
-
-Structural isomers have the same molecular formula as their parent alkane, but the carbon atoms are not in a linear chain.  They are connected in a different way.  Each carbon molecule can be connected to other carbon molecules instead of to hydrogen molecules.
-
-(Commentary:  Notes on rules for naming alkanes with substituents omitted; I was doing the class activity at the time and referencing the book.  Seriously, it's all in the book.  Note however, I don't remember seeing this in the book: minimize the numbers.  Count the -ane from the side where the numbers are lower.)
-
-When one substituent is attached to a carbon atom in a cycloalkane, the name of the substituent is placed in front of the cycloalkane name.  No number is needed for a single alkyl group or halogen atom.
-
-Haloalkanes are alkanes with a halogen atom that replaces a hydrogen atom.  They are named by putting the substituents in alphabetical order.  Have the halo group numbered according to the carbon where it is attached to the alkane.  (While minimizing the numbers.)
-
-(Commentary:  Ow, my arms.  Ow, my fatigue.  At this point it looks like I may last out the session...)
-
-(Commentary:  Oh dear, there's a difference between the teacher and the book.)  Cycloalkanes are numbered with arogens (?) having priority over halogens.  So for instance, something the book labeled as 1-chloro-3-ethylcyclohexane has been labeled by the teacher as 3-chloro-1-ethylcyclohexane.
-
-(Commentary:  My neck is weakening.  I need potassium.  Or for the class to end.  I'm impatient for that.  Is this really going to last another 40 minutes?  There is not 40 minutes of content left!)
-
-(Commentary:  Having already mistaught the classroom, I think the teacher has decided to use what's in the book rather than what's in her slides.  I'm not sure at all though.  I think I prefer the rule in the book...  I foresee a missed test question in my future.)
 
 ---
 Back to [[college-notes]]
