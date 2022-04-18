@@ -37,7 +37,7 @@ I read this to mean that this intervention works by shifting allergic response f
 ---
 https://www.sciencedirect.com/science/article/abs/pii/0165178184901148  (Kronfol, Z.  Turner, R.  Nasrallah, H.  Winokur, G.  (1984, Sep)  Leukocyte regulation in depression and schizophrenia.  *Psychiatry Research*.  Retrieved 2021-2-5.)
 
-This is notable mostly as a speedbump.  It suggests that schizophrenics already have a shift in the balance of their immune system towards neutrophils and way from lymphocytes.  While this proves nothing immediately relevant to my research and doesn't suggest I should stop looking at this avenue, it is bad news in an intuitive base rates sense.  If increasing neutrophil activation is already occurring and it's not helping, the likelihood that a different kind of increased neutrophil activation will be helpful is rational to reduce, though not eliminate, at this juncture.
+This is notable mostly as a speedbump.  It suggests that schizophrenics already have a shift in the balance of their immune system towards neutrophils and away from lymphocytes.  While this proves nothing immediately relevant to my research and doesn't suggest I should stop looking at this avenue, it is bad news in an intuitive base rates sense.  If increasing neutrophil activation is already occurring and it's not helping, the likelihood that a different kind of increased neutrophil activation will be helpful is rational to reduce, though not eliminate, at this juncture.
 
 ---
 https://www.sciencedirect.com/science/article/abs/pii/S0278584607004095 (Teixeira, AL.  Reis, HJ.  Nicolato, R.  Brito-Melo, G.  Correa, H.  Teixeira, MM.  Romano-Silva, MA.  (2008, Apr)  Increased serum levels of CCL11/eotaxin in schizophrenia.  *Progress in Neuro-Psychopharmacology and Biological Psychiatry*.  Retrieved 2021-2-5.)
@@ -45,7 +45,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0278584607004095 (Teixeir
 CCL11 is specifically a biomarker of eosinophils.  This suggests excess eosinophil activation is present in schizophrenics.  Other CCLs monitored in this study (CCL2, CCL3, CCL24, CXCL9, and CXCL10) are biomarkers of other kinds of immune cell or immune cell signalling compound, save for CCL24, which is another biomarker of eosinophil, which as an immune system signal attempts to recruit T lymphocytes and neutrophils.  CCL11 is notable for have a chemotactic effect on eosinophils, in other words, it recruits them.  This suggests that a specific malfunction occuring in schizophrenia may be eosinophils inappropriately recruiting each other to congregate around bits of nerve tissue for which their presence is rather unhealthy...
 
 ---
-What is my vaccination target?  What am I proposing to teach the immune system cells to DO?  I see likenesses between these procedures which suggest that there is something here, but I can't succinctly specify a molecule.
+What is my vaccination target?  What am I proposing to teach the immune system cells to DO?  I see likenesses between these procedures which suggest that there is something here, but I can't specify a molecule.
 
 https://www.uniprot.org/uniprot/G3C8U8  (*Uniprot*.  (n.d.)  "UniProtKB - G3C8U8 (G3C8U8_PHLPR)".  Retrieved 2021-2-5.)
 
@@ -192,9 +192,9 @@ Returning to this paper, it appears to have delivered a plasmid encoding RNA for
 
 The study reports that "antigen-specific IgG1" was significantly elevated in vaccinated mice in comparison to unvaccinated control mice.  Digressing to improve my understanding of antigen-specific IgG1...  IgG is "Immunoglobin G".  Approximately 75% of serum antibodies are IgG variants specific to the antigenic surface.  These Y-shaped proteins are tipped with a pair of binding points specific to the antigen.  Cellular structures with antigen-specific IgG1 attached to them are marked for destruction by the immune system, as well as being directly impaired in mobility characteristics and encouraged to bind uselessly to each other (as each Y-shaped protein can bind to two structures).  A pathogen coated in Immunoglobin G has been "opsonized" and will be phagocytosed if detected by a phagocytotic immune cell (most of them).
 
-It reports that antigen-specific IgG2a was found only in prevaccinated mice, suggesting that they produced an additional antigen which the control mice did not productive.
+It reports that antigen-specific IgG2a was found only in prevaccinated mice, suggesting that they produced an additional antigen which the control mice did not produce.
 
-Conversely, IgE spiked in control mice, but was low or absent in vaccinated mice.  IgE is "Immunoglobin E".  IgE is the least abundant type of antibody with 'normal' levels at 0.05% of antibodies.  Like the much more abundant Immunoglobin G, Immunoglobin E is a Y-shaped protein which functions by agglomerating on pathogenic surfaces to mark them for immunoresponse.  It is the most potently inflammatory class of antibody.  The IgE immunoresponse category is different from the IgG category, actuated by type 1 and type 2 Fcε receptors.  It is correctly deployed against parasites and cancer.  It is incorrectly deployed against allergens/
+Conversely, IgE spiked in control mice, but was low or absent in vaccinated mice.  IgE is "Immunoglobin E".  IgE is the least abundant type of antibody with 'normal' levels at 0.05% of antibodies.  Like the much more abundant Immunoglobin G, Immunoglobin E is a Y-shaped protein which functions by agglomerating on pathogenic surfaces to mark them for immunoresponse.  It is the most potently inflammatory class of antibody.  The IgE immunoresponse category is different from the IgG category, actuated by type 1 and type 2 Fcε receptors.  It is correctly deployed against parasites and cancer.  It is incorrectly deployed against allergens.
 
 So the two differences between the vaccinated vs unvaccinated immunoresponse are that only the vaccinated mice produced IgG2a, and that significant IgE production was seen only in the unvaccinated mice.  It looks like this allergy vaccine sensitizes the immune system to "a pathogen" - and then deploys increased numbers of IgG antibodies at it rather than deploying IgE antibodies at it.  The IgG-coated pathogen mildly inflames its vicinity, becomes opsonized, and is then eaten by neutrophils (which is *correct* disposal for allergens) whereas the IgE-coated pathogen would have caused an utter inflammatory panic in the region, become opsonized, and then gotten eaten by eosinophils (which are more toxic than neutrophils).
 
@@ -218,6 +218,13 @@ https://pubmed.ncbi.nlm.nih.gov/31101672/ (Kose, N.  Fox, JM.  Sapparapu, G.  Bo
 Is this another kind of RNA vaccination?  Would the antigen-specific monoclonal antibody provide lingering or temporary protection?  Is this a third vaccine method, or is it a treatment?  How are mRNA encodings devised for specific molecular structures?
 
 When I looked at the abstract for this, I realized that I have many questions about its position relative to what I've been studying.  I didn't even know what a monoclonal antibody was!  I now know that monoclonal antibodies are general 'grabber tools' used in biochemistry, molecular biology, and medicine for their general and engineerable cell-marking applications.
+
+---
+https://onlinelibrary.wiley.com/doi/full/10.1111/imm.12795 (Al-Diwani, Adam A.J.  Pollak, Thomas A.  Irani, Sarosh R.  Lennox, Belinda R.  (2017, July 13.)  Psychosis: An Autoimmune Disease?  *Immunology.*  Retrieved 2022-04-17.)
+
+(Quoted from source:)  "Several immune loci including the major histocompatibility complex and B-cell markers CD19 and CD20 achieve genome-wide significance in schizophrenia.""
+
+If there are MHC genes that are strongly associated with schizophrenia, there may be autorecognition errors that are strongly associated with schizophrenia.  If specific autorecognition errors could be identified as strongly associated with schizophrenia, specific tolerogenesis targets could be identified as potentially curative in schizophrenia.
 
 ---
 Back to [[authors-nonfiction]]
