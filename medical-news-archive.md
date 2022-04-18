@@ -23,6 +23,8 @@ https://apnews.com/article/gene-therapy-business-science-health-b2b670011d52968c
 
 https://www.foxnews.com/health/israeli-scientists-extend-mices-lives-aim-humans-next - Israeli scientists extend mice's lives by 23%, aim for humans next - Retrieved 2021-6-2.  Commentary:  I feel obligated to record this.  It's about the use of SIRT-6 to improve aging metabolisms.  Anti-aging isn't just one thing, and all the different things it is have to be advanced.
 
+https://www.genengnews.com/sponsored/automating-aseptic-manufacturing-of-autologous-t-cell-therapies/ - Automating Aseptic Manufacturing of Autologous T-Cell Therapies - Retrieved 2022-04-17.  Commentary:  My thoughts leaned on dendritic cells rather than T-cells, but this is still very exciting.  Medical automation is key to establishing new therapeutic potentials.
+
 ---
 Back to [[News-Archive]]
 

@@ -4,5 +4,14 @@ I need to reread [[notes-on-potential-applicability-of-rna-vaccination-to-treatm
 
 While I'm here, I'll link [[a-general-protocol-for-tolerogenic-rna-vaccination]] because that's what I need for immunoresponse tuning.  I think I'll create a node for that: [[immunoresponse-tuning]].
 
+I need to reread all this stuff.
+
+---
+https://www.genengnews.com/sponsored/automating-aseptic-manufacturing-of-autologous-t-cell-therapies/
+
+Headline: "Automating Aseptic Manufacturing of Autologous T-Cell Therapies"
+
+This is for T-Cells not dendritic cells, but it's very exciting nonetheless.  Directly interfacing with the immune system in an automated way should bring new treatments to market.
+
 ---
 Back to [[day-post-archive]]
