@@ -220,11 +220,15 @@ Is this another kind of RNA vaccination?  Would the antigen-specific monoclonal 
 When I looked at the abstract for this, I realized that I have many questions about its position relative to what I've been studying.  I didn't even know what a monoclonal antibody was!  I now know that monoclonal antibodies are general 'grabber tools' used in biochemistry, molecular biology, and medicine for their general and engineerable cell-marking applications.
 
 ---
-https://onlinelibrary.wiley.com/doi/full/10.1111/imm.12795 (Al-Diwani, Adam A.J.  Pollak, Thomas A.  Irani, Sarosh R.  Lennox, Belinda R.  (2017, July 13.)  Psychosis: An Autoimmune Disease?  *Immunology.*  Retrieved 2022-04-17.)
+https://onlinelibrary.wiley.com/doi/full/10.1111/imm.12795 (Al-Diwani, Adam A.J.  Pollak, Thomas A.  Irani, Sarosh R.  Lennox, Belinda R.  (2017, July 13.)  Psychosis: An Autoimmune Disease?  *Immunology.*  Retrieved 2022-04-18.)
 
-(Quoted from source:)  "Several immune loci including the major histocompatibility complex and B-cell markers CD19 and CD20 achieve genome-wide significance in schizophrenia.""
+(Quoted from source:)  "Several immune loci including the major histocompatibility complex and B-cell markers CD19 and CD20 achieve genome-wide significance in schizophrenia."
 
 If there are MHC genes that are strongly associated with schizophrenia, there may be autorecognition errors that are strongly associated with schizophrenia.  If specific autorecognition errors could be identified as strongly associated with schizophrenia, specific tolerogenesis targets could be identified as potentially curative in schizophrenia.
+
+(Quoted from source:)  "a 57-year-old man with no past psychiatric history developed a severe, chronic psychosis following allogenic stem cell transplant from a brother who had a diagnosis of schizophrenia (neuronal autoantibodies were not tested in either donor or recipient)."
+
+I think there's going to turn out to be a specific, shared etiology rooted in specific autoimmunity.  Once that's confirmed, experiments can be devised to try to alter the immune system's targeting.
 
 ---
 Back to [[authors-nonfiction]]
