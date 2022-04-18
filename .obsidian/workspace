@@ -19,7 +19,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "Northern-Creche-Confederation.md",
-                    "mode": "source"
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
@@ -29,8 +30,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "aowcommander-profiles.md",
-                    "mode": "source"
+                    "file": "authors-nonfiction.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -48,19 +50,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
-                    "mode": "source"
+                    "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               },
               {
-                "id": "7fdf4cd11513361f",
+                "id": "6ce79c7593318b96",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chem131-2022-04-13.md",
-                    "mode": "source"
+                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -124,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem131-2022-04-13.md",
+                "file": "authors-nonfiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,19 +143,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230
+    "width": 596
   },
-  "active": "7fdf4cd11513361f",
+  "active": "e5f17a424dadb013",
   "lastOpenFiles": [
-    "Chem131-2022-04-13.md",
-    "Northern-Creche-Confederation.md",
-    "CHEM131.md",
-    "character-gallery.md",
-    "2022-04-02-Two-Hundred-and-Thirty-Eighth.md",
-    "2022-03-17-Two-Hundred-and-Thirty-Seventh.md",
-    "2022-02-02-Two-Hundred-and-Twenty-Sixth.md",
-    "Winterlands-by-Barbara-Hambly.md",
-    "Bibliography.md",
-    "2022-02-03-Two-Hundred-and-Twenty-Seventh.md"
+    "authors-nonfiction.md",
+    "Author's Nonfiction.md",
+    "envs100disc3-renewableenergy.md",
+    "envs100disc4-pandemicblues.md",
+    "envs100disc5-endangeredspecies.md",
+    "notes-on-recombinant-protein-construction.md",
+    "metr101disc3-rainmaking.md",
+    "tolerogenic-rna-vaccination-vs-dendrispecific-rna-vaccination.md",
+    "authors-writing.md",
+    "envs100disc2-climatechange.md"
   ]
 }
