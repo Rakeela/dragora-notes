@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "authors-nonfiction.md",
+                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
                     "mode": "source",
                     "source": false
                   }
@@ -51,6 +51,18 @@
                   "type": "markdown",
                   "state": {
                     "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ff42492ac11f13ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "immunoresponse-tuning.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authors-nonfiction.md",
+                "file": "immunoresponse-tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,17 +157,17 @@
     "direction": "horizontal",
     "width": 596
   },
-  "active": "e5f17a424dadb013",
+  "active": "ff42492ac11f13ba",
   "lastOpenFiles": [
+    "immunoresponse-tuning.md",
+    "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+    "A General Protocol for Tolerogenic RNA Vaccination.md",
     "authors-nonfiction.md",
+    "2022-04-17-Two-Hundred-and-Fortieth.md.md",
     "Author's Nonfiction.md",
     "envs100disc3-renewableenergy.md",
     "envs100disc4-pandemicblues.md",
     "envs100disc5-endangeredspecies.md",
-    "notes-on-recombinant-protein-construction.md",
-    "metr101disc3-rainmaking.md",
-    "tolerogenic-rna-vaccination-vs-dendrispecific-rna-vaccination.md",
-    "authors-writing.md",
-    "envs100disc2-climatechange.md"
+    "notes-on-recombinant-protein-construction.md"
   ]
 }

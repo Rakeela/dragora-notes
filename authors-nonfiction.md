@@ -15,8 +15,8 @@ Class essays:
 * [[metr101disc3-rainmaking]]
 
 Potential essays:
-* [[A General Protocol for Tolerogenic RNA Vaccination]]
-* [[Tolerogenic RNA Vaccination vs Dendrispecific RNA Vaccination]]
+* [[a-general-protocol-for-tolerogenic-rna-vaccination]]
+* [[tolerogenic-rna-vaccination-vs-dendrispecific-rna-vaccination]]
 
 Notes for potential essays:
 * [[notes-on-potential-applicability-of-RNA-vaccination-to-treatment-of-schizophrenia]]
