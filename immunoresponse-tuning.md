@@ -7,4 +7,9 @@ Some method is needed to overcome mislearning in the immune system in order for 
 Vaccines are also a form of immunoresponse tuning, but it's notably easier to teach the immune system to recognize a pathogen, than it is to teach the immune system to stop targeting an inaccurately identified self-protein.
 
 ---
-Research files:  [[a-general-protocol-for-tolerogenic-rna-vaccination]]
+Research files
+* [[a-general-protocol-for-tolerogenic-rna-vaccination]]
+* [[notes-on-tolerogenic-dendritic-cells]]
+
+Experimental proposals:
+* [[Universal-tolerogenic-dendritic-cell-experiment-1]]

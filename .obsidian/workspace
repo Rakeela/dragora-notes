@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                    "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
                     "mode": "source",
                     "source": false
                   }
@@ -50,19 +50,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ff42492ac11f13ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "immunoresponse-tuning.md",
+                    "file": "notes-on-tolerogenic-dendritic-cells.md",
                     "mode": "source",
                     "source": false
                   }
@@ -74,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                    "file": "medical-news-archive.md",
                     "mode": "source",
                     "source": false
                   }
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "immunoresponse-tuning.md",
+                "file": "medical-news-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 596
+    "width": 596,
+    "collapsed": true
   },
-  "active": "ff42492ac11f13ba",
+  "active": "6ce79c7593318b96",
   "lastOpenFiles": [
-    "immunoresponse-tuning.md",
-    "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
-    "A General Protocol for Tolerogenic RNA Vaccination.md",
-    "authors-nonfiction.md",
+    "medical-news-archive.md",
     "2022-04-17-Two-Hundred-and-Fortieth.md.md",
-    "Author's Nonfiction.md",
-    "envs100disc3-renewableenergy.md",
-    "envs100disc4-pandemicblues.md",
-    "envs100disc5-endangeredspecies.md",
-    "notes-on-recombinant-protein-construction.md"
+    "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
+    "authors-nonfiction.md",
+    "immunoresponse-tuning.md",
+    "a-general-protocol-for-tolerogenic-rna-vaccination.md",
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
+    "A General Protocol for Tolerogenic RNA Vaccination.md",
+    "Author's Nonfiction.md"
   ]
 }

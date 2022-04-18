@@ -1,4 +1,4 @@
-# Notes on Tolerogenic Dendritic Cells
+#Notes-on-Tolerogenic-Dendritic-Cells
 
 This is a companion file to the essays that I'm currently attempting to write about tolerogenicity, [[a-general-protocol-for-tolerogenic-rna-vaccination]] and [[tolerogenic-rna-vaccination-vs-dendrispecific-rna-vaccination]].  The most promising thing that I've noticed is that I may be able to prove dendrispecificity of RNA vaccines.  I haven't necessarily gotten to it first, but I also haven't found it in the literature yet.  It's an inference I plucked from some raw data.  That's exciting.  And yet...
 
