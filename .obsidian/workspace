@@ -50,19 +50,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-tolerogenic-dendritic-cells.md",
+                    "file": "CHEM131.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "6ce79c7593318b96",
+                "id": "93e4707046fac02a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                    "file": "Chem131-2022-04-20.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
+                "file": "Chem131-2022-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +146,17 @@
     "width": 596,
     "collapsed": true
   },
-  "active": "6ce79c7593318b96",
+  "active": "93e4707046fac02a",
   "lastOpenFiles": [
+    "Chem131-2022-04-20.md",
+    "CHEM131.md",
+    "notes-on-tolerogenic-dendritic-cells.md",
     "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
     "2022-04-17-Two-Hundred-and-Fortieth.md.md",
-    "notes-on-tolerogenic-dendritic-cells.md",
     "medical-news-archive.md",
     "authors-nonfiction.md",
     "immunoresponse-tuning.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
-    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
-    "A General Protocol for Tolerogenic RNA Vaccination.md",
-    "Author's Nonfiction.md"
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md"
   ]
 }
