@@ -1,3 +1,4 @@
+These are mostly copied slides, but I can keep them as a relic of the journey.
 
 [[Chem131-2022-04-04]]
 [[Chem131-2022-04-06]]
