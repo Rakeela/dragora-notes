@@ -153,6 +153,10 @@ Sections;
    57) [[Traveller-LBB7:-Merchant-Prince]]
    58) [[Traveller-LBB8:-Dilettante]]
    59) [[Traveller-LBB9:-Robot]]
+   60) [[Lost-Eons-Players-Guide]]
+   61) [[Lost-Eons-GMs-Tools]]
+   62) [[Lone-Eons]]
+   63) [[Lost-Eons-Fens-Setting-Book]]
 
 11) Writing Advice
    1) [[No-Plot-No-Problem]]
