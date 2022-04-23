@@ -159,6 +159,7 @@ Sections;
    2) [[From-Sanctity-to-Sorcery-An-Author's-Guide-to-Building-Belief-Structures-and-Magic-Systems]]
    3) [[The-Only-World-Building-Workbook-You'll-Ever-Need]]
    4) [[The-Psychology-Workbook-for-Writers]]
+   5) [[Dialogue-The-Art-of-Verbal-Action-for-the-Page-Stage-and-Screen]]
 
 12) Cookbooks
 	1) [[Centennial-Home-Holiday-Keto]]

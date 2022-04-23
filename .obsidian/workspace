@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
+                    "file": "Bibliography.md",
                     "mode": "source",
                     "source": false
                   }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-17-Two-Hundred-and-Fortieth.md.md",
+                "file": "Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "e5f17a424dadb013",
   "lastOpenFiles": [
+    "Bibliography.md",
     "2022-04-17-Two-Hundred-and-Fortieth.md.md",
     "2022-04-22-Two-Hundred-and-Forty-First.md",
     "notes-on-potential-applicability-of-rna-vaccination-to-treatment-of-schizophrenia.md",
@@ -156,7 +157,6 @@
     "authors-nonfiction.md",
     "immunoresponse-tuning.md",
     "a-general-protocol-for-tolerogenic-rna-vaccination.md",
-    "Universal-tolerogenic-dendritic-cell-experiment-1.md",
-    "A General Protocol for Tolerogenic RNA Vaccination.md"
+    "Universal-tolerogenic-dendritic-cell-experiment-1.md"
   ]
 }
