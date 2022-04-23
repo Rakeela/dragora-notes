@@ -157,6 +157,7 @@ Sections;
    61) [[Lost-Eons-GMs-Tools]]
    62) [[Lone-Eons]]
    63) [[Lost-Eons-Fens-Setting-Book]]
+   64) [[Lost-Eons-Haven-of-Aves]]
 
 11) Writing Advice
    1) [[No-Plot-No-Problem]]
