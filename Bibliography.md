@@ -158,6 +158,8 @@ Sections;
    62) [[Lone-Eons]]
    63) [[Lost-Eons-Fens-Setting-Book]]
    64) [[Lost-Eons-Haven-of-Aves]]
+   65) [[Lost-Eons-Lands-of-Iron]]
+   66) [[Welcome-to-Wrongwood]]
 
 11) Writing Advice
    1) [[No-Plot-No-Problem]]
