@@ -15,4 +15,4 @@ The conjunction of these two subjects, that people use AI Dungeon for Monster Gi
 Anyways, I don't masturbate enough.  Once a day is healthy, but hard to achieve.  I envy people with less broken attitudes to porn than my own.
 
 ---
-Back to [[[day-post-archive]]]
+Back to [[day-post-archive]]
