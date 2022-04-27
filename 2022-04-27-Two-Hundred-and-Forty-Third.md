@@ -5,4 +5,11 @@ I've picked up a chemistry textbook from the library for additional study.  It l
 Restudying the slides is appalling to me for some reason.  Rather than fighting that feeling, perhaps I can productively utilize my inclination to read obsessively by seeing if I can conquer a "new" text.  At least one section of it covers (a subsection of) the same material as is in my course, so I'm hoping it will still be good for my grades.
 
 ---
+Rereading material almost never feels productive.  Of all rereading tasks that I've encountered, it is almost true that only rereading the stories that I've written feels productive.  This is an unfortunate bias in my cognition, since rereading the slides from chemistry class would be quicker by a day of hours than reading the organic chemistry section of a new tome.
+
+The only other productive rereading task so far is rereading my research notes.  My proposed general protocol for tolerogenic treatments is overly ambitious and interestingly weird.  Mutant dendritic cells that present prepared peptides and *do not* present a peptide binding groove, reducing their likelihood to pick up new peptides and (even more importantly) reducing their likelihood to inspire hostile immune responses!  If the mutant dendritic cells are possible to prepare, they might really work!
+
+I have to get a lot of class behind me in order to get access to research labs to see if I can produce hypoallergenic mutant dendritic cells.  I wonder if I can do that as an experiment at university.  Will I still think it's plausible once I've gone further in my classes?
+
+---
 Back to [[day-post-archive]]
