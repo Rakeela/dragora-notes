@@ -17,4 +17,9 @@ My mind seems active this morning, but not accurate.  I'm distracted.  I recentl
 Caffeine in the morning helps me get moving in the morning so I can reach my morning class, but I need to acquire more of the particular energy drinks that I'm accustomed to instead of these.  They're rose-flavored!  Better taste, better effect.  I think my preferred brand is less caffeinated than the one I substituted in.
 
 ---
+Orphaned punchline:  "I'm in morning."  Suggested use: Morning alertness stereotypes.  Risk factors: Misuse of mourning concept.  Misc:  My sense of humor works poorly.
+
+This thought reminds me, while I was on the bus this morning I wondered if comedy relies on risk.  Are there people whose attention is held by the risk-taking involved in humor?  The ones who are very rude are very awful and easily bored, but perhaps the comedic risk-takers who are only very slightly rude are very good.
+
+---
 Back to [[day-post-archive]]
