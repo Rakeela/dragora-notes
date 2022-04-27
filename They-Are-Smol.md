@@ -13,5 +13,13 @@ This book treats people as having no capability of controlling population growth
 
 Add this to the way They Are Smol pushes the nonsensical "first contact would cause riots" angle, and you have something that seems like it wouldn't describe humanity very well.  Seriously, the #1 response to first contact would be apathetic continuity of life, and the #1 non-apathetic response would be aggressive disbelief which would annoy people who care yet tend to stabiliize things further.
 
+(Quoted from source)
+"Because trying to escape the crush of people at home means we have to pack ourselves in tightly here?!"
+
+(quoted from source)
+“Well try harder!” Ricardo growled, sitting back in his chair angrily. “You’re supposed to help us get the GOOD land, the land we can keep forever, that will provide forever!”
+
+Tch.  This is appalling.  No land will provide forever if people aren't mature enough to stop reproducing.
+
 ---
 Back to [[Bibliography]]
