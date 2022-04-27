@@ -29,6 +29,7 @@ Sections;
    15) [[Artemis-Fowl]]
    16) [[Dune]]
    17) [[The-Earthsea-Cycle]]
+   18) [[They-Are-Smol]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -51,6 +52,7 @@ Sections;
    18) [[The-Fifth-Season]]
    19) [[The-Great-Divorce]]
    20) [[The-Forever-King-by-Ben-Galley]]
+   21) [[Daikaiju-Yuki]]
 
 3) Anthologies
 	1) [[The Furry Future]]
