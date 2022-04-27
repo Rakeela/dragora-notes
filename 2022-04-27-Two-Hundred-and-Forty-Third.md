@@ -22,4 +22,14 @@ Orphaned punchline:  "I'm in morning."  Suggested use: Morning alertness stereot
 This thought reminds me, while I was on the bus this morning I wondered if comedy relies on risk.  Are there people whose attention is held by the risk-taking involved in humor?  The ones who are very rude are very awful and easily bored, but perhaps the comedic risk-takers who are only very slightly rude are very good.
 
 ---
+It is emotionally difficult to read about a scientist named Dumas ridiculing his former student in scientific journals.  Dumas?  Really?  Yes, of course dumbass ridicules his student.
+
+His student was wrong btw.  His rivals were wrong, too.  Science suffers from a fascinating historical epidemic of wrongness.  It's from this book about chemistry that I'm reading to pass a moment of time in class when the slides are not proceeding and no study check is on the board.
+
+Modern scientists seem more respectful than historical scientists.  They respect wrongness more even as they suffer from it less.  I wonder what changed.  In many sectors, society seems to have become more rude, but modern scientists seem to have become polite without being uptight.
+
+---
+I wonder if I should put the workspace file into an ignore list.  I want different computers that access this archive to have different workspaces.  Discarding the changes all the time is kind of annoying.
+
+---
 Back to [[day-post-archive]]
