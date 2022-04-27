@@ -9,7 +9,12 @@ Rereading material almost never feels productive.  Of all rereading tasks that I
 
 The only other productive rereading task so far is rereading my research notes.  My proposed general protocol for tolerogenic treatments is overly ambitious and interestingly weird.  Mutant dendritic cells that present prepared peptides and *do not* present a peptide binding groove, reducing their likelihood to pick up new peptides and (even more importantly) reducing their likelihood to inspire hostile immune responses!  If the mutant dendritic cells are possible to prepare, they might really work!
 
-I have to get a lot of class behind me in order to get access to research labs to see if I can produce hypoallergenic mutant dendritic cells.  I wonder if I can do that as an experiment at university.  Will I still think it's plausible once I've gone further in my classes?
+I have to get a lot of classes behind me in order to get access to research labs to see if I can produce hypoallergenic mutant dendritic cells.  I wonder if I can do that as an experiment at university.  Will I still think it's plausible once I've gone further in my classes?
+
+---
+My mind seems active this morning, but not accurate.  I'm distracted.  I recently acquired a different set of energy drinks from the ones that I'm accustomed to and they're having a terrible effect.  Hyperactivity and an excessive need to urinate.  Very distracting.  I can't presently leave class for a bio break.  I can depart for the restroom in half an hour perhaps when the teacher pauses between sections.
+
+Caffeine in the morning helps me get moving in the morning so I can reach my morning class, but I need to acquire more of the particular energy drinks that I'm accustomed to instead of these.  They're rose-flavored!  Better taste, better effect.  I think my preferred brand is less caffeinated than the one I substituted in.
 
 ---
 Back to [[day-post-archive]]
