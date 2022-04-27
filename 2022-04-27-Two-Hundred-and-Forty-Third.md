@@ -32,4 +32,9 @@ Modern scientists seem more respectful than historical scientists.  They respect
 I wonder if I should put the workspace file into an ignore list.  I want different computers that access this archive to have different workspaces.  Discarding the changes all the time is kind of annoying.
 
 ---
+I'm not looking forward to the exam in [[Chem131]].  I've finally realized what's lurking behind all the generous rules in class activities (participation grades) and homework (three tries for right answers).  The lurking thing is that the exams (one try) are 55% of the grade.  So doing well at all the other stuff and then failing the exam means failing the class.
+
+I think I'll do fine, but exam stress is inevitable.
+
+---
 Back to [[day-post-archive]]
