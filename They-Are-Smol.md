@@ -59,4 +59,7 @@ At least the Karnakian youth are described as unfathomably cute.  Karnakians in 
 It makes no sense to bring the kids along in chapter 21.  No sense at all.  I wonder if the author will pay it off or leave it unfathomable.
 
 ---
+I'm into book 5 now.  Oh my god it's frustrating that the author used a population boom storyline.  If humans are rare and vital, their value would only go up if they didn't breed.  Reproducing heavily drains value!  When you've got too many humans and no use for them, life gets cheap and people have to suffer being unwanted.  The whole starting premise of They are Smol - that humans are new, rare exoticisms and the whole galaxy thinks they're adorable - is fragile and would fall apart if people had a bavillion kids.
+
+---
 Back to [[Bibliography]]
