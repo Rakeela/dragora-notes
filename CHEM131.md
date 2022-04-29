@@ -9,6 +9,7 @@ These are mostly copied slides, but I can keep them as a relic of the journey.
 [[Chem131-2022-04-20]]
 [[Chem131-2022-04-25]]
 [[Chem131-2022-04-27]]
+[[Chem131-2022-04-29]]
 
 
 ---
