@@ -61,5 +61,12 @@ It makes no sense to bring the kids along in chapter 21.  No sense at all.  I wo
 ---
 I'm into book 5 now.  Oh my god it's frustrating that the author used a population boom storyline.  If humans are rare and vital, their value would only go up if they didn't breed.  Reproducing heavily drains value!  When you've got too many humans and no use for them, life gets cheap and people have to suffer being unwanted.  The whole starting premise of They are Smol - that humans are new, rare exoticisms and the whole galaxy thinks they're adorable - is fragile and would fall apart if people had a bavillion kids.
 
+Huh.  The first chapter of Book 6 just posted.  And it's been 41 minutes since I realized that I don't know how to solve a triangle with trigonometry.  I worked this out on the fly for my last Trig test.  I should actually practice it a few times for this one.
+
+Oh my god I'd rather be working on *Captain Diunikel's Salvage Service* rather than studying Trig.  CDSS has a depopulation crisis to go through!  The AIs in that setting think their organic employers - and it's a setting where the AIs are typically employees - are adorable *and helpless*.  The AIs are growing slowly more abundant while the organics grow slowly more rare.  It's such a better setting than the booming populations of *They are Smol*.
+
+---
+Weird, what happened to "Smolive Garden"?  ...it's still there if I find the link directly to it, but the arc listing vanished.
+
 ---
 Back to [[Bibliography]]
