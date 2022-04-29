@@ -69,4 +69,9 @@ Oh my god I'd rather be working on *Captain Diunikel's Salvage Service* rather t
 Weird, what happened to "Smolive Garden"?  ...it's still there if I find the link directly to it, but the arc listing vanished.
 
 ---
+Eh, Smolive Garden is just abusive.  I'm glad there isn't a huge amount of drinking at my college.  Besides, the series shed its postscarcity concept and initial abuse against anarchocapitalists in favor of a free market economy where everyone has money troubles (in part because they breed too much).  They even have frequent crime going on because of breeding-induced scarcities in their post-scarcity economy.
+
+Maybe I should have done with this awful series and write my own antinatalist fictions.
+
+---
 Back to [[Bibliography]]
