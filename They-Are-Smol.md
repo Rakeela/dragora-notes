@@ -1,7 +1,7 @@
 #They-Are-Smol
 
 This is an online series, but I'll classify it as a book for purposes of the Bibliography. The archive can be found here:
-https://theyaresmol.com/smol-arcs/
+https://theyaresmol.com/read-the-stories/
 
 As of first upload, I've read Arcs 1 and 2.
 
