@@ -27,7 +27,7 @@ Medichine pods are also used to operate immersive virtual reality environments, 
 2022-05-04
 I need a nanite plague in this setting, in the form of a malign artifact that is their society's unfortunate first contact with an alien species.  The problem is I haven't figured out what the nanites should be doing.  I even put in my notes who aboard ship does and doesn't survive the plague, but I haven't determined the objectives of the alien AI in the artifact.
 
-I determined that the alien AI is a nanite miner.  It's installed into a metallic asteroid whose composition is particularly excellent for producing nanites with.  This is what drew both species' miners to look at it.  Perhaps the nanite miner is programmed to attack claim jumpers and force them to self-confine while authorities arrive?  In which case, its functions may not work very well while targeting an alien species, promoting the idea that it mostly causes erraticity.
+I determined that the alien AI is a nanite miner.  It's installed into a metallic asteroid whose composition is particularly excellent for producing nanites with.  This is what drew both species' miners to look at it.  Perhaps the nanite miner is programmed to attack claim jumpers and force them to self-confine while authorities arrive?  In which case, its functions may not work very well while targeting an alien species, promoting the idea that it mostly causes erraticity.  Yet if that was what it does, it should have a way to contact the authorities, and I've made no mention so far of FTL communications.  No ansibles.  What else would make sense for a nanite miner in an unsettled system?
 
 ---
 Back to [[authors-fiction]]
