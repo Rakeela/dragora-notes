@@ -7,4 +7,7 @@ It seems strange to me that isotopes are measured solely by proton and neutron c
 Even if scientists have no idea how to create such objects, could their structure be simulated in computers?
 
 ---
+In order that I can take notes on a writing project while at school, I've greatly expanded my file on [[Captain-Diunikels-Salvage-Service]].  Multitasking!
+
+---
 Back to [[day-post-archive]]
