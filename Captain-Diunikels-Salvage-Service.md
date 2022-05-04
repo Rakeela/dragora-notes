@@ -35,7 +35,11 @@ A thought that occurred to me is that the nanite-controlling AI's motive might b
 
 So it's a nanite miner with an onboard power source that it hasn't exhausted yet, or else it can metabolize rock somehow.  Lithotrophic nanites?  Oh, maybe it IS a relic, and it wants to survive the exhaustion of the asteroid it was abandoned on.  This would give it a motive: it's desperate to take over the ship that found it.  That said, there's a plothole here: just being found as an alien relic got it taken aboard, so the AI should realize that is enough to let it survive.  Unless it fears it'll be dismantled.  So a *paranoid* relic AI...
 
-Open question:  How does the AI reverse engineer alien brains to create the nanite plague?
+Open question:  How does the AI reverse engineer alien brains to create the nanite plague?  Perhaps it was on the mining ship for quite a while gradually mapping, translating, and studying the miner's medichine pods, from which it adapted the virtual world simulation program interfaces to try to brain-hack the miners.  This also helps explain how it can attack the AIs on Captain Diunikel's ship, since they use virtual world simulation programs extensively.
+
+Yay!  I'm really making progress on the issue that was holding me back.
+
+This suggests that Captain Diunikel could get some clues as to what's going on.  The quarantine barriers will prevent the relic AI from directly attacking Diunikel's brain, but it will still be able to attack her in virtual reality.  Yay, I have an excuse for so much virtual reality to be in the story, too.
 
 ---
 Back to [[authors-fiction]]
