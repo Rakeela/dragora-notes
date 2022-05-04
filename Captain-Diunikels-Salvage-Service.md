@@ -29,5 +29,13 @@ I need a nanite plague in this setting, in the form of a malign artifact that is
 
 I determined that the alien AI is a nanite miner.  It's installed into a metallic asteroid whose composition is particularly excellent for producing nanites with.  This is what drew both species' miners to look at it.  Perhaps the nanite miner is programmed to attack claim jumpers and force them to self-confine while authorities arrive?  In which case, its functions may not work very well while targeting an alien species, promoting the idea that it mostly causes erraticity.  Yet if that was what it does, it should have a way to contact the authorities, and I've made no mention so far of FTL communications.  No ansibles.  What else would make sense for a nanite miner in an unsettled system?
 
+It could be a relic.  Having an immense amount of time to itself without anyone recovering it, the AI on board could have evolved into a new form.  I tend to think of such things in an optimistic way, though isolation madness is a thing AFAIK.
+
+A thought that occurred to me is that the nanite-controlling AI's motive might be curiosity.  A catastrophic, destroying curiosity.  This would go well with the idea of it being an abandoned relic AI that was left to evolve on its own.  Note however that an abandoned relic AI may be inappropriate, as the asteroid does not have substantial external signs of access, suggesting that (since it certainly didn't put up a solar power farm) the AI would need an internal power source to be a relic.  I don't want to give it one.
+
+So it's a nanite miner with an onboard power source that it hasn't exhausted yet, or else it can metabolize rock somehow.  Lithotrophic nanites?  Oh, maybe it IS a relic, and it wants to survive the exhaustion of the asteroid it was abandoned on.  This would give it a motive: it's desperate to take over the ship that found it.  That said, there's a plothole here: just being found as an alien relic got it taken aboard, so the AI should realize that is enough to let it survive.  Unless it fears it'll be dismantled.  So a *paranoid* relic AI...
+
+Open question:  How does the AI reverse engineer alien brains to create the nanite plague?
+
 ---
 Back to [[authors-fiction]]
