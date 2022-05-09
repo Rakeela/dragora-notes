@@ -47,8 +47,11 @@ They were the most customized AIs aboard.  Over the decades that they'd been tog
 
 They were insular, obsessed with each other, and constantly testing each others' code.  When the intrusion attempt from an unknown source occurred, they placidly logged the failed access attempts and reported them to Xaray.
 
+The ancient AI that the group picks up is hostile, but the first thing it does is that it maps out its space.  It discovers itself to be in an isolation bay...  which might be better termed a quarantine hut, because it's a small, pressurized space in a big, unpressurized mobile shipyard hangar.  In order to try to take over the ship from a quarantine hut, it has to try to take over the ship's network.  However smart and hostile an alien AI might be, how much could it really take over a computer system from a species it had never encountered?  I'm having trouble with my plot.
 
+It had an unspecified time to take over the network on the Capital Cutter, and should probably have succeeded at that.  Was it on the Cutter for months?  Did they keep it secret?  They should've been aware relatively quickly that it was trying to access their network.
 
+Maybe the Cutter's operators pride themselves on forward planning and resupply their asteroid miner/colonizer only at long intervals.  It would help with my plotting.
 
 ---
 Back to [[authors-fiction]]
