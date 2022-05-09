@@ -42,4 +42,13 @@ Yay!  I'm really making progress on the issue that was holding me back.
 This suggests that Captain Diunikel could get some clues as to what's going on.  The quarantine barriers will prevent the relic AI from directly attacking Diunikel's brain, but it will still be able to attack her in virtual reality.  Yay, I have an excuse for so much virtual reality to be in the story, too.
 
 ---
+2022-05-09
+They were the most customized AIs aboard.  Over the decades that they'd been together on Captain Diunikel's ship, Amber and Wortchaw had gone over every line of their code.  Seeking to answer the age-old question, "What is love?" they touched everything in their codebase and sought to bring it to a new, "more loving" state.  Acting on the theory that a reprogrammable love is a false love, they were the most resilient against intrusion, too.
+
+They were insular, obsessed with each other, and constantly testing each others' code.  When the intrusion attempt from an unknown source occurred, they placidly logged the failed access attempts and reported them to Xaray.
+
+
+
+
+---
 Back to [[authors-fiction]]
