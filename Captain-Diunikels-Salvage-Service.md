@@ -42,4 +42,16 @@ Yay!  I'm really making progress on the issue that was holding me back.
 This suggests that Captain Diunikel could get some clues as to what's going on.  The quarantine barriers will prevent the relic AI from directly attacking Diunikel's brain, but it will still be able to attack her in virtual reality.  Yay, I have an excuse for so much virtual reality to be in the story, too.
 
 ---
+2022-05-09
+They were the most customized AIs aboard.  Over the decades that they'd been together on Captain Diunikel's ship, Amber and Wortchaw had gone over every line of their code.  Seeking to answer the age-old question, "What is love?" they touched everything in their codebase and sought to bring it to a new, "more loving" state.  Acting on the theory that a reprogrammable love is a false love, they were the most resilient against intrusion, too.
+
+They were insular, obsessed with each other, and constantly testing each others' code.  When the intrusion attempt from an unknown source occurred, they placidly logged the failed access attempts and reported them to Xaray.
+
+The ancient AI that the group picks up is hostile, but the first thing it does is that it maps out its space.  It discovers itself to be in an isolation bay...  which might be better termed a quarantine hut, because it's a small, pressurized space in a big, unpressurized mobile shipyard hangar.  In order to try to take over the ship from a quarantine hut, it has to try to take over the ship's network.  However smart and hostile an alien AI might be, how much could it really take over a computer system from a species it had never encountered?  I'm having trouble with my plot.
+
+It had an unspecified time to take over the network on the Capital Cutter, and should probably have succeeded at that.  Was it on the Cutter for months?  Did they keep it secret?  They should've been aware relatively quickly that it was trying to access their network.
+
+Maybe the Cutter's operators pride themselves on forward planning and resupply their asteroid miner/colonizer only at long intervals.  It would help with my plotting.
+
+---
 Back to [[authors-fiction]]
