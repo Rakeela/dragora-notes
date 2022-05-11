@@ -12,4 +12,7 @@ I feel kind of sorry for people who do stuff they can't be honest and open about
 I don't want the movies that I've watched to become splinters of amnesia.  Just as I've probably still forgotten the majority of books that I've ever read, and as I've certainly forgotten the majority of songs that I've ever heard, I've probably forgotten the majority of movies that I've watched.  The only way to fix that is to start listing them and keep the lists safe in the future.
 
 ---
+I think the 58 movies in the [[Movies-Watched]] list actually ARE the majority of the movies that I've watched.  I'm not a big fan of movies historically.  Raising it to 62 as I've just done may help, though I'm certain there are still movies unlisted.
+
+---
 Back to [[day-post-archive]]
