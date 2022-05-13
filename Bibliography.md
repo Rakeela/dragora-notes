@@ -54,6 +54,7 @@ Sections;
    20) [[The-Forever-King-by-Ben-Galley]]
    21) [[Daikaiju-Yuki]]
    22) [[The-Meddling-Youths-by-Will-Cope]]
+   23) [[No-Sympathies-by-Will-Cope]]
 
 3) Anthologies
 	1) [[The Furry Future]]
