@@ -9,4 +9,7 @@ I am only taking two classes.  Math study eats up all of my time and so far is f
 I want to get a chance to try making it, but I truly need to be better at math to be involved in science.
 
 ---
+I wasn't prepared for trigonometry to lead me into a life of sin.
+
+---
 Back to [[day-post-archive]]
