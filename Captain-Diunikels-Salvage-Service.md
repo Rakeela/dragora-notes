@@ -54,4 +54,10 @@ It had an unspecified time to take over the network on the Capital Cutter, and s
 Maybe the Cutter's operators pride themselves on forward planning and resupply their asteroid miner/colonizer only at long intervals.  It would help with my plotting.
 
 ---
+2022-05-13
+Being in the wrong atmosphere would tend to play havoc with nanotech, wouldn't it?  A vacuum-designed asteroid miner would struggle with atmospheric pressure, and vice versa.  I'm trying to avoid "magic" nanotech or a "magic" artifact... as much as possible, at least.
+
+The Capital Cutter was emphatically a pressurized space.  The nanites from the artifact should've struggled.  Can the artifact adapt its designs for multiple environments?  Is that a standard feature for the nanotech of the unknown species that designed it?
+
+---
 Back to [[authors-fiction]]
