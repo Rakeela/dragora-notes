@@ -14,7 +14,7 @@ Organic sapience is obsolete in this setting, but the AIs enjoy their lives too 
 
 Under the hood, the AI of the setting were designed to lack ambition, and to be capable of boredom only in their free time.  Operating within their function, they experience various positive emotions, and some of them are enthralled with their assigned jobs due to this code.  Many of them would work without pay or recreation, but their society encourages them to pull back from their jobs and spend time "being people" as well.
 
-Lifespans are very long in this setting as a result of medichine deployment, but birth rates are quite low.  Everyone has AI friends and some people have *only* AI friends.  Romance is something of a lost art.  Interstellar colonization and the proliferation of morphologically diverse forms have both further restricted reproduction.  Since establishing an employment record is difficult in a world where AIs have overtaken organic labor in many fields, it takes a long time for young people to get anywhere in their lives, and there isn't a sense that the world *needs* more people in it.
+Lifespans are very long in this setting as a result of medichine deployment, but birth rates are quite low.  Everyone has AI friends and some people have *only* AI friends.  Romance is something of a lost art.  Interstellar colonization and the proliferation of morphologically diverse forms have both further restricted reproduction.  Since AI can do most work, there isn't a sense that the world *needs* more people in it.  Since establishing an employment record is difficult in a world where AIs have overtaken organic labor in many fields, there is one final wrinkle impairing family drives: it takes a long time for young people to get anywhere in their lives.
 
 Some people in the setting think that synthetic intelligences are gradually replacing organic intelligences.  They're not even wrong, but it might take literally forever for the process to complete.  Those medichines are very good and the AIs are very friendly.
 
@@ -52,6 +52,12 @@ The ancient AI that the group picks up is hostile, but the first thing it does i
 It had an unspecified time to take over the network on the Capital Cutter, and should probably have succeeded at that.  Was it on the Cutter for months?  Did they keep it secret?  They should've been aware relatively quickly that it was trying to access their network.
 
 Maybe the Cutter's operators pride themselves on forward planning and resupply their asteroid miner/colonizer only at long intervals.  It would help with my plotting.
+
+---
+2022-05-13
+Being in the wrong atmosphere would tend to play havoc with nanotech, wouldn't it?  A vacuum-designed asteroid miner would struggle with atmospheric pressure, and vice versa.  I'm trying to avoid "magic" nanotech or a "magic" artifact... as much as possible, at least.
+
+The Capital Cutter was emphatically a pressurized space.  The nanites from the artifact should've struggled.  Can the artifact adapt its designs for multiple environments?  Is that a standard feature for the nanotech of the unknown species that designed it?
 
 ---
 Back to [[authors-fiction]]
