@@ -11,4 +11,7 @@ This was the first Godzilla movie of "Will Cope", according to the introduction 
 This movie was ridiculous.  Unconvincing fights abounded.  It was okay.  I've decided to classify this one as Silly Showa.  [[Godzilla-vs-Hedorah-1971]] is also Silly Showa.
 
 ---
+There was an impressive scene transition in this movie where an open water area was transformed into a cracked wasteland.  It was very convincing and I hope to remember it.
+
+---
 Back to [[Movies-Watched]]
