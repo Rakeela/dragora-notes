@@ -1,4 +1,4 @@
-#2022-05-18-Two-Hundred-and-Fiftieth
+#2022-05-16-Two-Hundred-and-Fiftieth
 
 I wonder if it would be possible to make the immune system forget the body was ever infected by diseases whose antibodies also provoke autoimmunity.  I want to know the connection between schizophrenia and the Epstein Barr virus.
 
