@@ -71,7 +71,8 @@ Sections;
    5) [[No-Plot-No-Problem]]
    6) [[The-Ethical-Slut]]
    7) [[Simplified-Guide-to-Aeroponics-Tower-Gardening]]
-   8) [[Volumetrics-Feel-Full-on-Fewer-Calories]] (INCOMPLETE!)
+   8) [[Volumetrics-Feel-Full-on-Fewer-Calories]] (Partial)
+   9) [[The-Basics-of-Chemistry-by-Richard-Myers]]
 
 6) Putative Nonfiction
    1) [[A-Million-Little-Pieces]]
