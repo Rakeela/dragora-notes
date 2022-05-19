@@ -28,6 +28,8 @@ Section 1:  Unsorted
 21. [[Erin-Brockovich-2000]]
 22. [[Who-Framed-Roger-Rabbit-1988]]
 23. [[Tron-1982]]
+24. [[Pirates-of-the-Caribbean-2003]]
+25. [[Alien-1979]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -57,9 +59,8 @@ Section 2:  Marketed to Kids
 25. [[The-Emperors-New-Groove-2000]]
 26. [[Atlantis-2001]]
 27. [[Lilo-and-Stitch-2002]]
-28. [[Pirates-of-the-Caribbean-2003]]
-29. [[Brother-Bear-2003]]
-30. [[Moana-2016]]
+28. [[Brother-Bear-2003]]
+29. [[Moana-2016]]
 
 Section 3:  Godzilla
 1. [[Godzilla-1954]]
