@@ -13,6 +13,11 @@ I really like the weather control technology concept.  The idea of a world feari
 ---
 Having watched it, I still think this is on the line between Silly Showa and Serious Showa.
 
+---
+This movie was an unexpected favorite.  I thought I would cringe at the "Godzilla's Son" character, but he was actually a really cute part throughout.
+
+I loved seeing more of Godzilla as the heroic character, too.  I like giant not-evil reptiles!
+
 
 ---
 Back to [[Movies-Watched]]
