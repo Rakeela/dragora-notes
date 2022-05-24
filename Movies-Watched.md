@@ -30,6 +30,8 @@ Section 1:  Unsorted
 23. [[Tron-1982]]
 24. [[Pirates-of-the-Caribbean-2003]]
 25. [[Alien-1979]]
+26. [[Tremors-1990]]
+27. [[Rampage-2018]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
