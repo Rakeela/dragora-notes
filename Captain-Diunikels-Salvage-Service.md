@@ -60,4 +60,8 @@ Being in the wrong atmosphere would tend to play havoc with nanotech, wouldn't i
 The Capital Cutter was emphatically a pressurized space.  The nanites from the artifact should've struggled.  Can the artifact adapt its designs for multiple environments?  Is that a standard feature for the nanotech of the unknown species that designed it?
 
 ---
+2022-05-25
+There's no avoiding some "magic", but at least in the case of this question I think the artifact should be able to adapt its designs, presumably according to a wide database of templates.  It's a nanofactory with an AI.  The AI has nothing better to do and may have mission objectives mandating that it adapt its nanites as possible.  It was probably designed to be recovered by a ship with an atmosphere, too.  Vacuum-based life is hard to fathom; the creators of the artifact likely had an atmosphere to work in.
+
+---
 Back to [[authors-fiction]]
