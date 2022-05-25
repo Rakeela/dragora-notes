@@ -222,8 +222,8 @@ Organized by month:
 [[2022-01-22-Two-Hundred-and-Nineteenth]]
 [[2022-01-24-Two-Hundred-and-Twentieth]]
 [[2022-01-27-Two-Hundred-and-Twenty-First]]
-[[2022-01-28-Two-Hundred-and-Twenty-Second]
-[[2022-01-29-Two-Hundred-and-Twenty-Third]]]
+[[2022-01-28-Two-Hundred-and-Twenty-Second]]
+[[2022-01-29-Two-Hundred-and-Twenty-Third]]
 [[2022-01-30-Two-Hundred-and-Twenty-Fourth]]
 [[2022-01-31-Two-Hundred-and-Twenty-Fifth]]
 2022-02
