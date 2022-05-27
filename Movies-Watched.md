@@ -31,7 +31,8 @@ Section 1:  Unsorted
 24. [[Pirates-of-the-Caribbean-2003]]
 25. [[Alien-1979]]
 26. [[Tremors-1990]]
-27. [[Rampage-2018]]
+27. [[Demolition-Man-1993]]
+28. [[The-Fifth-Element-1997]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -64,7 +65,7 @@ Section 2:  Marketed to Kids
 28. [[Brother-Bear-2003]]
 29. [[Moana-2016]]
 
-Section 3:  Godzilla
+Section 3:  Kaiju
 1. [[Godzilla-1954]]
 2. [[Godzilla-Raids-Again-1955]]
 3. [[Rodan-1956]]
@@ -82,5 +83,6 @@ Section 3:  Godzilla
 15. [[Godzilla-vs-King-Ghidorah-1991]]
 16. [[Godzilla-vs-Mothra-1992]]
 17. [[Gamera-Guardian-of-the-Universe-1995]]
-18. [[Godzilla-King-of-the-Monsters-2019]]
-19. [[Godzilla-vs-Kong-2021]]
+18. [[Rampage-2018]]
+19. [[Godzilla-King-of-the-Monsters-2019]]
+20. [[Godzilla-vs-Kong-2021]]
