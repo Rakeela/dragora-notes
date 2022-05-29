@@ -17,6 +17,7 @@ These are mostly copied slides, but I can keep them as a relic of the journey.
 [[Chem131-2022-05-16]]
 [[Chem131-2022-05-18]]
 [[Chem131-2022-05-23]]
+[[Chem131-2022-05-25]]
 
 ---
 Back to [[college-notes]]
