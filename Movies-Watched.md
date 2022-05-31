@@ -33,6 +33,8 @@ Section 1:  Unsorted
 26. [[Tremors-1990]]
 27. [[Demolition-Man-1993]]
 28. [[The-Fifth-Element-1997]]
+29. [[Austin-Powers-International-Man-of-Mystery-1997]]
+30. [[Austin-Powers-The-Spy-Who-Shagged-Me-1999]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
