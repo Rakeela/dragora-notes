@@ -35,6 +35,9 @@ Section 1:  Unsorted
 28. [[The-Fifth-Element-1997]]
 29. [[Austin-Powers-International-Man-of-Mystery-1997]]
 30. [[Austin-Powers-The-Spy-Who-Shagged-Me-1999]]
+31. [[Twister-1996]]
+32. [[Shrek-2001]]
+33. [[Batman-and-Robin-1997]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -66,6 +69,9 @@ Section 2:  Marketed to Kids
 27. [[Lilo-and-Stitch-2002]]
 28. [[Brother-Bear-2003]]
 29. [[Moana-2016]]
+30. [[The-Nightmare-Before-Christmas-1993]]
+31. [[Matilda-1996]]
+32. [[FernGully-The-Last-Rainforest-1992]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
