@@ -55,6 +55,7 @@ Sections;
    21) [[Daikaiju-Yuki]]
    22) [[The-Meddling-Youths-by-Will-Cope]]
    23) [[No-Sympathies-by-Will-Cope]]
+   24) [[Matilda]]
 
 3) Anthologies
 	1) [[The Furry Future]]
