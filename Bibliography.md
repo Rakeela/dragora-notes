@@ -56,6 +56,7 @@ Sections;
    22) [[The-Meddling-Youths-by-Will-Cope]]
    23) [[No-Sympathies-by-Will-Cope]]
    24) [[Matilda]]
+   25) [[My-Friend-Flicka]]
 
 3) Anthologies
 	1) [[The Furry Future]]
