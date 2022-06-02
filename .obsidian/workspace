@@ -50,7 +50,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2022-04-30-Two-Hundred-and-Forty-Fifth.md",
+                    "file": "Bibliography.md",
                     "mode": "source",
                     "source": false
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "oleic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 399
   },
   "right": {
     "id": "4acc096315081380",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-30-Two-Hundred-and-Forty-Fifth.md",
+                "file": "Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,15 +148,15 @@
   },
   "active": "51fc16ffc3c85dd3",
   "lastOpenFiles": [
-    "2022-04-30-Two-Hundred-and-Forty-Fifth.md",
-    "notes-on-tolerogenic-dendritic-cells.md",
-    "Captain-Diunikels-Salvage-Service.md",
-    "They-Are-Smol.md",
     "Bibliography.md",
-    "authors-fiction.md",
-    "Warlockisms.md",
-    "Short-Stories.md",
-    "Daikaiju-Yuki.md",
-    "CHEM131.md"
+    "My-Friend-Flicka.md",
+    "No-Sympathies-by-Will-Cope.md",
+    "Godzilla-1954.md",
+    "Movies-Watched.md",
+    "Austin-Powers-The-Spy-Who-Shagged-Me-1999.md",
+    "Austin-Powers-International-Man-of-Mystery-1997.md",
+    "2022-05-30-Two-Hundred-and-Fifty-Fourth.md",
+    "Godzilla-vs-Gigan-1972.md",
+    "Chem131-2022-05-16.md"
   ]
 }
