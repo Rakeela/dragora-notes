@@ -79,6 +79,8 @@ Section 2:  Marketed to Kids
 35. [[The-Secret-of-Nimh-1982]]
 36. [[An-American-Tail-1986]]
 37. [[An-American-Tail-Fievel-Goes-West-1991]]
+38. [[Robin-Hood-1973]]
+39. [[The-Aristocats-1970]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
