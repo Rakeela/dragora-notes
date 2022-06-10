@@ -19,6 +19,10 @@ These are mostly copied slides, but I can keep them as a relic of the journey.
 [[Chem131-2022-05-23]]
 [[Chem131-2022-05-25]]
 [[Chem131-2022-06-01]]
+[[Chem131-2022-06-06]]
+[[Chem131-2022-06-08]]
+[[Chem131-17-7-CellMembranes]]
+[[Chem131-18-4-Neurotransmitters]]
 
 ---
 Back to [[college-notes]]
