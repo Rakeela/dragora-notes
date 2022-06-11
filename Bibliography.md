@@ -57,6 +57,7 @@ Sections;
    23) [[No-Sympathies-by-Will-Cope]]
    24) [[Matilda]]
    25) [[My-Friend-Flicka]]
+   26) [[Age-of-Fire-Dragon-Champion]]
 
 3) Anthologies
 	1) [[The Furry Future]]
