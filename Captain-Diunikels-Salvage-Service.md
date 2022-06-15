@@ -64,4 +64,10 @@ The Capital Cutter was emphatically a pressurized space.  The nanites from the a
 There's no avoiding some "magic", but at least in the case of this question I think the artifact should be able to adapt its designs, presumably according to a wide database of templates.  It's a nanofactory with an AI.  The AI has nothing better to do and may have mission objectives mandating that it adapt its nanites as possible.  It was probably designed to be recovered by a ship with an atmosphere, too.  Vacuum-based life is hard to fathom; the creators of the artifact likely had an atmosphere to work in.
 
 ---
+2022-06-15
+One of the themes that I'm developing is a question in-setting about whether the setting is truly lead by organic intelligences anymore.  The AI are nominally subordinate, but in an environment like the CR-627 "Green Raptor" where they outnumber their single organic leader over thirty to one, there's some question about whether the organic leader is truly necessary.  It looks like a Rogue Servitor arrangement where everything is there for Diunikel's happiness.  At the same time, other parts of the setting are still clearly organic-driven; the five hundred people of the Capital Cutter's crew are (or were) clearly working without AI.
+
+I plan to develop this more.  At least one member of the Capital Cutter's crew will have left behind some kind of log or diary that reveals they used to have a job which made them wonder about the Rogue Servitor aspect.  Said crew member will have become an off-world miner with Innovation Mining specifically to get away from the setting's friendly AI.
+
+---
 Back to [[authors-fiction]]
