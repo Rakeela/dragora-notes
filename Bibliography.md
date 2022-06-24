@@ -30,6 +30,7 @@ Sections;
    16) [[Dune]]
    17) [[The-Earthsea-Cycle]]
    18) [[They-Are-Smol]]
+   19) [[Age-of-Fire]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -57,7 +58,6 @@ Sections;
    23) [[No-Sympathies-by-Will-Cope]]
    24) [[Matilda]]
    25) [[My-Friend-Flicka]]
-   26) [[Age-of-Fire-Dragon-Champion]]
 
 3) Anthologies
 	1) [[The Furry Future]]
@@ -168,6 +168,7 @@ Sections;
    64) [[Lost-Eons-Haven-of-Aves]]
    65) [[Lost-Eons-Lands-of-Iron]]
    66) [[Welcome-to-Wrongwood]]
+   67) [[Epyllion-A-Dragon-Epic]]
 
 11) Writing Advice
    1) [[No-Plot-No-Problem]]
