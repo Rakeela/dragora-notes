@@ -20,8 +20,361 @@ Some people in the setting think that synthetic intelligences are gradually repl
 
 Notes on technology:
 They have FTL.  Ships can travel in reasonable amounts of time within system or from one star to another.
-People sleep in medichine pods.  These near-nightly periods of exposure to medichines are the primary window for repair.
-Medichine pods are also used to operate immersive virtual reality environments, although the simulation is imperfect.
+People usually sleep in medichine pods.  These near-nightly periods of exposure to medichines are the primary window for repair.
+Medichine pods are also used to operate immersive virtual reality environments, although the simulation is imperfect unless people have extensive cybernetics for the purpose of improving the simulation fidelity.
+
+---
+Crew workspace and copied notes (2022-06-28):
+The 38 Crew of the CR-627 “Green Raptor”  
+Owner-Operator:
+
+Diunikel; Captain; (1)
+	Primary Avatar Chassis:  Organic White Rat
+	Gender:  Female
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  3/3
+	Independent:  Always
+	Survivor:  Yes
+
+Ship Core Function:
+Ciernav; Navigation Core; (2)
+	Primary Avatar Chassis:  Cyber-Synth Green Raptor
+	Gender:  Null (Prefers Female Pronouns)  
+	Xaray’s Metapsych Rating: 1/3
+	Avatar identification:  1/3
+	Note: Ciernav identifies herself as the intellect of the ship itself.
+	Independent:  Never
+	Survivor:  Yes
+Sating; Sensor Core; (3)
+	Primary Avatar Chassis:  False-Organic Red Eagle
+	Gender:  Male
+	Avatar identification:  2/3
+	Xaray’s Metapsych Rating: 1/3
+	Independent:  No
+	Survivor:  Yes
+Rady; Combat Core; (4)
+	Primary Avatar Chassis:  Cyber-Synth Black Raven
+	Gender:  Female
+	Avatar identification:  ?/3
+	Xaray’s Metapsych Rating: ?/3
+	Independent:  Yes
+	Survivor:  Yes
+Xaray; Metapsych Core; (5)
+	Primary Avatar Chassis:  False-Organic Brown Otter
+	Gender:  Female
+	Avatar identification:  2/3
+	Xaray’s Metapsych Rating: 3/3
+	Note:  Qualified AI psychologist.
+	Independent:  No
+	Survivor:  No. (1/12)
+	Failure type:  Zombified by Artifact
+Patavik; Integrity Core; (6)
+	Primary Avatar Chassis:  Cyber-Synth Blue Fox
+	Gender:  Null (Prefers Female Pronouns)
+	Avatar identification:  1/3
+	Xaray’s Metapsych Rating: 1/3
+	Independent:  No
+	Survivor:  Yes
+
+Security:
+Dido; Life Support Guardian; (7)
+	Primary Avatar Chassis:  False-Organic Grey Elephant
+	Gender:  Female
+	Xaray’s Metapsych Rating: 3/3
+	Avatar identification:  1/3
+	Note:  Metapsych Core Secondary #3
+	Note:  Qualified AI psychologist.
+	Note:  This is the ship’s janitor.
+	Independent:  No
+	Survivor:  Yes
+Chamilsa; Shipyard Guardian; (8)
+	Primary Avatar Chassis:  False-organic Rainbow ‘Feathered Serpent’
+	Gender:  Null (Prefers Female Pronouns)
+	Avatar Identification:  2/3
+	Xaray’s Metapsych Rating:  2/3
+	Note:  Navigation Core Secondary #3
+	Independent:  No
+	Survivor:  No (2/12)
+	Failure type:  Converted to Sleeper
+Yitivik; Drone Hub Guardian; (9)
+	Primary Avatar Chassis:  Cyber-Synth ‘Oilslick’ Snake
+	Gender:  Null (Prefers Male Pronouns)
+	Avatar identification:  2/3
+	Xaray’s Metapsych Rating:  2/3
+	Note:  Integrity Core Secondary #2
+	Independent:  No
+	Survivor:  Yes
+
+Reactors:
+(TBN); Reactor Specialist #1; (10)
+	Primary Avatar Chassis:  TBD
+	Gender:  TBD
+	Survivor:  Yes
+(TBN); Reactor Specialist #2; (11)
+	Primary Avatar Chassis:  TBD
+	Gender:  TBD
+	Survivor:  Yes
+Ohka; Engine Specialist #1; (12)
+	Primary Avatar Chassis:  False-Organic Peach Drakalen
+	Gender:  Male
+	Xaray’s Metapsych Rating:  2/3
+	Avatar identification: 3/3
+	Independent:  No
+	Survivor:  No. (3/12)
+	Failure type:  Converted to Sleeper
+Irana; Engine Specialist #2; (13)
+	Primary Avatar Chassis:  False-Organic Red Drakalen
+	Xaray’s Metapsych Rating:  2/3
+	Avatar Identification:  2/3
+	Gender:  Female
+	Note: Navigation Core Secondary #1
+	Independent:  Newly
+	Survivor:  Yes
+
+Fabrication:
+Karadal; Nanofabrication Specialist #1; (14)
+	Primary Avatar Chassis:  False-Organic Yellow Deer
+	Gender:  Male
+	Avatar identification:  3/3
+	Xaray’s Metapsych Rating:  2/3
+	Independent:  Newly
+	Survivor:  Yes
+Tivail; Nanofabrication Specialist #2; (15)
+	Primary Avatar Chassis:  False-Organic Red Fox
+	Gender:  Hermaphrodite (Prefers Female Pronouns)
+	Avatar identification:  3/3
+	Xaray’s Metapsych Rating:  2/3
+	Note: Integrity Core Secondary #1
+	Independent:  Newly
+	Survivor:  Yes
+Geoff; Macrofabrication Specialist #1; (16)
+	Primary Avatar Chassis:  False-Organic Blue Ocelot
+	Gender:  Male
+	Avatar identification:  3/3
+	Xaray’s Metapsych Rating:  2/3
+	Independent:  Newly
+	Survivor:  Yes
+Norma; Macrofabrication Specialist #2; (17)
+	Primary Avatar Chassis:  False-Organic White Goat
+	Gender:  Female
+	Avatar Identification:  1/3
+	Xaray’s Metapsych Rating:  2/3
+	Note: Navigation Core Secondary #2
+	Independent:  No
+	Survivor:  No (4/12)
+	Failure type:  Zombified by Artifact
+
+Analyst Intelligence:
+	Hite; Electronics Appraisal #1; (18)
+	Primary Avatar Chassis:  False-Organic White Owl
+	Gender:  Null (Prefers Male Pronouns)
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  1/3
+	Note:  Combat Core Secondary #1
+	Independent:  No
+	Survivor:  No (5/12)
+	Failure type:  Zombified by Artifact  
+Ssanthas; Electronics Appraisal #2; (19)
+	Primary Avatar Chassis:  False-Organic Green Lizard
+	Gender:  Hermaphroditic (Prefers Male Pronouns)
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  1/3
+	Note:  Combat Core Secondary #2
+	Independent:  No
+	Survivor:  No (6/12)
+	Failure type:  Zombified by Artifact
+Tweak; Electronics Appraisal #3; (20)
+	Primary Avatar Chassis:  False-Organic Brown Ferret
+	Gender:  Female
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  3/3
+	Note:  Combat Core Secondary #3
+	Independent:  No
+	Survivor:  No (7/12)
+	Failure type:  Zombified by Artifact
+Zayn; Cultural Appraisal #1; (21)
+	Primary Avatar Chassis:  Cyber-Synth Blue Lynx
+	Gender:  Male
+	Xaray’s Metapsych Rating: 3/3
+	Note:  Metapsych Core Secondary #1
+	Note: Qualified AI psychologist.
+	Independent:  No.
+	Survivor:  Yes
+Witt; Cultural Appraisal #2; (22)
+	Primary Avatar Chassis:  False-Organic Blue Lynx
+	Gender:  Male
+	Xaray’s Metapsych Rating: 3/3
+	Note:  Metapsych Core Secondary #2
+	Note: Qualified AI psychologist.
+	Independent:  No.
+	Survivor:  Yes
+Gale; Materials Appraisal #1; (23)
+	Primary Avatar Chassis:  False-Organic Pearlescent Furred Dragon
+	Gender:  Male
+	Xaray’s Metapsych Rating: 2/3
+	Avatar Identification:  3/3
+	Independent:  Newly
+	Survivor:  Yes
+Fucine; Materials Appraisal #2; (24)
+	Primary Avatar Chassis:  False-Organic Black Dragon
+	Gender:  Hermaphrodite (Prefers Singular They)
+	Xaray’s Metapsych Rating:  2/3
+	Avatar Identification:  2/3
+	Note: Integrity Core Secondary #3
+	Independent:  No.
+	Survivor:  Yes
+Ian; Signal Processor #1; (25)
+	Primary Avatar Chassis:  False-Organic White Crow
+	Gender:  Male
+	Xaray’s Metapsych Rating: 1/3
+	Avatar identification:  1/3
+	Note: Sensor Core Secondary #1
+	Independent:  Newly
+	Survivor:  No (8/12)
+	Failure type:  Converted to Sleeper
+Vio; Signal Processor #2; (26)
+	Primary Avatar Chassis: False-Organic Blue Eagle
+	Gender:  Female
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  1/3
+	Note: Sensor Core Secondary #2
+	Independent:  Newly
+	Survivor:  Traumatized
+Gavin-Drael; First Contact Specialist; (27)
+	Primary Avatar Chassis:  False-Organic Grey Wolverine
+	Gender:  Male
+	Xaray’s Metapsych Rating: 3/3
+	Avatar identification:  3/3
+	Note: Sensor Core Secondary #3
+	Independent:  Yes
+	Survivor:  Traumatized
+
+Logistician:
+	Nicoreggan; Logistician #1; (28)
+	Primary Avatar Chassis:  False-Organic Grey Rhino
+	Gender:  Male
+	Xaray’s Metapsych Rating:  2/3
+	Avatar identification:  3/3
+	Independent:  Yes
+	Survivor:  Yes
+Sundossa;  Logistician #2; (29)
+	Primary Avatar Chassis: Cyber-Synth Red Lizard
+	Gender:  Hermaphroditic (Prefers Male Pronouns)
+	Xaray’s Metapsych rating:  1/3
+	Avatar identification:  2/3
+	Independent:  No
+	Survivor:  No (9/12)
+	Failure type:  Zombified by Artifact
+(TBN); Logistician #3; (30)
+	Primary Avatar Chassis:  TBD
+	Gender:  TBD
+	Independent:  No
+	Survivor:  Yes
+Marik; Logistician #4; (31)
+	Primary Avatar Chassis:  False-Organic Black Crow
+	Gender:  Female
+	Xaray’s Metapsych Rating:  2/3
+	Avatar Identification:  2/3
+	Independent:  No
+	Survivor:  Yes
+(TBN); Logistician #5; (32)
+	Primary Avatar Chassis:  TBD
+	Gender:  TBD
+	Independent:  No.
+	Survivor:  No (11/12)
+	Failure type:  Converted to Sleeper
+Field Cutter:
+	Dyrren; Field Cutter #1; (33)
+	Primary Avatar Chassis:  False-Organic Piebald Rabbit
+	Gender:  Male
+	Xaray’s Metapsych Rating:  1/3
+	Avatar Identification:  3/3
+	Independent:  No
+	Survivor:  No (10/12)
+	Failure type:  Zombified by Artifact
+Amber; Field Cutter #2; (34)
+	Primary Avatar Chassis:  False-Organic Yellow Gryphon
+	Gender:  Female
+	Xaray’s Metapsych Rating: 3/3
+	Avatar identification:  3/3
+	Note: Qualified AI psychologist.
+	Independent:  Yes
+	Survivor:  Yes
+Nenth; Field Cutter #3; (35)
+	Primary Avatar Chassis:  TBD
+	Gender:  Male
+	Xaray’s Metapsych Rating:  2/3
+	Avatar Identification:  2/3
+	Independent:  No
+	Survivor:  No  (12/12)
+	Failure type:  Zombified by Artifact
+Wortchaw; Field Cutter #4; (36)
+	Primary Avatar Chassis:  False-Organic Yellow Gryphon
+	Gender:  Male
+	Xaray’s Metapsych Rating: 3/3
+	Avatar identification:  3/3
+	Note: Qualified AI psychologist.
+	Independent:  Yes
+	Survivor:  Yes
+Bevarik; Field Cutter #5; (37)
+	Primary Avatar Chassis:  False-Organic Black Rat
+	Gender:  Male
+	Xaray’s Metapsych Rating: 2/3
+	Avatar identification:  2/3
+	Independent:  No
+	Survivor:  Yes
+
+  
+
+Sections roughly descend in rank.  As a colloquialism, all members of the crew save the Ship Core Functions are typically called Cutters when not being addressed for their specific job function.  This is polite to the field cutters, but it also refers to the basic function of the CR-627 “Green Raptor”: it cuts up ships to resell the pieces.  They’re a Cutter crew.
+
+  
+
+Each core has 3 secondaries.  Secondary designation is additional to a primary dedication.  If a Core is rendered inoperable, the Core Secondaries can step in.  By consensus, each function’s three secondaries can also overrule an operable Core.
+
+  
+
+Most jobs have redundant coverage, but no crew member has exactly the same skills as any other crew member… except for the field cutters and logisticians, whose drone-management skills are supposed to be interchangeable no matter how distinctive their personalities may be.
+
+  
+
+False organic chassis superficially resemble organic beings of their kind, though as they were not created with deceptive intent, close observation often yields anomalies.  Cyber-synth chassis clearly resemble their species, but cannot be mistaken for organic.  This classification does not account for minor superficial attributes (collectively known as metal glowy bits) which are common to the false-organic chassis.
+
+  
+
+I’m considering marking each one for their position on the long-running shipboard discussion about whether AIs are truly free-willed.  They have widely varied opinions on this.  For instance, Amber and Wortchaw have both heavily altered their own programming, but they disagree on the implications of their ability to do so: Amber considers such self-alteration to be proof that she has her own will, but Wortchaw considers the same fact evidence that he’s only doing exactly what his programming dictates.
+
+  
+
+Xaray’s metapsych ratings estimate the degree to which each individual has modified their own code.  This is something that she tracks in-universe as part of her function as the CR-627 Metapsych Core.  She does not broadcast these ratings.  A rating of 2/3 is considered normal, but variance does not represent pathology.  A high metapsych rating (3/3) corresponds to more creative AIs and generally a higher social competency, but with some risk of dynamic instability (ie, errors introduced during self-modification).  A low metapsych rating (1/3) corresponds to a more protocol-oriented AI with greater psychological stability, but also an increased risk of making obvious errors (ie, failure to update methods in response to observations).  A 3/3 metapsych rating is a necessary but not sufficient qualification for AI psychologists, who need a deep understanding of the methods and risks of metapsychological alteration (which is to say, of self-recoding).  There are officially 4 qualified AI psychologists aboard (the three Metapsych Core Secondaries plus Xaray herself), but in Xaray’s opinion there are 6 such individuals, as Amber and Wortchaw have shown exceptional aptitude for AI psychology despite having been designed to operate as Field Cutter intelligences.
+
+  
+
+Something else I might track with a 3-point scale for the characters is avatar identification.  Avatar-identified characters feel intimately attached to their avatar chassis.  Diunikel herself would be a perfect example of a 3/3 avatar-identified character: her body is her self.  Ciernav would be a perfect example of a 1/3 avatar-identified character: Ciernav identifies as the ship itself, and truly struggles to care what happens to the unusually complex drone that is her avatar aboard ship.  The other 3/3 and 1/3 characters are less extreme than that.  The primary narrative indication from this rating would be the degree of psychological threat that each character would perceive from injuries to their avatar chassis.  In this respect, Diunikel goes over the top; injury to her avatar chassis is an existential threat (because she’s an organic).  A better example of a 3/3 would be Amber, who would be traumatized by severe damage to her avatar chassis, but not truly destroyed as she is still technically extant on the ship’s network.  Losing a chassis tends to reduce avatar identification, but it is of course a traumatic way to reduce avatar identification.
+
+  
+
+Plot potential: something on the Capital Cutter and/or the planetesimal may interfere with the normal functioning of the setting’s standard nano-fabricators generally and/or the medichines specifically. Diunikel is presently planning to carry off the processed cargo in the Capital Cutter’s hold, which may not be wise. Sabotage is also a possibility.
+
+  
+
+The numbers in (#) are not technically meaningful at this time, having been used to get the crew count correct.  I need exactly one more crew member and I’m not sure where to put them.  Biologicals appraisal?  Another edge-caser like the first contact specialist?  Currently, I think I’ll leave that open to summon up whoever seems perfect when I need someone who doesn’t fit on this list and whose absence hasn’t been confirmed by the story.
+
+  
+
+…the escape pod… I’m thinking… dissident researcher?  Someone who escaped with (most of) their health.  Living in their suit.  With samples of something nasty.  Or maybe a saboteur?  Someone who knew early that something was going wrong on the Capital Cutter…  Someone who managed to depart in secret either way, concealing their departure from the ship by manually removing the panel behind the pod instead of blowing its bolts.
+
+  
+
+2022-05-26:
+
+The preceding paragraph about the escape pod is kept for archival reasons.  I’ve written a different idea into the story itself.  I’m adding something to this note file to note something that I intend to have develop on the ship’s network following the events: a graveyard sector of the network.  Divided into three levels with increasing lockdown.  Level 1: Memorials, free access, dedicated to the lost crew members.  Level 2: Mausoleums, limited access, preserves inactive code and data that belonged to the lost crew members.  Level 3: Forbidden, captain’s permission only, preserves suspected xenocode from the artifact and final mind states from the lost crew members.
+
+  
+
+2022-05-29
+
+There are five pre-existing independent AIs.  Diunikel trusts them correctly.  There are six newly independent AIs.  Diunikel trusts them incorrectly, as one of them is suborned.
 
 ---
 2022-05-04
