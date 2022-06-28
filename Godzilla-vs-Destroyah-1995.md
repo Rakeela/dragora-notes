@@ -7,5 +7,7 @@ I was kind of cold on watching this.  Hesei Godzilla is eeeevil, but I was assur
 
 I know too much physics to appreciate the weird use of oxygen in this movie.
 
+Magic analysis from a tape...  Zooming in on a tiny smear to get a clear image...  3D image produced from that tiny smear on the tape...
+
 ---
 back to [[Movies-Watched]]
