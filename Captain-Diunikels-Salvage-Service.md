@@ -277,9 +277,9 @@ Marik; Logistician #4; (31)
 	Avatar Identification:  2/3
 	Independent:  No
 	Survivor:  Yes
-(TBN); Logistician #5; (32)
-	Primary Avatar Chassis:  TBD
-	Gender:  TBD
+Justin; Logistician #5; (32)
+	Primary Avatar Chassis:  False-Organic Red-Brown Deer
+	Gender:  Male
 	Independent:  No.
 	Survivor:  No (11/12)
 	Failure type:  Converted to Sleeper
