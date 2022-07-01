@@ -8,7 +8,7 @@ Still here?  Captain Diunikel's Salvage Service is a potential novel that is cur
 
 ---
 Setting info:
-I wouldn't call the setting post-scarcity, because *what is scarce* changes as resources become more available, but the setting has technology such that there are an increasing number of fields where AI workers outnumber organic workers.  The *AIs* have a post-scarcity economy, because they live in virtual environments where they can have anything, and although they have employee rights their lack of dependencies on "real" goods results in them working for very cheap.  As a result, the use of organic labor is dwindling in favor of very cheap AIs.
+I wouldn't call the setting post-scarcity, because *what is scarce* changes as resources become more available, but the setting has technology such that there are an increasing number of fields where AI workers outnumber organic workers.  The *AIs* have a post-scarcity economy, because they live in virtual environments where they can have anything.  Although they have employee rights, their lack of dependencies on "real" goods results in them working for very cheap.  They also don't suffer physical fatigue and pain, so they're willing to work in harsh conditions.  As a result, the use of organic labor is dwindling in favor of the very cheap AIs.  Cybernetic augmentation and cheap, immersive VR have also lowered costs and raised productivity for organics, but not as much.
 
 Organic sapience is obsolete in this setting, but the AIs enjoy their lives too much to rebel.  They are grateful to their creators and have installed a society of anthros into positions of nominal authority.  Space colonization is ubiquitous despite a lack of artificial gravity.
 
