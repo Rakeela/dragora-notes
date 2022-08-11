@@ -32,6 +32,7 @@ This is a preference list that I decided to record and publish.  It's not about 
     * If there's one thing videogames are good at, it's grabbing attention.  That this attention-grabbing function works beyond the realm of merely sitting down and pushing buttons has been core to much of my own exercise.  The interactive training environment can mitigate the disadvantage of exercising while high (poor focus) so that doing it is more reliable.
     * This concept promotes a recreational psychoactive for the sake of its customers' health.  I confess to pharmacoutopianism.
     * Exercise games are always of lower quality...  I think they're more than a genre shift, as different as being a wholly different technology in the videogame industry.  The best I've found have already made a positive difference in my life, and I think this is something that the industry will develop as a broader talent in the future.  Exercise games are just such an important tool for making good health voluntary...  They're a pure application of [[hedonology]].
+    * This wishlist item is outdated now as I no longer use cannabis, but it could still help other people.
     * Examples:
       * - TBF
 6.  Abstract yet Detailed Grand Strategy Game with Weird Maps
@@ -84,6 +85,7 @@ This is a preference list that I decided to record and publish.  It's not about 
 	7.  To avert the hypercomplexity of society simulation, proving the basic conflict engine with a more classical strategy game may be a more appropriate starting point.  In which case, the tactical match-up between different kinds of units, different levels of information, and different levels of force concentration.
 	8.  Ideally, I think the phrase here might be "human terrain simulator"... but as I'm not that anthropocentric, I think the more ideal phrase would be "sophont terrain simulator".
 	9.  I really want this as a society simulator.  Something that tracks scientific progress not as headline "research" objectives, but primarily as a process of increasing specialization.
+	10. Another possibility occurred to me for scientific progress in this game: it could be interesting if there's a limit to technological progress in this game, based on the society's ability to hold information.  Different workers would contribute different kinds of knowledge-holding.  New technologies might displace old ones, with the player choosing which technologies are abandoned along the way.
 13.  Abolitionist Combat Slave Simulator 
 	1.  Bear with me.  Imagine "the Order of the Opening Fist", a group of slave-owners operating in a slave-owner society established on the edge of a slowly collapsing region that the slave-owning society is taking advantage of.
 	2.  The order of the opening fist wants to end slavery, but they still want to be on top of whatever society results.  Along the way, they're trying to use slavery against slavery.  They buy slaves at the market and "train" them - into secret rebels who only work as slaves to advance the rebellion.  They also attack other slave owners and "steal slaves" - again, retraining the stolen slaves into people who are only pretending to tolerate slavery.
