@@ -5,5 +5,7 @@ Dates Rewatched:  Never
 
 I wasn't too enthused to watch this.  Hopefully it's better than I fear it'll be.
 
+...Eh.  It was okay.
+
 ---
 Back to [[Movies-Watched]]
