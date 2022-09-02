@@ -85,6 +85,7 @@ Section 2:  Marketed to Kids
 37. [[An-American-Tail-Fievel-Goes-West-1991]]
 38. [[Robin-Hood-1973]]
 39. [[The-Aristocats-1970]]
+40. [[The-Flight-of-Dragons-1982]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
