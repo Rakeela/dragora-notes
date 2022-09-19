@@ -8,6 +8,8 @@ I'll go forward with this if I can.  I hope I can find ways to make it help me g
 [[MATH130]] - Math 130: Introduction to Statistics
 [[METR101]] - Meteorology 101: Introduction to the Weather
 [[CHEM131]] - Chemistry 131: Introduction to Organic Chemistry
+[[CHEM140]] - Chemistry 140:  General Chem Prep w/ Lab
+[[MATH151]] - Math 151:  Calculus 1
 
 This semester is a little disappointing, but only a little.  I need the stats class for every favorable future I've imagined for myself save the one where I accidentally become an unexceptional middle management dragon.  This stats class is *serendipitously* focused on a textbook of statistical analysis of the life sciences.  Despite my distaste of coincidence, I can't deny that this coincidence is a favorable one, bringing useful information to me quite directly as it does.  To think of the broader scale, maybe it speaks to an attempt by colleges to funnel mathematical interest towards bio-sciences.  That thought only makes me happier about this particular coincidence.  As long as I'm allowed to share in the rewards, I'd be quite happy to live in a world where scientific achievements are sniped from me again and again by mass interest from competent people.  A world line like that would advance very rapidly in medicine!  People would suffer less and get to experience new ways of being.
 
