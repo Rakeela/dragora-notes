@@ -15,4 +15,12 @@ Besides, there are serious flaws in my writing.  I don't skip over enough time. 
 My computer is low on battery as well.  Without it, I have no way to tell time.  I'd better move to sit closer to my next class.  The gathering of the students in the right location will tell me when the class is about to start, if all my tech fails to inform me.
 
 ---
+I ate some bacon today by accident.  There's a kind of salad that I've ordered before, without knowing it contained bacon.  I didn't notice on prior occasions.  This time I tasted the bacon, checked the ingredients list, and discovered bacon listed.  Bleh.  I discarded the uneaten portion.
+
+---
+I've been reading a book that's about The Hero's Journey, and I'm not sure I'm getting anything out of it.  I had the thought that one of my characters could do with a bit more "Mentor" energy, I guess.
+
+Mostly, I keep thinking, "I don't like movies."  The problem is that it's a book about movie analysis and screenplay writing.  I don't watch movies unless prompted by a friend.  I usually feel like they're just time I won't get back.  Not only do I have other distractions that I'd prefer spending time with, I think laying down for ninety minutes is preferable to many movies.
+
+---
 Back to [[day-post-archive]]
