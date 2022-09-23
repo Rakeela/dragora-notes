@@ -28,4 +28,7 @@ I added another several editing notes to my second draft of Aleicree's Travelogu
 Maybe I need to do more organizational work.  Maybe I just need to save a copy and jump in.
 
 ---
+Wait, my phone wasn't out of power.  It was just set to minimum brightness.  I couldn't see its screen and thought it was non-responsive.  Oops.  Maybe I should turn auto-brightness back on?  I kinda like having it off, though.
+
+---
 Back to [[day-post-archive]]
