@@ -23,4 +23,9 @@ I've been reading a book that's about The Hero's Journey, and I'm not sure I'm g
 Mostly, I keep thinking, "I don't like movies."  The problem is that it's a book about movie analysis and screenplay writing.  I don't watch movies unless prompted by a friend.  I usually feel like they're just time I won't get back.  Not only do I have other distractions that I'd prefer spending time with, I think laying down for ninety minutes is preferable to many movies.
 
 ---
+I added another several editing notes to my second draft of Aleicree's Travelogue.  There are so many points where I'm disatisfied with this story.  I see the mistakes, but I don't see the end.
+
+Maybe I need to do more organizational work.  Maybe I just need to save a copy and jump in.
+
+---
 Back to [[day-post-archive]]
