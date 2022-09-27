@@ -32,6 +32,7 @@ Sections;
    18) [[They-Are-Smol]]
    19) [[Age-of-Fire]]
    20) [[Gryphon-Insurrection]]
+   21) [[Dark-Lord-of-Derkholm]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
