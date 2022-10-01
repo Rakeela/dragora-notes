@@ -44,6 +44,7 @@ Section 1:  Unsorted
 37. [[Reign-of-Fire-2002]]
 38. [[Final-Fantasy-7-Advent-Children-2005]]
 39. [[Steamboy-2004]]
+40. [[Karate-Kid-1984]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
