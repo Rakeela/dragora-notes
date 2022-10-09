@@ -45,6 +45,9 @@ Section 1:  Unsorted
 38. [[Final-Fantasy-7-Advent-Children-2005]]
 39. [[Steamboy-2004]]
 40. [[Karate-Kid-1984]]
+41. [[Hitchhikers-Guide-to-the-Galaxy-2005]]
+42. [[Spirited-Away-2001]]
+43. [[Howls-Moving-Castle-2004]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]

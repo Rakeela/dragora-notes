@@ -46,7 +46,7 @@ Sections;
    8) [[Balshazar's-Serpent]]
    9) [[Virtual-Mode-by-Piers-Anthony]]
    10) [[Glory-Lane-by-Piers-Anthony]]
-   11) [[Mr.-Popper's-Penguins]]
+   11) [[Mr.-Poppers-Penguins]]
    12) [[Monster-Girl-Encyclopedia]]
    13) [[Battlefield-Earth]]
    14) [[Be-a-Perfect-Person-in-Just-Three-Days!]]
@@ -63,6 +63,7 @@ Sections;
    25) [[My-Friend-Flicka]]
    26) [[Reincarnated-as-a-Dragon-Hatchling]]
    27) [[The-Dragon-and-the-George]]
+   28) [[Howls-Moving-Castle]]
 
 3) Anthologies
 	1) [[The Furry Future]]
