@@ -48,6 +48,7 @@ Section 1:  Unsorted
 41. [[Hitchhikers-Guide-to-the-Galaxy-2005]]
 42. [[Spirited-Away-2001]]
 43. [[Howls-Moving-Castle-2004]]
+44. [[Princess-Mononoke-1997]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
