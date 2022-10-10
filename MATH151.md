@@ -7,6 +7,7 @@ I'm not sure if I'll be able to take effective notes on a computer, but this is 
 [[Math151-2022-09-21]]
 [[Math151-2022-09-23]]
 [[Math151-2022-09-29]]
+[[Math151-2022-10-10]]
 
 ---
 Back to [[college-notes]]
