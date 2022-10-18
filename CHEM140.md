@@ -12,6 +12,7 @@ This teacher is a little hard to hear.  The syllabus says she is hard of hearing
 [[Chem140-2022-10-10]]
 [[Chem140-2022-10-12]]
 [[Chem140-2022-10-14]]
+[[Chem140-2022-10-18]]
 
 ---
 Back to [[college-notes]]
