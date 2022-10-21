@@ -68,7 +68,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Chem140-2022-10-18.md",
+                        "file": "Chem140-2022-10-21.md",
                         "mode": "source",
                         "source": false
                       }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem140-2022-10-18.md",
+                "file": "Chem140-2022-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +179,15 @@
   },
   "active": "6ce79c7593318b96",
   "lastOpenFiles": [
-    "Chem140-2022-10-14.md",
     "CHEM140.md",
+    "Chem140-2022-10-19.md",
+    "Chem140-2022-10-18.md",
+    "Chem140-2022-10-14.md",
     "Chem140-2022-09-19.md",
     "Cultist-Simulator.md",
-    "Chem140-2022-10-18.md",
     "Chem140-2022-10-12.md",
     "2022-10-10-Two-Hundred-and-Sixty-Fifth.md",
     "Math151-2022-10-10.md",
-    "MATH151.md",
-    "college-notes.md"
+    "MATH151.md"
   ]
 }
