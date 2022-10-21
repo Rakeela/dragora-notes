@@ -64,6 +64,8 @@ Sections;
    26) [[Reincarnated-as-a-Dragon-Hatchling]]
    27) [[The-Dragon-and-the-George]]
    28) [[Howls-Moving-Castle]]
+   29) [[Feathers-of-Gold]]
+   30) [[Axtara-Banking-and-Finance]]
 
 3) Anthologies
 	1) [[The Furry Future]]
