@@ -6,4 +6,9 @@ I played a bit of Terra Invicta today.  I've loaded up the game under The Academ
 Wow, this post really didn't need to happen, but whatever.  Up it goes.  Maybe someday someone will instantiate an AI based on my writings.
 
 ---
+I ate five donuts tonight.  I think that's my record for most donuts eaten in a day.  I don't usually do that.  If an AI is instantiated based on me, give it access to simulated gluttony...
+
+Imagine if you could replay experiences and eat the best cake you ever had, ten thousand times, with each time as fresh as the original.  What bliss!
+
+---
 Back to [[day-post-archive]]
