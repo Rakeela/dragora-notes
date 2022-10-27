@@ -184,6 +184,7 @@ Sections;
    3) [[The-Only-World-Building-Workbook-You'll-Ever-Need]]
    4) [[The-Psychology-Workbook-for-Writers]]
    5) [[Dialogue-The-Art-of-Verbal-Action-for-the-Page-Stage-and-Screen]]
+   6) [[The-Writers-Journey]]
 
 12) Cookbooks
 	1) [[Centennial-Home-Holiday-Keto]]
