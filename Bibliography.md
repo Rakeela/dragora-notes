@@ -67,6 +67,8 @@ Sections;
    29) [[Feathers-of-Gold]]
    30) [[Axtara-Banking-and-Finance]]
    31) [[Watership-Down]]
+   32) [[The-Five-People-You-Meet-in-Heaven]]
+   33) [[The-Gryphon-Generation]]
 
 3) Anthologies
 	1) [[The Furry Future]]
