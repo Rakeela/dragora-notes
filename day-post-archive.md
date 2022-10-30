@@ -275,3 +275,6 @@ Organized by month:
 2022-10
 [[2022-10-03-Two-Hundred-and-Sixty-Third]]
 [[2022-10-04-Two-Hundred-and-Sixty-Fourth]]
+[[2022-10-22-Two-Hundred-and-Sixty-Sixth]]
+[[2022-10-26-Two-Hundred-and-Sixty-Seventh]]
+[[2022-10-30-Two-Hundred-and-Sixty-Eighth]]
