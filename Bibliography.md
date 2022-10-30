@@ -79,6 +79,7 @@ Sections;
    40) [[Raptor-Red]]
    41) [[Stuart-Little]]
    42) [[Rikki-Tikki-Tavi]]
+   43) [[Romeo-and-Juliet]]
 
 3) Anthologies
 	1) [[The Furry Future]]

@@ -13,4 +13,7 @@ In theory, I want to weigh 180 pounds.  I've gotten down to 223.3 pounds at my l
 There's an existential trust involved in recording one's mind accurately.  I don't have enough of it yet.  There's stuff I'm concealing from this record.  I wonder if I'll get to that level of trust.
 
 ---
+Oh my god, what am I thinking, fasting near Halloween?  I should be eating candy!
+
+---
 Back to [[day-post-archive]]
