@@ -8,4 +8,7 @@ The scene I'm starting on is 448 words.  I have to record that as well in order 
 In hindsight, maybe I was doomed to be a vegetarian.  My dad cooked steaks on the regular.  That should've been a fine thing, right?  The problem is that I didn't like steak.  I've never understood the appeal of meat-slab.
 
 ---
+Finishing my first writing session for Nanowrimo, the scene I was working on now stands at 2,405 words.  1,957 words is the length of my first session of Nanowrimo writing.  I may or may not come back to the story today.  More is better...
+
+---
 Back to [[day-post-archive]]
