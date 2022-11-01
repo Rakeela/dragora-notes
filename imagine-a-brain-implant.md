@@ -31,6 +31,8 @@ Imagine a brain implant that:
 10.  Flow stabilizer:  an implant that analyzes flow states and nudges the brain to better perform them when the brain is in or near a state of flow.
 	1.  As a research tool, this could also be used for analyzing brain states to improve hedonological process design, as the flow state is itself both productive and psychologically hedonic.
 	2.  This is a pared back version of concept 6, which is likely to require significantly less advanced understanding, depending on what exactly constitutes a flow state.
+11. Mathematician Implant:  An implant that the brain can query for solving math problems.
+	1. I fantasize about skillware a lot, but I want  mathematician implant most.  Math skills are very fundamental.  If everyone could be good at math, education would proceed much more quickly!
 
 ---
 Is this [[authors-ideals]]?  It's not fiction or nonfiction, but it's also not idealism.  I'm not sure how to categorize this kind of speculation.  It's sci-fi thought, but maybe it IS a kind of [[authors-fiction]]?  On the other hand, I actually do want mind-machine interfaces.

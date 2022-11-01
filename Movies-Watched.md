@@ -50,6 +50,8 @@ Section 1:  Unsorted
 43. [[Howls-Moving-Castle-2004]]
 44. [[Princess-Mononoke-1997]]
 45. [[Jaws-1975]]
+46. [[What-Dreams-May-Come-1998]]
+47. [[Men-in-Black-1997]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -92,6 +94,7 @@ Section 2:  Marketed to Kids
 38. [[Robin-Hood-1973]]
 39. [[The-Aristocats-1970]]
 40. [[The-Flight-of-Dragons-1982]]
+41. [[Charlie-and-the-Chocolate-Factory-1971]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]

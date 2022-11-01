@@ -34,6 +34,7 @@ Sections;
    20) [[Gryphon-Insurrection]]
    21) [[Dark-Lord-of-Derkholm]]
    22) [[Hitchhikers-Guide-to-the-Galaxy]]
+   23) [[Enders-Game]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -41,7 +42,7 @@ Sections;
    3) [[Neverwhere]]
    4) [[Brave-New-World]]
    5) [[1984]]
-   6) [[A-Million-Little-Pieces]]
+   6) [[A-Stranger-in-a-Strange-Land]]
    7) [[The-Wonderland-Gambit]]
    8) [[Balshazar's-Serpent]]
    9) [[Virtual-Mode-by-Piers-Anthony]]
@@ -66,6 +67,19 @@ Sections;
    28) [[Howls-Moving-Castle]]
    29) [[Feathers-of-Gold]]
    30) [[Axtara-Banking-and-Finance]]
+   31) [[Watership-Down]]
+   32) [[The-Five-People-You-Meet-in-Heaven]]
+   33) [[The-Gryphon-Generation]]
+   34) [[To-Kill-A-Mockingbird]]
+   35) [[Animal-Farm]]
+   36) [[Charlottes-Web]]
+   37) [[Charlie-and-the-Chocolate-Factory]]
+   38) [[The-Martian]]
+   39) [[Royal-Red]]
+   40) [[Raptor-Red]]
+   41) [[Stuart-Little]]
+   42) [[Rikki-Tikki-Tavi]]
+   43) [[Romeo-and-Juliet]]
 
 3) Anthologies
 	1) [[The Furry Future]]
@@ -184,6 +198,7 @@ Sections;
    3) [[The-Only-World-Building-Workbook-You'll-Ever-Need]]
    4) [[The-Psychology-Workbook-for-Writers]]
    5) [[Dialogue-The-Art-of-Verbal-Action-for-the-Page-Stage-and-Screen]]
+   6) [[The-Writers-Journey]]
 
 12) Cookbooks
 	1) [[Centennial-Home-Holiday-Keto]]
