@@ -52,6 +52,7 @@ Section 1:  Unsorted
 45. [[Jaws-1975]]
 46. [[What-Dreams-May-Come-1998]]
 47. [[Men-in-Black-1997]]
+48. [[Fight-Club-1999]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -95,6 +96,7 @@ Section 2:  Marketed to Kids
 39. [[The-Aristocats-1970]]
 40. [[The-Flight-of-Dragons-1982]]
 41. [[Charlie-and-the-Chocolate-Factory-1971]]
+42. [[The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
