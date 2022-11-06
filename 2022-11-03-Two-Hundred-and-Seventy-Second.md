@@ -15,4 +15,7 @@ I have 10,814 words in all, of which 4,589 words were pre-existing.  My current 
 My word count for today was 602+53+1133=1,788.  That hits par, but doesn't exceed it by very much.  Maybe I'll work a bit more tonight.
 
 ---
+1267 words on the file.  Total word count 1,922.
+
+---
 Back to [[day-post-archive]]
