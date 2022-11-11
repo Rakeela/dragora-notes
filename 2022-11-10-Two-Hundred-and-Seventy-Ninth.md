@@ -10,5 +10,7 @@ I'd like to work the file to about 1,900 words today, and then update it on Nano
 
 1,234 words.  666 to go.  Wow, 1,234 is 666 from 1,900!
 
+23,522 words on the book, minus 4,589 for preexisting work, means 18,933 words of Nanowrimo work done so far.
+
 ---
 Back to [[day-post-archive]]
