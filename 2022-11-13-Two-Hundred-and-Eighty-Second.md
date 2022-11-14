@@ -11,5 +11,11 @@ Starting with 906 words on the file that I'm working on.
 
 My real productivity is lower than my word count, because I'm totally pushing for every scrap of wordage that I can come up with, and editing this mess while be a pain.
 
+I just retallied my project, and it's at 29,477 words.  Subtract 4,589 words of pre-existing material, and I have 24,888 words of manuscript written in November.  Almost at the halfway mark.
+
+There's an 8 word discrepancy between my tally and the tally on the nanowrimo webpage.  It's small, yet frustrating.  I'm not sure where it came from.  It's annoying to see that I apparently can't do the arithmetic involved in adding up wordcounts.
+
+I'm writing a bit more on this.  The file is starting at 2,956 words.  I've written to 3,977 words.  That's an additional 1,012 words of progress.
+
 ---
 Back to [[day-post-archive]]
