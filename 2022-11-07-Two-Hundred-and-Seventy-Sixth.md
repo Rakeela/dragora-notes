@@ -9,4 +9,7 @@ Ugh, I don't have the polyatomic ions memorized.  This next test may be brutal. 
 This is kind of "chem notes", but I'm also editorializing.  Maybe it'll help me do better in the future.
 
 ---
+Today might be the day I fail to reach my Nanowrimo quota.  I'm starting on a file with 2,892 words in it...  No, I'll just start a new file.  I'm starting at 0 this time.  It'll be really easy to gauge how far along I am.  27 words as of this writing.
+
+---
 Back to [[day-post-archive]]

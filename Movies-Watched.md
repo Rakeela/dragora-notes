@@ -53,6 +53,9 @@ Section 1:  Unsorted
 46. [[What-Dreams-May-Come-1998]]
 47. [[Men-in-Black-1997]]
 48. [[Fight-Club-1999]]
+49. [[Reefer-Madness-The-Movie-Musical-2005]]
+50. [[Rocky-Horror-Picture-Show-1975]]
+51. [[Dogma-1999]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -97,6 +100,8 @@ Section 2:  Marketed to Kids
 40. [[The-Flight-of-Dragons-1982]]
 41. [[Charlie-and-the-Chocolate-Factory-1971]]
 42. [[The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]]
+43. [[Spider-Man-Into-the-Spiderverse-2018]]
+44. [[Airplane-1980]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
