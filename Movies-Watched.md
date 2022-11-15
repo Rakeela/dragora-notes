@@ -56,6 +56,7 @@ Section 1:  Unsorted
 49. [[Reefer-Madness-The-Movie-Musical-2005]]
 50. [[Rocky-Horror-Picture-Show-1975]]
 51. [[Dogma-1999]]
+52. [[Secret-Window-2004]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
