@@ -15,5 +15,7 @@ While trying to search-replace to eradicate erroneous uses of the word "people" 
 
 My computer entered in a CTRL event while I was looking at the World Anvil page with my hands off the keys...  Why does my keyboard misbehave?  I got a cluster of bad input events just then.  A great swathe of the page ended up highlighted for no obvious reason.
 
+Did a bit more writing.  1,975 words.  299 more words of productivity to record with Nanowrimo's website.
+
 ---
 Back to [[day-post-archive]]
