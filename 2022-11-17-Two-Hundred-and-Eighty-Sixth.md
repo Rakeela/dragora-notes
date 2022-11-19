@@ -16,4 +16,7 @@ A random 1 appeared in my file while I was looking at another window.  I'm suspi
 947 words.  1,756 words of progress, 89 words over quota.  I'm having trouble today and I'm just going to report this for the moment.  Maybe I'll do more in a bit.
 
 ---
+I played a bit of Age of Wonders: Planetfall.  I played until I grew discontented.  What good is progress in a game?  I would rather progress in my stories.  Even if I am unhappy with the quality of my current writing, practicing will improve my skill.  I am not afraid of self-repetition.
+
+---
 Back to [[day-post-archive]]
