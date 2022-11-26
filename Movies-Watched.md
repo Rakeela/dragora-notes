@@ -57,6 +57,8 @@ Section 1:  Unsorted
 51. [[Dogma-1999]]
 52. [[Secret-Window-2004]]
 53. [[Home-Alone-1990]]
+54. [[Grave-of-the-Fireflies-1988]]
+55. [[Resident-Evil-2002]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]

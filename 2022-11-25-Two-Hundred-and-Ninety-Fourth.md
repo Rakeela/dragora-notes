@@ -9,5 +9,13 @@ I think I would already have stuck with being sugarfree if the global sugar indu
 ---
 Starting with 8,107 words on the file.  I need to bring this file to a close.  The chapter its in is overweight.  Lots of these chapters are overweight.  They'll need to be trimmed down and/or broken up.  I want 4k word chapters with occasional short chapters, not consistent heavy 7-9k chapters.
 
+8,935 words on the file.  Finally closing the "chapter".  828 words of progress, 839 to go.  Once again I find myself drawn to mark my progress around the midpoint on the quota.
+
+728 words on the new file.  Not enough.
+
+966 words on the new file.  1,794 words of progress.  127 words over par, 206 words under 2k.  I need 1,172 words on the new file.
+
+2,022 words on the new file.  2,850 words of progress.  1,183 words over par, 850 words over 2k.  I think I'm done for the day.
+
 ---
 Back to [[day-post-archive]]
