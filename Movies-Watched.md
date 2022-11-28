@@ -59,6 +59,7 @@ Section 1:  Unsorted
 53. [[Home-Alone-1990]]
 54. [[Grave-of-the-Fireflies-1988]]
 55. [[Resident-Evil-2002]]
+56. [[Die-Hard-1988]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
