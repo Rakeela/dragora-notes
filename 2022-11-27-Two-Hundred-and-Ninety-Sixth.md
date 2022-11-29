@@ -8,5 +8,7 @@ I don't wanna wriiiite.  I don't know how much of this junk will even survive ed
 
 I stopped at a good point.  I'm still thinking about what happens next.
 
+I wrote a bit more.  5,896 words on the file.  That's another 489 words of progress, for 542 over quota.
+
 ---
 Back to [[day-post-archive]]
