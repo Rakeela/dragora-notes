@@ -7,5 +7,9 @@ I think I spend too much time sitting at my desk, because part of my right thigh
 ---
 Starting with a fresh file.
 
+973 words on the file.  694 words to go.  I took a break to go to the store for some milk.  I also picked up a keto cookie mix.  Finally!  I couldn't do it myself, but the mix should work.
+
+1809 words.  142 words over quota.
+
 ---
 Back to [[day-post-archive]]
