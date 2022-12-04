@@ -60,6 +60,7 @@ Section 1:  Unsorted
 54. [[Grave-of-the-Fireflies-1988]]
 55. [[Resident-Evil-2002]]
 56. [[Die-Hard-1988]]
+57. [[Armageddon-1998]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
