@@ -27,4 +27,10 @@ I noticed something I liked during today's play.  The populations in the game ar
 322 words on the new file.  I've been stalled at this point for quite a while, so I'm just going to accept that I'm not producing any more writing today.  I'll report my productivity at this point.
 
 ---
+I feel divinely favored by an incompetent god.  Like there's a god who loves me very much, but they've blundered a lot, and maybe they're struggling to fix it.  Like there's a divine plan, but it kinda sucks, and it's not secretly a good thing that it sucks.
+
+---
+Using Amazon to send a gift to someone else is a highly disconcerting experience.  I thought it'd be user-friendly, but I had to add the address to which I was sending as though it was my own, and then subsequently I had to remove it again.
+
+---
 Back to [[day-post-archive]]
