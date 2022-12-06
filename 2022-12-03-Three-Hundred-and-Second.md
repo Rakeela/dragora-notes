@@ -13,5 +13,9 @@ Making an adjustment to a prior file.  6,614 words to 6,615 words.  +1 words of 
 
 1,204 words of progress.  243 words over quota.  I'm not quite satisfied.  My writing is better at this lower pace, but I feel like I should be able to charge ahead and write the next scene, too.  Yet I also feel thick-headed.  I'm having trouble imagining the next scene.  If this were November writing, I'd definitely keep going.  Should I now?
 
+1,582 words of progress.  378 more words than I had before.  I'm tabulating them this way, because I already reported the 1,204 words earlier.
+
+Nanowrimo's website reports that at my current rate of output, I'll be done on December 24th.  I want to think that I'll speed up.
+
 ---
 Back to [[day-post-archive]]
