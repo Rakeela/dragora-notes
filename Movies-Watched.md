@@ -61,6 +61,12 @@ Section 1:  Unsorted
 55. [[Resident-Evil-2002]]
 56. [[Die-Hard-1988]]
 57. [[Armageddon-1998]]
+58. [[Shaun-of-the-Dead-2004]]
+59. [[Hot-Fuzz-2007]]
+60. [[The-Worlds-End-2013]]
+61. [[Airplane-1980]]
+62. [[Ghost-in-the-Shell-1995]]
+63. [[Appleseed-2004]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -106,7 +112,6 @@ Section 2:  Marketed to Kids
 41. [[Charlie-and-the-Chocolate-Factory-1971]]
 42. [[The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]]
 43. [[Spider-Man-Into-the-Spiderverse-2018]]
-44. [[Airplane-1980]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]

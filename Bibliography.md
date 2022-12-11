@@ -35,6 +35,7 @@ Sections;
    21) [[Dark-Lord-of-Derkholm]]
    22) [[Hitchhikers-Guide-to-the-Galaxy]]
    23) [[Enders-Game]]
+   24) [[Archeons]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -80,6 +81,7 @@ Sections;
    41) [[Stuart-Little]]
    42) [[Rikki-Tikki-Tavi]]
    43) [[Romeo-and-Juliet]]
+   44) [[Dire]]
 
 3) Anthologies
 	1) [[The Furry Future]]
