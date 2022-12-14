@@ -27,5 +27,15 @@ Even with the candy I've bought for the 25th.  I found new candy that I haven't 
 ---
 44 hours.  Every hour feels like an achievement.  I'm going to go to the store and buy some mushrooms.  They're zero calorie!
 
+46 hours.  I know, I said "every hour feels like an achievement" twice, but it does.  In fact, that's three times.  I'm sure I'll get sick of checking constantly how many hours it's been, but I was sure I'd stop counting words per day, and I was sure I'd stop naming these day logs by date and count, too.  Maybe I'll just keep tallying hours.
+
+48 hours.  That's two days down.  Twelve days to go.  The food obsession is maddening.  I bought more candy for myself.  I've ransacked all the grocery stores in the area for candies that I haven't eaten yet.  I've bought $60 of candies that are mostly-novel.  I have two kinds of marzipan candy, one I've had before and one I haven't.  I am ravenous for sweets.  Ravenous!
+
+There are no grocery stores in the area that I haven't visited to look for new sweets.  Tomorrow, I will have to satisfy myself by counting my sweets.  I may tally them in tomorrow's day log just to have something to do.
+
+49 hours.  I went to bed early last night because I couldn't bear to be awake anymore.  The sleeping hours are the best.
+
+51 hours.  I pawed through my candy stash again.  So much beautiful chocolate.  I even have ruby chocolate.  What does that taste like?  Berry delicious, according to the wrapper.
+
 ---
 Back to [[day-post-archive]]
