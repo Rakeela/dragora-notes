@@ -38,4 +38,7 @@ There are no grocery stores in the area that I haven't visited to look for new s
 51 hours.  I pawed through my candy stash again.  So much beautiful chocolate.  I even have ruby chocolate.  What does that taste like?  Berry delicious, according to the wrapper.
 
 ---
+I have feedback from my editor on my second manuscript.  There are errors in it, of course there are errors in it, I hired an editor to catch all of them.  But oh, it burns.  I don't want to confront the errors in my work.  I may take a day off from writing tomorrow to spend it reading the editor feedback and getting started on rewrites instead.
+
+---
 Back to [[day-post-archive]]
