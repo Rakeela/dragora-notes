@@ -67,6 +67,8 @@ Section 1:  Unsorted
 61. [[Airplane-1980]]
 62. [[Ghost-in-the-Shell-1995]]
 63. [[Appleseed-2004]]
+64. [[Tag-2018]]
+65. [[Mass-Effect-Paragon-Lost-2012]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
