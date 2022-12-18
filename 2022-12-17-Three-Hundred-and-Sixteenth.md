@@ -26,4 +26,9 @@ I may not be getting enough exercise.
 1,133 words.  528 words over quota.  Inspiration started flowing much more readily once I was writing to procrastinate on exercise.  I've been jiggling a leg, too.  Being just about to exercise seems to have woken up my metabolism.  Now it's time to actually do it.
 
 ---
+148.5 hours.  Going out for exercise, while presumably healthy, left me completely exhausted.  It took a while to recover after I got inside
+
+I want to write more about candy.  I have "double chocolate mint cups".  Going by the packaging, they're a solid chocolate shell with a liquid chocolate filling.  The filling is minty dark chocolate.  They come in a resealable bag.  Theoretically, I should eat them over several days.  With such a massive candy stash to deal with, I might even do so!
+
+---
 Back to [[day-post-archive]]
