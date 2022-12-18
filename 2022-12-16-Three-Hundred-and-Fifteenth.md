@@ -26,5 +26,9 @@ Among the candy I bought was a Flake bar.  The tagline on it calls it, "The crum
 
 I have so much chocolate.  I say I bought "candy", the vast majority of it is chocolate.  I also have "brown butter" chocolate.  What is that going to be like?  I know I love brown butter cookies.  Will brown butter chocolate have a similar taste and texture?  I think I've had it before, and it frustrates me that I cannot remember it.  Maybe someday there'll be a next gen anti-obesity implant that functions not by altering appetite, but by making taste memories reaccessible at will.  Imagine if you could taste things again and again, without eating them again and again.  There'd be no need to eat the same delicious food twice.
 
+121 hours.  That protein pastry was VERY satisfying.  I feel like it woke up my digestion.  I was briefly full.  Now I'm hungrier than I was before I ate it.  Today I've eaten the largest amount of calories since I started my fast: 340 calories.  Today's calories were almost all fat and protein.  It should do nothing to rebuild my glycogen stores.  I hope it'll keep my digestion in ketosis.
+
+I say I'm hungrier than I was before I ate it.  I'm also still feeling some lingering satisfaction.  The protein pastries are hyperpalatable despite being keto.  They taste amazing, especially right now..  
+
 ---
 Back to [[day-post-archive]]
