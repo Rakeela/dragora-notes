@@ -18,5 +18,15 @@
 
 189.5 hours.  I just had an idea for something that could seriously improve human health outcomes!  I want leptin filters as an implant!  I'm recording more of this idea in [[Imagine-a-body-implant]].
 
+191.5 hours.  I've been studying medical documents related to leptin sensitization.  It turns out there's a category of pharmaceutical called GLP-1 Agonists which are known to have leptin sensitization impacts.  There's also a compound isolated from ashwagandha called "Withaferin A" that caused leptin sensitization in obese mice according to two studies (one in 2016 and the other in 2018.)
+
+---
+Starting a new file.  Setting my target at 604 words, but no big deal if I miss it.
+
+781 words.  I'm going to turn it in.
+
+---
+195 hours.  SGLT-2 inhibitors should also be noted as weight loss drugs, since they cause the excretion of glucose in the urine to the tune of 60-100 grams daily.  That's 240-400 calories of glucose not being absorbed by the body.  It wouldn't keep up with dedicated overconsumption like digging into a candy hoard, but it might help with less extreme cases.
+
 ---
 Back to [[day-post-archive]]
