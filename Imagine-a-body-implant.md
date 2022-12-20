@@ -10,6 +10,9 @@ Imagine a body implant that:
 	4. Nudism would be a bit more popular as it would be practical in a wider range of biomes.
 	5. A network of these warmth implants could fix minor cold spots in the body as well, improving personal comfort in a minor way.  This would also improve sleep quality at night.
 	6. Creeps with thermal cameras would lose something that would give them an insight into the emotions of people they're observing, reducing vulnerability to the exploitation of information asymmetries.
+2. Filters out excess leptin from the bloodstream
+	1. If hyperleptinaemia were eliminated, leptin resistance shouldn't occur, and leptin sensitivity would remain functional.  Restoration of leptin sensitivity would naturally quell the appetite of people who are overweight.
+	2. If the filter can be manually modulated, it could serve as an "eat signal" by deliberately depressing leptin levels when it is correct to rest and eat, then as an "activity signal" by allowing leptin levels to climb when it is correct to exercise.
 
 ---
 Back to [[authors-ideals]]
