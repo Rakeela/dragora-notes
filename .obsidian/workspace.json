@@ -63,91 +63,31 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "2c6be60351a58b51",
+                    "id": "a272547cb4b5235c",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2022-11-16-Two-Hundred-and-Eighty-Fifth.md",
+                        "file": "2022-12-22-Three-Hundred-and-Twenty-First.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "d637db22f430a6d7",
+                    "id": "e9fee604a5223438",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2022-11-25-Two-Hundred-and-Ninety-Fourth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "51c1dbd2a690c471",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11-27-Two-Hundred-and-Ninety-Sixth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "4ab271b211532981",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-11-30-Two-Hundred-and-Ninety-Ninth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d27de6f516a64499",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-12-01-Three-Hundredth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "977f21021d013c77",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-12-02-Three-Hundred-and-First.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "c4be9eba4f8d6165",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2022-12-03-Three-Hundred-and-Second.md",
+                        "file": "2022-12-23-Three-Hundred-and-Twenty-Second.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 6
+                "currentTab": 1
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -242,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-03-Three-Hundred-and-Second.md",
+                "file": "2022-12-23-Three-Hundred-and-Twenty-Second.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,17 +200,26 @@
     "width": 596,
     "collapsed": true
   },
-  "active": "c4be9eba4f8d6165",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "e9fee604a5223438",
   "lastOpenFiles": [
+    "2022-12-22-Three-Hundred-and-Twenty-First.md",
+    "2022-12-20-Three-Hundred-and-Nineteenth.md",
+    "2022-12-18-Three-Hundred-and-Seventeenth.md",
+    "2022-12-17-Three-Hundred-and-Sixteenth.md",
+    "2022-12-11-Three-Hundred-and-Tenth.md",
+    "2022-12-21-Three-Hundred-and-Twentieth.md",
+    "2022-12-19-Three-Hundred-and-Eighteenth.md",
     "Movies-Watched.md",
-    "The-Fifth-Element-1997.md",
-    "Armageddon-1998.md",
-    "2022-12-03-Three-Hundred-and-Second.md",
-    "2022-11-16-Two-Hundred-and-Eighty-Fifth.md",
-    "2022-11-01-Two-Hundred-and-Seventieth.md",
-    "2022-11-27-Two-Hundred-and-Ninety-Sixth.md",
-    "2022-12-02-Three-Hundred-and-First.md",
-    "2022-12-01-Three-Hundredth.md",
-    "Die-Hard-1988.md"
+    "2022-12-16-Three-Hundred-and-Fifteenth.md",
+    "2022-12-14-Three-Hundred-and-Thirteenth.md"
   ]
 }
