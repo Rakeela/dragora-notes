@@ -70,6 +70,11 @@ Section 1:  Unsorted
 64. [[Tag-2018]]
 65. [[Mass-Effect-Paragon-Lost-2012]]
 66. [[Escaflowne-2000]]
+67. [[The-Matrix-1999]]
+68. [[The-Matrix-Reloaded-2003]]
+69. [[The-Matrix-Revolutions-2003]]
+70. [[The-Animatrix-2003]]
+71. [[LotR-Fellowship-of-the-Ring-2001]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -115,6 +120,7 @@ Section 2:  Marketed to Kids
 41. [[Charlie-and-the-Chocolate-Factory-1971]]
 42. [[The-Chronicles-of-Narnia-The-Lion-the-Witch-and-the-Wardrobe-2005]]
 43. [[Spider-Man-Into-the-Spiderverse-2018]]
+44. [[Despicable-Me-2010]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
