@@ -17,4 +17,17 @@ Chapter finished?  I only took it down to 4,517 words.  I feel like I wasn't ver
 The next chapter is also reasonable at 4,079 words.  I thought I was writing 10,000 word chapters!  On review, it looks like I didn't actually do that, but there are a few other 8k+ chapters that will need to be split.  I think I like my chapters to be 3k words each.  Now I'm going to take a break instead of launching into editing chapter 8.
 
 ---
+Got another chapter in.  I took the chapter down to 3,754 words.  I'm now at 92,891 words on the draft.  12,104 words remain to be eliminated to reach my 15k estimate.
+
+The draft material isn't as awful as I thought it was.  I didn't enjoy rereading this latest chapter, but I've mostly been enjoying the rereading.  I feel kind of like a disk defragmenter as I go through the story tightening it up.  I'm searching through it and moving bits closer together.
+
+That'll last a little longer.  I think chapter 10 is going to be my most extensive rewrite when I get to it.
+
+I am kind of conceptually disappointed with my endless-connecting-tunnels concept.  I feel like I should rewrite that into a more interesting cavernous environment, but I've been uninspired on that front.  I don't have anything bright in mind for it.  Hopefully, I'll think of something.
+
+Chapter 9 reviewed.  92,361 words on the draft.  Chapter 9 is now 6,817 words long, which is too long.  I'll need to split it.  I also feel I didn't do that well on the editing.  I struggled with it.  In any case, I trimmed a few more words.  11,574 words left on my estimated 15k trimming project.  Today's productivity was 2,111 words removed from the draft.
+
+The 15k editing target is ambitious.  I may not be able to pull that off.  I'm not sure.  I'll need to actually do some rewriting to get there.  It'll be a struggle.
+
+---
 Back to [[day-post-archive]]
