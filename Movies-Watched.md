@@ -76,6 +76,8 @@ Section 1:  Unsorted
 70. [[The-Animatrix-2003]]
 71. [[LotR-Fellowship-of-the-Ring-2001]]
 72. [[LotR-The-Two-Towers-2002]]
+73. [[Avatar-2009]]
+74. [[Laputa-Castle-in-the-Sky-1986]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
