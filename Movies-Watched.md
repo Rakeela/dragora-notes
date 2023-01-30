@@ -78,6 +78,7 @@ Section 1:  Unsorted
 72. [[LotR-The-Two-Towers-2002]]
 73. [[Avatar-2009]]
 74. [[Laputa-Castle-in-the-Sky-1986]]
+75. [[LotR-The-Return-of-the-King-2003]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
