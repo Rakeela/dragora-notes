@@ -1,4 +1,4 @@
-#2023-01-28-Three-Hundred-and-Forty-Seventh
+#2023-01-29-Three-Hundred-and-Forty-Seventh
 
 I did no writing yesterday, but spent the whole day reading "Draconic Karma Dungeon" on Royal Road.  I worry that it's a bad story, but I couldn't help studying it fascinatedly.  I feel like I've learned from it and I worry that I've underrated it.
 
