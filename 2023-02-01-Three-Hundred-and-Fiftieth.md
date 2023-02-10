@@ -14,7 +14,7 @@ Another 3 hours, 26 minutes, and 40 seconds on the treadmill.  5.1 miles at 1.4 
 The scale says I weigh 251.4 pounds now.  It's gotta be water weight.
 
 ---
-(Written the next day)  1,584 words on the file.  1,239 words of progress.
+(Although this word count was completed on 2023-02-01, the word progress update was added the next day.)  1,584 words on the file.  1,239 words of progress.
 
 ---
 Back to [[day-post-archive]]

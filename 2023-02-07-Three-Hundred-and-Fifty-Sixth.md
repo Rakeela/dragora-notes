@@ -14,5 +14,15 @@ I wonder if that hopeless exhaustion I felt earlier is what it's like to be star
 ---
 I managed to resist buying a mallowtop Reese's candy.  It was hard!  I really love them.  They're only available seasonally.  I've already overeaten today.  Maybe I'll buy one tomorrow.
 
+I'm setting a more ambitious pace on the treadmill today.  1.7 mph.  It's harder.  I'm unhappy with the frequency at which I have to take breaks.  My feet are hurting more today than I can remember them hurting on previous days.
+
+I ended up going 9.6 miles on the treadmill, burning an estimated 1,520 kcal across 5 hours, 44 minutes, and 50 seconds.  I walked 29,802 steps at 1.7 mph.
+
+---
+69,047 words on the file.  384 words of progress.  This has been hard to pick back up again.
+
+---
+Evening weigh-in:  252.1 pounds.  Maybe chugging a liter of water right before the weigh-in was a bad idea from a morale standpoint, but I'm pretty sure this is a valid indicator of weight loss since yesterday's evening reading of 252.7 pounds.
+
 ---
 Back to [[day-post-archive]]
