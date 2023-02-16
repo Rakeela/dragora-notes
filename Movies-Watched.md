@@ -79,6 +79,7 @@ Section 1:  Unsorted
 73. [[Avatar-2009]]
 74. [[Laputa-Castle-in-the-Sky-1986]]
 75. [[LotR-The-Return-of-the-King-2003]]
+76. [[Terry-Pratchetts-The-Colour-of-Magic-2008]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
