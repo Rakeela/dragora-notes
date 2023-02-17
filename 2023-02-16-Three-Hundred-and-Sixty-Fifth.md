@@ -20,4 +20,7 @@ Sigh.  I want more sugar.
 I had a thought that I want to record.  "Misinformation promotes rudeness."  It's an indirect causality.  People feel strongly about what they believe to be true.  When misinformation exists in a population, it increases the rate at which different people will feel strongly about truth-beliefs.  Some of those people will be rude to each other even though they would have been polite to one another if they agreed about what is true.
 
 ---
+Evening weigh-in:  246.0 pounds.  I guess I can still lose weight on a day I ate a donut.
+
+---
 Back to [[day-post-archive]]
