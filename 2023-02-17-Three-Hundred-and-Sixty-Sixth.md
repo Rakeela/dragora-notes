@@ -21,4 +21,7 @@ Evening weigh-in:  244.7 pounds.
 I ate a pop-tart this evening.  Not a pack of pop-tarts.  Just one.
 
 ---
+(This section added the next day:)  I forgot to record this at the time, but.  I walked 6,553 steps, burning an estimated 324 kcal, crossing 1.7 miles at an estimated 1.1 mph, and walking for 1 hour, 29 minutes, 38 seconds.
+
+---
 Back to [[day-post-archive]]
