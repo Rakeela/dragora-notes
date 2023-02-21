@@ -13,5 +13,8 @@ Oops.  I accidentally double-tapped on the pause session button on my treadmill,
 ---
 I walked an additional 5.3 miles, but instead of going to summary mode when I hit the pause button a second time, it turned off.  So I didn't get the step-count, kcal estimate, or exact duration of walking recorded.  I'd been going at 1.2 mph for a bunch of it, then 1.3 mph for a bunch of it, so...  Eh.  It was over four hours of additional walking.  I'll estimate that I walked for five hours today.  Thank goodness my foot has healed.
 
+----
+Evening weigh-in:  250.0 pounds.
+
 ---
 Back to [[day-post-archive]]
