@@ -11,7 +11,7 @@ I think I'm a little dehydrated.  My evening weigh-in is likely to record a high
 Maybe I wasn't just dehydrated.  I felt a little dry when I woke up, but my weight has continued to drop today despite good hydration.
 
 ---
-4,092 words on the file.  2,262 words on the file.  I don't think I'm done for the day, but I might be wrong.
+4,092 words on the file.  2,262 words of progress.  I don't think I'm done for the day, but I might be wrong.
 
 ---
 I walked 5.1 miles, burning an estimated 903 kcal, taking 18,229 steps, and walking for four hours to the second.  My estimated speed was 1.2 mph.
