@@ -82,6 +82,7 @@ Sections;
    42) [[Rikki-Tikki-Tavi]]
    43) [[Romeo-and-Juliet]]
    44) [[Dire]]
+   45) [[Summoned!-To-An-RPG-World]]
 
 3) Anthologies
 	1) [[The Furry Future]]

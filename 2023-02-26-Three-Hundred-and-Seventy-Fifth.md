@@ -17,6 +17,9 @@ Morning weigh-in:  248.6 pounds.
 I've bought a can of Steel Reserve.  This is my favorite beer.  I can't drink beer while fasting.  It's pure weight gain.  I'm thinking as I drink it that my favorite beer still isn't very good to me.  All beer is pretty disgusting.
 
 ---
+10,543 steps, 531 kcal, 2.8 miles, 2 hours, 26 minutes, 51 seconds.  1.1 mph estimated speed.
+
+---
 Evening weigh-in:  252.7 pounds.
 
 Ugh.  I can binge up an absurd amount of weight in two days.  Kistaro doesn't think I'm turning anorexic, I think zie's wrong.  Pretty soon I won't be willing to eat on the weekend either.  I don't seem to be capable of a healthy approach to food.  I may just starve to death.
