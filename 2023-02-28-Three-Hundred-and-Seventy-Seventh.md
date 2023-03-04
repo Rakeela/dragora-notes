@@ -36,4 +36,7 @@ Phew.  Let's finally sit down.  I'll eat a handful of baked cheese and a shot of
 I downed a handful of pecans, too.  I'm just spoiling myself tonight.
 
 ---
+Evening weigh-in:  246.1 pounds
+
+---
 Back to [[day-post-archive]]
