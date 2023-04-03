@@ -84,6 +84,10 @@ Sections;
    44) [[Dire]]
    45) [[Summoned!-To-An-RPG-World]]
    46) [[A-Dream-of-Wings-and-Flame]]
+   47) [[Jennifer-Government]]
+   48) [[Blackmist]]
+   49) [[My-Name-is-Simon]]
+   50) [[Lohikarmen]]
 
 3) Anthologies
 	1) [[The Furry Future]]
@@ -102,6 +106,8 @@ Sections;
    7) [[Simplified-Guide-to-Aeroponics-Tower-Gardening]]
    8) [[Volumetrics-Feel-Full-on-Fewer-Calories]] (Partial)
    9) [[The-Basics-of-Chemistry-by-Richard-Myers]]
+   10) [[Atheopaganism-An-Earth-Honoring-Path-Rooted-in-Science]]
+   11) [[The-Economics-of-the-Roman-Stone-Trade]]
 
 6) Putative Nonfiction
    1) [[A-Million-Little-Pieces]]
