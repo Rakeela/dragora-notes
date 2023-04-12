@@ -88,6 +88,7 @@ Sections;
    48) [[Blackmist]]
    49) [[My-Name-is-Simon]]
    50) [[Lohikarmen]]
+   51) [[Fluff-A-Wholesome-LitRPG]]
 
 3) Anthologies
 	1) [[The Furry Future]]
