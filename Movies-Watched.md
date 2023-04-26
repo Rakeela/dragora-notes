@@ -80,6 +80,7 @@ Section 1:  Unsorted
 75. [[LotR-The-Return-of-the-King-2003]]
 76. [[Terry-Pratchetts-The-Colour-of-Magic-2008]]
 77. [[Detective-Pikachu-2019]]
+78. [[2001-A-Space-Odyssey-1968]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]

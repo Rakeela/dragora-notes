@@ -87,42 +87,6 @@
                     }
                   },
                   {
-                    "id": "18c2501946f9a3c9",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2023-04-07-Four-Hundred-and-Eighth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "dd2cabefbae2258d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2023-04-08-Four-Hundred-and-Ninth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "07a1207ae2556a7d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2023-04-10-Four-Hundred-and-Eleventh.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
                     "id": "fd1051b41f4f74e6",
                     "type": "leaf",
                     "state": {
@@ -133,9 +97,33 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "c30dfc4a2ead7072",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-04-25-Four-Hundred-and-Twenty-Fifth.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "9fc64b07459873fe",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-04-26-Four-Hundred-and-Twenty-Sixth.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 5
+                "currentTab": 4
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -147,7 +135,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Fluff-A-Wholesome-LitRPG.md",
+                        "file": "Bibliography.md",
                         "mode": "source",
                         "source": false
                       }
@@ -229,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-04-11-Four-Hundred-and-Twelfth.md",
+                "file": "2023-04-26-Four-Hundred-and-Twenty-Sixth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,33 +244,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fd1051b41f4f74e6",
+  "active": "9fc64b07459873fe",
   "lastOpenFiles": [
+    "after-the-empire.md",
+    "Candy-Vault.md",
+    "2023-04-26-Four-Hundred-and-Twenty-Sixth.md",
+    "2023-04-25-Four-Hundred-and-Twenty-Fifth.md",
     "2023-04-11-Four-Hundred-and-Twelfth.md",
-    "2023-04-10-Four-Hundred-and-Eleventh.md",
-    "Fluff-A-Wholesome-LitRPG.md",
+    "2023-04-24-Four-Hundred-and-Twenty-Fourth.md",
+    "2023-04-23-Four-Hundred-and-Twenty-Third.md",
+    "2023-04-21-Four-Hundred-and-Twenty-First.md",
+    "2023-04-22-Four-Hundred-and-Twenty-Second.md",
     "Bibliography.md",
-    "2023-04-09-Four-Hundred-and-Tenth.md",
-    "2023-04-08-Four-Hundred-and-Ninth.md",
-    "2023-04-07-Four-Hundred-and-Eighth.md",
-    "2023-04-06-Four-Hundred-and-Seventh.md",
-    "2023-03-27-Three-Hundred-and-Ninety-Ninth.md",
-    "2023-03-02-Three-Hundred-and-Seventy-Ninth.md",
-    "2023-03-03-Three-Hundred-and-Eightieth.md",
-    "2023-03-05-Three-Hundred-and-Eighty-First.md",
-    "2023-03-06-Three-Hundred-and-Eighty-Second.md",
-    "2023-03-07-Three-Hundred-and-Eighty-Third.md",
-    "2023-03-08-Three-Hundred-and-Eigthy-Fourth.md",
-    "2023-03-09-Three-Hundred-and-Eighty-Fifth.md",
-    "2023-03-10-Three-Hundred-and-Eighty-Sixth.md",
-    "2023-03-11-Three-Hundred-and-Eighty-Seventh.md",
-    "2023-03-13-Three-Hundred-and-Eighty-Eighth.md",
-    "2023-03-14-Three-Hundred-and-Eighty-Ninth.md",
-    "2023-03-16-Three-Hundred-and-Ninety-First.md",
-    "2023-03-15-Three-Hundred-and-Ninetieth.md",
-    "2023-03-17-Three-Hundred-and-Ninety-Second.md",
-    "2023-03-20-Three-Hundred-and-Ninety-Third.md",
-    "2023-03-21-Three-Hundred-and-Ninety-Fourth.md",
-    "2023-03-22-Three-Hundred-and-Ninety-Fifth.md"
+    "Heroes-in-Hell.md",
+    "Movies-Watched.md",
+    "Notable-Videogames.md",
+    "Library-of-Ruina.md",
+    "Jade-Empire.md",
+    "2001-A-Space-Odyssey-1968.md",
+    "Terry-Pratchetts-The-Colour-of-Magic-2008.md",
+    "2023-04-17-Four-Hundred-and-Sixteenth.md",
+    "2023-04-20-Four-Hundred-and-Twentieth.md",
+    "2023-04-18-Four-Hundred-and-Seventeenth.md",
+    "Petrichor.md",
+    "2023-04-19-Four-Hundred-and-Eighteenth.md",
+    "2023-04-12-Four-Hundred-and-Thirteenth.md",
+    "2023-04-15-Four-Hundred-and-Fifteenth.md",
+    "Fluff-A-Wholesome-LitRPG.md",
+    "2023-04-13-Four-Hundred-and-Fourteenth.md"
   ]
 }

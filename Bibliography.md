@@ -36,6 +36,8 @@ Sections;
    22) [[Hitchhikers-Guide-to-the-Galaxy]]
    23) [[Enders-Game]]
    24) [[Archeons]]
+   25) [[Fluff-A-Wholesome-LitRPG]]
+   26) [[Heroes-in-Hell]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -88,7 +90,7 @@ Sections;
    48) [[Blackmist]]
    49) [[My-Name-is-Simon]]
    50) [[Lohikarmen]]
-   51) [[Fluff-A-Wholesome-LitRPG]]
+   51) [[Petrichor]]
 
 3) Anthologies
 	1) [[The Furry Future]]
