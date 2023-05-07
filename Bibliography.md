@@ -38,6 +38,8 @@ Sections;
    24) [[Archeons]]
    25) [[Fluff-A-Wholesome-LitRPG]]
    26) [[Heroes-in-Hell]]
+   27) [[The-Unbound-Soul]]
+   28) [[Head-in-the-Clouds]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
@@ -90,7 +92,7 @@ Sections;
    48) [[Blackmist]]
    49) [[My-Name-is-Simon]]
    50) [[Lohikarmen]]
-   51) [[Petrichor]]
+   51) [[The-Lonely-Dungeon]]
 
 3) Anthologies
 	1) [[The Furry Future]]

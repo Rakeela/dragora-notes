@@ -70,4 +70,7 @@ There isn't much more to the book, but that's as far as I'll read tonight.  What
 Montana's legislature kicked out a trans legislator citing "civility" in retaliation for accurate *and in my opinion quite polite* statements about the implications of legislation affecting the trans community.  When telling the truth about anti-LGBT legislation is "impolite", conservatives have a truth problem to go with their empathy problem.
 
 ---
+(This part added the next day)  4.1 miles, 761 kcal, 15,268 steps, 3 hours, 31 minutes, and 9 seconds.  Average speed 1.1 mph.
+
+---
 Back to [[day-post-archive]]
