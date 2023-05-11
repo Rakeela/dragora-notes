@@ -15,12 +15,15 @@ Cookies:
 	1x Whole Foods Assortment
 		 Removed 2023-04-29
 	6x Fyre Smores
-	4x Decadent Smores
+	2x Decadent Smores
+		1 Removed 2023-05-09
+		1 Removed 2023-05-10
 	7x Pacific Dessert Toasted Smore's Grahams
 	24x Oreos Gluten Free Mint
 	34x Oreos Java Chip
 	52x Oreos Lemon
 	52x Oreos Mint
+	10x Kimberley Spring Frosted Sugar Cookies
 Chocolate Bars:
 	1x Moodibars "Cool" (Mint Flavoured)
 	1x Hammond's Soda Pop!
@@ -52,6 +55,7 @@ Chocolate Bars:
 	 0x Milka Raisins and Hazelnuts Chocolate
 		 1 Removed 2023-05-03
 	 1x Endangered Species Chocolate Fudgy Peanut Butter + Milk Chocolate
+	 3x Seattle Chocolate Carrot Cake
 Energy and Protein Bars:
 	1x Picky Bars Mint Energy
 	0x Primebites Chocolate Peanut Butter Cup Protein Brownie
@@ -83,6 +87,8 @@ Other Candies:
 	200x Peeps
 	1x Flossie's Cotton Candy
 	1x Funsweets Classic Cotton Candy
+	24x Goetze's Cow Tales Minis Caramel
+	30x Goetze's Caramel Creams
 
 
 Hall of Fame:
@@ -91,10 +97,12 @@ Hall of Fame:
  * Decadent Red Velvet Chocolate Chunk
  * Primebites Chocolate Chip Fudge Protein Brookie
  * Bahar's Honeycomb
+ * Seattle Chocolate Carrot Cake
 
 Hall of Shame:
  * Reese's Creamy Cup
  * BarNone Chocolate Wafer
  * Milka Raisins and Hazelnuts Chocolate
+ * Hammond's Peanut Butter Cup Chocolate Bar
  
 Other Past

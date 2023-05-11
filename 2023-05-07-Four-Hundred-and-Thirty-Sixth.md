@@ -30,4 +30,12 @@ I have just bought four packs of Oreos.  The flavors rotate, yes?  So I should t
 I have also just eaten a scoop of Huel.  My last canister of Huel... "strawberry shortcake" flavor.  It is a very balanced nutritional source.  Not eating makes me nervous about my nutrition.  Eating a scoop of Huel calms that, and it isn't a lot of calories.
 
 ---
+75,039 words on the file.  1,604 words of progress.  That's better.
+
+I've been thinking of setting myself on a 1,400 word quota again, like when I wrote The Tachanigh-Kelkaith.  I just... haven't been able to commit to it.  I don't know why.
+
+---
+Man, I live for food.  Every time I feel a bit bad, I want to eat more.  I've been buying so much food.  I'm just... sinking my desire to *eat* food into *buying* food.
+
+---
 Back to [[day-post-archive]]
