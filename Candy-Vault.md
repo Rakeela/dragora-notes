@@ -15,15 +15,20 @@ Cookies:
 	1x Whole Foods Assortment
 		 Removed 2023-04-29
 	6x Fyre Smores
-	2x Decadent Smores
+	1x Decadent Smores
 		1 Removed 2023-05-09
 		1 Removed 2023-05-10
+		1 Removed 2023-05-11
 	7x Pacific Dessert Toasted Smore's Grahams
 	24x Oreos Gluten Free Mint
 	34x Oreos Java Chip
 	52x Oreos Lemon
 	52x Oreos Mint
-	10x Kimberley Spring Frosted Sugar Cookies
+	7x Kimberley Spring Frosted Sugar Cookies
+		1 Removed 2023-05-12
+		2 Removed 2023-05-13
+	8x Duncan's of Deeside Chocolate and Orange Shortbread
+	10x Reids Scottish Shortbread Chocolate Chunk and Orange
 Chocolate Bars:
 	1x Moodibars "Cool" (Mint Flavoured)
 	1x Hammond's Soda Pop!
@@ -48,7 +53,8 @@ Chocolate Bars:
 	1x Global Chocolates Spicy Chipotle Dark Chocolate
 	2x LIly's White Chocolate Original
 	1x LIly's White Chocolate Cookies & Creme
-	1x Lily's Milk Chocolate Hazelnut
+	0x Lily's Milk Chocolate Hazelnut
+		1 Removed 2023-05-11
 	0x BarNone Chocolate Wafer
 		 1 Removed 2023-04-30
 	 1x Hershey's Extra Creamy Almond & Sea Salt Plant Based Oat Chocolate
@@ -76,6 +82,7 @@ Other Chocolates:
 	1x Bees and Beans Lil' Mint
 	15x Elit Giandija Chocolates
 	12x York Peppermint Patties Zero Sugar
+	13x Butlers Dark Chocolate Collection
 Other Candies:
 	1x Blueberry & Cream Lollipop
 	1x Orange & Cream Lollipop
