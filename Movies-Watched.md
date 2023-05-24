@@ -130,6 +130,7 @@ Section 2:  Marketed to Kids
 45. [[Kung-Fu-Panda-2008]]
 46. [[My-Neighbor-Totoro-1988]]
 47. [[Were-Back-A-Dinosaurs-Story-1993]]
+48. [[The-Transformers-The-Movie-1986]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]

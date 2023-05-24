@@ -22,5 +22,12 @@
 
 19:42.  I made a quick trip to the (adjacent) grocery store to ascertain the caloric weight of the bowl.  I also picked up some sugarfree mint chocolate chip ice cream that was on clearance.  If I eat that instead of a cookie...  Anyways.  The "Buddha bowl" that I ate this morning was 490 calories.  That's a cumulate 810 calories.  I've walked more than that on my treadmill today.  Calories in vs calories out is such a questionable metric.
 
+20:10.  I looked up "How to Taste Chocolate" today on Google, and this is the best result I found: https://damecacao.com/how-to-taste-chocolate/  I love this tasting stuff even though personally I've never 'detected' much in flavours.
+
+21:34.  I'm really dissatisfied.  I'm getting close to ending Ekis' Travelogue (at least the second draft thereof), and I don't know HOW I'm ending it.
+
+---
+(This part added the next day.)  6.3 miles, 1,115 kcal, 22,598 steps.  4 hours, 56 minutes, 40 seconds.  Average speed 1.3 mph.
+
 ---
 Back to [[day-post-archive]]

@@ -40,6 +40,7 @@ Sections;
    26) [[Heroes-in-Hell]]
    27) [[The-Unbound-Soul]]
    28) [[Head-in-the-Clouds]]
+   29) [[Vainqueur-the-Dragon]]
 
 2) Singletons (Fiction) (Some of these are in series, but I have only read the one.)
    1) [[Beggars-and-Choosers]]
