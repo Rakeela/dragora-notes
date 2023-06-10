@@ -47,7 +47,7 @@
 20:06.  I want to breach 180 pounds.  If I seriously get there, I am taking /a while/ off of dieting.  Like once I see my scale say I weigh 179.5 pounds, I am cutting out of my dieting at least until I weigh 190 pounds.
 
 ---
-(This part added the next day.)  11,032.  I did a little more writing last night and I forgot to record it.  1,727 words of progress.  Furthermore, 6.1 miles.  1,127 kcal.  22,440 steps.  5 hours, 12 minutes, 46 seconds.
+(This part added the next day.)  11,032.  I did a little more writing last night and I forgot to record it.  1,727 words of progress.  Furthermore, 6.1 miles.  1,127 kcal.  22,440 steps.  5 hours, 12 minutes, 46 seconds.  Average speed 1.1 mph.
 
 ---
 Back to [[day-post-archive]]
