@@ -21,3 +21,6 @@
 18:11.  73,241.  2,580 words on the chapter.  1,685 words of progress.  Chapter complete.  It's hard to continue on this.  This isn't a day for missing quota, but it's a day where I won't hit any records.
 
 18:14.  I like what I've written, it's just difficult to proceed.  The story gets complex here.
+
+---
+Back to [[day-post-archive]]

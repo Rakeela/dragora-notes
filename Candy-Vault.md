@@ -4,61 +4,36 @@ Instituted 2023-04-26, see [[2023-04-26-Four-Hundred-and-Twenty-Sixth]].  This v
 
 ---
 Cookies:
-	3x Decadent Red Velvet Chocolate Chunk
-		 2 Removed 2023-05-18
-		 2 Removed 2023-05-19
-		 1 Removed 2023-05-21
-		 1 Removed 2023-05-22
-		 1 Removed 2023-05-23
-		 1 Removed 2023-05-24
-		 1 Removed 2023-06-09
-	32x Oreos Toffee Crunch
+	0x Oreos Toffee Crunch
 		4 Removed 2023-06-08
-	4x Fyre Smores
-		1 Removed 2023-05-17
-		1 Removed 2023-05-19
-	0x Decadent Smores
-		1 Removed 2023-05-10
-		1 Removed 2023-05-11
-		1 Removed 2023-05-16
-	0x Pacific Dessert Toasted Smore's Grahams
-		7 Removed 2023-05-18
+		1 Removed 2023-06-19
+		31 Removed 2023-06-22
 	24x Oreos Gluten Free Mint
 	34x Oreos Java Chip
 	52x Oreos Lemon
 	52x Oreos Mint
-	24x Smoreos
-	0x Kimberley Spring Frosted Sugar Cookies
-		1 Removed 2023-05-12
-		2 Removed 2023-05-13
-		1 Removed 2023-05-14
-		1 Removed 2023-05-15
-		3 Removed 2023-05-17
-		2 Removed 2023-05-18
+	0x Smoreos
+		1 Removed 2023-06-22
+		6 Removed 2023-06-23
+		3 Removed 2023-06-24
+		14 Removed 2023-06-26
 	0x Duncan's of Deeside Chocolate and Orange Shortbread
-		2 Removed 2023-05-17
-		2 Removed 2023-05-19
 		2 Removed 2023-06-03
 		2 Removed 2023-06-08
-	0x Reids Scottish Shortbread Chocolate Chunk and Orange
-		4 Removed 2023-05-17
-		7 Removed 2023-05-19
-	0x Private Selection Ultimate Chocolate Chunk
-		1 Removed 2023-05-25
-		4 Removed 2023-05-27
-	4x Trader Joe's Peanut Butter Brookie
-		1 Removed 2023-05-26
-		1 Removed 2023-05-27
-		1 Removed 2023-05-29
-		1 Removed 2023-06-01
-	18x Trader Joe's Smores Clusters
-	0x QFC Apple Cinnamon Soft Tops 
-		2 Removed 2023-05-27
-		2 Removed 2023-05-29
-		2 Removed 2023-05-30
-		4 Removed 2023-06-01
-	8x Arnott's TimTam Dark Mint
-	6x Bahlsen Leibniz Peppermint
+	0x Trader Joe's Smores Clusters
+		3 Removed 2023-06-20
+		15 Removed 2023-06-21
+	0x Arnott's TimTam Dark Mint
+		9 Removed 2023-06-30
+	0x Bahlsen Leibniz Peppermint
+		6 Removed 2023-06-30
+	0x Safeway Red Velvet Cookies
+		4 Removed 2023-06-16
+		2 Removed 2023-06-17
+		12 Removed 2023-06-18
+	0x Cadbury Crunchy Melts Oreo Creme
+		1 Removed 2023-06-16
+		5 Removed 2023-06-18
 Hand Pies:
 	0x JJ's Bakery Blackberry Pie
 		1 Removed 2023-06-05
@@ -72,37 +47,48 @@ Hand Pies:
 		1 Removed 2023-06-06
 	0x JJ's Bakery Banana Cream Pie
 		1 Removed 2023-06-04
-	11x JJ's Bakery Strawberry & Cream Pie
+	0x JJ's Bakery Strawberry & Cream Pie
 		1 Removed 2023-06-09
+		2 Removed 2023-06-10
+		2 Removed 2023-06-19
+		1 Removed 2023-06-20
+		6 Removed 2023-06-23
 Chocolate Bars:
-	1x Moodibars "Cool" (Mint Flavoured)
+	0x Moodibars "Cool" (Mint Flavoured)
+		1 Removed 2023-06-24
 	1x Hammond's Soda Pop!
 	1x Hammond's Chicken and Waffles (vegetarian-friendly)
 	0x Hammond's Raspberry Habanero
 		1 Removed 2023-06-05
+	0x Hammond's Sea Salt Caramel
+		1 Removed 2023-06-25
 	0x Lacey's Lemon Dark Chocolate
 		1 Removed 2023-06-07
-	1x Hammond's Sea Salt Caramel
 	0.5x Trader Joe's Pinks & Whites
-	1x Mr Beast Chocolate Sea Salt
-	1x Mr Beast Deez Nuts
-	1x Mr Beast Crunch
-	1x Mr Beast Original Chocolate
+	0x Mr Beast Chocolate Sea Salt
+		1 Removed 2023-06-19
+	0x Mr Beast Crunch
+		1 Removed 2023-06-19
+	0x Mr Beast Original Chocolate
+		1 Removed 2023-06-19
 	0x Raaka Pure Cacao & Strawberry & Coconut
 		1 Removed 2023-06-08
 	1x Pralus Fortissima
 	1x Hu Crunchy Mint
-	1x Global Chocolates Stroopwafel Milk Chocolate
-	1x Global Chocolates Kyoto Coffee Dark Chocolate
+	0x Global Chocolates Stroopwafel Milk Chocolate
+		1 Removed 2023-06-24
+	0x Global Chocolates Kyoto Coffee Dark Chocolate
+		1 Removed 2023-06-24
 	1x Global Chocolates Tiramisu Milk and White Chocolates
-	1x Global Chocolates Spicy Chipotle Dark Chocolate
-	2x Lily's White Chocolate Original
-		1 Removed 2023-05-20
-	6x LIly's White Chocolate Cookies & Creme
-		1 Removed 2023-05-21
+	0x Global Chocolates Spicy Chipotle Dark Chocolate
+		1 Removed 2023-06-24
+	1x Lily's White Chocolate Original
+		1 Removed 2023-06-24
+	4x LIly's White Chocolate Cookies & Creme
 		1 Removed 2023-05-29
+		1 Removed 2023-06-16
+		1 Removed 2023-06-17
 	0x Lily's Milk Chocolate Hazelnut
-		1 Removed 2023-05-11
 		1 Removed 2023-05-25
 	0x Lily's Sea Salt Extra Dark Chocolate
 		1 Removed 2023-05-23
@@ -111,77 +97,145 @@ Chocolate Bars:
 		 1 Removed 2023-06-02
 	 0x Hershey's Milk Chocolate
 		 1 Removed 2023-06-02
-	 0x Milka Chips Ahoy!
+	 1x Milka Chips Ahoy!
 		 1 Removed 2023-06-07
+	 1x Milka Caramel
+	 1x Milka Chocolate
+	 2x Milka Cherry Cream
+		 1 Removed 2023-06-21
+	 2x Seattle Chocolate Carrot Cake
+		1 Removed 2023-06-06
+		1 Removed 2023-06-23
+		2 Removed 2023-07-02
+	1x Seattle Chocolate Happy Birthday
+		 1 Removed 2023-06-11
+		 1 Removed 2023-06-23
+	 0x Seattle Chocolate Sip Sip Hooray
+		 1 Removed 2023-06-29
+	 0x Seattle Chocolate Wafer Cone
+		 1 Removed 2023-06-28
 	 0x Endangered Species Chocolate Fudgy Peanut Butter + Milk Chocolate
 		 1 Removed 2023-06-08
-	 2x Seattle Chocolate Carrot Cake
-		 1 Removed 2023-06-06
-	 2x Endangered Species Chocolate Forest Mint
-	 3x Endangered Species Chocolate Smooth
-	 2x Endangered Species Chocolate Extreme Dark
-	 3x Endangered Species Chocolate Caramel & Sea Salt
-	 1x Heath Bar King Size
+	 1x Endangered Species Dark Chocolate Forest Mint
+		 1 Removed 2023-06-18
+	 2x Endangered Species Dark Chocolate Smooth
+		 1 Removed 2023-07-02
+	 1x Endangered Species Dark Chocolate Extreme Dark
+		 1 Removed 2023-07-01
+	 3x Endangered Species Dark Chocolate Caramel & Sea Salt
+	 1x Endangered Species Milk Chocolate
+	 1x Endangered Species Dark Chocolate Hazelnut Toffee
+	 1x Endangered Species Dark Chocolate Raspberries
+	 0x Heath Bar King Size
+		 1 Removed 2023-06-27
+	 0x SkinnyMe Creamy Milk Zero Sugar
+		 1 Removed 2023-06-26
+	 0x SkinnyMe Bold Dark Zero Sugar
+		 1 Removed 2023-06-25
+	 0x Theo Bread & Chocolate 70% Dark
+		 1 Removed 2023-06-29
+	 0x Theo Root Beer Barrel 55% Dark
+		  1 Removed 2023-06-29
+	 0x Theo Cinnamon Horchata 45% Milk
+		  1 Removed 2023-06-29
+	 0x Snickers Peanut Butter
+		 4 Removed 2023-06-22
+	 0x Milky Way Cookie Dough
+		 1 Removed 2023-06-22
+	 0x Ritter Sport Marzipan
+		 1 Removed 2023-06-16
+	 0x Ritter Sport Nugat
+		 1 Removed 2023-06-17
+	 0x Mackie's Traditional Milk Chocolate
+		 1 Removed 2023-06-20
+	 0x Nestle Smarties Chocolate
+		 1 Removed 2023-06-16
+	 0x Dr. Choq Milk Chocolate with Brownie Fudge
+		 1 Removed 2023-06-27
 Energy and Protein Bars:
-	1x Picky Bars Mint Energy
-	0x Primebites Chocolate Chip Fudge Protein Brookie
-		1 Removed 2023-05-04
+	0x Picky Bars Mint Energy
+		1 Removed 2023-06-19
+		1 Removed 2023-06-27
 Other Chocolates:
-	3x Cadbury's Cream Eggs
-	4x Reese's Creamy Cups
-	2x Reese's Crunchy Cups
-	2x Reese's Eggs
+	2x Reese's Creamy Cups
+		2 Removed 2023-06-19
+	0x Reese's Crunchy Cups
+		2 Removed 2023-06-19
+	0x Reese's Eggs
+		2 Removed 2023-06-22
 	0x Mayana Space Bar Mini
 		1 Removed 2023-06-07
 	0x Mayana Fix Bar Mini
 		1 Removed 2023-06-09
 	0x Mayana Kitchen Sink Bar Mini
 		1 Removed 2023-06-07
-	1x Bees and Beans Lil' Mint
+	0x Bees and Beans Lil' Mint
+		1 Removed 2023-06-19
 	15x Elit Giandija Chocolates
 	19x York Peppermint Patties Zero Sugar
-		3 Removed 2023-05-27
-	0x Butlers Dark Chocolate Collection
-		13 Removed 2023-05-17
 	12x Reese's Zero Sugar Miniature Cups
-		1 Removed 2023-05-23
-		3 Removed 2023-05-25
-		1 Removed 2023-05-26
-		1 Removed 2023-05-27
-	2x Reese's Snack Cakes
+	0x Lily's Dark Chocolate Peanut Butter Cups
+		2 Removed 2023-06-27
+	33x Aero Caramel Melts
+		3 Removed 2023-06-27
+	33x Aero Chocolate Melts
+		3 Removed 2023-06-27
+	0x Chocolate Chip Cookie Dough Bites
+		2 Removed 2023-06-28
+		1 Removed 2023-06-29
 Other Candies:
 	1x Blueberry & Cream Lollipop
 	1x Orange & Cream Lollipop
-	One Bag Trader Joe's Strawberry Licorice
-	8x servings of Bahar's Honeycomb
+	0x Trader Joe's Strawberry Licorice
+		1 Removed 2023-06-19
+	7x servings of Bahar's Honeycomb
+		1 Removed 2023-06-24
 	10x Peeps Kettlecorn
-	175x Peeps
-		5 Removed 2023-05-18
-		5 Removed 2023-05-24
-		10 Removed 2023-05-30
+	100x Peeps
 		5 Removed 2023-06-08
+		10 Removed 2023-06-19
+		10 Removed 2023-06-20
+		10 Removed 2023-06-24
+		25 Removed 2023-06-26
+		20 Removed 2023-07-02
 	1x Flossie's Cotton Candy
 	1x Funsweets Classic Cotton Candy
 	24x Goetze's Cow Tales Minis Caramel
 	30x Goetze's Caramel Creams
 	0x Big Bites Stuffed Puffs Smores
 		2 Removed 2023-06-06
-	35x Darrell Lea Australian Licorice Original Flavor
-
+	0x Niederegger Marzipan with Dark Chocolate
+		1 Removed 2023-06-20
+	0x Tavener's Licorice Allsorts
+		1 Removed 2023-06-19
+	Uncounted Sultan's Milk Chocolate Turkish Delight Rose Flavoured
+	0x Quiggin's Cherry Marzipan in Dark Chocolate
+		1 Removed 2023-06-16
+	0x Big Win Spearmint Leaves
+		1 Removed 2023-06-29
+	0x Big Win Orange Slices
+		1 Removed 2023-06-30
+	1x SweeTarts Cherry Punch Ropes
 
 Hall of Fame:
  * Global Chocolates Tiramisu Milk and White Chocolates
  * Reese's Mallow-Top Cup
- * Decadent Red Velvet Chocolate Chunk
  * Primebites Chocolate Chip Fudge Protein Brookie
- * Bahar's Honeycomb
  * Seattle Chocolate Carrot Cake
  * Duncan's of Deeside Chocolate and Orange Shortbread
  * Pacific Dessert Toasted Smore's Grahams
  * JJ's Bakery Lemon Cream Pie
  * JJ's Bakery Banana Cream Pie
- * Milka Chips Ahoy!
  * Mayana Space Bar Mini
+ * Seattle Chocolate Happy Birthday
+ * Quiggin's Cherry Marzipan in Dark Chocolate
+ * Hammond's Chicken and Waffles Bar
+ * Smoreos
+ * Global Chocolates Stroopwafel Milk Chocolate
+ * SkinnyMe Bold Dark Zero Sugar
+ * Dr. Choq Milk Chocolate with Brownie Fudge
+ * Endangered Species Dark Chocolate Extreme Dark
+ * Endangered Species Dark Chocolate Smooth
 
 Hall of Shame:
  * Reese's Creamy Cup
@@ -193,3 +247,20 @@ Hall of Shame:
  * Endangered Species Chocolate Fudgy Peanut Butter + Milk Chocolate
  * Mayana Fix Bar Mini
  * Raaka Pure Cacao & Strawberry & Coconut
+ * Ritter Sport Marzipan
+ * Mr Beast Deez Nuts
+ * Mr Beast Original Chocolate
+ * Mr Beast Crunch
+ * Mr Beast Chocolate Sea Salt
+ * Picky Bars Mint Energy
+ * Reese's Crunchy Cup
+ * Mackie's Traditional Milk Chocolate
+ * Niederegger Marzipan with Dark Chocolate
+ * Global Chocolates Spicy Chipotle Dark Chocolate
+ * Hammond's Sea Salt Caramel
+ * Lily's Dark Chocolate Peanut Butter Cups
+ * Theo Bread & Chocolate 70% Dark
+ * Theo Cinnamon Horchata 45% Milk
+ * Theo Root Beer Barrel 55% Dark
+ * Darrell Lea Australian Licorice Original Flavor
+ * Bahlsen Leibniz Peppermint
