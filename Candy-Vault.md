@@ -34,6 +34,9 @@ Cookies:
 	0x Cadbury Crunchy Melts Oreo Creme
 		1 Removed 2023-06-16
 		5 Removed 2023-06-18
+	4x Sapori dal Forno Pistachio Lobster Tail Cookie
+	4x Burts Strawberry Viennese Whirls
+	50x Trader Joe's Key Lime Tea Cookies
 Hand Pies:
 	0x JJ's Bakery Blackberry Pie
 		1 Removed 2023-06-05
@@ -57,8 +60,8 @@ Chocolate Bars:
 	0x Moodibars "Cool" (Mint Flavoured)
 		1 Removed 2023-06-24
 	1x Hammond's Soda Pop!
-	1x Hammond's Chicken and Waffles (vegetarian-friendly)
-	0x Hammond's Raspberry Habanero
+	4x Hammond's Chicken and Waffles (vegetarian-friendly)
+	1x Hammond's Raspberry Habanero
 		1 Removed 2023-06-05
 	0x Hammond's Sea Salt Caramel
 		1 Removed 2023-06-25
@@ -75,13 +78,16 @@ Chocolate Bars:
 		1 Removed 2023-06-08
 	1x Pralus Fortissima
 	1x Hu Crunchy Mint
-	0x Global Chocolates Stroopwafel Milk Chocolate
+	2x Global Chocolates Stroopwafel Milk Chocolate
 		1 Removed 2023-06-24
 	0x Global Chocolates Kyoto Coffee Dark Chocolate
 		1 Removed 2023-06-24
 	1x Global Chocolates Tiramisu Milk and White Chocolates
 	0x Global Chocolates Spicy Chipotle Dark Chocolate
 		1 Removed 2023-06-24
+	1x Global Chocolates Himalayan Sea Salt Dark Chocolate
+	1x Global Chocolates Dulce De Leche White Chocolate
+	1x Global Chocolates Almond Biscotti Dark Chocolate
 	1x Lily's White Chocolate Original
 		1 Removed 2023-06-24
 	4x LIly's White Chocolate Cookies & Creme
@@ -97,12 +103,13 @@ Chocolate Bars:
 		 1 Removed 2023-06-02
 	 0x Hershey's Milk Chocolate
 		 1 Removed 2023-06-02
-	 1x Milka Chips Ahoy!
+	 2x Milka Chips Ahoy!
 		 1 Removed 2023-06-07
 	 1x Milka Caramel
 	 1x Milka Chocolate
-	 2x Milka Cherry Cream
+	 1x Milka Cherry Cream
 		 1 Removed 2023-06-21
+	 1x Milka Oreo
 	 2x Seattle Chocolate Carrot Cake
 		1 Removed 2023-06-06
 		1 Removed 2023-06-23
@@ -120,7 +127,7 @@ Chocolate Bars:
 		 1 Removed 2023-06-18
 	 2x Endangered Species Dark Chocolate Smooth
 		 1 Removed 2023-07-02
-	 1x Endangered Species Dark Chocolate Extreme Dark
+	 4x Endangered Species Dark Chocolate Extreme Dark
 		 1 Removed 2023-07-01
 	 3x Endangered Species Dark Chocolate Caramel & Sea Salt
 	 1x Endangered Species Milk Chocolate
@@ -152,6 +159,10 @@ Chocolate Bars:
 		 1 Removed 2023-06-16
 	 0x Dr. Choq Milk Chocolate with Brownie Fudge
 		 1 Removed 2023-06-27
+	 1x Darrel Lea Rocklea Road Block Milk Chocolate
+		 1 Removed 2023-07-04
+	 1x Darrel Lea Peanut Brittle Milk Chocolate
+	 1x Chocolove Orange Peel in Dark Chocolate
 Energy and Protein Bars:
 	0x Picky Bars Mint Energy
 		1 Removed 2023-06-19
@@ -183,6 +194,8 @@ Other Chocolates:
 	0x Chocolate Chip Cookie Dough Bites
 		2 Removed 2023-06-28
 		1 Removed 2023-06-29
+	1x Googoo Cluster Original
+	1x Googoo Cluster Peanut Butter
 Other Candies:
 	1x Blueberry & Cream Lollipop
 	1x Orange & Cream Lollipop
@@ -215,7 +228,11 @@ Other Candies:
 		1 Removed 2023-06-29
 	0x Big Win Orange Slices
 		1 Removed 2023-06-30
-	1x SweeTarts Cherry Punch Ropes
+	1x Eiffel Bon Bons Blue Raspberry
+	1x Eiffel Bon Bons Strawberry
+	36x White Rabbit Creamy Candy Original
+	30x White Rabbit Creamy Candy Matcha
+	1x Gustar's Dutch Licorice Coins
 
 Hall of Fame:
  * Global Chocolates Tiramisu Milk and White Chocolates
