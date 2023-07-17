@@ -88,6 +88,8 @@ Section 1:  Unsorted
 83. [[Rumble-2021]]
 84. [[Indiana-Jones-and-the-Last-Crusade-1989]]
 85. [[Indiana-Jones-and-the-Kingdom-of-the-Crystal-Skull-2008]]
+86. [[The-Italian-Job-1969]]
+87. [[Clue-1985]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]

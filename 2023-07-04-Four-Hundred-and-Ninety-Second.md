@@ -13,4 +13,7 @@
 22:18.  48,633.  692 words of progress.  This is all I'll do tonight.  I didn't work throughout the last two hours.  I did other stuff.  I showered, I watched an episode of The Ancient Magus Bride.  I talked to Kistaro about inks and papers.
 
 ---
+(This bit added the next day.)  4.1 miles.  756 kcal.  15,367 steps.  3 hours, 29 minutes, 40 seconds.  1.1 mph.
+
+---
 Back to [[day-post-archive]]
