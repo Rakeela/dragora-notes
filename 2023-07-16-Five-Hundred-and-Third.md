@@ -37,4 +37,7 @@
 21:22.  All excessive concern for fasting is corrupt.  Concern that fasts are kept is corrupt; concern that fasts are broken is corrupt.  Inducing people to fast is corrupt; inducing people to break fast is corrupt.  Medical concerns alone can justify a fast.  Medical supervisors alone have the right to judge the maintenance of a fast.
 
 ---
+(This bit added the next day.)  7.5 miles.  1,358 kcal.  27,839 steps.  6 hours, 11 minutes, 54 seconds.
+
+---
 Back to [[day-post-archive]]

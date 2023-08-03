@@ -87,24 +87,24 @@
                     }
                   },
                   {
-                    "id": "c4962a78a5d68b47",
+                    "id": "166a545238b1bf7e",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-07-01-Four-Hundred-and-Eighty-Ninth.md",
+                        "file": "2023-08-01-Five-Hundred-and-Eighteenth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "8cd00c31d58445a3",
+                    "id": "95d859813b323f49",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-07-02-Four-Hundred-and-Ninetieth.md",
+                        "file": "2023-08-02-Five-Hundred-and-Nineteenth.md",
                         "mode": "source",
                         "source": false
                       }
@@ -165,8 +165,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "vertical"
@@ -238,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-02-Four-Hundred-and-Ninetieth.md",
+                "file": "Bibliography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,33 +264,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8cd00c31d58445a3",
+  "active": "655fb2150a97fb7d",
   "lastOpenFiles": [
-    "Candy-Vault.md",
-    "2023-07-02-Four-Hundred-and-Ninetieth.md",
-    "2023-07-01-Four-Hundred-and-Eighty-Ninth.md",
+    "Zaucer-Pizza-Orders.md",
+    "Bibliography.md",
     "Movies-Watched.md",
-    "Death-Becomes-Her-1992.md",
-    "Up-2009.md",
-    "Finding-Nemo-2003.md",
-    "2023-06-30-Four-Hundred-and-Eighty-Eighth.md",
+    "Candy-Vault.md",
+    "2023-08-02-Five-Hundred-and-Nineteenth.md",
+    "Northern-Creche-Confederation.md",
+    "2023-08-01-Five-Hundred-and-Eighteenth.md",
+    "2023-07-30-Five-Hundred-and-Seventeenth.md",
+    "2023-07-29-Five-Hundred-and-Sixteenth.md",
+    "2023-07-28-Five-Hundred-and-Fifteenth.md",
+    "2023-07-26-Five-Hundred-and-Thirteenth.md",
+    "2023-07-27-Five-Hundred-and-Fourteenth.md",
     "2023-05-04-Four-Hundred-and-Thirty-Third.md",
-    "2023-06-28-Four-Hundred-and-Eighty-Sixth.md",
-    "2023-06-27-Four-Hundred-and-Eighty-Fifth.md",
-    "2023-06-29-Four-Hundred-and-Eighty-Seventh.md",
-    "Untitled 1.md",
-    "2023-06-25-Four-Hundred-and-Eighty-Third.md",
-    "2023-06-26-Four-Hundred-and-Eighty-Fourth.md",
-    "The-Nightmare-Before-Christmas-1993.md",
-    "2023-06-24-Four-Hundred-and-Eighty-Second.md",
-    "Godzilla-1954.md",
-    "Invasion-of-Astro-Monster-1965.md",
-    "Indiana-Jones-and-the-Kingdom-of-the-Crystal-Skull-2008.md",
-    "2023-06-23-Four-Hundred-and-Eighty-First.md",
-    "2023-06-22-Four-Hundred-and-Eightieth.md",
-    "Indiana-Jones-Raiders-of-the-Lost-Ark-1981.md",
-    "Indiana-Jones-and-the-Last-Crusade-1989.md",
-    "Indiana-Jones-and-the-Temple-of-Doom-1984.md",
-    "2021-10-25-One-Hundred-and-Eighty-Seventh.md"
+    "2023-07-24-Five-Hundred-and-Eleventh.md",
+    "2023-07-25-Five-Hundred-and-Twelfth.md",
+    "2023-07-23-Five-Hundred-and-Tenth.md",
+    "2023-07-22-Five-Hundred-and-Ninth.md",
+    "2023-07-19-Five-Hundred-and-Sixth.md",
+    "2023-07-20-Five-Hundred-and-Seventh.md",
+    "2023-07-21-Five-Hundred-and-Eighth.md",
+    "Galaxy-Quest-1999.md",
+    "2023-07-18-Five-Hundred-and-Fifth.md",
+    "2023-07-16-Five-Hundred-and-Third.md",
+    "2023-07-17-Five-Hundred-and-Fourth.md",
+    "2023-07-14-Five-Hundred-and-First.md",
+    "2023-07-15-Five-Hundred-and-Second.md"
   ]
 }
