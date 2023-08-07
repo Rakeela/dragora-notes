@@ -17,8 +17,9 @@ Cookies:
 		1 Removed 2023-07-09
 		1 Removed 2023-07-10
 		1 Removed 2023-07-27
-	16x Partake Classic Grahams
+	14x Partake Classic Grahams
 		2 Removed 2023-07-28
+		2 Removed 2023-08-05
 Hand Pies:
 Chocolate Bars:
 	1x Hammond's Soda Pop!

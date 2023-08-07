@@ -87,31 +87,43 @@
                     }
                   },
                   {
-                    "id": "166a545238b1bf7e",
+                    "id": "06f2d9406d44b600",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-08-01-Five-Hundred-and-Eighteenth.md",
+                        "file": "2023-08-04-Five-Hundred-and-Twenty-First.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "95d859813b323f49",
+                    "id": "525c26b213f886cd",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-08-02-Five-Hundred-and-Nineteenth.md",
+                        "file": "2023-08-05-Five-Hundred-and-Twenty-Third.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "09217aa6abc03031",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-08-06-Five-Hundred-and-Twenty-Fourth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 4
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -165,7 +177,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -237,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliography.md",
+                "file": "2023-08-06-Five-Hundred-and-Twenty-Fourth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,21 +277,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "655fb2150a97fb7d",
+  "active": "09217aa6abc03031",
   "lastOpenFiles": [
-    "Zaucer-Pizza-Orders.md",
-    "Bibliography.md",
-    "Movies-Watched.md",
+    "2023-08-05-Five-Hundred-and-Twenty-Third.md",
+    "2023-08-06-Five-Hundred-and-Twenty-Fourth.md",
+    "2023-01-16-Three-Hundred-and-Thirty-Sixth.md",
     "Candy-Vault.md",
-    "2023-08-02-Five-Hundred-and-Nineteenth.md",
-    "Northern-Creche-Confederation.md",
+    "2023-05-04-Four-Hundred-and-Thirty-Third.md",
     "2023-08-01-Five-Hundred-and-Eighteenth.md",
+    "2023-08-04-Five-Hundred-and-Twenty-First.md",
+    "2023-08-03-Five-Hundred-and-Twentieth.md",
+    "2023-08-02-Five-Hundred-and-Nineteenth.md",
+    "Bibliography.md",
+    "Zaucer-Pizza-Orders.md",
+    "Movies-Watched.md",
+    "Northern-Creche-Confederation.md",
     "2023-07-30-Five-Hundred-and-Seventeenth.md",
     "2023-07-29-Five-Hundred-and-Sixteenth.md",
     "2023-07-28-Five-Hundred-and-Fifteenth.md",
     "2023-07-26-Five-Hundred-and-Thirteenth.md",
     "2023-07-27-Five-Hundred-and-Fourteenth.md",
-    "2023-05-04-Four-Hundred-and-Thirty-Third.md",
     "2023-07-24-Five-Hundred-and-Eleventh.md",
     "2023-07-25-Five-Hundred-and-Twelfth.md",
     "2023-07-23-Five-Hundred-and-Tenth.md",
@@ -286,11 +304,6 @@
     "2023-07-19-Five-Hundred-and-Sixth.md",
     "2023-07-20-Five-Hundred-and-Seventh.md",
     "2023-07-21-Five-Hundred-and-Eighth.md",
-    "Galaxy-Quest-1999.md",
-    "2023-07-18-Five-Hundred-and-Fifth.md",
-    "2023-07-16-Five-Hundred-and-Third.md",
-    "2023-07-17-Five-Hundred-and-Fourth.md",
-    "2023-07-14-Five-Hundred-and-First.md",
-    "2023-07-15-Five-Hundred-and-Second.md"
+    "Galaxy-Quest-1999.md"
   ]
 }

@@ -34,5 +34,10 @@
 
 20:40.  Argh.  I've only worked for like five and a half hours today.
 
+21:16.  2,022 words on the file.  1,815 words of progress.
+
+---
+(This bit added the next day.)  I thought I'd recorded the walking stats already, so I wiped yesterday's stats before recording them, but I'd walked about 6.5 hours at 1.1 mph.
+
 ---
 Back to [[day-post-archive]]
