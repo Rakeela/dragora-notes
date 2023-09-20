@@ -14,24 +14,24 @@ Cookies:
 	14x Partake Classic Grahams
 	15x Partake Soft Lemon
 	0x Ooomeringues Candy Corn Flavored Meringue
-		4 Removed 2023-08-17
-		5 Removed 2023-08-19
 		3 Removed 2023-08-31
 		4 Removed 2023-09-03
 		5 Removed 2023-09-07
 	50x Pathos Treats Maple-Filled Wafer Rolls
 		2 Removed 2023-09-07
 	52x Pathos Treats Cappucino Wafer Rolls
-	52x Pathos Treats Pumpkin Spice Wafer Rolls
+	51x Pathos Treats Pumpkin Spice Wafer Rolls
+		1 Removed 2023-09-17
 	52x Pathos Treats Hazelnut & Cocoa Wafer Rolls
-	52x Pathos Treats Lemon Wafer Rolls
+	47x Pathos Treats Lemon Wafer Rolls
+		1 Removed 2023-09-15
+		4 Removed 2023-09-16
+		5 Removed 2023-09-17
 	52x Pathos Treats Peanut Butter Wafer Rolls
 	3x Markolato Espresso Cream Filled Wafer Rolls
-		1 Removed 2023-08-15
 		1 Removed 2023-08-19
 		3 Removed 2023-08-20
 	0x Markolato Peanut Butter Cream Filled Wafer Rolls
-		2 Removed 2023-08-15
 		3 Removed 2023-08-19
 Hand Pies:
 	10x JJ's Bakery Smores Pie
@@ -50,6 +50,7 @@ Chocolate Bars:
 	3x LIly's White Chocolate Cookies & Creme
 	2x Lily's Salted Caramel Milk Chocolate
 	2x Lily's Salted Caramel Dark Chocolate
+	12x Lily's Peppermint White Chocolate
 	2x Milka Caramel
 	2x Milka Cherry Cream
 	1x Milka Chips Ahoy
@@ -57,7 +58,7 @@ Chocolate Bars:
 	1x Milka Oreo Sandwich
 	1x Milka Milk Chocolate
 	2x Seattle Chocolate Carrot Cake
-	1x Seattle Chocolate Happy Birthday
+	3x Seattle Chocolate Happy Birthday
 	1x Seattle Chocolate Pumpkin Spice Chai
 	0x Seattle Chocolate Hazelnut Butter Crisp
 		1 Removed 2023-09-05
@@ -65,8 +66,13 @@ Chocolate Bars:
 		1 Removed 2023-09-05
 	0x Seattle Chocolate Apple Pie a la Mode
 		1 Removed 2023-08-20
+	2x Seattle Chocolate Rainy Day Espresso
+	2x Seattle Chocolate Moon Rocks
+	2x Seattle Chocolate 72% Dark Origin
+	2x Seattle Chocolate Double Chocolate Trail Mix
+	1x Seattle Chocolate Brisk Mountain Mint
+		1 Removed 2023-09-17
 	1x Niederegger Orange Marzipan
-		1 Removed 2023-08-20
 	 1x Endangered Species Dark Chocolate Forest Mint
 	 2x Endangered Species Dark Chocolate Smooth
 	 3x Endangered Species Dark Chocolate Extreme Dark
@@ -74,20 +80,24 @@ Chocolate Bars:
 	 1x Endangered Species Milk Chocolate
 	 3x Endangered Species Dark Chocolate Hazelnut Toffee
 	 1x Endangered Species Dark Chocolate Raspberries
-	 1x Endangered Species Rich Caramel + Milk Chocolate
+	 0x Endangered Species Rich Caramel + Milk Chocolate
+		 1 Removed 2023-09-15
 	 0x Endanged Species Dark Chocolate Cherries
 		 1 Removed 2023-09-13
 	 1x Chocolove Orange Peel in Dark Chocolate
 	 4x Trader Joe's Dark Chocolate Coffee Buzz Bars
 	 0x Tony's Chocolonely Chocolate Chip Cookie
 		 1 Removed 2023-08-31
-	 2x Tony's Chocolonely Milk Chocolate
-	 1x Tony's Chocolonely Dark Chocolate
+	 1x Tony's Chocolonely Milk Chocolate
+		 1 Removed 2023-09-16
+	 0x Tony's Chocolonely Dark Chocolate
+		 1 Removed 2023-09-18
 	 1x Marabou Milk Chocolate
 	 1x Cadbury Dairy Milk Jelly Popping
 	 1x Divine Dark Chocolate
 	 1x Divine Milk Chocolate
-	 1x Chocolate Works Cookie Dough Milk Chocolate
+	 0x Chocolate Works Cookie Dough Milk Chocolate
+		 1 Removed 2023-09-16
 	 2x Dr. Choq Milk Chocolate with Brownie Fudge
 	 1x Moodibar Whatever (Milk Chocolate Caramel)
 	 1x Cote Sor Lait Caramel Sale (?)
@@ -138,9 +148,12 @@ Other Candies:
 	150x Brach's Classic Candy Corn
 	1x Redvines Sugarfree Strawberry Licorice
 	1x Redvines Sugarfree Black Licorice
+	1x MaudBorup Monster Breath Scary Cherry Cotton Candy
 	Other:
-		1x HTY Asian Funnel Cake Original
-		3x HTY Asian Funnel Cake Brown Sugar
+		0x HTY Asian Funnel Cake Original
+			1 Removed 2023-09-17
+		2x HTY Asian Funnel Cake Brown Sugar
+			1 Removed 2023-09-17
 		7x Earth's Best Sweet Potato Carrot Snack Bars
 
 Hall of Fame:
@@ -171,6 +184,10 @@ Hall of Fame:
  * Niederegger Orange Marzipan
  * Global Chocolates Tiramisu Milk and White Chocolates
  * Tony's Chocolonely Milk Chocolate
+ * Chocolate Works Cookie Dough Milk Chocolate
+ * Tony's Chocolonely Dark Chocolate
+ * HTY Asian Funnel Cake Brown Sugar
+ * Seattle Chocolate Brisk Mountain Mint
 
 Hall of Shame:
  * Reese's Creamy Cup
@@ -204,3 +221,5 @@ Hall of Shame:
  * Elit Giandija Chocolates
  * Markolato Peanut Butter Cream Filled Wafer Rolls
  * Seattle Chocolate Triple Toffee
+ * Pathos Treats Pumpkin Spice Wafer Rolls
+ * HTY Asian Funnel Cake Original

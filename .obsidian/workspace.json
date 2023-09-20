@@ -121,9 +121,45 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "86ee18661f5a9e80",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-09-15-Five-Hundred-and-Sixtieth.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "88fe880544bd782b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-09-19-FIve-Hundred-and-Sixty-Third.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "4b82284068d3da6e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2023-09-20-Five-Hundred-and-Sixty-Fourth.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
                 ],
-                "currentTab": 4
+                "currentTab": 7
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -289,8 +325,13 @@
   },
   "active": "a1d64a1d70d7d707",
   "lastOpenFiles": [
-    "2023-09-14-Five-Hundred-and-Fifty-Ninth.md",
+    "2023-09-20-Five-Hundred-and-Sixty-Fourth.md",
+    "2023-09-19-FIve-Hundred-and-Sixty-Third.md",
+    "2023-09-15-Five-Hundred-and-Sixtieth.md",
+    "2023-09-16-Five-Hundred-and-Sixty-First.md",
+    "2023-09-18-Five-Hundred-and-Sixty-Second.md",
     "Candy-Vault.md",
+    "2023-09-14-Five-Hundred-and-Fifty-Ninth.md",
     "2023-09-13-Five-Hundred-and-Fifty-Eighth.md",
     "2023-09-12-Five-Hundred-and-Fifty-Seventh.md",
     "Preserved-Race-for-the-Galaxy-Tableaus.md",
@@ -309,11 +350,6 @@
     "2023-09-02-Five-Hundred-and-Forty-Eighth.md",
     "Movies-Watched.md",
     "Bedknobs-and-Broomsticks-1971.md",
-    "Willy-Wonka-and-the-Chocolate-Factory-2005.md",
-    "Willy-Wonka-and-the-Chocolate-Factory-1971.md",
-    "2023-09-01-Five-Hundred-and-Forty-Seventh.md",
-    "2023-08-30-Five-Hundred-and-Forty-Sixth.md",
-    "2023-08-29-Five-Hundred-and-Forty-Fifth.md",
-    "2023-08-27-Five-Hundred-and-Forty-Third.md"
+    "Willy-Wonka-and-the-Chocolate-Factory-2005.md"
   ]
 }

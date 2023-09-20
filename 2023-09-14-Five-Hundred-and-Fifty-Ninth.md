@@ -27,3 +27,11 @@
 10:35.  I have completed my no-crimes run of Liberal Crime Squad!  Almost no crimes.  Twice I accidentally set hackers to work, and accrued 4 charges of illegally accessing a computer system in the process.
 
 10:56.  41,191.  721 words of progress.  I just got a great coupon for one of my favorite stores.  I'm tempted to go across town with my book in hand to visit there.  It's good exercise, it'll advance my reading of a hefty book, it'll take me away from an uncertain juncture in my writing.  I should get my quota today!
+
+23:02.  My bag ripped on the way home from the store, and I very awkwardly managed to carry all that I bought home.  I then proceeded to play Starfield.  For hours.  I got to level 30 in Starfield.
+
+---
+(This part added the next day.)  4.8 miles.  823 kcal.  16,969 steps.  3 hours, 33 minutes, 44 seconds.  Average speed 1.3 mph.
+
+---
+Back to [[day-post-archive]]
