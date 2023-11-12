@@ -75,91 +75,79 @@
                     }
                   },
                   {
-                    "id": "2e1c459e03de3871",
+                    "id": "5cc5a6a5f6dfb1fb",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-05-04-Four-Hundred-and-Thirty-Third.md",
+                        "file": "2023-10-09-Five-Hundred-and-Eighty-Third.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "83f0ba975725ba68",
+                    "id": "7575d88be29e687b",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-09-12-Five-Hundred-and-Fifty-Seventh.md",
+                        "file": "2023-10-21-Five-Hundred-and-Ninetieth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "090995ac8baa7450",
+                    "id": "138f605962ccfbe7",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-09-13-Five-Hundred-and-Fifty-Eighth.md",
+                        "file": "2023-10-22-Five-Hundred-and-Ninety-First.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "ee620d2ddf2b73ae",
+                    "id": "64f92b62cd02c506",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-09-14-Five-Hundred-and-Fifty-Ninth.md",
+                        "file": "2023-10-29-Five-Hundred-and-Ninety-Sixth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "86ee18661f5a9e80",
+                    "id": "01ce9213a72cdac6",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-09-15-Five-Hundred-and-Sixtieth.md",
+                        "file": "2023-10-30-Five-Hundred-and-Ninety-Seventh.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "88fe880544bd782b",
+                    "id": "143432f36918f267",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2023-09-19-FIve-Hundred-and-Sixty-Third.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "4b82284068d3da6e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2023-09-20-Five-Hundred-and-Sixty-Fourth.md",
+                        "file": "2023-11-11-Six-Hundred-and-Ninth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 7
+                "currentTab": 6
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -214,7 +202,7 @@
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -249,7 +237,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zaucer",
+                "query": "tag:#2023-10-22-Five-Hundred-and-Ninety-Second",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Candy-Vault.md",
+                "file": "2023-11-11-Six-Hundred-and-Ninth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,33 +311,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a1d64a1d70d7d707",
+  "active": "143432f36918f267",
   "lastOpenFiles": [
-    "2023-09-20-Five-Hundred-and-Sixty-Fourth.md",
-    "2023-09-19-FIve-Hundred-and-Sixty-Third.md",
-    "2023-09-15-Five-Hundred-and-Sixtieth.md",
-    "2023-09-16-Five-Hundred-and-Sixty-First.md",
-    "2023-09-18-Five-Hundred-and-Sixty-Second.md",
-    "Candy-Vault.md",
-    "2023-09-14-Five-Hundred-and-Fifty-Ninth.md",
-    "2023-09-13-Five-Hundred-and-Fifty-Eighth.md",
-    "2023-09-12-Five-Hundred-and-Fifty-Seventh.md",
-    "Preserved-Race-for-the-Galaxy-Tableaus.md",
-    "Zaucer-Pizza-Orders.md",
-    "2021-11-1-One-Hundred-and-Ninetieth.md",
-    "2023-05-04-Four-Hundred-and-Thirty-Third.md",
-    "2023-09-11-Five-Hundred-and-Fifty-Sixth.md",
-    "2023-09-10-Five-Hundred-and-Fifty-Fifth.md",
-    "2023-09-08-Five-Hundred-and-Fifty-Third.md",
-    "2023-09-09-Five-Hundred-and-Fifty-Fourth.md",
-    "2023-09-06-Five-Hundred-and-FIfty-First.md",
-    "2023-09-07-Five-Hundred-and-Fifty-Second.md",
-    "2023-09-05-Five-Hundred-and-Fiftieth.md",
-    "2023-08-28-Five-Hundred-and-Forty-Fourth.md",
-    "2023-09-04-Five-Hundred-and-Forty-Ninth.md",
-    "2023-09-02-Five-Hundred-and-Forty-Eighth.md",
+    "2023-10-30-Five-Hundred-and-Ninety-Seventh.md",
+    "2023-11-10-Six-Hundred-and-Eighth.md",
+    "2023-11-09-Six-Hundred-and-Seventh.md",
+    "2023-11-08-Six-Hundred-and-Sixth.md",
+    "2023-10-29-Five-Hundred-and-Ninety-Sixth.md",
+    "2023-11-07-Six-Hundred-and-Fifth.md",
+    "2023-11-11-Six-Hundred-and-Ninth.md",
     "Movies-Watched.md",
-    "Bedknobs-and-Broomsticks-1971.md",
-    "Willy-Wonka-and-the-Chocolate-Factory-2005.md"
+    "Pokemon-Mewtwo-Returns-2001.md",
+    "2023-10-22-Five-Hundred-and-Ninety-First.md",
+    "Candy-Vault.md",
+    "2023-11-06-Six-Hundred-and-Fourth.md",
+    "2023-11-02-Six-Hundredth.md",
+    "2023-11-03-Six-Hundred-and-First.md",
+    "2023-11-04-Six-Hundred-and-Second.md",
+    "2023-11-05-Six-Hundred-and-Third.md",
+    "2023-11-01-Five-Hundred-and-Ninety-Ninth.md",
+    "2023-10-31-Five-Hundred-and-Ninety-Eighth.md",
+    "2023-10-23-Five-Hundred-and-Ninety-Second.md",
+    "2023-10-26-Five-Hundred-and-Ninety-Fourth.md",
+    "2023-10-27-Five-Hundred-and-Ninety-Fifth.md",
+    "2023-10-25-Five-Hundred-and-Ninety-Third.md",
+    "2023-10-21-Five-Hundred-and-Ninetieth.md",
+    "2023-01-16-Three-Hundred-and-Thirty-Sixth.md",
+    "2023-05-26-Four-Hundred-and-Fifty-Fourth.md",
+    "2023-10-09-Five-Hundred-and-Eighty-Third.md"
   ]
 }

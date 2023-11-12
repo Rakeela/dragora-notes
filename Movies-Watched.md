@@ -91,6 +91,10 @@ Section 1:  Unsorted
 86. [[The-Italian-Job-1969]]
 87. [[Clue-1985]]
 88. [[Galaxy-Quest-1999]]
+89. [[Guardians-of-the-Galaxy-Volume-Two-2017]]
+90. [[Guardians-of-the-Galaxy-Volume-Three-2023]]
+91. [[Hellboy-2004]]
+92. [[Hellboy-II-The-Golden-Army-2008]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -155,6 +159,11 @@ Section 2:  Marketed to Kids
 60. [[Willy-Wonka-and-the-Chocolate-Factory-1971]]
 61. [[Willy-Wonka-and-the-Chocolate-Factory-2005]]
 62. [[Bedknobs-and-Broomsticks-1971]]
+63. [[Batman-Beyond-Return-of-the-Joker-2000]]
+64. [[The-Iron-Giant-1999]]
+65. [[The-Secret-World-of-Arrietty-2010]]
+66. [[Monsters-vs-Aliens-2009]]
+67. [[Pokemon-Mewtwo-Returns-2001]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
