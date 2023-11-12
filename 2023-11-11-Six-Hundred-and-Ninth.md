@@ -10,9 +10,11 @@
 
 18:27.  34,821.  1,517 words of progress.  Owwww.  The higher quota on Nanowrimo is painful.  I *have* to start the next chapter in order to clear it.
 
-19:28.  35,112.  1,808 words of progress.  That meats quota.
+19:28.  35,112.  1,808 words of progress.  That meets quota.
 
 21:38.  I broke my computer today.  I've been evacuating files.  I accidentally knocked it off the back of the desk while putting away my treadmill.  I just wanted to sit down while using the computer!  What an expensive mistake.  When I set up my next computer in this space, I'm going to route the cables so that the treadmill can't catch them.  There will be no update of how far I walked today - but I think it was over five and a half hours.
+
+22:39.  35,131.  1,827 words of progress.  I haven't really been working on this much.  I'm just tweaking.  I'm not sure what I'm doing with the current scene, and I'm going to file it in.
 
 ---
 Back to [[day-post-archive]]
