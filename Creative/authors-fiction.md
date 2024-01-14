@@ -5,8 +5,8 @@ This is a second-level organizational piece for the reorganization of my notes a
 ---
 Subcategories:
 [[Short-Stories]]
-[[Detached-Setting-Pieces]]
-[[Character-Gallery]]
+[[detached-setting-pieces]]
+[[character-gallery]]
 
 ---
 Uncategorized:

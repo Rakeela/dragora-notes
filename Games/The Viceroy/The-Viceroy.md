@@ -4,7 +4,11 @@ The Viceroy is an interesting under-appreciated gem I recently had the fortune o
 
 The simulation and the narrative of the game both reward some amount of calculating evaluation.  The way that the game's narrative in particular tends to reward precise and contemplative gameplay is fascinating, but doesn't appear to have been noticed as a feature.
 
-Subpages:
+Current Subpages:
+[[Viceroy-Goods]]
+[[Viceroy-Birth-Death-or-Immigration]]
+
+Archived Subpages:
 [[collected-thoughts-on-the-viceroy]]
 [[collapse-type-suggestions]]
 [[challenge-cures]]
@@ -13,7 +17,7 @@ Subpages:
 [[Viceroy-Utopia-to-Dystopia-Technologies]]
 [[Viceroy-Cultural-Progression-Analysis]]
 [[Viceroy-Scorecards]]
-[[Viceroy-Goods]]
+
 
 ---
 I'm considering making a gallery of Viceregal characters akin to the [[aowcommander-profiles]] I made for Age of Wonders: Planetfall.  Some of what I've written about The Viceroy has been ambiguously in-character, and I'd be more satisfied with the creative quality of those thoughts had I specific characters to attribute them to.  It helps that, inspired by the game's Beyonder lore about the optimality of taking all paths simultaneously, I have opened four save game files in all at this point for contemplating the in-game ideologies of the separate cultures of which the Commonwealth is constructed.

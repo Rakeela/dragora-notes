@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 34.78587528174305,
+            "dimension": 28.785811732605733,
             "children": [
               {
                 "id": "668036d152b5d927",
@@ -24,6 +24,18 @@
                       "type": "markdown",
                       "state": {
                         "file": "Identity/Northern-Creche-Confederation.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "956e34e9b53fda79",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Games/ideological-interpretations-of-The-Viceroy.md",
                         "mode": "source",
                         "source": false
                       }
@@ -49,19 +61,31 @@
                     }
                   },
                   {
-                    "id": "48a0288e78075459",
+                    "id": "207986fa8ad4deff",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Games/Viceroy-Goods.md",
+                        "file": "Games/The Viceroy/The-Viceroy.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "bcd03779f903ce67",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Viceroy-Birth-Death-or-Immigration.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -69,62 +93,50 @@
           {
             "id": "df5b288989c44310",
             "type": "split",
-            "dimension": 65.21412471825695,
+            "dimension": 71.21418826739428,
             "children": [
               {
                 "id": "45c53b5a64e96b6e",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "057cebb440a8be2b",
+                    "id": "20cdcadb7d5ac810",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Daylogs/2024-01-02-Six-Hundred-and-Sixty-First.md",
+                        "file": "2024-01-10-Six-Hundred-and-Sixty-Eighth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "ef73bdaea8c1d873",
+                    "id": "aa637cdbe3512f7d",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Daylogs/2024-01-03-Six-Hundred-and-Sixty-Second.md",
+                        "file": "2024-01-12-Six-Hundred-and-Sixty-Ninth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "a8517d352b414578",
+                    "id": "a202543a1fb2bfe6",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Daylogs/2024-01-04-Six-Hundred-and-Sixty-Third.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "b6821442413e9acd",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "environmental-collapse.md",
+                        "file": "2024-01-13-Six-Hundred-and-Seventieth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 2
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -179,7 +191,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 3
               }
             ],
             "direction": "vertical"
@@ -251,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environmental-collapse.md",
+                "file": "2024-01-13-Six-Hundred-and-Seventieth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,34 +302,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6821442413e9acd",
+  "active": "a202543a1fb2bfe6",
   "lastOpenFiles": [
-    "todo.md",
-    "readme.md",
-    "inbox.md",
-    "Videogame-Wishlist.md",
-    "Movies/Zootopia-2016.md",
-    "Zaucer-Pizza-Orders.md",
-    "Identity/yggdrasil.md",
-    "Research/xenomitochondria-barriers.md",
-    "Research/xenomitochondria.md",
-    "Books/Winterlands-by-Barbara-Hambly.md",
-    "Movies/Willy-Wonka-and-the-Chocolate-Factory-2005.md",
-    "Movies/Willy-Wonka-and-the-Chocolate-Factory-1971.md",
-    "Movies/Who-Framed-Roger-Rabbit-1988.md",
-    "Movies/What-Dreams-May-Come-1998.md",
-    "Movies/Were-Back-A-Dinosaurs-Story-1993.md",
-    "Books/Welcome-to-Wrongwood.md",
-    "Creative/Warlockisms.md",
-    "war.md",
-    "Books/Volumetrics-Feel-Full-on-Fewer-Calories.md",
-    "voidtech.md",
-    "Games/Viceroy-Cultural-Progression-Analysis.md",
-    "vat-meat.md",
-    "Movies/Varan-1958.md",
-    "Movies/Up-2009.md",
-    "Research/Universal-tolerogenic-dendritic-cell-experiment-1.md",
-    "Movies/Twister-1996.md",
+    "Games/Preserved-Race-for-the-Galaxy-Tableaus.md",
+    "Identity/Northern-Creche-Confederation.md",
+    "2024-01-13-Six-Hundred-and-Seventieth.md",
+    "2024-01-12-Six-Hundred-and-Sixty-Ninth.md",
+    "2024-01-10-Six-Hundred-and-Sixty-Eighth.md",
+    "Viceroy-Birth-Death-or-Immigration.md",
+    "Games/ideological-interpretations-of-The-Viceroy.md",
+    "Games/The Viceroy/The-Viceroy.md",
+    "Games/The Viceroy/Viceroy-Scorecards.md",
+    "Games/The Viceroy/Qualms-per-Challenge.md",
+    "Games/The Viceroy/collected-thoughts-on-the-viceroy.md",
+    "Games/The Viceroy/collapse-type-suggestions.md",
+    "Games/The Viceroy/Viceroy-Utopia-to-Dystopia-Technologies.md",
+    "Games/The Viceroy",
+    "Creative/Captain-Diunikels-Salvage-Service.md",
+    "Movies/Movies-Watched.md",
+    "Movies/Osmosis-Jones-2001.md",
+    "Daylogs/2024-01-09-Six-Hundred-and-Sixty-Seventh.md",
+    "Daylogs/2024-01-04-Six-Hundred-and-Sixty-Third.md",
+    "Daylogs/2024-01-05-Six-Hundred-and-Sixty-Fourth.md",
+    "Daylogs/2024-01-08-Six-Hundred-and-Sixty-Sixth.md",
+    "Daylogs/2024-01-07-Six-Hundred-and-Sixty-Fifth.md",
+    "Daylogs/2024-01-03-Six-Hundred-and-Sixty-Second.md",
+    "Daylogs/2024-01-02-Six-Hundred-and-Sixty-First.md",
+    "stories.md",
+    "Creative/detached-setting-pieces.md",
+    "authors-writing.md",
     "Creative",
     "Business",
     "Identity",
@@ -326,7 +339,6 @@
     "SchoolNotes",
     "Books",
     "Daylogs",
-    "Movies",
-    "assets/css/style.scss"
+    "Movies"
   ]
 }

@@ -171,6 +171,7 @@ Section 2:  Marketed to Kids
 68. [[Cats-Dont-Dance-1997]]
 69. [[The-BFG-1989]]
 70. [[Hellboy-Sword-of-Storms-2006]]
+71. [[Osmosis-Jones-2001]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]

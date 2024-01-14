@@ -2,6 +2,9 @@
 
 Presented in the game's lore are the six subcultural ideologies, the three overarching ideologies, and the implicit subdivisions in the technology graph.  Thoughts on the social dynamics implied by the choices and the collections of the choices seem like one of the core aspects going on in the narratives that are told within the game by the game's mechanics.
 
+2024-01-11
+I may need to collect a new set of interpretations.  I wish I'd dated the old ones.
+
 ---
 The Six Subcultures
  - The Old Empire -

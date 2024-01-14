@@ -68,3 +68,24 @@ Total Prestige:  8
 
 Commentary 3:
 I saved this one mostly because I was stunned to reach 18 points on the Terraforming Guild.  Combined with the Golden Age of Terraforming, this suggests that the Terraforming Guild spread across the galaxy creating a massive amount of habitable land and becoming the galaxy's most powerful organization by far.  One of the AIs in this game played the New Galactic Order, and they got up to +7 military.  That's pretty good.  I imagined the New Galactic Order expanding into this vast number of habitable worlds, just as they wanted to, but choking on the amount of peaceful expansion that the Terraforming Guild makes possible for everyone.  Every peaceful faction gets denser and denser, harder and harder to fight, while the New Galactic Order grows overwhelmed with the logistical burden of non-militant expansion until it gets walled off and collapses under its own weight.  Anyways, even the Galactic Survey project is more powerful than the New Galactic Order!  Can you imagine?  This big scary military nation, and the galactic surveyors scoff at their tiny reach while spreading to every corner of the galaxy.  Another of the AIs played Pan-Galactic Affluence and got to 10 prestige, so I guess they have a very famously luxurious lifestyle, but they didn't translate it to effective control of the galaxy.  So they're a pocket of abject luxury, but not a galactic contender.  The third AI played the New Economy, and got it to 8 VP, so I guess even the New Economy overpowers the New Galactic Order... consider that!  +7 military, and it got outdone by the economies of every other faction.  But none outdid it so much as the Terraforming Guild, who created homes for innumerable people in an age of expansion.
+
+Entry Four:
+Date:  2024-01-13
+Earth's Lost Colony - 1
+Galactic Advertisers - 2
+Secluded World - 1
+Space Port - 1
+Pan-Galactic Security Council - 1
+Pan-Galactic Affluence - 19
+Galactic Power Broker - 3
+Galactic Bankers - 6
+Pan-Galactic Hologrid - 9
+Federation Capital - 19
+Galactic Federation - 10
+Empath World - 1
+Total Military: -1
+Total Victory Points: 111
+Total Prestige: 19
+
+Commentary 4:
+Earth's Lost Colony, the Secluded World, and the Space Port are all novelties producers.  This was an economy founded not on advanced technology, not on identifying ideal genes, and not on securing rare minerals, but on making the coolest consumer experiences.  They advertised them to the galaxy.  This could have been a society without ambition, but then they (founded? purchased? allied?) the Pan-Galactic Security Council, setting their foot on the galactic stage.  From there, they created a boast of affluence, using their consumer goods production to establish a galaxy-famous quality of life that could attract everyone into their sphere of influence.  They secured a famous galactic power broker, then established banks across the galaxy.  They built up a public entertainment system without parallel (that is what I imagine the Pan-Galactic Hologrid to be) so that the whole galaxy would enter into the experiences they were created.  From there, they founded (this is definitely founding) the Federation Capital, and launched the Galactic Federation to bind the whole galaxy into their voluntary association of hedonological superiority.  The feather in their cap?  The empath world.  Earth's Lost Colony established a society that truly, truly understand people, and they took over the galaxy without firing a shot.
