@@ -33,3 +33,13 @@
 17:58.  I wrote some rhetoric, but I also did a bit of writing on the current file.  108 words.
 
 18:30.  410.  3,568 words of progress.  I'm struggling to come up with more.
+
+18:54.  Still 410.  I've been thinking about it.  This is a pretty bad stall.  I'm going to go fight sentinels off in No Man's Sky on my permadeath save.
+
+19:55.  The sentinels were no problem.  I advanced slightly farther to the galactic core, crossing about 1/205th of the remaining distance.
+
+---
+(This part added the next day.)  7.3 miles.  1,230 kcal.  25,972 steps.  5 hours, 15 minutes, 50 seconds.  Average speed 1.3 mph.
+
+---
+Back to [[day-post-archive]]

@@ -10,7 +10,7 @@
           {
             "id": "95851885b9443449",
             "type": "split",
-            "dimension": 28.785811732605733,
+            "dimension": 28.78581173260573,
             "children": [
               {
                 "id": "668036d152b5d927",
@@ -78,7 +78,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Viceroy-Birth-Death-or-Immigration.md",
+                        "file": "Games/The Viceroy/Viceroy-Birth-Death-or-Immigration.md",
                         "mode": "source",
                         "source": false
                       }
@@ -93,50 +93,62 @@
           {
             "id": "df5b288989c44310",
             "type": "split",
-            "dimension": 71.21418826739428,
+            "dimension": 71.21418826739426,
             "children": [
               {
                 "id": "45c53b5a64e96b6e",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "20cdcadb7d5ac810",
+                    "id": "3e1746abbb30693e",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-01-10-Six-Hundred-and-Sixty-Eighth.md",
+                        "file": "2024-03-03-Seven-Hundred-and-Sixteenth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "aa637cdbe3512f7d",
+                    "id": "f45be124bb8c93cc",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-01-12-Six-Hundred-and-Sixty-Ninth.md",
+                        "file": "2024-03-04-Seven-Hundred-and-Seventeenth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "a202543a1fb2bfe6",
+                    "id": "259a24e1956e4ffc",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-01-13-Six-Hundred-and-Seventieth.md",
+                        "file": "2024-03-05-Seven-Hundred-and-Eighteenth.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "f689b86945132bca",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2024-03-06-Seven-Hundred-and-Nineteenth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 3
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -191,7 +203,7 @@
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -263,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-13-Six-Hundred-and-Seventieth.md",
+                "file": "2024-03-06-Seven-Hundred-and-Nineteenth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,35 +314,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a202543a1fb2bfe6",
+  "active": "f689b86945132bca",
   "lastOpenFiles": [
-    "Games/Preserved-Race-for-the-Galaxy-Tableaus.md",
-    "Identity/Northern-Creche-Confederation.md",
-    "2024-01-13-Six-Hundred-and-Seventieth.md",
-    "2024-01-12-Six-Hundred-and-Sixty-Ninth.md",
-    "2024-01-10-Six-Hundred-and-Sixty-Eighth.md",
-    "Viceroy-Birth-Death-or-Immigration.md",
-    "Games/ideological-interpretations-of-The-Viceroy.md",
-    "Games/The Viceroy/The-Viceroy.md",
-    "Games/The Viceroy/Viceroy-Scorecards.md",
-    "Games/The Viceroy/Qualms-per-Challenge.md",
-    "Games/The Viceroy/collected-thoughts-on-the-viceroy.md",
-    "Games/The Viceroy/collapse-type-suggestions.md",
-    "Games/The Viceroy/Viceroy-Utopia-to-Dystopia-Technologies.md",
-    "Games/The Viceroy",
-    "Creative/Captain-Diunikels-Salvage-Service.md",
+    "2024-03-04-Seven-Hundred-and-Seventeenth.md",
+    "2024-03-05-Seven-Hundred-and-Eighteenth.md",
+    "2024-03-06-Seven-Hundred-and-Nineteenth.md",
+    "2024-03-03-Seven-Hundred-and-Sixteenth.md",
+    "2024-03-02-Seven-Hundred-and-Fifteenth.md",
+    "2024-03-01-Seven-Hundred-and-Fourteenth.md",
+    "2024-02-29-Seven-Hundred-and-Thirteenth.md",
+    "2024-02-28-Seven-Hundred-and-Twelfth.md",
+    "2024-02-27-Seven-Hundred-and-Eleventh.md",
+    "2024-02-26-Seven-Hundred-and-Tenth.md",
+    "2024-02-25-Seven-Hundred-and-Ninth.md",
+    "2024-02-24-Seven-Hundred-and-Eighth.md",
+    "2024-02-23-Seven-Hundred-and-Seventh.md",
+    "Candy-Vault.md",
     "Movies/Movies-Watched.md",
-    "Movies/Osmosis-Jones-2001.md",
-    "Daylogs/2024-01-09-Six-Hundred-and-Sixty-Seventh.md",
-    "Daylogs/2024-01-04-Six-Hundred-and-Sixty-Third.md",
-    "Daylogs/2024-01-05-Six-Hundred-and-Sixty-Fourth.md",
-    "Daylogs/2024-01-08-Six-Hundred-and-Sixty-Sixth.md",
-    "Daylogs/2024-01-07-Six-Hundred-and-Sixty-Fifth.md",
-    "Daylogs/2024-01-03-Six-Hundred-and-Sixty-Second.md",
-    "Daylogs/2024-01-02-Six-Hundred-and-Sixty-First.md",
-    "stories.md",
-    "Creative/detached-setting-pieces.md",
-    "authors-writing.md",
+    "Help-1965.md",
+    "Okkos-Inn-2018.md",
+    "Fantastic-Mister-Fox-2009.md",
+    "Fireworks-2023.md",
+    "The-Grand-Budapest-Hotel-2014.md",
+    "Daylogs/2024-02-22-Seven-Hundred-and-Sixth.md",
+    "Identity/Cybernetic-Biostasis.md",
+    "Daylogs/2024-02-21-Seven-Hundred-and-Fifth.md",
+    "Identity/authors-ideals.md",
+    "Identity/chassis.md",
+    "Daylogs/2024-02-20-Seven-Hundred-and-Fourth.md",
+    "Games/The Viceroy",
     "Creative",
     "Business",
     "Identity",

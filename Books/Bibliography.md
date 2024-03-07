@@ -94,6 +94,7 @@ Sections;
    49) [[My-Name-is-Simon]]
    50) [[Lohikarmen]]
    51) [[The-Lonely-Dungeon]]
+   52) [[The-Time-Machine]]
 
 3) Anthologies
 	1) [[The Furry Future]]

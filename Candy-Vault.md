@@ -4,60 +4,28 @@ Instituted 2023-04-26, see [[2023-04-26-Four-Hundred-and-Twenty-Sixth]].  This v
 
 ---
 Cookies:
-	37x Trader Joe's Key Lime Tea Cookies
-		6 Removed 2023-12-12
+	11x Trader Joe's Key Lime Tea Cookies
+		5 Removed 2024-01-15
 	0x Sweet Boutique White Chocolate Holiday Donuts
 		9 Removed 2023-12-17
 Hand Pies:
 	0x Pri Bakes Raspberry Jam Oaty Pockets
 		1 Removed 2023-12-17
 Chocolate Bars:
-	0x Hammond's Midnight Snack
-		1 Removed 2023-12-16
 	0x Global Chocolates Matcha Green Tea
 		1 Removed 2023-12-21
 	2x Lily's White Chocolate Original
-		1 Removed 2023-11-01
 	7x Lily's Peppermint White Chocolate
-	 0x Endangered Species Dark Chocolate Hazelnut Toffee
-		 1 Removed 2023-12-04
-	 0x Cote Sor Lait Caramel Sale (?)
-		 1 Removed 2023-12-04
-	 0x Payday
-		 1 Removed 2023-11-22
-	 20x Trader Joe's Pound Plus Dark Chocolate
-	 0x Trader Joe's Pound Plus Milk Chocolate with Caramel, Pretzel Bits, & Sea Salt
-		 20 Removed 2023-12-22
-	 0x Trader Joe's Pound Plus Milk Chocolate
-		 20 Removed 2023-12-23
 	 3x Trader Joe's Dark Chocolate
-	 0.5x Astor Hot Hatch Chile Dark Chocolate
-		 0.5 Removed 2023-12-18
-	 0.5x Astor Habanero Dark Chocolate
-		 0.5 Removed 2023-12-18
-	 0.5x Astor Ghost Chile Dark Chocolate'
-		 0.5 Removed 2023-12-18
-	 0x Otherly Sea Salt Oatmilk Chocolate
-		 0.3 Removed 2023-12-17
-	 0x Otherly Plain Oatmilk Chocolate
-		 0.3 Removed 2023-12-17
+	 0.2x Astor Ghost Chile Dark Chocolate'
 Energy and Protein Bars:
 	2x No Cow Dipped Chocolate Peanut Butter
 		2 Removed 2023-12-17
 Other Chocolates:
 	0x Aero Peppermint Bubbles
 		32 Removed 2023-12-25
-	0x Natural Delights Chocolate Cherry Truffles
-		45 Removed 2023-12-06
 	12x Seattle Chocolate Vanilla Orange Creme Chocolate Truffles
 	40x Larabar Dark Chocolate Minis
-	0x Dam Tasty Ugly Sweater Beaver
-		1 Removed 2023-12-16
-	0x Terry's White Chocolate Orange
-		1 Removed 2023-12-16
-	1x Terry's Popping Candy Chocolate Orange
-	0x Odenwaelder Gingerbread with Milk Chocolate Marzipan Loaf
-		1 Removed 2023-12-16
 Other Candies:
 	1x Blueberry & Cream Lollipop
 	1x Orange & Cream Lollipop
@@ -65,15 +33,16 @@ Other Candies:
 	22x Maynards Bassets Murray Mints
 	22x Werther's Original Sugar Free Caramel
 	21x Werther's Original Sugar Free Caramel Coffee
-		1 Removed 2023-11-26
-	0x Big Win Bit-O-Honey
-		1 Removed 2023-11-23
 	38x Bali's Best Espresso Candy
-	12x Reed's Root Beer
-		1 Removed 2023-12-17
-		1 Removed 2023-12-25
-		1 Removed 2024-01-02
-	33x Jesmona Old Fashioned Black Bullets (Mint)
+	9x Reed's Root Beer
+		1 Removed 2024-02-05
+		1 Removed 2024-02-13
+	28x Jesmona Old Fashioned Black Bullets (Mint)
+		1 Removed 2024-02-17
+		1 Removed 2024-02-19
+		1 Removed 2024-02-27
+		1 Removed 2024-02-28
+		1 Removed 2024-03-04
 	Other:
 
 Hall of Fame:

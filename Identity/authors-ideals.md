@@ -11,6 +11,7 @@ Utopianism:
 [[diversican-cloning]]
 [[hedonology]]
 [[Carrying-Capacity-of-Earth]]
+[[Cybernetic-Biostasis]]
 
 ---
 Identity:
