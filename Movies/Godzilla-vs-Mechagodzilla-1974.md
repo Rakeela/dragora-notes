@@ -1,7 +1,7 @@
 #Godzilla-vs-Mechagodzilla-1974 
 
 Date First Watched:  2022-04-12
-Dates Rewatched:  Never
+Dates Rewatched:  2023-03-24
 
 This one stands out in memory for the brutal fight between Mechagodzilla and Anguirrus.  I love Anguirrus!  There was a fascinating mention of "Godzilla wouldn't attack his friend Anguirrus" that I absolutely adored.
 

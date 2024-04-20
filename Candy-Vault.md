@@ -4,46 +4,31 @@ Instituted 2023-04-26, see [[2023-04-26-Four-Hundred-and-Twenty-Sixth]].  This v
 
 ---
 Cookies:
-	11x Trader Joe's Key Lime Tea Cookies
-		5 Removed 2024-01-15
-	0x Sweet Boutique White Chocolate Holiday Donuts
-		9 Removed 2023-12-17
 Hand Pies:
-	0x Pri Bakes Raspberry Jam Oaty Pockets
-		1 Removed 2023-12-17
 Chocolate Bars:
-	0x Global Chocolates Matcha Green Tea
-		1 Removed 2023-12-21
-	2x Lily's White Chocolate Original
-	7x Lily's Peppermint White Chocolate
-	 3x Trader Joe's Dark Chocolate
-	 0.2x Astor Ghost Chile Dark Chocolate'
 Energy and Protein Bars:
-	2x No Cow Dipped Chocolate Peanut Butter
-		2 Removed 2023-12-17
 Other Chocolates:
-	0x Aero Peppermint Bubbles
-		32 Removed 2023-12-25
-	12x Seattle Chocolate Vanilla Orange Creme Chocolate Truffles
-	40x Larabar Dark Chocolate Minis
 Other Candies:
-	1x Blueberry & Cream Lollipop
-	1x Orange & Cream Lollipop
-	6x servings of Bahar's Honeycomb
-	22x Maynards Bassets Murray Mints
-	22x Werther's Original Sugar Free Caramel
-	21x Werther's Original Sugar Free Caramel Coffee
-	38x Bali's Best Espresso Candy
-	9x Reed's Root Beer
-		1 Removed 2024-02-05
-		1 Removed 2024-02-13
-	28x Jesmona Old Fashioned Black Bullets (Mint)
-		1 Removed 2024-02-17
-		1 Removed 2024-02-19
+	19x Maynards Bassets Murray Mints
+		1 Removed 2024-03-20
+		1 Removed 2024-03-22
+		1 Removed 2024-03-31
+	21x Werther's Original Sugar Free Caramel
+		1 Removed 2024-03-23
+	20x Werther's Original Sugar Free Caramel Coffee
+		1 Removed 2024-03-26
+	37x Bali's Best Espresso Candy
+		1 Removed 2024-03-23
+	7x Reed's Root Beer
+		1 Removed 2024-03-20
+		1 Removed 2024-03-22
+	26x Jesmona Old Fashioned Black Bullets (Mint)
 		1 Removed 2024-02-27
 		1 Removed 2024-02-28
 		1 Removed 2024-03-04
-	Other:
+		1 Removed 2024-03-14
+		1 Removed 2024-03-16
+Other:
 
 Hall of Fame:
  * Global Chocolates Tiramisu Milk and White Chocolates
@@ -110,6 +95,8 @@ Hall of Fame:
  * Seattle Chocolate Creme Brulee Crackle
  * Trader Joe's Pound Plus Milk Chocolate with Caramel, Pretzel Bits, & Sea Salt
  * Trader Joe's Pound Plus Milk Chocolate
+ * Seattle Chocolate Cinnamon Bun Bun
+ * Seattle Chocolate Lemony Blueberry Muffin
 
 Hall of Shame:
  * Reese's Creamy Cup
@@ -173,6 +160,8 @@ Hall of Shame:
  * Seattle Chocolate Candy Cane
  * Otherly Sea Salt Oatmilk Chocolate
  * Otherly Plain Oatmilk Chocolate
+ * Seattle Chocolate Chocolate! Sprinkle! Donut!
+ * MilkaMMMax Oreo
 
 Hall of...  Differing Tastes?
  * Trader Joe's Dark Chocolate Coffee Buzz Bars

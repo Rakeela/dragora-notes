@@ -95,6 +95,7 @@ Sections;
    50) [[Lohikarmen]]
    51) [[The-Lonely-Dungeon]]
    52) [[The-Time-Machine]]
+   53) [[The-Light-of-Other-Days]]
 
 3) Anthologies
 	1) [[The Furry Future]]

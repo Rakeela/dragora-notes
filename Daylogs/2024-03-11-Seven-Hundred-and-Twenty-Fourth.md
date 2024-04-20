@@ -9,3 +9,8 @@
 12:05.  It's strange how much I want to react to feeling unwell by eating.  Feel good?  Eat.  Feel bad?  Eat.  The only time I don't want to eat is when I feel very overfull.  Note 'very', just feeling ordinary overfull still leaves me wanting food.  Which is where I am right now, even though I'm fully cognizant that eating something would only make me feel worse.  Not overfull, mind you.  Just wanting food.
 
 14:25.  19,661.
+
+21:33.  22,792.  4,151 words of progress.
+
+---
+Back to [[day-post-archive]]
