@@ -88,91 +88,55 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "a400f808c8684398",
+                    "id": "885e28e35f2a8fbd",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-04-13-Seven-Hundred-and-Fifty-Sixth.md",
+                        "file": "Daylogs/2024-05-12-Seven-Hundred-and-Eighty-Fifth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "d7ac1b50bd9a1f75",
+                    "id": "31a5271b4e780d57",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-04-14-Seven-Hundred-and-Fifty-Seventh.md",
+                        "file": "Daylogs/2024-05-13-Seven-Hundred-and-Eighty-Sixth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "9883cf88c57c4a52",
+                    "id": "ee6b2363d5828c1b",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-04-15-Seven-Hundred-and-Fifty-Eighth.md",
+                        "file": "Daylogs/2024-05-14-Seven-Hundred-and-Eighty-Seventh.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   },
                   {
-                    "id": "b1bc21a1c4619241",
+                    "id": "015e2136ba34dba1",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2024-04-16-Seven-Hundred-and-Fifty-Ninth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "c6a3dfaa22e0c280",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2024-04-17-Seven-Hundred-and-Sixtieth.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "8752f41db495e2e0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2024-04-18-Seven-Hundred-and-Sixty-First.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "ab9f22c9158a4535",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "2024-04-19-Seven-Hundred-and-Sixty-Second.md",
+                        "file": "2024-05-15-Seven-Hundred-and-Eighty-Eighth.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
                 ],
-                "currentTab": 6
+                "currentTab": 3
               },
               {
                 "id": "08cfbaae0213bc3f",
@@ -196,7 +160,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Movies/Robin-Hood-1973.md",
+                        "file": "Smokey-and-the-Bandit-2-1980.md",
                         "mode": "source",
                         "source": false
                       }
@@ -227,7 +191,7 @@
                     }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -299,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-19-Seven-Hundred-and-Sixty-Second.md",
+                "file": "2024-05-15-Seven-Hundred-and-Eighty-Eighth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,34 +302,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ab9f22c9158a4535",
+  "active": "015e2136ba34dba1",
   "lastOpenFiles": [
-    "2024-04-18-Seven-Hundred-and-Sixty-First.md",
-    "2024-04-19-Seven-Hundred-and-Sixty-Second.md",
-    "2024-04-17-Seven-Hundred-and-Sixtieth.md",
-    "2024-04-16-Seven-Hundred-and-Fifty-Ninth.md",
-    "2024-04-15-Seven-Hundred-and-Fifty-Eighth.md",
-    "Movies/Robin-Hood-1973.md",
-    "Movies/Movies-Watched.md",
-    "Back-to-the-Future-Part-Three-1990.md",
-    "2024-04-14-Seven-Hundred-and-Fifty-Seventh.md",
-    "2024-04-13-Seven-Hundred-and-Fifty-Sixth.md",
-    "Daylogs/2024-04-11-Seven-Hundred-and-Fifty-Fourth.md",
-    "Daylogs/2024-04-12-Seven-Hundred-and-Fifty-Fifth.md",
-    "Iron-Man-2-2010.md",
-    "Daylogs/2024-04-10-Seven-Hundred-and-Fifty-Third.md",
-    "Daylogs/2024-04-09-Seven-Hundred-and-Fifty-Second.md",
-    "Daylogs/2024-04-08-Seven-Hundred-and-Fifty-First.md",
-    "Daylogs/2024-04-07-Seven-Hundred-and-Fiftieth.md",
-    "Daylogs/2024-04-06-Seven-Hundred-and-Forty-Ninth.md",
-    "Daylogs/2024-04-05-Seven-Hundred-and-Forty-Eighth.md",
-    "Daylogs/2024-04-03-Seven-Hundred-and-Forty-Seventh.md",
-    "Books/Bibliography.md",
-    "Wall-E-2008.md",
-    "Lupin-the-3rd-Castle-of-Caligostro-1979.md",
-    "Daylogs/2024-04-02-Seven-Hundred-and-Forty-Sixth.md",
-    "Daylogs/2024-04-01-Seven-Hundred-and-Forty-Fifth.md",
+    "Daylogs/2024-05-14-Seven-Hundred-and-Eighty-Seventh.md",
+    "2024-05-15-Seven-Hundred-and-Eighty-Eighth.md",
     "Candy-Vault.md",
+    "Smokey-and-the-Bandit-2-1980.md",
+    "Daylogs/2024-05-13-Seven-Hundred-and-Eighty-Sixth.md",
+    "Daylogs/2024-05-12-Seven-Hundred-and-Eighty-Fifth.md",
+    "Movies/Movies-Watched.md",
+    "Smokey-and-the-Bandit-1977.md",
+    "The-Last-Unicorn-1982.md",
+    "Daylogs/2024-05-11-Seven-Hundred-and-Eighty-Fourth.md",
+    "Daylogs/2024-05-10-Seven-Hundred-and-Eighty-Third.md",
+    "Daylogs/2024-05-09-Seven-Hundred-and-Eighty-Second.md",
+    "Daylogs/2024-05-08-Seven-Hundred-and-Eighty-First.md",
+    "Daylogs/2024-05-07-Seven-Hundred-and-Eightieth.md",
+    "Daylogs/2024-05-06-Seven-Hundred-and-Seventy-Ninth.md",
+    "Daylogs/2024-05-05-Seven-Hundred-and-Seventy-Eighth.md",
+    "Daylogs/2024-05-04-Seven-Hundred-and-Seventy-Seventh.md",
+    "Daylogs/2024-05-03-Seven-Hundred-and-Seventy-Sixth.md",
+    "Daylogs/2024-05-02-Seven-Hundred-and-Seventy-Fifth.md",
+    "Daylogs/2024-05-01-Seven-Hundred-and-Seventy-Fourth.md",
+    "Daylogs/2024-04-30-Seven-Hundred-and-Seventy-Third.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Daylogs/2024-04-29-Seven-Hundred-and-Seventy-Second.md",
+    "Daylogs/2024-04-28-Seven-Hundred-and-Seventy-First.md",
+    "Sword-in-the-Stone-1963.md",
     "Games/The Viceroy",
     "Creative",
     "Business",

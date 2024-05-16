@@ -10,24 +10,18 @@ Energy and Protein Bars:
 Other Chocolates:
 Other Candies:
 	19x Maynards Bassets Murray Mints
-		1 Removed 2024-03-20
 		1 Removed 2024-03-22
 		1 Removed 2024-03-31
 	21x Werther's Original Sugar Free Caramel
 		1 Removed 2024-03-23
-	20x Werther's Original Sugar Free Caramel Coffee
+	19x Werther's Original Sugar Free Caramel Coffee
 		1 Removed 2024-03-26
+		1 Removed 2024-04-21
 	37x Bali's Best Espresso Candy
 		1 Removed 2024-03-23
-	7x Reed's Root Beer
-		1 Removed 2024-03-20
+	6x Reed's Root Beer
 		1 Removed 2024-03-22
-	26x Jesmona Old Fashioned Black Bullets (Mint)
-		1 Removed 2024-02-27
-		1 Removed 2024-02-28
-		1 Removed 2024-03-04
-		1 Removed 2024-03-14
-		1 Removed 2024-03-16
+		1 Removed 2024-04-21
 Other:
 
 Hall of Fame:

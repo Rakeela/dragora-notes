@@ -119,6 +119,9 @@ Section 1:  Unsorted
 114. [[Independence-Day-Resurgence-2016]]
 115. [[Wall-E-2008]]
 116. [[Iron-Man-2-2010]]
+117. [[Damsel-2024]]
+118. [[Smokey-and-the-Bandit-1977]]
+119. [[Smokey-and-the-Bandit-2-1980]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -204,6 +207,12 @@ Section 2:  Marketed to Kids
 81. [[Raya-and-the-Last-Dragon-2021]]
 82. [[The-Adventures-of-Ichabod-and-Mister-Toad-1949]]
 83. [[Lupin-the-3rd-Castle-of-Caligostro-1979]]
+84. [[Kung-Fu-Panda-2-2011]]
+85. [[Sword-in-the-Stone-1963]]
+86. [[Dragon-Ball-Super-Broly-2018]]
+87. [[The-Pagemaster-1994]]
+88. [[The-Incredible-Mr-Limpet-1964]]
+89. [[The-Last-Unicorn-1982]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
