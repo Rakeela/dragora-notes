@@ -122,6 +122,7 @@ Section 1:  Unsorted
 117. [[Damsel-2024]]
 118. [[Smokey-and-the-Bandit-1977]]
 119. [[Smokey-and-the-Bandit-2-1980]]
+120. [[Critters-1986]]
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -213,6 +214,10 @@ Section 2:  Marketed to Kids
 87. [[The-Pagemaster-1994]]
 88. [[The-Incredible-Mr-Limpet-1964]]
 89. [[The-Last-Unicorn-1982]]
+90. [[How-to-Train-Your-Dragon-2010]]
+91. [[How-to-Train-Your-Dragon-2-2014]]
+92. [[Kung-Fu-Panda-3-2016]]
+93. [[TMNT-1990]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
@@ -251,3 +256,4 @@ Section 3:  Kaiju
 34. [[Rampage-2018]]
 35. [[Godzilla-King-of-the-Monsters-2019]]
 36. [[Godzilla-vs-Kong-2021]]
+37. [[Godzilla-Minus-One-2023]]

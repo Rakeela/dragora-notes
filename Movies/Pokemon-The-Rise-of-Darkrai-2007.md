@@ -1,7 +1,7 @@
 #Pokemon-The-Rise-of-Darkrai
 
 Date First Watched:  2023-06-06
-Dates Rewatched:  Never
+Dates Rewatched:  2024-05-28
 
 Pokemon is a pretty disturbing show.  The whole fighting thing and the power relationship betweeen trainers and pokemon.
 
@@ -26,6 +26,10 @@ Most of these lines are great, but some of the characters are bad.  "Alicia's" l
 It must have been hard to pick a tune for the performance.  They still had to supplement it with other instrumentals and an implausible light show.  The tower itself is too limited as a musical instrument.  Strings make a more impressively grand performance.
 
 Huh, they didn't do a "world-healing wave" this time.  I'm glad to see a trope averted.
+
+---
+2024-05-28
+I'm watching this one again!  I don't intend to focus too hard on it.  Got other things to do.
 
 ---
 Back to [[Movies-Watched]]

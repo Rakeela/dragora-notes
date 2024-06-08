@@ -1,7 +1,7 @@
 #Godzilla-vs-Biollante-1989
 
 Date First Watched:  2022-05-10
-Dates Rewatched:  Never
+Dates Rewatched:  2024-06-04
 
 This is the movie that inspired my [[Movies-Watched]] category!  I realized that I wanted to remember it better than I remembered [[The-Return-of-Godzilla-1984]] and as a result I ended up two-timing another movie again while recording every movie I could remember having ever watched.  This is the first movie to have ever had its Date First Watched field filled in!  From here on out, I plan to record every movie that I watch when I watch it.
 
