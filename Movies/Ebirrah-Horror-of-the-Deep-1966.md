@@ -1,7 +1,7 @@
 #Ebirrah-Horror-of-the-Deep-1966
 
 Date First Watched:  2022-05-02
-Dates Rewatched:  Never
+Dates Rewatched:  2024-07-20
 
 This whole movie's plot takes place on a Generic Tropical Island with evil technologists and good enslaved locals, where the evil technologists are using a locally derived chemical to keep the island's lurking giant crab monster from attacking them.  Everyone who approaches the island without the right chemical gets wrecked by it!
 
@@ -11,6 +11,10 @@ It's not utterly silly like some of the movies are, but there's not so much of a
 
 ---
 Hah!  Reviewing my chat logs, I responded favorably to this one at the time.  I was amused by seeing the crazy character who stole a yacht, and the scenes of Godzilla interacting with other characters, and later on seeing Godzilla rampage through the military base of the "Red Bamboos", then escape successfully to the cheers of the humans being carried away under Mothra.
+
+---
+2024-07-20
+I've been almost totally tuning out this movie so far.  It's funny though, I still like it.  It's been enjoyable to notice it.  I've watched a few specific scenes and I've enjoyed them.  They're not really out of context, because I still remember the movie.
 
 ---
 Back to [[Movies-Watched]]
