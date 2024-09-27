@@ -125,6 +125,12 @@ Section 1:  Unsorted
 120. [[Critters-1986]]
 121. [[Wolf-Children-2012]]
 122. [[Absolutely-Anything-2015]]
+123. [[Rango-2011]]
+124. [[Wargames-1983]]
+125. [[Mission-Impossible-1996]]
+126. A-Silent-Voice-The-Movie-2016
+127. [[League-of-Extraordinary-Gentlemen-2003]]
+128. 
 
 Section 2:  Marketed to Kids
 1. [[Titan-AE-2000]]
@@ -234,6 +240,13 @@ Section 2:  Marketed to Kids
 105. [[The-Land-Before-Time-8-The-Big-Freeze-2001]]
 106. [[The-Land-Before-Time-9-Journey-to-Big-Water-2002]]
 107. [[Earwig-and-the-Witch-2021]]
+108. [[The-Land-Before-Time-10-The-Great-Longneck-Migration-2003]]
+109. [[The-Cat-Returns-2002]]
+110. [[The-Land-Before-Time-11-Invasion-of-the-Tinysauruses-2005]]
+111. [[Dinosaur-2000]]
+112. [[Kung-Fu-Panda-4-2024]]
+113. [[Chicken-Run-2000]]
+114. [[Heart-and-Yummy-2010]]
 
 Section 3:  Kaiju
 1. [[Godzilla-1954]]
@@ -267,12 +280,12 @@ Section 3:  Kaiju
 29. [[Godzilla-2000]]
 30. [[Godzilla-Against-Mechagodzilla-2002]]
 31. [[Godzila-Mothra-and-King-Ghidorah-Giant-Monsters-All-Out-Attack-2003]]
-32. [[Godzilla-Final-Wars-2004]]
-33. [[Pacific-Rim-2013]]
-34. [[Godzilla-2014]]
-35. [[Shin-Godzilla-2016]]
-36. [[Rampage-2018]]
-37. [[Godzilla-King-of-the-Monsters-2019]]
-38. [[Godzilla-vs-Kong-2021]]
-39. [[Godzilla-Minus-One-2023]]
-40. [[Godzilla-vs-Kong-The-New-Empire-2024]]
+32. [[Godzilla-Tokyo-SOS-2003]]
+33. [[Godzilla-Final-Wars-2004]]
+34. [[Pacific-Rim-2013]]
+35. [[Godzilla-2014]]
+36. [[Shin-Godzilla-2016]]
+37. [[Rampage-2018]]
+38. [[Godzilla-King-of-the-Monsters-2019]]
+39. [[Godzilla-vs-Kong-2021]]
+40. [[Godzilla-Minus-One-2023]]

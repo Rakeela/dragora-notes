@@ -1,7 +1,7 @@
 #Shin-Godzilla-2016
 
 Date First Watched:  2022-07-30
-Dates Rewatched:  Never
+Dates Rewatched:  2024-08-29
 
 I actually played a game for a while during the first portion of this movie.  Playing Beyond Earth with a grotesquely healthy transhuman society.  I'm nowhere close to an optimal player of that game, and I'm pretty sure I can already beat it on any difficulty level.  But this space is for talking about this movie...
 

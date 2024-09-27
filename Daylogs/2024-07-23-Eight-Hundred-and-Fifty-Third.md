@@ -55,3 +55,9 @@
 23:25.  Credit 12 words of editing.  93,149.
 
 23:34.  I'm going to stop for the night.  2,438 words of editing.  93,153.  744 words of writing.
+
+---
+(This part added the next day.)  8.8 miles.  1,596 kcal.  33,252 steps.  7 hours, 20 minutes, and 59 seconds.  Average speed 1.2 mph.
+
+---
+Back to [[day-post-archive]]

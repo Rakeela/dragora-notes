@@ -312,3 +312,31 @@ It tends to feel good when I can get the Research Labs consuming genes resources
 
 Commentary 13-C:
 I got even more out of the Alien Toy Shop.  A 3x consume and a 2x consume on its 2 VP output yielded 10 victory points from that card's consume outlet alone.  What the precursors thought of as mere toys transformed the societies that excavated the precursor settlements.  The alien data repository yielded a mere 2 VP from consuming its technology, through the Galactic Studios with a 2x.  So the alien data was used for a bit of fun, but the alien toys were used for everything.
+
+Entry Fourteen
+Date:  2024-09-06
+Rebel Freedom Fighters: 1
+Development Credits: 1
+Galactic Developers: 1
+Alien Research Team: 1
+Alien Tech Institute: 15
+Lost Alien Battle Fleet: 4
+Research Labs: 2
+New Economy: 8
+Galactic Salons: 2
+Alien Departure Point: 9
+Galactic Survey: SETI: 11
+Alien Cornucopia: 12
+Alien Robotic Factory: 5
+Total Military: +4 (+6 vs Alien)
+Total Victory Points: 82
+Total Prestige: 5
+
+Commentary 14-A:
+For a while, this was a muddled attempt at a development strategy.  Rebel Freedom Fighters has no synergy with development, but I started with both Development Credits and Galactic Developers in my hand, so I decided to play the development momentum cards I was dealt.  Even though I didn't get further components of the development momentum build in play, this development strategy more than paid off with four high-value 6-cost developments hitting the field.  The final turn play involved both Alien Cornucopia and Alien Robotic Factory, which took every card I had and was possible only because I had both discounts and card draw during development.  In general, this playthrough needed all of the cards it drew, and suffered occasional slowdowns where it had to make plays to specifically increase its card draw (explore turns and a produce-trade cycle).
+
+Commentary 14-B:
+These rebels skipped all opportunities to contact fellow rebels.  They never saw value in broadening their rebellion.  They started out by trying to attract investors instead.  The alien tech institute was pretty unimpressive when they founded it - they had the Alien Research Team, but no alien technology sources.  That changed somewhat when they broke through the ancient defenses on the Lost Alien Battle Fleet, but they never used it militarily in their early expansion.  They laid some groundwork for commercializing alien technologies, but then they barely did any of that.  They just studied them for prestige and future investments.  They eventually cracked the code of how to build a wealthy society from alien technologies, establishing the alien cornucopia and the alien robotic factory in a great surge of highly competent investments.  Along the way, they discovered where the precursors went (Alien Departure Point) and invested heavily in scouring the galaxy for intelligent lifeforms (Galactic Survey: SETI).  This started out as a rebellion and became leaders in the discovery and novel deployment of ancient precursor technologies.
+
+Commentary 14-C:
+The New Economy is an oddity here, narratively.  I've never been totally satisfied with what the New Economy is...  When resources are being consumed, the New Economy empire expands its contact with the galaxy while gaining funds for further expansion (it draws a card during the consume phase).  The VP gain from New Economy is for consumption powers.  The Research Labs (2), the Galactic Salons (2), the Galactic Developers (1), the Alien Research Team (1), and the New Economy itself (2) were all feeding points into the New Economy.  Since the New Economy rewards developments more than planets, this suggests that it rewards *intensive and focused* development, meaning the New Economy economics movement tries to build very vertically rather than sprawling across many planets.  The New Economy project may be best interpreted as finding synergies and points of common interest between resource consumers, and helping them direct their attention outwards into the acquisition of new assets.  Exactly what the New Economy means would then vary depending on what it was played with.  In this case, it's all about the R&D, but the economists with the New Economy movement are sure they could incorporate other forms of resource-intensive development.

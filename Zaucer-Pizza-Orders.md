@@ -21,4 +21,12 @@ Add 1x Black Olives +$0.75
 Add 1x Garlic +$0.75
 Add 1x Artichoke Hearts +$0.75
 Add 1x Ranch Sauce +$0.00
-Add 1x Deep Dish
+Add 1x Deep Dish ++$1.00
+
+Build It - 10" $9.00
+Add 1x Mozzarella +$0.00
+Add 1x Spinach +$0.75
+Add 1x Red Onion +$0.75
+Add 1x Black Olives +$0.75
+Add 1x Roasted Garlic +$0.75
+Add 1x Deep Dish +$1.00
